@@ -1,0 +1,11 @@
+compil_mode/<project>=byte-code
+compil_mode/error.exe=byte-code
+compil_mode/globals.exe=byte-code
+eclipse.preferences.version=1
+flags/<project>=-g\u00A0
+make_exe/debug.ml=debug.exe
+make_exe/error.ml=error.exe
+make_exe/gen.ml=gen.exe
+make_exe/globals.ml=globals.exe
+make_exe/scriptarguments.ml=scriptarguments.exe
+make_exe/tut9.ml=tut9.exe

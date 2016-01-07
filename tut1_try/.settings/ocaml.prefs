@@ -1,0 +1,7 @@
+compil_mode/<project>=byte-code
+compil_mode/lab3_a0105408.exe=byte-code
+compil_mode/tut1.exe=byte-code
+eclipse.preferences.version=1
+flags/<project>=-g\u00A0
+make_exe/lab3_a0105408.ml=lab3_a0105408.exe
+make_exe/tut1.ml=tut1.exe

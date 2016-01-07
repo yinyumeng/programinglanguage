@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Lab1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Ocaml.ocamlbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>ocaml.ocamlnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>External files/hashtbl.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/hashtbl.mli</location>
+		</link>
+		<link>
+			<name>External files/list.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/list.mli</location>
+		</link>
+		<link>
+			<name>External files/num.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/num.mli</location>
+		</link>
+		<link>
+			<name>External files/printf.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/printf.mli</location>
+		</link>
+		<link>
+			<name>External files/string.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/string.mli</location>
+		</link>
+	</linkedResources>
+</projectDescription>

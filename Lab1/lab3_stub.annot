@@ -1,0 +1,1434 @@
+"Lab1/lab3_stub.ml" 5 138 142 "Lab1/lab3_stub.ml" 5 138 157
+type(
+  'a -> 'b -> 'c -> 'd
+)
+ident(
+  def align_w_penalty "Lab1/lab3_stub.ml" 8 192 192 "_none_" 1 0 -1
+)
+"Lab1/lab3_stub.ml" 5 138 158 "Lab1/lab3_stub.ml" 5 138 160
+type(
+  'a
+)
+ident(
+  def s1 "Lab1/lab3_stub.ml" 5 138 161 "Lab1/lab3_stub.ml" 6 174 190
+)
+"Lab1/lab3_stub.ml" 5 138 161 "Lab1/lab3_stub.ml" 5 138 163
+type(
+  'b
+)
+ident(
+  def s2 "Lab1/lab3_stub.ml" 5 138 164 "Lab1/lab3_stub.ml" 6 174 190
+)
+"Lab1/lab3_stub.ml" 5 138 164 "Lab1/lab3_stub.ml" 5 138 171
+type(
+  'c
+)
+ident(
+  def penalty "Lab1/lab3_stub.ml" 6 174 176 "Lab1/lab3_stub.ml" 6 174 190
+)
+"Lab1/lab3_stub.ml" 6 174 176 "Lab1/lab3_stub.ml" 6 174 184
+type(
+  string -> 'd
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/lab3_stub.ml" 6 174 185 "Lab1/lab3_stub.ml" 6 174 190
+type(
+  string
+)
+"Lab1/lab3_stub.ml" 6 174 176 "Lab1/lab3_stub.ml" 6 174 190
+type(
+  'd
+)
+"Lab1/lab3_stub.ml" 9 219 228 "Lab1/lab3_stub.ml" 9 219 234
+type(
+  < get : 'a -> 'b option; store : 'a -> 'b -> unit; .. >
+)
+"Lab1/lab3_stub.ml" 10 236 250 "Lab1/lab3_stub.ml" 10 236 264
+type(
+  ?random:bool -> int -> ('a, 'b) Hashtbl.t
+)
+ident(
+  ext_ref Hashtbl.create
+)
+"Lab1/lab3_stub.ml" 10 236 265 "Lab1/lab3_stub.ml" 10 236 267
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 10 236 250 "Lab1/lab3_stub.ml" 10 236 267
+type(
+  ('a, 'b) Hashtbl.t
+)
+"Lab1/lab3_stub.ml" 11 268 284 "Lab1/lab3_stub.ml" 11 268 285
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab3_stub.ml" 12 292 298 "Lab1/lab3_stub.ml" 14 336 356
+)
+"Lab1/lab3_stub.ml" 13 303 316 "Lab1/lab3_stub.ml" 13 303 328
+type(
+  ('a, 'b) Hashtbl.t -> 'a -> 'b
+)
+ident(
+  ext_ref Hashtbl.find
+)
+"Lab1/lab3_stub.ml" 13 303 329 "Lab1/lab3_stub.ml" 13 303 332
+type(
+  ('a, 'b) Hashtbl.t
+)
+"Lab1/lab3_stub.ml" 13 303 333 "Lab1/lab3_stub.ml" 13 303 334
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 11 268 284 "Lab1/lab3_stub.ml" 11 268 285
+)
+"Lab1/lab3_stub.ml" 13 303 315 "Lab1/lab3_stub.ml" 13 303 335
+type(
+  'b
+)
+"Lab1/lab3_stub.ml" 13 303 311 "Lab1/lab3_stub.ml" 13 303 335
+type(
+  'b option
+)
+"Lab1/lab3_stub.ml" 14 336 347 "Lab1/lab3_stub.ml" 14 336 348
+type(
+  exn
+)
+"Lab1/lab3_stub.ml" 14 336 352 "Lab1/lab3_stub.ml" 14 336 356
+type(
+  'b option
+)
+"Lab1/lab3_stub.ml" 12 292 298 "Lab1/lab3_stub.ml" 14 336 356
+type(
+  'b option
+)
+"Lab1/lab3_stub.ml" 15 357 375 "Lab1/lab3_stub.ml" 15 357 376
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab3_stub.ml" 15 357 381 "Lab1/lab3_stub.ml" 16 390 419
+)
+"Lab1/lab3_stub.ml" 15 357 382 "Lab1/lab3_stub.ml" 15 357 383
+type(
+  'b
+)
+ident(
+  def b "Lab1/lab3_stub.ml" 16 390 396 "Lab1/lab3_stub.ml" 16 390 419
+)
+"Lab1/lab3_stub.ml" 16 390 396 "Lab1/lab3_stub.ml" 16 390 411
+type(
+  ('a, 'b) Hashtbl.t -> 'a -> 'b -> unit
+)
+ident(
+  ext_ref Hashtbl.replace
+)
+"Lab1/lab3_stub.ml" 16 390 412 "Lab1/lab3_stub.ml" 16 390 415
+type(
+  ('a, 'b) Hashtbl.t
+)
+"Lab1/lab3_stub.ml" 16 390 416 "Lab1/lab3_stub.ml" 16 390 417
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 15 357 375 "Lab1/lab3_stub.ml" 15 357 376
+)
+"Lab1/lab3_stub.ml" 16 390 418 "Lab1/lab3_stub.ml" 16 390 419
+type(
+  'b
+)
+ident(
+  int_ref b "Lab1/lab3_stub.ml" 15 357 382 "Lab1/lab3_stub.ml" 15 357 383
+)
+"Lab1/lab3_stub.ml" 16 390 396 "Lab1/lab3_stub.ml" 16 390 419
+type(
+  unit
+)
+"Lab1/lab3_stub.ml" 20 459 468 "Lab1/lab3_stub.ml" 20 459 474
+type(
+  < compute : ('a -> 'b) -> 'a -> 'b; get : 'a -> 'b option;
+    store : 'a -> 'b -> unit; .. >
+)
+"Lab1/lab3_stub.ml" 22 516 536 "Lab1/lab3_stub.ml" 22 516 537
+type(
+  'a -> 'b
+)
+ident(
+  def f "Lab1/lab3_stub.ml" 22 516 546 "Lab1/lab3_stub.ml" 27 661 680
+)
+"Lab1/lab3_stub.ml" 22 516 547 "Lab1/lab3_stub.ml" 22 516 548
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab3_stub.ml" 22 516 553 "Lab1/lab3_stub.ml" 27 661 680
+)
+"Lab1/lab3_stub.ml" 23 560 573 "Lab1/lab3_stub.ml" 23 560 577
+type(
+  < compute : ('a -> 'b) -> 'a -> 'b; get : 'a -> 'b option;
+    store : 'a -> 'b -> unit; .. >
+  as 'c
+)
+"Lab1/lab3_stub.ml" 23 560 573 "Lab1/lab3_stub.ml" 23 560 583
+type(
+  'a -> 'b option
+)
+"Lab1/lab3_stub.ml" 23 560 584 "Lab1/lab3_stub.ml" 23 560 585
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 22 516 547 "Lab1/lab3_stub.ml" 22 516 548
+)
+"Lab1/lab3_stub.ml" 23 560 572 "Lab1/lab3_stub.ml" 23 560 586
+type(
+  'b option
+)
+"Lab1/lab3_stub.ml" 24 592 600 "Lab1/lab3_stub.ml" 24 592 604
+type(
+  'b option
+)
+"Lab1/lab3_stub.ml" 25 608 620 "Lab1/lab3_stub.ml" 25 608 621
+type(
+  'b
+)
+ident(
+  def r "Lab1/lab3_stub.ml" 26 631 639 "Lab1/lab3_stub.ml" 26 631 660
+)
+"Lab1/lab3_stub.ml" 25 608 624 "Lab1/lab3_stub.ml" 25 608 625
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab3_stub.ml" 22 516 536 "Lab1/lab3_stub.ml" 22 516 537
+)
+"Lab1/lab3_stub.ml" 25 608 626 "Lab1/lab3_stub.ml" 25 608 627
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 22 516 547 "Lab1/lab3_stub.ml" 22 516 548
+)
+"Lab1/lab3_stub.ml" 25 608 624 "Lab1/lab3_stub.ml" 25 608 627
+type(
+  'b
+)
+"Lab1/lab3_stub.ml" 26 631 640 "Lab1/lab3_stub.ml" 26 631 644
+type(
+  'c
+)
+"Lab1/lab3_stub.ml" 26 631 640 "Lab1/lab3_stub.ml" 26 631 652
+type(
+  'a -> 'b -> unit
+)
+"Lab1/lab3_stub.ml" 26 631 653 "Lab1/lab3_stub.ml" 26 631 654
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 22 516 547 "Lab1/lab3_stub.ml" 22 516 548
+)
+"Lab1/lab3_stub.ml" 26 631 655 "Lab1/lab3_stub.ml" 26 631 656
+type(
+  'b
+)
+ident(
+  int_ref r "Lab1/lab3_stub.ml" 25 608 620 "Lab1/lab3_stub.ml" 25 608 621
+)
+"Lab1/lab3_stub.ml" 26 631 640 "Lab1/lab3_stub.ml" 26 631 656
+type(
+  unit
+)
+"Lab1/lab3_stub.ml" 26 631 658 "Lab1/lab3_stub.ml" 26 631 659
+type(
+  'b
+)
+ident(
+  int_ref r "Lab1/lab3_stub.ml" 25 608 620 "Lab1/lab3_stub.ml" 25 608 621
+)
+"Lab1/lab3_stub.ml" 26 631 639 "Lab1/lab3_stub.ml" 26 631 660
+type(
+  'b
+)
+"Lab1/lab3_stub.ml" 25 608 616 "Lab1/lab3_stub.ml" 26 631 660
+type(
+  'b
+)
+"Lab1/lab3_stub.ml" 27 661 674 "Lab1/lab3_stub.ml" 27 661 675
+type(
+  'b
+)
+ident(
+  def v "Lab1/lab3_stub.ml" 27 661 679 "Lab1/lab3_stub.ml" 27 661 680
+)
+"Lab1/lab3_stub.ml" 27 661 669 "Lab1/lab3_stub.ml" 27 661 675
+type(
+  'b option
+)
+"Lab1/lab3_stub.ml" 27 661 679 "Lab1/lab3_stub.ml" 27 661 680
+type(
+  'b
+)
+ident(
+  int_ref v "Lab1/lab3_stub.ml" 27 661 674 "Lab1/lab3_stub.ml" 27 661 675
+)
+"Lab1/lab3_stub.ml" 23 560 566 "Lab1/lab3_stub.ml" 27 661 680
+type(
+  'b
+)
+type(
+  'b
+)
+"Lab1/lab3_stub.ml" 34 794 798 "Lab1/lab3_stub.ml" 34 794 803
+type(
+  string -> string -> int
+)
+ident(
+  def align "Lab1/lab3_stub.ml" 71 1855 1855 "_none_" 1 0 -1
+)
+"Lab1/lab3_stub.ml" 34 794 804 "Lab1/lab3_stub.ml" 34 794 806
+type(
+  string
+)
+ident(
+  def s1 "Lab1/lab3_stub.ml" 34 794 807 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 34 794 807 "Lab1/lab3_stub.ml" 34 794 809
+type(
+  string
+)
+ident(
+  def s2 "Lab1/lab3_stub.ml" 35 812 814 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 35 812 818 "Lab1/lab3_stub.ml" 35 812 831
+type(
+  int
+)
+ident(
+  def penalty_space "Lab1/lab3_stub.ml" 36 840 842 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 35 812 834 "Lab1/lab3_stub.ml" 35 812 836
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 36 840 846 "Lab1/lab3_stub.ml" 36 840 848
+type(
+  int
+)
+ident(
+  def n1 "Lab1/lab3_stub.ml" 37 871 873 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 36 840 851 "Lab1/lab3_stub.ml" 36 840 864
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"Lab1/lab3_stub.ml" 36 840 865 "Lab1/lab3_stub.ml" 36 840 867
+type(
+  string
+)
+ident(
+  int_ref s1 "Lab1/lab3_stub.ml" 34 794 804 "Lab1/lab3_stub.ml" 34 794 806
+)
+"Lab1/lab3_stub.ml" 36 840 851 "Lab1/lab3_stub.ml" 36 840 867
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 37 871 877 "Lab1/lab3_stub.ml" 37 871 879
+type(
+  int
+)
+ident(
+  def n2 "Lab1/lab3_stub.ml" 38 902 904 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 37 871 882 "Lab1/lab3_stub.ml" 37 871 895
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"Lab1/lab3_stub.ml" 37 871 896 "Lab1/lab3_stub.ml" 37 871 898
+type(
+  string
+)
+ident(
+  int_ref s2 "Lab1/lab3_stub.ml" 34 794 807 "Lab1/lab3_stub.ml" 34 794 809
+)
+"Lab1/lab3_stub.ml" 37 871 882 "Lab1/lab3_stub.ml" 37 871 898
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 38 902 908 "Lab1/lab3_stub.ml" 38 902 911
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  def max "Lab1/lab3_stub.ml" 41 958 960 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 38 902 912 "Lab1/lab3_stub.ml" 38 902 914
+type(
+  'a
+)
+ident(
+  def m1 "Lab1/lab3_stub.ml" 38 902 915 "Lab1/lab3_stub.ml" 40 943 954
+)
+"Lab1/lab3_stub.ml" 38 902 915 "Lab1/lab3_stub.ml" 38 902 917
+type(
+  'a
+)
+ident(
+  def m2 "Lab1/lab3_stub.ml" 39 922 926 "Lab1/lab3_stub.ml" 40 943 954
+)
+"Lab1/lab3_stub.ml" 39 922 929 "Lab1/lab3_stub.ml" 39 922 931
+type(
+  'a
+)
+ident(
+  int_ref m1 "Lab1/lab3_stub.ml" 38 902 912 "Lab1/lab3_stub.ml" 38 902 914
+)
+"Lab1/lab3_stub.ml" 39 922 931 "Lab1/lab3_stub.ml" 39 922 932
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab1/lab3_stub.ml" 39 922 932 "Lab1/lab3_stub.ml" 39 922 934
+type(
+  'a
+)
+ident(
+  int_ref m2 "Lab1/lab3_stub.ml" 38 902 915 "Lab1/lab3_stub.ml" 38 902 917
+)
+"Lab1/lab3_stub.ml" 39 922 929 "Lab1/lab3_stub.ml" 39 922 934
+type(
+  bool
+)
+"Lab1/lab3_stub.ml" 39 922 940 "Lab1/lab3_stub.ml" 39 922 942
+type(
+  'a
+)
+ident(
+  int_ref m2 "Lab1/lab3_stub.ml" 38 902 915 "Lab1/lab3_stub.ml" 38 902 917
+)
+"Lab1/lab3_stub.ml" 40 943 952 "Lab1/lab3_stub.ml" 40 943 954
+type(
+  'a
+)
+ident(
+  int_ref m1 "Lab1/lab3_stub.ml" 38 902 912 "Lab1/lab3_stub.ml" 38 902 914
+)
+"Lab1/lab3_stub.ml" 39 922 926 "Lab1/lab3_stub.ml" 40 943 954
+type(
+  'a
+)
+"Lab1/lab3_stub.ml" 41 958 964 "Lab1/lab3_stub.ml" 41 958 968
+type(
+  'b * 'c -> 'b * 'c -> 'b * 'c
+)
+ident(
+  def maxS "Lab1/lab3_stub.ml" 44 1031 1034 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 41 958 970 "Lab1/lab3_stub.ml" 41 958 972
+type(
+  'b
+)
+ident(
+  def m1 "Lab1/lab3_stub.ml" 41 958 976 "Lab1/lab3_stub.ml" 43 1012 1027
+)
+"Lab1/lab3_stub.ml" 41 958 973 "Lab1/lab3_stub.ml" 41 958 974
+type(
+  'c
+)
+ident(
+  def a "Lab1/lab3_stub.ml" 41 958 976 "Lab1/lab3_stub.ml" 43 1012 1027
+)
+"Lab1/lab3_stub.ml" 41 958 969 "Lab1/lab3_stub.ml" 41 958 975
+type(
+  'b * 'c
+)
+"Lab1/lab3_stub.ml" 41 958 977 "Lab1/lab3_stub.ml" 41 958 979
+type(
+  'b
+)
+ident(
+  def m2 "Lab1/lab3_stub.ml" 42 987 991 "Lab1/lab3_stub.ml" 43 1012 1027
+)
+"Lab1/lab3_stub.ml" 41 958 980 "Lab1/lab3_stub.ml" 41 958 981
+type(
+  'c
+)
+ident(
+  def b "Lab1/lab3_stub.ml" 42 987 991 "Lab1/lab3_stub.ml" 43 1012 1027
+)
+"Lab1/lab3_stub.ml" 41 958 976 "Lab1/lab3_stub.ml" 41 958 982
+type(
+  'b * 'c
+)
+"Lab1/lab3_stub.ml" 42 987 994 "Lab1/lab3_stub.ml" 42 987 996
+type(
+  'b
+)
+ident(
+  int_ref m1 "Lab1/lab3_stub.ml" 41 958 970 "Lab1/lab3_stub.ml" 41 958 972
+)
+"Lab1/lab3_stub.ml" 42 987 996 "Lab1/lab3_stub.ml" 42 987 997
+type(
+  'b -> 'b -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab1/lab3_stub.ml" 42 987 997 "Lab1/lab3_stub.ml" 42 987 999
+type(
+  'b
+)
+ident(
+  int_ref m2 "Lab1/lab3_stub.ml" 41 958 977 "Lab1/lab3_stub.ml" 41 958 979
+)
+"Lab1/lab3_stub.ml" 42 987 994 "Lab1/lab3_stub.ml" 42 987 999
+type(
+  bool
+)
+"Lab1/lab3_stub.ml" 42 987 1006 "Lab1/lab3_stub.ml" 42 987 1008
+type(
+  'b
+)
+ident(
+  int_ref m2 "Lab1/lab3_stub.ml" 41 958 977 "Lab1/lab3_stub.ml" 41 958 979
+)
+"Lab1/lab3_stub.ml" 42 987 1009 "Lab1/lab3_stub.ml" 42 987 1010
+type(
+  'c
+)
+ident(
+  int_ref b "Lab1/lab3_stub.ml" 41 958 980 "Lab1/lab3_stub.ml" 41 958 981
+)
+"Lab1/lab3_stub.ml" 42 987 1005 "Lab1/lab3_stub.ml" 42 987 1011
+type(
+  'b * 'c
+)
+"Lab1/lab3_stub.ml" 43 1012 1022 "Lab1/lab3_stub.ml" 43 1012 1024
+type(
+  'b
+)
+ident(
+  int_ref m1 "Lab1/lab3_stub.ml" 41 958 970 "Lab1/lab3_stub.ml" 41 958 972
+)
+"Lab1/lab3_stub.ml" 43 1012 1025 "Lab1/lab3_stub.ml" 43 1012 1026
+type(
+  'c
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 41 958 973 "Lab1/lab3_stub.ml" 41 958 974
+)
+"Lab1/lab3_stub.ml" 43 1012 1021 "Lab1/lab3_stub.ml" 43 1012 1027
+type(
+  'b * 'c
+)
+"Lab1/lab3_stub.ml" 42 987 991 "Lab1/lab3_stub.ml" 43 1012 1027
+type(
+  'b * 'c
+)
+"Lab1/lab3_stub.ml" 44 1031 1038 "Lab1/lab3_stub.ml" 44 1031 1043
+type(
+  'd -> 'd -> int
+)
+ident(
+  def score "Lab1/lab3_stub.ml" 45 1075 1077 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 44 1031 1044 "Lab1/lab3_stub.ml" 44 1031 1045
+type(
+  'd
+)
+ident(
+  def a "Lab1/lab3_stub.ml" 44 1031 1046 "Lab1/lab3_stub.ml" 44 1031 1071
+)
+"Lab1/lab3_stub.ml" 44 1031 1046 "Lab1/lab3_stub.ml" 44 1031 1047
+type(
+  'd
+)
+ident(
+  def b "Lab1/lab3_stub.ml" 44 1031 1050 "Lab1/lab3_stub.ml" 44 1031 1071
+)
+"Lab1/lab3_stub.ml" 44 1031 1053 "Lab1/lab3_stub.ml" 44 1031 1054
+type(
+  'd
+)
+ident(
+  int_ref a "Lab1/lab3_stub.ml" 44 1031 1044 "Lab1/lab3_stub.ml" 44 1031 1045
+)
+"Lab1/lab3_stub.ml" 44 1031 1054 "Lab1/lab3_stub.ml" 44 1031 1055
+type(
+  'd -> 'd -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Lab1/lab3_stub.ml" 44 1031 1055 "Lab1/lab3_stub.ml" 44 1031 1056
+type(
+  'd
+)
+ident(
+  int_ref b "Lab1/lab3_stub.ml" 44 1031 1046 "Lab1/lab3_stub.ml" 44 1031 1047
+)
+"Lab1/lab3_stub.ml" 44 1031 1053 "Lab1/lab3_stub.ml" 44 1031 1056
+type(
+  bool
+)
+"Lab1/lab3_stub.ml" 44 1031 1062 "Lab1/lab3_stub.ml" 44 1031 1063
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 44 1031 1069 "Lab1/lab3_stub.ml" 44 1031 1071
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 44 1031 1050 "Lab1/lab3_stub.ml" 44 1031 1071
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 45 1075 1081 "Lab1/lab3_stub.ml" 45 1075 1095
+type(
+  char -> string
+)
+ident(
+  def string_of_char "Lab1/lab3_stub.ml" 46 1119 1121 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 45 1075 1096 "Lab1/lab3_stub.ml" 45 1075 1097
+type(
+  char
+)
+ident(
+  def c "Lab1/lab3_stub.ml" 45 1075 1100 "Lab1/lab3_stub.ml" 45 1075 1115
+)
+"Lab1/lab3_stub.ml" 45 1075 1100 "Lab1/lab3_stub.ml" 45 1075 1111
+type(
+  int -> char -> string
+)
+ident(
+  ext_ref String.make
+)
+"Lab1/lab3_stub.ml" 45 1075 1112 "Lab1/lab3_stub.ml" 45 1075 1113
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 45 1075 1114 "Lab1/lab3_stub.ml" 45 1075 1115
+type(
+  char
+)
+ident(
+  int_ref c "Lab1/lab3_stub.ml" 45 1075 1096 "Lab1/lab3_stub.ml" 45 1075 1097
+)
+"Lab1/lab3_stub.ml" 45 1075 1100 "Lab1/lab3_stub.ml" 45 1075 1115
+type(
+  string
+)
+"Lab1/lab3_stub.ml" 46 1119 1125 "Lab1/lab3_stub.ml" 46 1119 1129
+type(
+  (int * int, int) memo_table_ho
+)
+ident(
+  def mtab "Lab1/lab3_stub.ml" 47 1153 1155 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 46 1119 1132 "Lab1/lab3_stub.ml" 46 1119 1149
+type(
+  (int * int, int) memo_table_ho
+)
+"Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+type(
+  int -> int -> int
+)
+ident(
+  def aux "Lab1/lab3_stub.ml" 47 1153 1155 "Lab1/lab3_stub.ml" 67 1753 1765
+)
+"Lab1/lab3_stub.ml" 47 1153 1167 "Lab1/lab3_stub.ml" 47 1153 1168
+type(
+  int
+)
+ident(
+  def i "Lab1/lab3_stub.ml" 47 1153 1169 "Lab1/lab3_stub.ml" 66 1719 1752
+)
+"Lab1/lab3_stub.ml" 47 1153 1169 "Lab1/lab3_stub.ml" 47 1153 1170
+type(
+  int
+)
+ident(
+  def j "Lab1/lab3_stub.ml" 48 1173 1177 "Lab1/lab3_stub.ml" 66 1719 1752
+)
+"Lab1/lab3_stub.ml" 48 1173 1177 "Lab1/lab3_stub.ml" 48 1173 1181
+type(
+  (int * int, int) memo_table_ho
+)
+ident(
+  int_ref mtab "Lab1/lab3_stub.ml" 46 1119 1125 "Lab1/lab3_stub.ml" 46 1119 1129
+)
+"Lab1/lab3_stub.ml" 48 1173 1177 "Lab1/lab3_stub.ml" 48 1173 1191
+type(
+  (int * int -> int) -> int * int -> int
+)
+"Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+type(
+  int
+)
+ident(
+  def i "Lab1/lab3_stub.ml" 49 1206 1210 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+type(
+  int
+)
+ident(
+  def j "Lab1/lab3_stub.ml" 49 1206 1210 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 48 1173 1197 "Lab1/lab3_stub.ml" 48 1173 1202
+type(
+  int * int
+)
+"Lab1/lab3_stub.ml" 49 1206 1213 "Lab1/lab3_stub.ml" 49 1206 1214
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 49 1206 1214 "Lab1/lab3_stub.ml" 49 1206 1216
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Lab1/lab3_stub.ml" 49 1206 1216 "Lab1/lab3_stub.ml" 49 1206 1218
+type(
+  int
+)
+ident(
+  int_ref n1 "Lab1/lab3_stub.ml" 36 840 846 "Lab1/lab3_stub.ml" 36 840 848
+)
+"Lab1/lab3_stub.ml" 49 1206 1213 "Lab1/lab3_stub.ml" 49 1206 1218
+type(
+  bool
+)
+"Lab1/lab3_stub.ml" 50 1224 1233 "Lab1/lab3_stub.ml" 50 1224 1234
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 50 1224 1234 "Lab1/lab3_stub.ml" 50 1224 1236
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Lab1/lab3_stub.ml" 50 1224 1236 "Lab1/lab3_stub.ml" 50 1224 1238
+type(
+  int
+)
+ident(
+  int_ref n2 "Lab1/lab3_stub.ml" 37 871 877 "Lab1/lab3_stub.ml" 37 871 879
+)
+"Lab1/lab3_stub.ml" 50 1224 1233 "Lab1/lab3_stub.ml" 50 1224 1238
+type(
+  bool
+)
+"Lab1/lab3_stub.ml" 51 1245 1253 "Lab1/lab3_stub.ml" 51 1245 1254
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 53 1305 1317 "Lab1/lab3_stub.ml" 53 1305 1320
+type(
+  int
+)
+ident(
+  def ans "Lab1/lab3_stub.ml" 54 1338 1346 "Lab1/lab3_stub.ml" 54 1338 1365
+)
+"Lab1/lab3_stub.ml" 53 1305 1323 "Lab1/lab3_stub.ml" 53 1305 1326
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+)
+"Lab1/lab3_stub.ml" 53 1305 1327 "Lab1/lab3_stub.ml" 53 1305 1328
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 53 1305 1330 "Lab1/lab3_stub.ml" 53 1305 1331
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 53 1305 1331 "Lab1/lab3_stub.ml" 53 1305 1332
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 53 1305 1332 "Lab1/lab3_stub.ml" 53 1305 1333
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 53 1305 1329 "Lab1/lab3_stub.ml" 53 1305 1334
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 53 1305 1323 "Lab1/lab3_stub.ml" 53 1305 1334
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 54 1338 1346 "Lab1/lab3_stub.ml" 54 1338 1359
+type(
+  int
+)
+ident(
+  int_ref penalty_space "Lab1/lab3_stub.ml" 35 812 818 "Lab1/lab3_stub.ml" 35 812 831
+)
+"Lab1/lab3_stub.ml" 54 1338 1360 "Lab1/lab3_stub.ml" 54 1338 1361
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 54 1338 1362 "Lab1/lab3_stub.ml" 54 1338 1365
+type(
+  int
+)
+ident(
+  int_ref ans "Lab1/lab3_stub.ml" 53 1305 1317 "Lab1/lab3_stub.ml" 53 1305 1320
+)
+"Lab1/lab3_stub.ml" 54 1338 1346 "Lab1/lab3_stub.ml" 54 1338 1365
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 53 1305 1313 "Lab1/lab3_stub.ml" 54 1338 1365
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 50 1224 1230 "Lab1/lab3_stub.ml" 54 1338 1365
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 56 1376 1385 "Lab1/lab3_stub.ml" 56 1376 1386
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 56 1376 1386 "Lab1/lab3_stub.ml" 56 1376 1388
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Lab1/lab3_stub.ml" 56 1376 1388 "Lab1/lab3_stub.ml" 56 1376 1390
+type(
+  int
+)
+ident(
+  int_ref n2 "Lab1/lab3_stub.ml" 37 871 877 "Lab1/lab3_stub.ml" 37 871 879
+)
+"Lab1/lab3_stub.ml" 56 1376 1385 "Lab1/lab3_stub.ml" 56 1376 1390
+type(
+  bool
+)
+"Lab1/lab3_stub.ml" 57 1397 1409 "Lab1/lab3_stub.ml" 57 1397 1412
+type(
+  int
+)
+ident(
+  def ans "Lab1/lab3_stub.ml" 58 1432 1440 "Lab1/lab3_stub.ml" 58 1432 1459
+)
+"Lab1/lab3_stub.ml" 57 1397 1415 "Lab1/lab3_stub.ml" 57 1397 1418
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+)
+"Lab1/lab3_stub.ml" 57 1397 1420 "Lab1/lab3_stub.ml" 57 1397 1421
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 57 1397 1421 "Lab1/lab3_stub.ml" 57 1397 1422
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 57 1397 1422 "Lab1/lab3_stub.ml" 57 1397 1423
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 57 1397 1419 "Lab1/lab3_stub.ml" 57 1397 1424
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 57 1397 1425 "Lab1/lab3_stub.ml" 57 1397 1428
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 57 1397 1415 "Lab1/lab3_stub.ml" 57 1397 1428
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 58 1432 1440 "Lab1/lab3_stub.ml" 58 1432 1453
+type(
+  int
+)
+ident(
+  int_ref penalty_space "Lab1/lab3_stub.ml" 35 812 818 "Lab1/lab3_stub.ml" 35 812 831
+)
+"Lab1/lab3_stub.ml" 58 1432 1454 "Lab1/lab3_stub.ml" 58 1432 1455
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 58 1432 1456 "Lab1/lab3_stub.ml" 58 1432 1459
+type(
+  int
+)
+ident(
+  int_ref ans "Lab1/lab3_stub.ml" 57 1397 1409 "Lab1/lab3_stub.ml" 57 1397 1412
+)
+"Lab1/lab3_stub.ml" 58 1432 1440 "Lab1/lab3_stub.ml" 58 1432 1459
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 57 1397 1405 "Lab1/lab3_stub.ml" 58 1432 1459
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 60 1472 1484 "Lab1/lab3_stub.ml" 60 1472 1486
+type(
+  char
+)
+ident(
+  def c1 "Lab1/lab3_stub.ml" 61 1508 1516 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 60 1472 1489 "Lab1/lab3_stub.ml" 60 1472 1499
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"Lab1/lab3_stub.ml" 60 1472 1500 "Lab1/lab3_stub.ml" 60 1472 1502
+type(
+  string
+)
+ident(
+  int_ref s1 "Lab1/lab3_stub.ml" 34 794 804 "Lab1/lab3_stub.ml" 34 794 806
+)
+"Lab1/lab3_stub.ml" 60 1472 1503 "Lab1/lab3_stub.ml" 60 1472 1504
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 60 1472 1489 "Lab1/lab3_stub.ml" 60 1472 1504
+type(
+  char
+)
+"Lab1/lab3_stub.ml" 61 1508 1520 "Lab1/lab3_stub.ml" 61 1508 1522
+type(
+  char
+)
+ident(
+  def c2 "Lab1/lab3_stub.ml" 62 1544 1552 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 61 1508 1525 "Lab1/lab3_stub.ml" 61 1508 1535
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"Lab1/lab3_stub.ml" 61 1508 1536 "Lab1/lab3_stub.ml" 61 1508 1538
+type(
+  string
+)
+ident(
+  int_ref s2 "Lab1/lab3_stub.ml" 34 794 807 "Lab1/lab3_stub.ml" 34 794 809
+)
+"Lab1/lab3_stub.ml" 61 1508 1539 "Lab1/lab3_stub.ml" 61 1508 1540
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 61 1508 1525 "Lab1/lab3_stub.ml" 61 1508 1540
+type(
+  char
+)
+"Lab1/lab3_stub.ml" 62 1544 1556 "Lab1/lab3_stub.ml" 62 1544 1557
+type(
+  int
+)
+ident(
+  def m "Lab1/lab3_stub.ml" 63 1575 1583 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 62 1544 1560 "Lab1/lab3_stub.ml" 62 1544 1565
+type(
+  char -> char -> int
+)
+ident(
+  int_ref score "Lab1/lab3_stub.ml" 44 1031 1038 "Lab1/lab3_stub.ml" 44 1031 1043
+)
+"Lab1/lab3_stub.ml" 62 1544 1566 "Lab1/lab3_stub.ml" 62 1544 1568
+type(
+  char
+)
+ident(
+  int_ref c1 "Lab1/lab3_stub.ml" 60 1472 1484 "Lab1/lab3_stub.ml" 60 1472 1486
+)
+"Lab1/lab3_stub.ml" 62 1544 1569 "Lab1/lab3_stub.ml" 62 1544 1571
+type(
+  char
+)
+ident(
+  int_ref c2 "Lab1/lab3_stub.ml" 61 1508 1520 "Lab1/lab3_stub.ml" 61 1508 1522
+)
+"Lab1/lab3_stub.ml" 62 1544 1560 "Lab1/lab3_stub.ml" 62 1544 1571
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1587 "Lab1/lab3_stub.ml" 63 1575 1589
+type(
+  int
+)
+ident(
+  def m1 "Lab1/lab3_stub.ml" 64 1617 1625 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 63 1575 1592 "Lab1/lab3_stub.ml" 63 1575 1593
+type(
+  int
+)
+ident(
+  int_ref m "Lab1/lab3_stub.ml" 62 1544 1556 "Lab1/lab3_stub.ml" 62 1544 1557
+)
+"Lab1/lab3_stub.ml" 63 1575 1594 "Lab1/lab3_stub.ml" 63 1575 1595
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 63 1575 1597 "Lab1/lab3_stub.ml" 63 1575 1600
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+)
+"Lab1/lab3_stub.ml" 63 1575 1602 "Lab1/lab3_stub.ml" 63 1575 1603
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 63 1575 1603 "Lab1/lab3_stub.ml" 63 1575 1604
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 63 1575 1604 "Lab1/lab3_stub.ml" 63 1575 1605
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1601 "Lab1/lab3_stub.ml" 63 1575 1606
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1608 "Lab1/lab3_stub.ml" 63 1575 1609
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 63 1575 1609 "Lab1/lab3_stub.ml" 63 1575 1610
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 63 1575 1610 "Lab1/lab3_stub.ml" 63 1575 1611
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1607 "Lab1/lab3_stub.ml" 63 1575 1612
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1596 "Lab1/lab3_stub.ml" 63 1575 1613
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1592 "Lab1/lab3_stub.ml" 63 1575 1613
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 64 1617 1629 "Lab1/lab3_stub.ml" 64 1617 1631
+type(
+  int
+)
+ident(
+  def m2 "Lab1/lab3_stub.ml" 65 1667 1675 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 64 1617 1634 "Lab1/lab3_stub.ml" 64 1617 1647
+type(
+  int
+)
+ident(
+  int_ref penalty_space "Lab1/lab3_stub.ml" 35 812 818 "Lab1/lab3_stub.ml" 35 812 831
+)
+"Lab1/lab3_stub.ml" 64 1617 1648 "Lab1/lab3_stub.ml" 64 1617 1649
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 64 1617 1651 "Lab1/lab3_stub.ml" 64 1617 1654
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+)
+"Lab1/lab3_stub.ml" 64 1617 1655 "Lab1/lab3_stub.ml" 64 1617 1656
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 64 1617 1658 "Lab1/lab3_stub.ml" 64 1617 1659
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 64 1617 1659 "Lab1/lab3_stub.ml" 64 1617 1660
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 64 1617 1660 "Lab1/lab3_stub.ml" 64 1617 1661
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 64 1617 1657 "Lab1/lab3_stub.ml" 64 1617 1662
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 64 1617 1650 "Lab1/lab3_stub.ml" 64 1617 1663
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 64 1617 1634 "Lab1/lab3_stub.ml" 64 1617 1663
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 65 1667 1679 "Lab1/lab3_stub.ml" 65 1667 1681
+type(
+  int
+)
+ident(
+  def m3 "Lab1/lab3_stub.ml" 66 1719 1727 "Lab1/lab3_stub.ml" 66 1719 1745
+)
+"Lab1/lab3_stub.ml" 65 1667 1684 "Lab1/lab3_stub.ml" 65 1667 1697
+type(
+  int
+)
+ident(
+  int_ref penalty_space "Lab1/lab3_stub.ml" 35 812 818 "Lab1/lab3_stub.ml" 35 812 831
+)
+"Lab1/lab3_stub.ml" 65 1667 1698 "Lab1/lab3_stub.ml" 65 1667 1699
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 65 1667 1701 "Lab1/lab3_stub.ml" 65 1667 1704
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+)
+"Lab1/lab3_stub.ml" 65 1667 1706 "Lab1/lab3_stub.ml" 65 1667 1707
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 48 1173 1198 "Lab1/lab3_stub.ml" 48 1173 1199
+)
+"Lab1/lab3_stub.ml" 65 1667 1707 "Lab1/lab3_stub.ml" 65 1667 1708
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab3_stub.ml" 65 1667 1708 "Lab1/lab3_stub.ml" 65 1667 1709
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 65 1667 1705 "Lab1/lab3_stub.ml" 65 1667 1710
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 65 1667 1711 "Lab1/lab3_stub.ml" 65 1667 1714
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 48 1173 1200 "Lab1/lab3_stub.ml" 48 1173 1201
+)
+"Lab1/lab3_stub.ml" 65 1667 1700 "Lab1/lab3_stub.ml" 65 1667 1715
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 65 1667 1684 "Lab1/lab3_stub.ml" 65 1667 1715
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 66 1719 1727 "Lab1/lab3_stub.ml" 66 1719 1730
+type(
+  int -> int -> int
+)
+ident(
+  int_ref max "Lab1/lab3_stub.ml" 38 902 908 "Lab1/lab3_stub.ml" 38 902 911
+)
+"Lab1/lab3_stub.ml" 66 1719 1731 "Lab1/lab3_stub.ml" 66 1719 1733
+type(
+  int
+)
+ident(
+  int_ref m1 "Lab1/lab3_stub.ml" 63 1575 1587 "Lab1/lab3_stub.ml" 63 1575 1589
+)
+"Lab1/lab3_stub.ml" 66 1719 1735 "Lab1/lab3_stub.ml" 66 1719 1738
+type(
+  int -> int -> int
+)
+ident(
+  int_ref max "Lab1/lab3_stub.ml" 38 902 908 "Lab1/lab3_stub.ml" 38 902 911
+)
+"Lab1/lab3_stub.ml" 66 1719 1739 "Lab1/lab3_stub.ml" 66 1719 1741
+type(
+  int
+)
+ident(
+  int_ref m2 "Lab1/lab3_stub.ml" 64 1617 1629 "Lab1/lab3_stub.ml" 64 1617 1631
+)
+"Lab1/lab3_stub.ml" 66 1719 1742 "Lab1/lab3_stub.ml" 66 1719 1744
+type(
+  int
+)
+ident(
+  int_ref m3 "Lab1/lab3_stub.ml" 65 1667 1679 "Lab1/lab3_stub.ml" 65 1667 1681
+)
+"Lab1/lab3_stub.ml" 66 1719 1734 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 66 1719 1727 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 65 1667 1675 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 64 1617 1625 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 63 1575 1583 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 62 1544 1552 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 61 1508 1516 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 60 1472 1480 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 56 1376 1382 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 49 1206 1210 "Lab1/lab3_stub.ml" 66 1719 1745
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 48 1173 1192 "Lab1/lab3_stub.ml" 66 1719 1746
+type(
+  int * int -> int
+)
+"Lab1/lab3_stub.ml" 66 1719 1748 "Lab1/lab3_stub.ml" 66 1719 1749
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/lab3_stub.ml" 47 1153 1167 "Lab1/lab3_stub.ml" 47 1153 1168
+)
+"Lab1/lab3_stub.ml" 66 1719 1750 "Lab1/lab3_stub.ml" 66 1719 1751
+type(
+  int
+)
+ident(
+  int_ref j "Lab1/lab3_stub.ml" 47 1153 1169 "Lab1/lab3_stub.ml" 47 1153 1170
+)
+"Lab1/lab3_stub.ml" 66 1719 1747 "Lab1/lab3_stub.ml" 66 1719 1752
+type(
+  int * int
+)
+"Lab1/lab3_stub.ml" 48 1173 1177 "Lab1/lab3_stub.ml" 66 1719 1752
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 67 1753 1758 "Lab1/lab3_stub.ml" 67 1753 1761
+type(
+  int -> int -> int
+)
+ident(
+  int_ref aux "Lab1/lab3_stub.ml" 47 1153 1163 "Lab1/lab3_stub.ml" 47 1153 1166
+)
+"Lab1/lab3_stub.ml" 67 1753 1762 "Lab1/lab3_stub.ml" 67 1753 1763
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 67 1753 1764 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 67 1753 1758 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 47 1153 1155 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 46 1119 1121 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 45 1075 1077 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 44 1031 1034 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 41 958 960 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 38 902 904 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 37 871 873 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 36 840 842 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 35 812 814 "Lab1/lab3_stub.ml" 67 1753 1765
+type(
+  int
+)
+"Lab1/lab3_stub.ml" 71 1855 1859 "Lab1/lab3_stub.ml" 71 1855 1870
+type(
+  'a -> 'b -> 'c -> 'd
+)
+ident(
+  def align_print "Lab1/lab3_stub.ml" 72 1893 1909 "_none_" 1 0 -1
+)
+"Lab1/lab3_stub.ml" 71 1855 1871 "Lab1/lab3_stub.ml" 71 1855 1873
+type(
+  'a
+)
+ident(
+  def s1 "Lab1/lab3_stub.ml" 71 1855 1874 "Lab1/lab3_stub.ml" 72 1893 1909
+)
+"Lab1/lab3_stub.ml" 71 1855 1874 "Lab1/lab3_stub.ml" 71 1855 1876
+type(
+  'b
+)
+ident(
+  def s2 "Lab1/lab3_stub.ml" 71 1855 1877 "Lab1/lab3_stub.ml" 72 1893 1909
+)
+"Lab1/lab3_stub.ml" 71 1855 1877 "Lab1/lab3_stub.ml" 71 1855 1890
+type(
+  'c
+)
+ident(
+  def penalty_space "Lab1/lab3_stub.ml" 72 1893 1895 "Lab1/lab3_stub.ml" 72 1893 1909
+)
+"Lab1/lab3_stub.ml" 72 1893 1895 "Lab1/lab3_stub.ml" 72 1893 1903
+type(
+  string -> 'd
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/lab3_stub.ml" 72 1893 1904 "Lab1/lab3_stub.ml" 72 1893 1909
+type(
+  string
+)
+"Lab1/lab3_stub.ml" 72 1893 1895 "Lab1/lab3_stub.ml" 72 1893 1909
+type(
+  'd
+)

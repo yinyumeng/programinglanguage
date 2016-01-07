@@ -1,0 +1,8 @@
+compil_mode/<project>=byte-code
+compil_mode/lab1.exe=byte-code
+compil_mode/lab2.exe=byte-code
+compil_mode/lab3_stub.exe=byte-code
+eclipse.preferences.version=1
+flags/<project>=-g\u00A0
+make_exe/Lab1_A0105408_Yin\ yumeng.ml=Lab1_A0105408_Yin yumeng.exe
+make_exe/lab1.ml=lab1.exe

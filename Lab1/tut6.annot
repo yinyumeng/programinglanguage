@@ -1,0 +1,650 @@
+"Lab1/tut6.ml" 12 285 299 "Lab1/tut6.ml" 12 285 303
+type(
+  int
+)
+"Lab1/tut6.ml" 13 306 315 "Lab1/tut6.ml" 13 306 321
+type(
+  < get : int; inc : unit; .. >
+)
+"Lab1/tut6.ml" 14 323 345 "Lab1/tut6.ml" 14 323 350
+type(
+  int
+)
+ident(
+  int_ref init "Lab1/tut6.ml" 12 285 299 "Lab1/tut6.ml" 12 285 303
+)
+"Lab1/tut6.ml" 15 351 375 "Lab1/tut6.ml" 15 351 378
+type(
+  int
+)
+"Lab1/tut6.ml" 15 351 378 "Lab1/tut6.ml" 15 351 379
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/tut6.ml" 15 351 379 "Lab1/tut6.ml" 15 351 380
+type(
+  int
+)
+"Lab1/tut6.ml" 15 351 375 "Lab1/tut6.ml" 15 351 380
+type(
+  int
+)
+"Lab1/tut6.ml" 15 351 368 "Lab1/tut6.ml" 15 351 381
+type(
+  unit
+)
+type(
+  unit
+)
+"Lab1/tut6.ml" 16 382 399 "Lab1/tut6.ml" 16 382 403
+type(
+  int
+)
+type(
+  int
+)
+"Lab1/tut6.ml" 19 413 417 "Lab1/tut6.ml" 19 413 419
+type(
+  < get : int; inc : unit >
+)
+ident(
+  def c1 "Lab1/tut6.ml" 20 467 467 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 19 413 451 "Lab1/tut6.ml" 19 413 462
+type(
+  int -> counter
+)
+"Lab1/tut6.ml" 19 413 463 "Lab1/tut6.ml" 19 413 464
+type(
+  int
+)
+"Lab1/tut6.ml" 19 413 451 "Lab1/tut6.ml" 19 413 464
+type(
+  < get : int; inc : unit >
+)
+type(
+  counter
+)
+"Lab1/tut6.ml" 20 467 471 "Lab1/tut6.ml" 20 467 473
+type(
+  counter
+)
+ident(
+  def c2 "Lab1/tut6.ml" 22 495 495 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 20 467 476 "Lab1/tut6.ml" 20 467 487
+type(
+  int -> counter
+)
+"Lab1/tut6.ml" 20 467 488 "Lab1/tut6.ml" 20 467 491
+type(
+  int
+)
+"Lab1/tut6.ml" 20 467 476 "Lab1/tut6.ml" 20 467 491
+type(
+  counter
+)
+"Lab1/tut6.ml" 22 495 501 "Lab1/tut6.ml" 22 495 502
+type(
+  int
+)
+"Lab1/tut6.ml" 22 495 506 "Lab1/tut6.ml" 22 495 508
+type(
+  int
+)
+"Lab1/tut6.ml" 23 512 514 "Lab1/tut6.ml" 23 512 516
+type(
+  < get : int; inc : unit >
+)
+ident(
+  int_ref c1 "Lab1/tut6.ml" 19 413 417 "Lab1/tut6.ml" 19 413 419
+)
+"Lab1/tut6.ml" 23 512 514 "Lab1/tut6.ml" 23 512 522
+type(
+  unit
+)
+"Lab1/tut6.ml" 24 524 526 "Lab1/tut6.ml" 24 524 528
+type(
+  counter
+)
+ident(
+  int_ref c2 "Lab1/tut6.ml" 20 467 471 "Lab1/tut6.ml" 20 467 473
+)
+"Lab1/tut6.ml" 24 524 526 "Lab1/tut6.ml" 24 524 534
+type(
+  unit
+)
+"Lab1/tut6.ml" 23 512 514 "Lab1/tut6.ml" 24 524 534
+type(
+  unit
+)
+"Lab1/tut6.ml" 22 495 495 "Lab1/tut6.ml" 25 535 539
+type(
+  unit
+)
+"Lab1/tut6.ml" 27 543 547 "Lab1/tut6.ml" 27 543 561
+type(
+  int -> unit
+)
+ident(
+  def start_question "Lab1/tut6.ml" 34 705 705 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 27 543 562 "Lab1/tut6.ml" 27 543 564
+type(
+  int
+)
+ident(
+  def no "Lab1/tut6.ml" 28 567 569 "Lab1/tut6.ml" 32 696 701
+)
+"Lab1/tut6.ml" 29 575 579 "Lab1/tut6.ml" 29 575 592
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 29 575 593 "Lab1/tut6.ml" 29 575 613
+type(
+  (unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 29 575 579 "Lab1/tut6.ml" 29 575 613
+type(
+  unit
+)
+"Lab1/tut6.ml" 30 615 619 "Lab1/tut6.ml" 30 615 632
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 30 615 633 "Lab1/tut6.ml" 30 615 652
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 30 615 653 "Lab1/tut6.ml" 30 615 655
+type(
+  int
+)
+ident(
+  int_ref no "Lab1/tut6.ml" 27 543 562 "Lab1/tut6.ml" 27 543 564
+)
+"Lab1/tut6.ml" 30 615 619 "Lab1/tut6.ml" 30 615 655
+type(
+  unit
+)
+"Lab1/tut6.ml" 31 657 661 "Lab1/tut6.ml" 31 657 674
+type(
+  (unit, out_channel, unit) format -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 31 657 675 "Lab1/tut6.ml" 31 657 695
+type(
+  (unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 31 657 661 "Lab1/tut6.ml" 31 657 695
+type(
+  unit
+)
+"Lab1/tut6.ml" 30 615 619 "Lab1/tut6.ml" 31 657 695
+type(
+  unit
+)
+"Lab1/tut6.ml" 28 567 569 "Lab1/tut6.ml" 32 696 701
+type(
+  unit
+)
+"Lab1/tut6.ml" 34 705 705 "Lab1/tut6.ml" 34 705 719
+type(
+  int -> unit
+)
+ident(
+  int_ref start_question "Lab1/tut6.ml" 27 543 547 "Lab1/tut6.ml" 27 543 561
+)
+"Lab1/tut6.ml" 34 705 720 "Lab1/tut6.ml" 34 705 721
+type(
+  int
+)
+"Lab1/tut6.ml" 34 705 705 "Lab1/tut6.ml" 34 705 721
+type(
+  unit
+)
+"Lab1/tut6.ml" 35 724 724 "Lab1/tut6.ml" 35 724 737
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 35 724 738 "Lab1/tut6.ml" 35 724 758
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 35 724 760 "Lab1/tut6.ml" 35 724 762
+type(
+  < get : int; inc : unit >
+)
+ident(
+  int_ref c1 "Lab1/tut6.ml" 19 413 417 "Lab1/tut6.ml" 19 413 419
+)
+"Lab1/tut6.ml" 35 724 759 "Lab1/tut6.ml" 35 724 769
+type(
+  int
+)
+"Lab1/tut6.ml" 35 724 724 "Lab1/tut6.ml" 35 724 769
+type(
+  unit
+)
+"Lab1/tut6.ml" 36 772 772 "Lab1/tut6.ml" 36 772 785
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 36 772 786 "Lab1/tut6.ml" 36 772 806
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 36 772 808 "Lab1/tut6.ml" 36 772 810
+type(
+  counter
+)
+ident(
+  int_ref c2 "Lab1/tut6.ml" 20 467 471 "Lab1/tut6.ml" 20 467 473
+)
+"Lab1/tut6.ml" 36 772 807 "Lab1/tut6.ml" 36 772 817
+type(
+  int
+)
+"Lab1/tut6.ml" 36 772 772 "Lab1/tut6.ml" 36 772 817
+type(
+  unit
+)
+"Lab1/tut6.ml" 49 1144 1148 "Lab1/tut6.ml" 49 1144 1159
+type(
+  int -> < get : int; inc : unit >
+)
+ident(
+  def gen_counter "Lab1/tut6.ml" 57 1303 1303 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 49 1144 1160 "Lab1/tut6.ml" 49 1144 1161
+type(
+  int
+)
+ident(
+  def i "Lab1/tut6.ml" 50 1165 1167 "Lab1/tut6.ml" 55 1294 1299
+)
+"Lab1/tut6.ml" 50 1165 1174 "Lab1/tut6.ml" 50 1165 1180
+type(
+  < get : int; inc : unit >
+)
+"Lab1/tut6.ml" 51 1182 1204 "Lab1/tut6.ml" 51 1182 1206
+type(
+  int
+)
+ident(
+  int_ref i "Lab1/tut6.ml" 49 1144 1160 "Lab1/tut6.ml" 49 1144 1161
+)
+"Lab1/tut6.ml" 52 1207 1231 "Lab1/tut6.ml" 52 1207 1234
+type(
+  int
+)
+"Lab1/tut6.ml" 52 1207 1234 "Lab1/tut6.ml" 52 1207 1235
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/tut6.ml" 52 1207 1235 "Lab1/tut6.ml" 52 1207 1236
+type(
+  int
+)
+"Lab1/tut6.ml" 52 1207 1231 "Lab1/tut6.ml" 52 1207 1236
+type(
+  int
+)
+"Lab1/tut6.ml" 52 1207 1224 "Lab1/tut6.ml" 52 1207 1237
+type(
+  unit
+)
+type(
+  unit
+)
+"Lab1/tut6.ml" 53 1238 1255 "Lab1/tut6.ml" 53 1238 1259
+type(
+  int
+)
+type(
+  int
+)
+"Lab1/tut6.ml" 54 1260 1291 "Lab1/tut6.ml" 54 1260 1292
+type(
+  int
+)
+"Lab1/tut6.ml" 54 1260 1285 "Lab1/tut6.ml" 54 1260 1293
+type(
+  unit
+)
+type(
+  unit
+)
+"Lab1/tut6.ml" 50 1165 1167 "Lab1/tut6.ml" 55 1294 1299
+type(
+  < get : int; inc : unit >
+)
+"Lab1/tut6.ml" 57 1303 1307 "Lab1/tut6.ml" 57 1303 1309
+type(
+  < get : int; inc : unit >
+)
+ident(
+  def c3 "Lab1/tut6.ml" 58 1328 1328 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 57 1303 1312 "Lab1/tut6.ml" 57 1303 1323
+type(
+  int -> < get : int; inc : unit >
+)
+ident(
+  int_ref gen_counter "Lab1/tut6.ml" 49 1144 1148 "Lab1/tut6.ml" 49 1144 1159
+)
+"Lab1/tut6.ml" 57 1303 1324 "Lab1/tut6.ml" 57 1303 1325
+type(
+  int
+)
+"Lab1/tut6.ml" 57 1303 1312 "Lab1/tut6.ml" 57 1303 1325
+type(
+  < get : int; inc : unit >
+)
+"Lab1/tut6.ml" 58 1328 1332 "Lab1/tut6.ml" 58 1328 1334
+type(
+  < get : int; inc : unit >
+)
+ident(
+  def c4 "Lab1/tut6.ml" 60 1356 1356 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 58 1328 1337 "Lab1/tut6.ml" 58 1328 1348
+type(
+  int -> < get : int; inc : unit >
+)
+ident(
+  int_ref gen_counter "Lab1/tut6.ml" 49 1144 1148 "Lab1/tut6.ml" 49 1144 1159
+)
+"Lab1/tut6.ml" 58 1328 1349 "Lab1/tut6.ml" 58 1328 1352
+type(
+  int
+)
+"Lab1/tut6.ml" 58 1328 1337 "Lab1/tut6.ml" 58 1328 1352
+type(
+  < get : int; inc : unit >
+)
+"Lab1/tut6.ml" 60 1356 1360 "Lab1/tut6.ml" 60 1356 1362
+type(
+  < get : int; inc : unit >
+)
+ident(
+  def c3 "Lab1/tut6.ml" 62 1382 1382 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 60 1356 1365 "Lab1/tut6.ml" 60 1356 1376
+type(
+  int -> < get : int; inc : unit >
+)
+ident(
+  int_ref gen_counter "Lab1/tut6.ml" 49 1144 1148 "Lab1/tut6.ml" 49 1144 1159
+)
+"Lab1/tut6.ml" 60 1356 1377 "Lab1/tut6.ml" 60 1356 1378
+type(
+  int
+)
+"Lab1/tut6.ml" 60 1356 1365 "Lab1/tut6.ml" 60 1356 1378
+type(
+  < get : int; inc : unit >
+)
+"Lab1/tut6.ml" 62 1382 1388 "Lab1/tut6.ml" 62 1382 1389
+type(
+  int
+)
+"Lab1/tut6.ml" 62 1382 1393 "Lab1/tut6.ml" 62 1382 1395
+type(
+  int
+)
+"Lab1/tut6.ml" 63 1399 1401 "Lab1/tut6.ml" 63 1399 1403
+type(
+  < get : int; inc : unit >
+)
+ident(
+  int_ref c3 "Lab1/tut6.ml" 60 1356 1360 "Lab1/tut6.ml" 60 1356 1362
+)
+"Lab1/tut6.ml" 63 1399 1401 "Lab1/tut6.ml" 63 1399 1409
+type(
+  unit
+)
+"Lab1/tut6.ml" 64 1411 1413 "Lab1/tut6.ml" 64 1411 1415
+type(
+  < get : int; inc : unit >
+)
+ident(
+  int_ref c4 "Lab1/tut6.ml" 58 1328 1332 "Lab1/tut6.ml" 58 1328 1334
+)
+"Lab1/tut6.ml" 64 1411 1413 "Lab1/tut6.ml" 64 1411 1421
+type(
+  unit
+)
+"Lab1/tut6.ml" 63 1399 1401 "Lab1/tut6.ml" 64 1411 1421
+type(
+  unit
+)
+"Lab1/tut6.ml" 62 1382 1382 "Lab1/tut6.ml" 65 1422 1426
+type(
+  unit
+)
+"Lab1/tut6.ml" 67 1430 1430 "Lab1/tut6.ml" 67 1430 1444
+type(
+  int -> unit
+)
+ident(
+  int_ref start_question "Lab1/tut6.ml" 27 543 547 "Lab1/tut6.ml" 27 543 561
+)
+"Lab1/tut6.ml" 67 1430 1445 "Lab1/tut6.ml" 67 1430 1446
+type(
+  int
+)
+"Lab1/tut6.ml" 67 1430 1430 "Lab1/tut6.ml" 67 1430 1446
+type(
+  unit
+)
+"Lab1/tut6.ml" 68 1449 1449 "Lab1/tut6.ml" 68 1449 1462
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 68 1449 1463 "Lab1/tut6.ml" 68 1449 1483
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 68 1449 1485 "Lab1/tut6.ml" 68 1449 1487
+type(
+  < get : int; inc : unit >
+)
+ident(
+  int_ref c3 "Lab1/tut6.ml" 60 1356 1360 "Lab1/tut6.ml" 60 1356 1362
+)
+"Lab1/tut6.ml" 68 1449 1484 "Lab1/tut6.ml" 68 1449 1494
+type(
+  int
+)
+"Lab1/tut6.ml" 68 1449 1449 "Lab1/tut6.ml" 68 1449 1494
+type(
+  unit
+)
+"Lab1/tut6.ml" 69 1497 1497 "Lab1/tut6.ml" 69 1497 1510
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 69 1497 1511 "Lab1/tut6.ml" 69 1497 1531
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 69 1497 1533 "Lab1/tut6.ml" 69 1497 1535
+type(
+  < get : int; inc : unit >
+)
+ident(
+  int_ref c4 "Lab1/tut6.ml" 58 1328 1332 "Lab1/tut6.ml" 58 1328 1334
+)
+"Lab1/tut6.ml" 69 1497 1532 "Lab1/tut6.ml" 69 1497 1542
+type(
+  int
+)
+"Lab1/tut6.ml" 69 1497 1497 "Lab1/tut6.ml" 69 1497 1542
+type(
+  unit
+)
+"Lab1/tut6.ml" 78 1698 1702 "Lab1/tut6.ml" 78 1698 1715
+type(
+  counter -> unit
+)
+ident(
+  def print_counter "Lab1/tut6.ml" 81 1778 1778 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 78 1698 1717 "Lab1/tut6.ml" 78 1698 1718
+type(
+  counter
+)
+ident(
+  def c "Lab1/tut6.ml" 79 1730 1732 "Lab1/tut6.ml" 79 1730 1774
+)
+"Lab1/tut6.ml" 79 1730 1732 "Lab1/tut6.ml" 79 1730 1745
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 79 1730 1746 "Lab1/tut6.ml" 79 1730 1764
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 79 1730 1766 "Lab1/tut6.ml" 79 1730 1767
+type(
+  counter
+)
+ident(
+  int_ref c "Lab1/tut6.ml" 78 1698 1717 "Lab1/tut6.ml" 78 1698 1718
+)
+"Lab1/tut6.ml" 79 1730 1765 "Lab1/tut6.ml" 79 1730 1774
+type(
+  int
+)
+"Lab1/tut6.ml" 79 1730 1732 "Lab1/tut6.ml" 79 1730 1774
+type(
+  unit
+)
+"Lab1/tut6.ml" 81 1778 1778 "Lab1/tut6.ml" 81 1778 1792
+type(
+  int -> unit
+)
+ident(
+  int_ref start_question "Lab1/tut6.ml" 27 543 547 "Lab1/tut6.ml" 27 543 561
+)
+"Lab1/tut6.ml" 81 1778 1793 "Lab1/tut6.ml" 81 1778 1794
+type(
+  int
+)
+"Lab1/tut6.ml" 81 1778 1778 "Lab1/tut6.ml" 81 1778 1794
+type(
+  unit
+)
+"Lab1/tut6.ml" 82 1797 1797 "Lab1/tut6.ml" 82 1797 1810
+type(
+  counter -> unit
+)
+ident(
+  int_ref print_counter "Lab1/tut6.ml" 78 1698 1702 "Lab1/tut6.ml" 78 1698 1715
+)
+"Lab1/tut6.ml" 82 1797 1811 "Lab1/tut6.ml" 82 1797 1813
+type(
+  counter
+)
+ident(
+  int_ref c1 "Lab1/tut6.ml" 19 413 417 "Lab1/tut6.ml" 19 413 419
+)
+"Lab1/tut6.ml" 82 1797 1797 "Lab1/tut6.ml" 82 1797 1813
+type(
+  unit
+)
+"Lab1/tut6.ml" 83 1816 1816 "Lab1/tut6.ml" 83 1816 1829
+type(
+  counter -> unit
+)
+ident(
+  int_ref print_counter "Lab1/tut6.ml" 78 1698 1702 "Lab1/tut6.ml" 78 1698 1715
+)
+"Lab1/tut6.ml" 83 1816 1830 "Lab1/tut6.ml" 83 1816 1832
+type(
+  counter
+)
+ident(
+  int_ref c3 "Lab1/tut6.ml" 60 1356 1360 "Lab1/tut6.ml" 60 1356 1362
+)
+"Lab1/tut6.ml" 83 1816 1816 "Lab1/tut6.ml" 83 1816 1832
+type(
+  unit
+)
+"Lab1/tut6.ml" 86 1837 1841 "Lab1/tut6.ml" 86 1837 1856
+type(
+  #counter -> unit
+)
+ident(
+  def print_counter_1 "Lab1/tut6.ml" 88 1919 1919 "_none_" 1 0 -1
+)
+"Lab1/tut6.ml" 86 1837 1858 "Lab1/tut6.ml" 86 1837 1859
+type(
+  #counter as 'a
+)
+ident(
+  def c "Lab1/tut6.ml" 87 1872 1874 "Lab1/tut6.ml" 87 1872 1916
+)
+"Lab1/tut6.ml" 87 1872 1874 "Lab1/tut6.ml" 87 1872 1887
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut6.ml" 87 1872 1888 "Lab1/tut6.ml" 87 1872 1906
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Lab1/tut6.ml" 87 1872 1908 "Lab1/tut6.ml" 87 1872 1909
+type(
+  'a
+)
+ident(
+  int_ref c "Lab1/tut6.ml" 86 1837 1858 "Lab1/tut6.ml" 86 1837 1859
+)
+"Lab1/tut6.ml" 87 1872 1907 "Lab1/tut6.ml" 87 1872 1916
+type(
+  int
+)
+"Lab1/tut6.ml" 87 1872 1874 "Lab1/tut6.ml" 87 1872 1916
+type(
+  unit
+)
+"Lab1/tut6.ml" 88 1919 1923 "Lab1/tut6.ml" 88 1919 1938
+type(
+  '_a -> '_b
+)
+ident(
+  def print_counter_2 "Lab1/tut6.ml" 99 2264 2264 "_none_" 1 0 -1
+)

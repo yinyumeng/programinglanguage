@@ -1,0 +1,274 @@
+"TutorialLab/lab3_try.ml" 6 89 98 "TutorialLab/lab3_try.ml" 6 89 104
+type(
+  < get : 'a -> 'b option; store : 'a -> 'b -> unit; .. >
+)
+"TutorialLab/lab3_try.ml" 7 106 120 "TutorialLab/lab3_try.ml" 7 106 134
+type(
+  ?random:bool -> int -> ('a, 'b) Hashtbl.t
+)
+ident(
+  ext_ref Hashtbl.create
+)
+"TutorialLab/lab3_try.ml" 7 106 135 "TutorialLab/lab3_try.ml" 7 106 137
+type(
+  int
+)
+"TutorialLab/lab3_try.ml" 7 106 120 "TutorialLab/lab3_try.ml" 7 106 137
+type(
+  ('a, 'b) Hashtbl.t
+)
+"TutorialLab/lab3_try.ml" 8 138 154 "TutorialLab/lab3_try.ml" 8 138 155
+type(
+  'a
+)
+ident(
+  def a "TutorialLab/lab3_try.ml" 9 162 168 "TutorialLab/lab3_try.ml" 11 206 226
+)
+"TutorialLab/lab3_try.ml" 10 173 186 "TutorialLab/lab3_try.ml" 10 173 198
+type(
+  ('a, 'b) Hashtbl.t -> 'a -> 'b
+)
+ident(
+  ext_ref Hashtbl.find
+)
+"TutorialLab/lab3_try.ml" 10 173 199 "TutorialLab/lab3_try.ml" 10 173 202
+type(
+  ('a, 'b) Hashtbl.t
+)
+"TutorialLab/lab3_try.ml" 10 173 203 "TutorialLab/lab3_try.ml" 10 173 204
+type(
+  'a
+)
+ident(
+  int_ref a "TutorialLab/lab3_try.ml" 8 138 154 "TutorialLab/lab3_try.ml" 8 138 155
+)
+"TutorialLab/lab3_try.ml" 10 173 185 "TutorialLab/lab3_try.ml" 10 173 205
+type(
+  'b
+)
+"TutorialLab/lab3_try.ml" 10 173 181 "TutorialLab/lab3_try.ml" 10 173 205
+type(
+  'b option
+)
+"TutorialLab/lab3_try.ml" 11 206 217 "TutorialLab/lab3_try.ml" 11 206 218
+type(
+  exn
+)
+"TutorialLab/lab3_try.ml" 11 206 222 "TutorialLab/lab3_try.ml" 11 206 226
+type(
+  'b option
+)
+"TutorialLab/lab3_try.ml" 9 162 168 "TutorialLab/lab3_try.ml" 11 206 226
+type(
+  'b option
+)
+"TutorialLab/lab3_try.ml" 12 227 245 "TutorialLab/lab3_try.ml" 12 227 246
+type(
+  'a
+)
+ident(
+  def a "TutorialLab/lab3_try.ml" 12 227 251 "TutorialLab/lab3_try.ml" 13 260 289
+)
+"TutorialLab/lab3_try.ml" 12 227 252 "TutorialLab/lab3_try.ml" 12 227 253
+type(
+  'b
+)
+ident(
+  def b "TutorialLab/lab3_try.ml" 13 260 266 "TutorialLab/lab3_try.ml" 13 260 289
+)
+"TutorialLab/lab3_try.ml" 13 260 266 "TutorialLab/lab3_try.ml" 13 260 281
+type(
+  ('a, 'b) Hashtbl.t -> 'a -> 'b -> unit
+)
+ident(
+  ext_ref Hashtbl.replace
+)
+"TutorialLab/lab3_try.ml" 13 260 282 "TutorialLab/lab3_try.ml" 13 260 285
+type(
+  ('a, 'b) Hashtbl.t
+)
+"TutorialLab/lab3_try.ml" 13 260 286 "TutorialLab/lab3_try.ml" 13 260 287
+type(
+  'a
+)
+ident(
+  int_ref a "TutorialLab/lab3_try.ml" 12 227 245 "TutorialLab/lab3_try.ml" 12 227 246
+)
+"TutorialLab/lab3_try.ml" 13 260 288 "TutorialLab/lab3_try.ml" 13 260 289
+type(
+  'b
+)
+ident(
+  int_ref b "TutorialLab/lab3_try.ml" 12 227 252 "TutorialLab/lab3_try.ml" 12 227 253
+)
+"TutorialLab/lab3_try.ml" 13 260 266 "TutorialLab/lab3_try.ml" 13 260 289
+type(
+  unit
+)
+"TutorialLab/lab3_try.ml" 17 329 338 "TutorialLab/lab3_try.ml" 17 329 344
+type(
+  < compute : ('a -> 'b) -> 'a -> 'b; get : 'a -> 'b option;
+    store : 'a -> 'b -> unit; .. >
+)
+"TutorialLab/lab3_try.ml" 19 386 406 "TutorialLab/lab3_try.ml" 19 386 407
+type(
+  'a -> 'b
+)
+ident(
+  def f "TutorialLab/lab3_try.ml" 19 386 416 "TutorialLab/lab3_try.ml" 24 531 550
+)
+"TutorialLab/lab3_try.ml" 19 386 417 "TutorialLab/lab3_try.ml" 19 386 418
+type(
+  'a
+)
+ident(
+  def a "TutorialLab/lab3_try.ml" 19 386 423 "TutorialLab/lab3_try.ml" 24 531 550
+)
+"TutorialLab/lab3_try.ml" 20 430 443 "TutorialLab/lab3_try.ml" 20 430 447
+type(
+  < compute : ('a -> 'b) -> 'a -> 'b; get : 'a -> 'b option;
+    store : 'a -> 'b -> unit; .. >
+  as 'c
+)
+"TutorialLab/lab3_try.ml" 20 430 443 "TutorialLab/lab3_try.ml" 20 430 453
+type(
+  'a -> 'b option
+)
+"TutorialLab/lab3_try.ml" 20 430 454 "TutorialLab/lab3_try.ml" 20 430 455
+type(
+  'a
+)
+ident(
+  int_ref a "TutorialLab/lab3_try.ml" 19 386 417 "TutorialLab/lab3_try.ml" 19 386 418
+)
+"TutorialLab/lab3_try.ml" 20 430 442 "TutorialLab/lab3_try.ml" 20 430 456
+type(
+  'b option
+)
+"TutorialLab/lab3_try.ml" 21 462 470 "TutorialLab/lab3_try.ml" 21 462 474
+type(
+  'b option
+)
+"TutorialLab/lab3_try.ml" 22 478 490 "TutorialLab/lab3_try.ml" 22 478 491
+type(
+  'b
+)
+ident(
+  def r "TutorialLab/lab3_try.ml" 23 501 509 "TutorialLab/lab3_try.ml" 23 501 530
+)
+"TutorialLab/lab3_try.ml" 22 478 494 "TutorialLab/lab3_try.ml" 22 478 495
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "TutorialLab/lab3_try.ml" 19 386 406 "TutorialLab/lab3_try.ml" 19 386 407
+)
+"TutorialLab/lab3_try.ml" 22 478 496 "TutorialLab/lab3_try.ml" 22 478 497
+type(
+  'a
+)
+ident(
+  int_ref a "TutorialLab/lab3_try.ml" 19 386 417 "TutorialLab/lab3_try.ml" 19 386 418
+)
+"TutorialLab/lab3_try.ml" 22 478 494 "TutorialLab/lab3_try.ml" 22 478 497
+type(
+  'b
+)
+"TutorialLab/lab3_try.ml" 23 501 510 "TutorialLab/lab3_try.ml" 23 501 514
+type(
+  'c
+)
+"TutorialLab/lab3_try.ml" 23 501 510 "TutorialLab/lab3_try.ml" 23 501 522
+type(
+  'a -> 'b -> unit
+)
+"TutorialLab/lab3_try.ml" 23 501 523 "TutorialLab/lab3_try.ml" 23 501 524
+type(
+  'a
+)
+ident(
+  int_ref a "TutorialLab/lab3_try.ml" 19 386 417 "TutorialLab/lab3_try.ml" 19 386 418
+)
+"TutorialLab/lab3_try.ml" 23 501 525 "TutorialLab/lab3_try.ml" 23 501 526
+type(
+  'b
+)
+ident(
+  int_ref r "TutorialLab/lab3_try.ml" 22 478 490 "TutorialLab/lab3_try.ml" 22 478 491
+)
+"TutorialLab/lab3_try.ml" 23 501 510 "TutorialLab/lab3_try.ml" 23 501 526
+type(
+  unit
+)
+"TutorialLab/lab3_try.ml" 23 501 528 "TutorialLab/lab3_try.ml" 23 501 529
+type(
+  'b
+)
+ident(
+  int_ref r "TutorialLab/lab3_try.ml" 22 478 490 "TutorialLab/lab3_try.ml" 22 478 491
+)
+"TutorialLab/lab3_try.ml" 23 501 509 "TutorialLab/lab3_try.ml" 23 501 530
+type(
+  'b
+)
+"TutorialLab/lab3_try.ml" 22 478 486 "TutorialLab/lab3_try.ml" 23 501 530
+type(
+  'b
+)
+"TutorialLab/lab3_try.ml" 24 531 544 "TutorialLab/lab3_try.ml" 24 531 545
+type(
+  'b
+)
+ident(
+  def v "TutorialLab/lab3_try.ml" 24 531 549 "TutorialLab/lab3_try.ml" 24 531 550
+)
+"TutorialLab/lab3_try.ml" 24 531 539 "TutorialLab/lab3_try.ml" 24 531 545
+type(
+  'b option
+)
+"TutorialLab/lab3_try.ml" 24 531 549 "TutorialLab/lab3_try.ml" 24 531 550
+type(
+  'b
+)
+ident(
+  int_ref v "TutorialLab/lab3_try.ml" 24 531 544 "TutorialLab/lab3_try.ml" 24 531 545
+)
+"TutorialLab/lab3_try.ml" 20 430 436 "TutorialLab/lab3_try.ml" 24 531 550
+type(
+  'b
+)
+type(
+  'b
+)
+"TutorialLab/lab3_try.ml" 32 666 670 "TutorialLab/lab3_try.ml" 32 666 675
+type(
+  '_a -> '_b -> '_c
+)
+ident(
+  def align "TutorialLab/lab3_try.ml" 39 820 820 "_none_" 1 0 -1
+)
+"TutorialLab/lab3_try.ml" 32 666 676 "TutorialLab/lab3_try.ml" 32 666 678
+type(
+  '_a
+)
+ident(
+  def s1 "TutorialLab/lab3_try.ml" 32 666 679 "TutorialLab/lab3_try.ml" 34 708 738
+)
+"TutorialLab/lab3_try.ml" 32 666 679 "TutorialLab/lab3_try.ml" 32 666 681
+type(
+  '_b
+)
+ident(
+  def s2 "TutorialLab/lab3_try.ml" 33 684 686 "TutorialLab/lab3_try.ml" 34 708 738
+)
+"TutorialLab/lab3_try.ml" 33 684 690 "TutorialLab/lab3_try.ml" 33 684 697
+type(
+  int
+)
+ident(
+  def penalty "TutorialLab/lab3_try.ml" 34 708 709 "TutorialLab/lab3_try.ml" 34 708 738
+)
+"TutorialLab/lab3_try.ml" 33 684 700 "TutorialLab/lab3_try.ml" 33 684 702
+type(
+  int
+)

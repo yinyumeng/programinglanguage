@@ -1,0 +1,2221 @@
+"tut1_try/lab3_a0105408.ml" 6 89 98 "tut1_try/lab3_a0105408.ml" 6 89 104
+type(
+  < get : 'a -> 'b option; store : 'a -> 'b -> unit; .. >
+)
+"tut1_try/lab3_a0105408.ml" 7 106 120 "tut1_try/lab3_a0105408.ml" 7 106 134
+type(
+  ?random:bool -> int -> ('a, 'b) Hashtbl.t
+)
+ident(
+  ext_ref Hashtbl.create
+)
+"tut1_try/lab3_a0105408.ml" 7 106 135 "tut1_try/lab3_a0105408.ml" 7 106 137
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 7 106 120 "tut1_try/lab3_a0105408.ml" 7 106 137
+type(
+  ('a, 'b) Hashtbl.t
+)
+"tut1_try/lab3_a0105408.ml" 8 138 154 "tut1_try/lab3_a0105408.ml" 8 138 155
+type(
+  'a
+)
+ident(
+  def a "tut1_try/lab3_a0105408.ml" 9 162 168 "tut1_try/lab3_a0105408.ml" 11 206 226
+)
+"tut1_try/lab3_a0105408.ml" 10 173 186 "tut1_try/lab3_a0105408.ml" 10 173 198
+type(
+  ('a, 'b) Hashtbl.t -> 'a -> 'b
+)
+ident(
+  ext_ref Hashtbl.find
+)
+"tut1_try/lab3_a0105408.ml" 10 173 199 "tut1_try/lab3_a0105408.ml" 10 173 202
+type(
+  ('a, 'b) Hashtbl.t
+)
+"tut1_try/lab3_a0105408.ml" 10 173 203 "tut1_try/lab3_a0105408.ml" 10 173 204
+type(
+  'a
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 8 138 154 "tut1_try/lab3_a0105408.ml" 8 138 155
+)
+"tut1_try/lab3_a0105408.ml" 10 173 185 "tut1_try/lab3_a0105408.ml" 10 173 205
+type(
+  'b
+)
+"tut1_try/lab3_a0105408.ml" 10 173 181 "tut1_try/lab3_a0105408.ml" 10 173 205
+type(
+  'b option
+)
+"tut1_try/lab3_a0105408.ml" 11 206 217 "tut1_try/lab3_a0105408.ml" 11 206 218
+type(
+  exn
+)
+"tut1_try/lab3_a0105408.ml" 11 206 222 "tut1_try/lab3_a0105408.ml" 11 206 226
+type(
+  'b option
+)
+"tut1_try/lab3_a0105408.ml" 9 162 168 "tut1_try/lab3_a0105408.ml" 11 206 226
+type(
+  'b option
+)
+"tut1_try/lab3_a0105408.ml" 12 227 245 "tut1_try/lab3_a0105408.ml" 12 227 246
+type(
+  'a
+)
+ident(
+  def a "tut1_try/lab3_a0105408.ml" 12 227 251 "tut1_try/lab3_a0105408.ml" 13 260 289
+)
+"tut1_try/lab3_a0105408.ml" 12 227 252 "tut1_try/lab3_a0105408.ml" 12 227 253
+type(
+  'b
+)
+ident(
+  def b "tut1_try/lab3_a0105408.ml" 13 260 266 "tut1_try/lab3_a0105408.ml" 13 260 289
+)
+"tut1_try/lab3_a0105408.ml" 13 260 266 "tut1_try/lab3_a0105408.ml" 13 260 281
+type(
+  ('a, 'b) Hashtbl.t -> 'a -> 'b -> unit
+)
+ident(
+  ext_ref Hashtbl.replace
+)
+"tut1_try/lab3_a0105408.ml" 13 260 282 "tut1_try/lab3_a0105408.ml" 13 260 285
+type(
+  ('a, 'b) Hashtbl.t
+)
+"tut1_try/lab3_a0105408.ml" 13 260 286 "tut1_try/lab3_a0105408.ml" 13 260 287
+type(
+  'a
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 12 227 245 "tut1_try/lab3_a0105408.ml" 12 227 246
+)
+"tut1_try/lab3_a0105408.ml" 13 260 288 "tut1_try/lab3_a0105408.ml" 13 260 289
+type(
+  'b
+)
+ident(
+  int_ref b "tut1_try/lab3_a0105408.ml" 12 227 252 "tut1_try/lab3_a0105408.ml" 12 227 253
+)
+"tut1_try/lab3_a0105408.ml" 13 260 266 "tut1_try/lab3_a0105408.ml" 13 260 289
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 17 329 338 "tut1_try/lab3_a0105408.ml" 17 329 344
+type(
+  < compute : ('a -> 'b) -> 'a -> 'b; get : 'a -> 'b option;
+    store : 'a -> 'b -> unit; .. >
+)
+"tut1_try/lab3_a0105408.ml" 19 386 406 "tut1_try/lab3_a0105408.ml" 19 386 407
+type(
+  'a -> 'b
+)
+ident(
+  def f "tut1_try/lab3_a0105408.ml" 19 386 416 "tut1_try/lab3_a0105408.ml" 24 531 550
+)
+"tut1_try/lab3_a0105408.ml" 19 386 417 "tut1_try/lab3_a0105408.ml" 19 386 418
+type(
+  'a
+)
+ident(
+  def a "tut1_try/lab3_a0105408.ml" 19 386 423 "tut1_try/lab3_a0105408.ml" 24 531 550
+)
+"tut1_try/lab3_a0105408.ml" 20 430 443 "tut1_try/lab3_a0105408.ml" 20 430 447
+type(
+  < compute : ('a -> 'b) -> 'a -> 'b; get : 'a -> 'b option;
+    store : 'a -> 'b -> unit; .. >
+  as 'c
+)
+"tut1_try/lab3_a0105408.ml" 20 430 443 "tut1_try/lab3_a0105408.ml" 20 430 453
+type(
+  'a -> 'b option
+)
+"tut1_try/lab3_a0105408.ml" 20 430 454 "tut1_try/lab3_a0105408.ml" 20 430 455
+type(
+  'a
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 19 386 417 "tut1_try/lab3_a0105408.ml" 19 386 418
+)
+"tut1_try/lab3_a0105408.ml" 20 430 442 "tut1_try/lab3_a0105408.ml" 20 430 456
+type(
+  'b option
+)
+"tut1_try/lab3_a0105408.ml" 21 462 470 "tut1_try/lab3_a0105408.ml" 21 462 474
+type(
+  'b option
+)
+"tut1_try/lab3_a0105408.ml" 22 478 490 "tut1_try/lab3_a0105408.ml" 22 478 491
+type(
+  'b
+)
+ident(
+  def r "tut1_try/lab3_a0105408.ml" 23 501 509 "tut1_try/lab3_a0105408.ml" 23 501 530
+)
+"tut1_try/lab3_a0105408.ml" 22 478 494 "tut1_try/lab3_a0105408.ml" 22 478 495
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "tut1_try/lab3_a0105408.ml" 19 386 406 "tut1_try/lab3_a0105408.ml" 19 386 407
+)
+"tut1_try/lab3_a0105408.ml" 22 478 496 "tut1_try/lab3_a0105408.ml" 22 478 497
+type(
+  'a
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 19 386 417 "tut1_try/lab3_a0105408.ml" 19 386 418
+)
+"tut1_try/lab3_a0105408.ml" 22 478 494 "tut1_try/lab3_a0105408.ml" 22 478 497
+type(
+  'b
+)
+"tut1_try/lab3_a0105408.ml" 23 501 510 "tut1_try/lab3_a0105408.ml" 23 501 514
+type(
+  'c
+)
+"tut1_try/lab3_a0105408.ml" 23 501 510 "tut1_try/lab3_a0105408.ml" 23 501 522
+type(
+  'a -> 'b -> unit
+)
+"tut1_try/lab3_a0105408.ml" 23 501 523 "tut1_try/lab3_a0105408.ml" 23 501 524
+type(
+  'a
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 19 386 417 "tut1_try/lab3_a0105408.ml" 19 386 418
+)
+"tut1_try/lab3_a0105408.ml" 23 501 525 "tut1_try/lab3_a0105408.ml" 23 501 526
+type(
+  'b
+)
+ident(
+  int_ref r "tut1_try/lab3_a0105408.ml" 22 478 490 "tut1_try/lab3_a0105408.ml" 22 478 491
+)
+"tut1_try/lab3_a0105408.ml" 23 501 510 "tut1_try/lab3_a0105408.ml" 23 501 526
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 23 501 528 "tut1_try/lab3_a0105408.ml" 23 501 529
+type(
+  'b
+)
+ident(
+  int_ref r "tut1_try/lab3_a0105408.ml" 22 478 490 "tut1_try/lab3_a0105408.ml" 22 478 491
+)
+"tut1_try/lab3_a0105408.ml" 23 501 509 "tut1_try/lab3_a0105408.ml" 23 501 530
+type(
+  'b
+)
+"tut1_try/lab3_a0105408.ml" 22 478 486 "tut1_try/lab3_a0105408.ml" 23 501 530
+type(
+  'b
+)
+"tut1_try/lab3_a0105408.ml" 24 531 544 "tut1_try/lab3_a0105408.ml" 24 531 545
+type(
+  'b
+)
+ident(
+  def v "tut1_try/lab3_a0105408.ml" 24 531 549 "tut1_try/lab3_a0105408.ml" 24 531 550
+)
+"tut1_try/lab3_a0105408.ml" 24 531 539 "tut1_try/lab3_a0105408.ml" 24 531 545
+type(
+  'b option
+)
+"tut1_try/lab3_a0105408.ml" 24 531 549 "tut1_try/lab3_a0105408.ml" 24 531 550
+type(
+  'b
+)
+ident(
+  int_ref v "tut1_try/lab3_a0105408.ml" 24 531 544 "tut1_try/lab3_a0105408.ml" 24 531 545
+)
+"tut1_try/lab3_a0105408.ml" 20 430 436 "tut1_try/lab3_a0105408.ml" 24 531 550
+type(
+  'b
+)
+type(
+  'b
+)
+"tut1_try/lab3_a0105408.ml" 36 701 705 "tut1_try/lab3_a0105408.ml" 36 701 720
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  def align_w_penalty "tut1_try/lab3_a0105408.ml" 73 2011 2011 "_none_" 1 0 -1
+)
+"tut1_try/lab3_a0105408.ml" 36 701 721 "tut1_try/lab3_a0105408.ml" 36 701 723
+type(
+  string
+)
+ident(
+  def s1 "tut1_try/lab3_a0105408.ml" 36 701 724 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 36 701 724 "tut1_try/lab3_a0105408.ml" 36 701 726
+type(
+  string
+)
+ident(
+  def s2 "tut1_try/lab3_a0105408.ml" 36 701 727 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 36 701 727 "tut1_try/lab3_a0105408.ml" 36 701 740
+type(
+  int
+)
+ident(
+  def penalty_space "tut1_try/lab3_a0105408.ml" 37 742 744 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 37 742 748 "tut1_try/lab3_a0105408.ml" 37 742 750
+type(
+  int
+)
+ident(
+  def n1 "tut1_try/lab3_a0105408.ml" 38 773 775 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 37 742 753 "tut1_try/lab3_a0105408.ml" 37 742 766
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"tut1_try/lab3_a0105408.ml" 37 742 767 "tut1_try/lab3_a0105408.ml" 37 742 769
+type(
+  string
+)
+ident(
+  int_ref s1 "tut1_try/lab3_a0105408.ml" 36 701 721 "tut1_try/lab3_a0105408.ml" 36 701 723
+)
+"tut1_try/lab3_a0105408.ml" 37 742 753 "tut1_try/lab3_a0105408.ml" 37 742 769
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 38 773 779 "tut1_try/lab3_a0105408.ml" 38 773 781
+type(
+  int
+)
+ident(
+  def n2 "tut1_try/lab3_a0105408.ml" 39 804 806 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 38 773 784 "tut1_try/lab3_a0105408.ml" 38 773 797
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"tut1_try/lab3_a0105408.ml" 38 773 798 "tut1_try/lab3_a0105408.ml" 38 773 800
+type(
+  string
+)
+ident(
+  int_ref s2 "tut1_try/lab3_a0105408.ml" 36 701 724 "tut1_try/lab3_a0105408.ml" 36 701 726
+)
+"tut1_try/lab3_a0105408.ml" 38 773 784 "tut1_try/lab3_a0105408.ml" 38 773 800
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 39 804 810 "tut1_try/lab3_a0105408.ml" 39 804 813
+type(
+  'a -> 'a -> 'a
+)
+ident(
+  def max "tut1_try/lab3_a0105408.ml" 42 860 862 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 39 804 814 "tut1_try/lab3_a0105408.ml" 39 804 816
+type(
+  'a
+)
+ident(
+  def m1 "tut1_try/lab3_a0105408.ml" 39 804 817 "tut1_try/lab3_a0105408.ml" 41 845 856
+)
+"tut1_try/lab3_a0105408.ml" 39 804 817 "tut1_try/lab3_a0105408.ml" 39 804 819
+type(
+  'a
+)
+ident(
+  def m2 "tut1_try/lab3_a0105408.ml" 40 824 828 "tut1_try/lab3_a0105408.ml" 41 845 856
+)
+"tut1_try/lab3_a0105408.ml" 40 824 831 "tut1_try/lab3_a0105408.ml" 40 824 833
+type(
+  'a
+)
+ident(
+  int_ref m1 "tut1_try/lab3_a0105408.ml" 39 804 814 "tut1_try/lab3_a0105408.ml" 39 804 816
+)
+"tut1_try/lab3_a0105408.ml" 40 824 833 "tut1_try/lab3_a0105408.ml" 40 824 834
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"tut1_try/lab3_a0105408.ml" 40 824 834 "tut1_try/lab3_a0105408.ml" 40 824 836
+type(
+  'a
+)
+ident(
+  int_ref m2 "tut1_try/lab3_a0105408.ml" 39 804 817 "tut1_try/lab3_a0105408.ml" 39 804 819
+)
+"tut1_try/lab3_a0105408.ml" 40 824 831 "tut1_try/lab3_a0105408.ml" 40 824 836
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 40 824 842 "tut1_try/lab3_a0105408.ml" 40 824 844
+type(
+  'a
+)
+ident(
+  int_ref m2 "tut1_try/lab3_a0105408.ml" 39 804 817 "tut1_try/lab3_a0105408.ml" 39 804 819
+)
+"tut1_try/lab3_a0105408.ml" 41 845 854 "tut1_try/lab3_a0105408.ml" 41 845 856
+type(
+  'a
+)
+ident(
+  int_ref m1 "tut1_try/lab3_a0105408.ml" 39 804 814 "tut1_try/lab3_a0105408.ml" 39 804 816
+)
+"tut1_try/lab3_a0105408.ml" 40 824 828 "tut1_try/lab3_a0105408.ml" 41 845 856
+type(
+  'a
+)
+"tut1_try/lab3_a0105408.ml" 42 860 866 "tut1_try/lab3_a0105408.ml" 42 860 870
+type(
+  'b * 'c * 'd -> 'b * 'c * 'd -> 'b * 'c * 'd
+)
+ident(
+  def maxS "tut1_try/lab3_a0105408.ml" 45 950 951 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 42 860 872 "tut1_try/lab3_a0105408.ml" 42 860 874
+type(
+  'b
+)
+ident(
+  def m1 "tut1_try/lab3_a0105408.ml" 42 860 882 "tut1_try/lab3_a0105408.ml" 44 927 946
+)
+"tut1_try/lab3_a0105408.ml" 42 860 875 "tut1_try/lab3_a0105408.ml" 42 860 877
+type(
+  'c
+)
+ident(
+  def a1 "tut1_try/lab3_a0105408.ml" 42 860 882 "tut1_try/lab3_a0105408.ml" 44 927 946
+)
+"tut1_try/lab3_a0105408.ml" 42 860 878 "tut1_try/lab3_a0105408.ml" 42 860 880
+type(
+  'd
+)
+ident(
+  def a2 "tut1_try/lab3_a0105408.ml" 42 860 882 "tut1_try/lab3_a0105408.ml" 44 927 946
+)
+"tut1_try/lab3_a0105408.ml" 42 860 871 "tut1_try/lab3_a0105408.ml" 42 860 881
+type(
+  'b * 'c * 'd
+)
+"tut1_try/lab3_a0105408.ml" 42 860 883 "tut1_try/lab3_a0105408.ml" 42 860 885
+type(
+  'b
+)
+ident(
+  def m2 "tut1_try/lab3_a0105408.ml" 43 897 901 "tut1_try/lab3_a0105408.ml" 44 927 946
+)
+"tut1_try/lab3_a0105408.ml" 42 860 886 "tut1_try/lab3_a0105408.ml" 42 860 888
+type(
+  'c
+)
+ident(
+  def b1 "tut1_try/lab3_a0105408.ml" 43 897 901 "tut1_try/lab3_a0105408.ml" 44 927 946
+)
+"tut1_try/lab3_a0105408.ml" 42 860 889 "tut1_try/lab3_a0105408.ml" 42 860 891
+type(
+  'd
+)
+ident(
+  def b2 "tut1_try/lab3_a0105408.ml" 43 897 901 "tut1_try/lab3_a0105408.ml" 44 927 946
+)
+"tut1_try/lab3_a0105408.ml" 42 860 882 "tut1_try/lab3_a0105408.ml" 42 860 892
+type(
+  'b * 'c * 'd
+)
+"tut1_try/lab3_a0105408.ml" 43 897 904 "tut1_try/lab3_a0105408.ml" 43 897 906
+type(
+  'b
+)
+ident(
+  int_ref m1 "tut1_try/lab3_a0105408.ml" 42 860 872 "tut1_try/lab3_a0105408.ml" 42 860 874
+)
+"tut1_try/lab3_a0105408.ml" 43 897 906 "tut1_try/lab3_a0105408.ml" 43 897 907
+type(
+  'b -> 'b -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"tut1_try/lab3_a0105408.ml" 43 897 907 "tut1_try/lab3_a0105408.ml" 43 897 909
+type(
+  'b
+)
+ident(
+  int_ref m2 "tut1_try/lab3_a0105408.ml" 42 860 883 "tut1_try/lab3_a0105408.ml" 42 860 885
+)
+"tut1_try/lab3_a0105408.ml" 43 897 904 "tut1_try/lab3_a0105408.ml" 43 897 909
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 43 897 916 "tut1_try/lab3_a0105408.ml" 43 897 918
+type(
+  'b
+)
+ident(
+  int_ref m2 "tut1_try/lab3_a0105408.ml" 42 860 883 "tut1_try/lab3_a0105408.ml" 42 860 885
+)
+"tut1_try/lab3_a0105408.ml" 43 897 919 "tut1_try/lab3_a0105408.ml" 43 897 921
+type(
+  'c
+)
+ident(
+  int_ref b1 "tut1_try/lab3_a0105408.ml" 42 860 886 "tut1_try/lab3_a0105408.ml" 42 860 888
+)
+"tut1_try/lab3_a0105408.ml" 43 897 923 "tut1_try/lab3_a0105408.ml" 43 897 925
+type(
+  'd
+)
+ident(
+  int_ref b2 "tut1_try/lab3_a0105408.ml" 42 860 889 "tut1_try/lab3_a0105408.ml" 42 860 891
+)
+"tut1_try/lab3_a0105408.ml" 43 897 915 "tut1_try/lab3_a0105408.ml" 43 897 926
+type(
+  'b * 'c * 'd
+)
+"tut1_try/lab3_a0105408.ml" 44 927 937 "tut1_try/lab3_a0105408.ml" 44 927 939
+type(
+  'b
+)
+ident(
+  int_ref m1 "tut1_try/lab3_a0105408.ml" 42 860 872 "tut1_try/lab3_a0105408.ml" 42 860 874
+)
+"tut1_try/lab3_a0105408.ml" 44 927 940 "tut1_try/lab3_a0105408.ml" 44 927 942
+type(
+  'c
+)
+ident(
+  int_ref a1 "tut1_try/lab3_a0105408.ml" 42 860 875 "tut1_try/lab3_a0105408.ml" 42 860 877
+)
+"tut1_try/lab3_a0105408.ml" 44 927 943 "tut1_try/lab3_a0105408.ml" 44 927 945
+type(
+  'd
+)
+ident(
+  int_ref a2 "tut1_try/lab3_a0105408.ml" 42 860 878 "tut1_try/lab3_a0105408.ml" 42 860 880
+)
+"tut1_try/lab3_a0105408.ml" 44 927 936 "tut1_try/lab3_a0105408.ml" 44 927 946
+type(
+  'b * 'c * 'd
+)
+"tut1_try/lab3_a0105408.ml" 43 897 901 "tut1_try/lab3_a0105408.ml" 44 927 946
+type(
+  'b * 'c * 'd
+)
+"tut1_try/lab3_a0105408.ml" 45 950 955 "tut1_try/lab3_a0105408.ml" 45 950 965
+type(
+  int -> string -> string -> int * string * string -> int * string * string
+)
+ident(
+  def get_result "tut1_try/lab3_a0105408.ml" 47 1018 1020 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 45 950 966 "tut1_try/lab3_a0105408.ml" 45 950 971
+type(
+  int
+)
+ident(
+  def value "tut1_try/lab3_a0105408.ml" 45 950 972 "tut1_try/lab3_a0105408.ml" 46 991 1014
+)
+"tut1_try/lab3_a0105408.ml" 45 950 972 "tut1_try/lab3_a0105408.ml" 45 950 975
+type(
+  string
+)
+ident(
+  def las "tut1_try/lab3_a0105408.ml" 45 950 976 "tut1_try/lab3_a0105408.ml" 46 991 1014
+)
+"tut1_try/lab3_a0105408.ml" 45 950 976 "tut1_try/lab3_a0105408.ml" 45 950 979
+type(
+  string
+)
+ident(
+  def rad "tut1_try/lab3_a0105408.ml" 45 950 980 "tut1_try/lab3_a0105408.ml" 46 991 1014
+)
+"tut1_try/lab3_a0105408.ml" 45 950 981 "tut1_try/lab3_a0105408.ml" 45 950 982
+type(
+  int
+)
+ident(
+  def m "tut1_try/lab3_a0105408.ml" 46 991 993 "tut1_try/lab3_a0105408.ml" 46 991 1014
+)
+"tut1_try/lab3_a0105408.ml" 45 950 983 "tut1_try/lab3_a0105408.ml" 45 950 984
+type(
+  string
+)
+ident(
+  def a "tut1_try/lab3_a0105408.ml" 46 991 993 "tut1_try/lab3_a0105408.ml" 46 991 1014
+)
+"tut1_try/lab3_a0105408.ml" 45 950 985 "tut1_try/lab3_a0105408.ml" 45 950 986
+type(
+  string
+)
+ident(
+  def b "tut1_try/lab3_a0105408.ml" 46 991 993 "tut1_try/lab3_a0105408.ml" 46 991 1014
+)
+"tut1_try/lab3_a0105408.ml" 45 950 980 "tut1_try/lab3_a0105408.ml" 45 950 987
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 46 991 994 "tut1_try/lab3_a0105408.ml" 46 991 999
+type(
+  int
+)
+ident(
+  int_ref value "tut1_try/lab3_a0105408.ml" 45 950 966 "tut1_try/lab3_a0105408.ml" 45 950 971
+)
+"tut1_try/lab3_a0105408.ml" 46 991 999 "tut1_try/lab3_a0105408.ml" 46 991 1000
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1000 "tut1_try/lab3_a0105408.ml" 46 991 1001
+type(
+  int
+)
+ident(
+  int_ref m "tut1_try/lab3_a0105408.ml" 45 950 981 "tut1_try/lab3_a0105408.ml" 45 950 982
+)
+"tut1_try/lab3_a0105408.ml" 46 991 994 "tut1_try/lab3_a0105408.ml" 46 991 1001
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1002 "tut1_try/lab3_a0105408.ml" 46 991 1005
+type(
+  string
+)
+ident(
+  int_ref las "tut1_try/lab3_a0105408.ml" 45 950 972 "tut1_try/lab3_a0105408.ml" 45 950 975
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1005 "tut1_try/lab3_a0105408.ml" 46 991 1006
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1006 "tut1_try/lab3_a0105408.ml" 46 991 1007
+type(
+  string
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 45 950 983 "tut1_try/lab3_a0105408.ml" 45 950 984
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1002 "tut1_try/lab3_a0105408.ml" 46 991 1007
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1008 "tut1_try/lab3_a0105408.ml" 46 991 1011
+type(
+  string
+)
+ident(
+  int_ref rad "tut1_try/lab3_a0105408.ml" 45 950 976 "tut1_try/lab3_a0105408.ml" 45 950 979
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1011 "tut1_try/lab3_a0105408.ml" 46 991 1012
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1012 "tut1_try/lab3_a0105408.ml" 46 991 1013
+type(
+  string
+)
+ident(
+  int_ref b "tut1_try/lab3_a0105408.ml" 45 950 985 "tut1_try/lab3_a0105408.ml" 45 950 986
+)
+"tut1_try/lab3_a0105408.ml" 46 991 1008 "tut1_try/lab3_a0105408.ml" 46 991 1013
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 46 991 993 "tut1_try/lab3_a0105408.ml" 46 991 1014
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1024 "tut1_try/lab3_a0105408.ml" 47 1018 1029
+type(
+  'e -> 'e -> int
+)
+ident(
+  def score "tut1_try/lab3_a0105408.ml" 48 1061 1063 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1030 "tut1_try/lab3_a0105408.ml" 47 1018 1031
+type(
+  'e
+)
+ident(
+  def a "tut1_try/lab3_a0105408.ml" 47 1018 1032 "tut1_try/lab3_a0105408.ml" 47 1018 1057
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1032 "tut1_try/lab3_a0105408.ml" 47 1018 1033
+type(
+  'e
+)
+ident(
+  def b "tut1_try/lab3_a0105408.ml" 47 1018 1036 "tut1_try/lab3_a0105408.ml" 47 1018 1057
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1039 "tut1_try/lab3_a0105408.ml" 47 1018 1040
+type(
+  'e
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 47 1018 1030 "tut1_try/lab3_a0105408.ml" 47 1018 1031
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1040 "tut1_try/lab3_a0105408.ml" 47 1018 1041
+type(
+  'e -> 'e -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1041 "tut1_try/lab3_a0105408.ml" 47 1018 1042
+type(
+  'e
+)
+ident(
+  int_ref b "tut1_try/lab3_a0105408.ml" 47 1018 1032 "tut1_try/lab3_a0105408.ml" 47 1018 1033
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1039 "tut1_try/lab3_a0105408.ml" 47 1018 1042
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1048 "tut1_try/lab3_a0105408.ml" 47 1018 1049
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1055 "tut1_try/lab3_a0105408.ml" 47 1018 1057
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1036 "tut1_try/lab3_a0105408.ml" 47 1018 1057
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+type(
+  char -> string
+)
+ident(
+  def string_of_char "tut1_try/lab3_a0105408.ml" 49 1105 1107 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1082 "tut1_try/lab3_a0105408.ml" 48 1061 1083
+type(
+  char
+)
+ident(
+  def c "tut1_try/lab3_a0105408.ml" 48 1061 1086 "tut1_try/lab3_a0105408.ml" 48 1061 1101
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1086 "tut1_try/lab3_a0105408.ml" 48 1061 1097
+type(
+  int -> char -> string
+)
+ident(
+  ext_ref String.make
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1098 "tut1_try/lab3_a0105408.ml" 48 1061 1099
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1100 "tut1_try/lab3_a0105408.ml" 48 1061 1101
+type(
+  char
+)
+ident(
+  int_ref c "tut1_try/lab3_a0105408.ml" 48 1061 1082 "tut1_try/lab3_a0105408.ml" 48 1061 1083
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1086 "tut1_try/lab3_a0105408.ml" 48 1061 1101
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 49 1105 1111 "tut1_try/lab3_a0105408.ml" 49 1105 1115
+type(
+  (int * int, int * string * string) memo_table_ho
+)
+ident(
+  def mtab "tut1_try/lab3_a0105408.ml" 50 1139 1141 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 49 1105 1118 "tut1_try/lab3_a0105408.ml" 49 1105 1135
+type(
+  (int * int, int * string * string) memo_table_ho
+)
+"tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+type(
+  int -> int -> int * string * string
+)
+ident(
+  def aux "tut1_try/lab3_a0105408.ml" 50 1139 1141 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+)
+"tut1_try/lab3_a0105408.ml" 50 1139 1153 "tut1_try/lab3_a0105408.ml" 50 1139 1154
+type(
+  int
+)
+ident(
+  def i "tut1_try/lab3_a0105408.ml" 50 1139 1155 "tut1_try/lab3_a0105408.ml" 69 1908 1943
+)
+"tut1_try/lab3_a0105408.ml" 50 1139 1155 "tut1_try/lab3_a0105408.ml" 50 1139 1156
+type(
+  int
+)
+ident(
+  def j "tut1_try/lab3_a0105408.ml" 51 1159 1163 "tut1_try/lab3_a0105408.ml" 69 1908 1943
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1163 "tut1_try/lab3_a0105408.ml" 51 1159 1167
+type(
+  (int * int, int * string * string) memo_table_ho
+)
+ident(
+  int_ref mtab "tut1_try/lab3_a0105408.ml" 49 1105 1111 "tut1_try/lab3_a0105408.ml" 49 1105 1115
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1163 "tut1_try/lab3_a0105408.ml" 51 1159 1177
+type(
+  (int * int -> int * string * string) -> int * int -> int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+type(
+  int
+)
+ident(
+  def i "tut1_try/lab3_a0105408.ml" 52 1192 1196 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+type(
+  int
+)
+ident(
+  def j "tut1_try/lab3_a0105408.ml" 52 1192 1196 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1183 "tut1_try/lab3_a0105408.ml" 51 1159 1188
+type(
+  int * int
+)
+"tut1_try/lab3_a0105408.ml" 52 1192 1199 "tut1_try/lab3_a0105408.ml" 52 1192 1200
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 52 1192 1200 "tut1_try/lab3_a0105408.ml" 52 1192 1202
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"tut1_try/lab3_a0105408.ml" 52 1192 1202 "tut1_try/lab3_a0105408.ml" 52 1192 1204
+type(
+  int
+)
+ident(
+  int_ref n1 "tut1_try/lab3_a0105408.ml" 37 742 748 "tut1_try/lab3_a0105408.ml" 37 742 750
+)
+"tut1_try/lab3_a0105408.ml" 52 1192 1199 "tut1_try/lab3_a0105408.ml" 52 1192 1204
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 53 1210 1219 "tut1_try/lab3_a0105408.ml" 53 1210 1220
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 53 1210 1220 "tut1_try/lab3_a0105408.ml" 53 1210 1222
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"tut1_try/lab3_a0105408.ml" 53 1210 1222 "tut1_try/lab3_a0105408.ml" 53 1210 1224
+type(
+  int
+)
+ident(
+  int_ref n2 "tut1_try/lab3_a0105408.ml" 38 773 779 "tut1_try/lab3_a0105408.ml" 38 773 781
+)
+"tut1_try/lab3_a0105408.ml" 53 1210 1219 "tut1_try/lab3_a0105408.ml" 53 1210 1224
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 54 1231 1240 "tut1_try/lab3_a0105408.ml" 54 1231 1241
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 54 1231 1242 "tut1_try/lab3_a0105408.ml" 54 1231 1244
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 54 1231 1245 "tut1_try/lab3_a0105408.ml" 54 1231 1247
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 54 1231 1239 "tut1_try/lab3_a0105408.ml" 54 1231 1248
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 56 1299 1307 "tut1_try/lab3_a0105408.ml" 56 1299 1309
+type(
+  char
+)
+ident(
+  def c2 "tut1_try/lab3_a0105408.ml" 57 1331 1339 "tut1_try/lab3_a0105408.ml" 57 1331 1401
+)
+"tut1_try/lab3_a0105408.ml" 56 1299 1312 "tut1_try/lab3_a0105408.ml" 56 1299 1322
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"tut1_try/lab3_a0105408.ml" 56 1299 1323 "tut1_try/lab3_a0105408.ml" 56 1299 1325
+type(
+  string
+)
+ident(
+  int_ref s2 "tut1_try/lab3_a0105408.ml" 36 701 724 "tut1_try/lab3_a0105408.ml" 36 701 726
+)
+"tut1_try/lab3_a0105408.ml" 56 1299 1326 "tut1_try/lab3_a0105408.ml" 56 1299 1327
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 56 1299 1312 "tut1_try/lab3_a0105408.ml" 56 1299 1327
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1339 "tut1_try/lab3_a0105408.ml" 57 1331 1349
+type(
+  int -> string -> string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref get_result "tut1_try/lab3_a0105408.ml" 45 950 955 "tut1_try/lab3_a0105408.ml" 45 950 965
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1350 "tut1_try/lab3_a0105408.ml" 57 1331 1363
+type(
+  int
+)
+ident(
+  int_ref penalty_space "tut1_try/lab3_a0105408.ml" 36 701 727 "tut1_try/lab3_a0105408.ml" 36 701 740
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1364 "tut1_try/lab3_a0105408.ml" 57 1331 1367
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1369 "tut1_try/lab3_a0105408.ml" 57 1331 1383
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1384 "tut1_try/lab3_a0105408.ml" 57 1331 1386
+type(
+  char
+)
+ident(
+  int_ref c2 "tut1_try/lab3_a0105408.ml" 56 1299 1307 "tut1_try/lab3_a0105408.ml" 56 1299 1309
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1368 "tut1_try/lab3_a0105408.ml" 57 1331 1387
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1389 "tut1_try/lab3_a0105408.ml" 57 1331 1392
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1393 "tut1_try/lab3_a0105408.ml" 57 1331 1394
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1396 "tut1_try/lab3_a0105408.ml" 57 1331 1397
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1397 "tut1_try/lab3_a0105408.ml" 57 1331 1398
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1398 "tut1_try/lab3_a0105408.ml" 57 1331 1399
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1395 "tut1_try/lab3_a0105408.ml" 57 1331 1400
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1388 "tut1_try/lab3_a0105408.ml" 57 1331 1401
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 57 1331 1339 "tut1_try/lab3_a0105408.ml" 57 1331 1401
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 56 1299 1303 "tut1_try/lab3_a0105408.ml" 57 1331 1401
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 53 1210 1216 "tut1_try/lab3_a0105408.ml" 57 1331 1401
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 59 1412 1421 "tut1_try/lab3_a0105408.ml" 59 1412 1422
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 59 1412 1422 "tut1_try/lab3_a0105408.ml" 59 1412 1424
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"tut1_try/lab3_a0105408.ml" 59 1412 1424 "tut1_try/lab3_a0105408.ml" 59 1412 1426
+type(
+  int
+)
+ident(
+  int_ref n2 "tut1_try/lab3_a0105408.ml" 38 773 779 "tut1_try/lab3_a0105408.ml" 38 773 781
+)
+"tut1_try/lab3_a0105408.ml" 59 1412 1421 "tut1_try/lab3_a0105408.ml" 59 1412 1426
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 60 1433 1441 "tut1_try/lab3_a0105408.ml" 60 1433 1443
+type(
+  char
+)
+ident(
+  def c1 "tut1_try/lab3_a0105408.ml" 61 1465 1473 "tut1_try/lab3_a0105408.ml" 61 1465 1535
+)
+"tut1_try/lab3_a0105408.ml" 60 1433 1446 "tut1_try/lab3_a0105408.ml" 60 1433 1456
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"tut1_try/lab3_a0105408.ml" 60 1433 1457 "tut1_try/lab3_a0105408.ml" 60 1433 1459
+type(
+  string
+)
+ident(
+  int_ref s1 "tut1_try/lab3_a0105408.ml" 36 701 721 "tut1_try/lab3_a0105408.ml" 36 701 723
+)
+"tut1_try/lab3_a0105408.ml" 60 1433 1460 "tut1_try/lab3_a0105408.ml" 60 1433 1461
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 60 1433 1446 "tut1_try/lab3_a0105408.ml" 60 1433 1461
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1473 "tut1_try/lab3_a0105408.ml" 61 1465 1483
+type(
+  int -> string -> string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref get_result "tut1_try/lab3_a0105408.ml" 45 950 955 "tut1_try/lab3_a0105408.ml" 45 950 965
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1484 "tut1_try/lab3_a0105408.ml" 61 1465 1497
+type(
+  int
+)
+ident(
+  int_ref penalty_space "tut1_try/lab3_a0105408.ml" 36 701 727 "tut1_try/lab3_a0105408.ml" 36 701 740
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1499 "tut1_try/lab3_a0105408.ml" 61 1465 1513
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1514 "tut1_try/lab3_a0105408.ml" 61 1465 1516
+type(
+  char
+)
+ident(
+  int_ref c1 "tut1_try/lab3_a0105408.ml" 60 1433 1441 "tut1_try/lab3_a0105408.ml" 60 1433 1443
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1498 "tut1_try/lab3_a0105408.ml" 61 1465 1517
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1518 "tut1_try/lab3_a0105408.ml" 61 1465 1521
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1523 "tut1_try/lab3_a0105408.ml" 61 1465 1526
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1528 "tut1_try/lab3_a0105408.ml" 61 1465 1529
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1529 "tut1_try/lab3_a0105408.ml" 61 1465 1530
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1530 "tut1_try/lab3_a0105408.ml" 61 1465 1531
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1527 "tut1_try/lab3_a0105408.ml" 61 1465 1532
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1533 "tut1_try/lab3_a0105408.ml" 61 1465 1534
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1522 "tut1_try/lab3_a0105408.ml" 61 1465 1535
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 61 1465 1473 "tut1_try/lab3_a0105408.ml" 61 1465 1535
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 60 1433 1437 "tut1_try/lab3_a0105408.ml" 61 1465 1535
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 63 1548 1560 "tut1_try/lab3_a0105408.ml" 63 1548 1562
+type(
+  char
+)
+ident(
+  def c1 "tut1_try/lab3_a0105408.ml" 64 1584 1592 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 63 1548 1565 "tut1_try/lab3_a0105408.ml" 63 1548 1575
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"tut1_try/lab3_a0105408.ml" 63 1548 1576 "tut1_try/lab3_a0105408.ml" 63 1548 1578
+type(
+  string
+)
+ident(
+  int_ref s1 "tut1_try/lab3_a0105408.ml" 36 701 721 "tut1_try/lab3_a0105408.ml" 36 701 723
+)
+"tut1_try/lab3_a0105408.ml" 63 1548 1579 "tut1_try/lab3_a0105408.ml" 63 1548 1580
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 63 1548 1565 "tut1_try/lab3_a0105408.ml" 63 1548 1580
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 64 1584 1596 "tut1_try/lab3_a0105408.ml" 64 1584 1598
+type(
+  char
+)
+ident(
+  def c2 "tut1_try/lab3_a0105408.ml" 65 1620 1628 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 64 1584 1601 "tut1_try/lab3_a0105408.ml" 64 1584 1611
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"tut1_try/lab3_a0105408.ml" 64 1584 1612 "tut1_try/lab3_a0105408.ml" 64 1584 1614
+type(
+  string
+)
+ident(
+  int_ref s2 "tut1_try/lab3_a0105408.ml" 36 701 724 "tut1_try/lab3_a0105408.ml" 36 701 726
+)
+"tut1_try/lab3_a0105408.ml" 64 1584 1615 "tut1_try/lab3_a0105408.ml" 64 1584 1616
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 64 1584 1601 "tut1_try/lab3_a0105408.ml" 64 1584 1616
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 65 1620 1632 "tut1_try/lab3_a0105408.ml" 65 1620 1633
+type(
+  int
+)
+ident(
+  def m "tut1_try/lab3_a0105408.ml" 66 1651 1659 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 65 1620 1636 "tut1_try/lab3_a0105408.ml" 65 1620 1641
+type(
+  char -> char -> int
+)
+ident(
+  int_ref score "tut1_try/lab3_a0105408.ml" 47 1018 1024 "tut1_try/lab3_a0105408.ml" 47 1018 1029
+)
+"tut1_try/lab3_a0105408.ml" 65 1620 1642 "tut1_try/lab3_a0105408.ml" 65 1620 1644
+type(
+  char
+)
+ident(
+  int_ref c1 "tut1_try/lab3_a0105408.ml" 63 1548 1560 "tut1_try/lab3_a0105408.ml" 63 1548 1562
+)
+"tut1_try/lab3_a0105408.ml" 65 1620 1645 "tut1_try/lab3_a0105408.ml" 65 1620 1647
+type(
+  char
+)
+ident(
+  int_ref c2 "tut1_try/lab3_a0105408.ml" 64 1584 1596 "tut1_try/lab3_a0105408.ml" 64 1584 1598
+)
+"tut1_try/lab3_a0105408.ml" 65 1620 1636 "tut1_try/lab3_a0105408.ml" 65 1620 1647
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1663 "tut1_try/lab3_a0105408.ml" 66 1651 1665
+type(
+  int * string * string
+)
+ident(
+  def m1 "tut1_try/lab3_a0105408.ml" 67 1742 1750 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1668 "tut1_try/lab3_a0105408.ml" 66 1651 1678
+type(
+  int -> string -> string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref get_result "tut1_try/lab3_a0105408.ml" 45 950 955 "tut1_try/lab3_a0105408.ml" 45 950 965
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1679 "tut1_try/lab3_a0105408.ml" 66 1651 1680
+type(
+  int
+)
+ident(
+  int_ref m "tut1_try/lab3_a0105408.ml" 65 1620 1632 "tut1_try/lab3_a0105408.ml" 65 1620 1633
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1682 "tut1_try/lab3_a0105408.ml" 66 1651 1696
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1697 "tut1_try/lab3_a0105408.ml" 66 1651 1699
+type(
+  char
+)
+ident(
+  int_ref c1 "tut1_try/lab3_a0105408.ml" 63 1548 1560 "tut1_try/lab3_a0105408.ml" 63 1548 1562
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1681 "tut1_try/lab3_a0105408.ml" 66 1651 1700
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1702 "tut1_try/lab3_a0105408.ml" 66 1651 1716
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1717 "tut1_try/lab3_a0105408.ml" 66 1651 1719
+type(
+  char
+)
+ident(
+  int_ref c2 "tut1_try/lab3_a0105408.ml" 64 1584 1596 "tut1_try/lab3_a0105408.ml" 64 1584 1598
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1701 "tut1_try/lab3_a0105408.ml" 66 1651 1720
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1722 "tut1_try/lab3_a0105408.ml" 66 1651 1725
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1727 "tut1_try/lab3_a0105408.ml" 66 1651 1728
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1728 "tut1_try/lab3_a0105408.ml" 66 1651 1729
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1729 "tut1_try/lab3_a0105408.ml" 66 1651 1730
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1726 "tut1_try/lab3_a0105408.ml" 66 1651 1731
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1733 "tut1_try/lab3_a0105408.ml" 66 1651 1734
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1734 "tut1_try/lab3_a0105408.ml" 66 1651 1735
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1735 "tut1_try/lab3_a0105408.ml" 66 1651 1736
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1732 "tut1_try/lab3_a0105408.ml" 66 1651 1737
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1721 "tut1_try/lab3_a0105408.ml" 66 1651 1738
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1668 "tut1_try/lab3_a0105408.ml" 66 1651 1738
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1754 "tut1_try/lab3_a0105408.ml" 67 1742 1756
+type(
+  int * string * string
+)
+ident(
+  def m2 "tut1_try/lab3_a0105408.ml" 68 1825 1833 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1759 "tut1_try/lab3_a0105408.ml" 67 1742 1769
+type(
+  int -> string -> string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref get_result "tut1_try/lab3_a0105408.ml" 45 950 955 "tut1_try/lab3_a0105408.ml" 45 950 965
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1770 "tut1_try/lab3_a0105408.ml" 67 1742 1783
+type(
+  int
+)
+ident(
+  int_ref penalty_space "tut1_try/lab3_a0105408.ml" 36 701 727 "tut1_try/lab3_a0105408.ml" 36 701 740
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1784 "tut1_try/lab3_a0105408.ml" 67 1742 1787
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1789 "tut1_try/lab3_a0105408.ml" 67 1742 1803
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1804 "tut1_try/lab3_a0105408.ml" 67 1742 1806
+type(
+  char
+)
+ident(
+  int_ref c2 "tut1_try/lab3_a0105408.ml" 64 1584 1596 "tut1_try/lab3_a0105408.ml" 64 1584 1598
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1788 "tut1_try/lab3_a0105408.ml" 67 1742 1807
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1809 "tut1_try/lab3_a0105408.ml" 67 1742 1812
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1813 "tut1_try/lab3_a0105408.ml" 67 1742 1814
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1816 "tut1_try/lab3_a0105408.ml" 67 1742 1817
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1817 "tut1_try/lab3_a0105408.ml" 67 1742 1818
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1818 "tut1_try/lab3_a0105408.ml" 67 1742 1819
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1815 "tut1_try/lab3_a0105408.ml" 67 1742 1820
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1808 "tut1_try/lab3_a0105408.ml" 67 1742 1821
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1759 "tut1_try/lab3_a0105408.ml" 67 1742 1821
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1837 "tut1_try/lab3_a0105408.ml" 68 1825 1839
+type(
+  int * string * string
+)
+ident(
+  def m3 "tut1_try/lab3_a0105408.ml" 69 1908 1916 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1842 "tut1_try/lab3_a0105408.ml" 68 1825 1852
+type(
+  int -> string -> string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref get_result "tut1_try/lab3_a0105408.ml" 45 950 955 "tut1_try/lab3_a0105408.ml" 45 950 965
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1853 "tut1_try/lab3_a0105408.ml" 68 1825 1866
+type(
+  int
+)
+ident(
+  int_ref penalty_space "tut1_try/lab3_a0105408.ml" 36 701 727 "tut1_try/lab3_a0105408.ml" 36 701 740
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1868 "tut1_try/lab3_a0105408.ml" 68 1825 1882
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "tut1_try/lab3_a0105408.ml" 48 1061 1067 "tut1_try/lab3_a0105408.ml" 48 1061 1081
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1883 "tut1_try/lab3_a0105408.ml" 68 1825 1885
+type(
+  char
+)
+ident(
+  int_ref c1 "tut1_try/lab3_a0105408.ml" 63 1548 1560 "tut1_try/lab3_a0105408.ml" 63 1548 1562
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1867 "tut1_try/lab3_a0105408.ml" 68 1825 1886
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1887 "tut1_try/lab3_a0105408.ml" 68 1825 1890
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1892 "tut1_try/lab3_a0105408.ml" 68 1825 1895
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1897 "tut1_try/lab3_a0105408.ml" 68 1825 1898
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 51 1159 1184 "tut1_try/lab3_a0105408.ml" 51 1159 1185
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1898 "tut1_try/lab3_a0105408.ml" 68 1825 1899
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1899 "tut1_try/lab3_a0105408.ml" 68 1825 1900
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1896 "tut1_try/lab3_a0105408.ml" 68 1825 1901
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1902 "tut1_try/lab3_a0105408.ml" 68 1825 1903
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 51 1159 1186 "tut1_try/lab3_a0105408.ml" 51 1159 1187
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1891 "tut1_try/lab3_a0105408.ml" 68 1825 1904
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1842 "tut1_try/lab3_a0105408.ml" 68 1825 1904
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1916 "tut1_try/lab3_a0105408.ml" 69 1908 1920
+type(
+  int * string * string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref maxS "tut1_try/lab3_a0105408.ml" 42 860 866 "tut1_try/lab3_a0105408.ml" 42 860 870
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1921 "tut1_try/lab3_a0105408.ml" 69 1908 1923
+type(
+  int * string * string
+)
+ident(
+  int_ref m1 "tut1_try/lab3_a0105408.ml" 66 1651 1663 "tut1_try/lab3_a0105408.ml" 66 1651 1665
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1925 "tut1_try/lab3_a0105408.ml" 69 1908 1929
+type(
+  int * string * string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref maxS "tut1_try/lab3_a0105408.ml" 42 860 866 "tut1_try/lab3_a0105408.ml" 42 860 870
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1930 "tut1_try/lab3_a0105408.ml" 69 1908 1932
+type(
+  int * string * string
+)
+ident(
+  int_ref m2 "tut1_try/lab3_a0105408.ml" 67 1742 1754 "tut1_try/lab3_a0105408.ml" 67 1742 1756
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1933 "tut1_try/lab3_a0105408.ml" 69 1908 1935
+type(
+  int * string * string
+)
+ident(
+  int_ref m3 "tut1_try/lab3_a0105408.ml" 68 1825 1837 "tut1_try/lab3_a0105408.ml" 68 1825 1839
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1924 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1916 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 68 1825 1833 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 67 1742 1750 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 66 1651 1659 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 65 1620 1628 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 64 1584 1592 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 63 1548 1556 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 59 1412 1418 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 52 1192 1196 "tut1_try/lab3_a0105408.ml" 69 1908 1936
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1178 "tut1_try/lab3_a0105408.ml" 69 1908 1937
+type(
+  int * int -> int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1939 "tut1_try/lab3_a0105408.ml" 69 1908 1940
+type(
+  int
+)
+ident(
+  int_ref i "tut1_try/lab3_a0105408.ml" 50 1139 1153 "tut1_try/lab3_a0105408.ml" 50 1139 1154
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1941 "tut1_try/lab3_a0105408.ml" 69 1908 1942
+type(
+  int
+)
+ident(
+  int_ref j "tut1_try/lab3_a0105408.ml" 50 1139 1155 "tut1_try/lab3_a0105408.ml" 50 1139 1156
+)
+"tut1_try/lab3_a0105408.ml" 69 1908 1938 "tut1_try/lab3_a0105408.ml" 69 1908 1943
+type(
+  int * int
+)
+"tut1_try/lab3_a0105408.ml" 51 1159 1163 "tut1_try/lab3_a0105408.ml" 69 1908 1943
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 70 1944 1949 "tut1_try/lab3_a0105408.ml" 70 1944 1952
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "tut1_try/lab3_a0105408.ml" 50 1139 1149 "tut1_try/lab3_a0105408.ml" 50 1139 1152
+)
+"tut1_try/lab3_a0105408.ml" 70 1944 1953 "tut1_try/lab3_a0105408.ml" 70 1944 1954
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 70 1944 1955 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 70 1944 1949 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 50 1139 1141 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 49 1105 1107 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 48 1061 1063 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 47 1018 1020 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 45 950 951 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 42 860 862 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 39 804 806 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 38 773 775 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 37 742 744 "tut1_try/lab3_a0105408.ml" 70 1944 1956
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 73 2011 2015 "tut1_try/lab3_a0105408.ml" 73 2011 2020
+type(
+  string -> string -> int * string * string
+)
+ident(
+  def align "tut1_try/lab3_a0105408.ml" 79 2175 2175 "_none_" 1 0 -1
+)
+"tut1_try/lab3_a0105408.ml" 73 2011 2021 "tut1_try/lab3_a0105408.ml" 73 2011 2023
+type(
+  string
+)
+ident(
+  def s1 "tut1_try/lab3_a0105408.ml" 73 2011 2024 "tut1_try/lab3_a0105408.ml" 75 2053 2083
+)
+"tut1_try/lab3_a0105408.ml" 73 2011 2024 "tut1_try/lab3_a0105408.ml" 73 2011 2026
+type(
+  string
+)
+ident(
+  def s2 "tut1_try/lab3_a0105408.ml" 74 2029 2031 "tut1_try/lab3_a0105408.ml" 75 2053 2083
+)
+"tut1_try/lab3_a0105408.ml" 74 2029 2035 "tut1_try/lab3_a0105408.ml" 74 2029 2042
+type(
+  int
+)
+ident(
+  def penalty "tut1_try/lab3_a0105408.ml" 75 2053 2054 "tut1_try/lab3_a0105408.ml" 75 2053 2083
+)
+"tut1_try/lab3_a0105408.ml" 74 2029 2045 "tut1_try/lab3_a0105408.ml" 74 2029 2047
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 75 2053 2054 "tut1_try/lab3_a0105408.ml" 75 2053 2069
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  int_ref align_w_penalty "tut1_try/lab3_a0105408.ml" 36 701 705 "tut1_try/lab3_a0105408.ml" 36 701 720
+)
+"tut1_try/lab3_a0105408.ml" 75 2053 2070 "tut1_try/lab3_a0105408.ml" 75 2053 2072
+type(
+  string
+)
+ident(
+  int_ref s1 "tut1_try/lab3_a0105408.ml" 73 2011 2021 "tut1_try/lab3_a0105408.ml" 73 2011 2023
+)
+"tut1_try/lab3_a0105408.ml" 75 2053 2073 "tut1_try/lab3_a0105408.ml" 75 2053 2075
+type(
+  string
+)
+ident(
+  int_ref s2 "tut1_try/lab3_a0105408.ml" 73 2011 2024 "tut1_try/lab3_a0105408.ml" 73 2011 2026
+)
+"tut1_try/lab3_a0105408.ml" 75 2053 2076 "tut1_try/lab3_a0105408.ml" 75 2053 2083
+type(
+  int
+)
+ident(
+  int_ref penalty "tut1_try/lab3_a0105408.ml" 74 2029 2035 "tut1_try/lab3_a0105408.ml" 74 2029 2042
+)
+"tut1_try/lab3_a0105408.ml" 75 2053 2054 "tut1_try/lab3_a0105408.ml" 75 2053 2083
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 74 2029 2031 "tut1_try/lab3_a0105408.ml" 75 2053 2083
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 79 2175 2179 "tut1_try/lab3_a0105408.ml" 79 2175 2190
+type(
+  string -> string -> int -> unit
+)
+ident(
+  def align_print "tut1_try/lab3_a0105408.ml" 92 2559 2559 "_none_" 1 0 -1
+)
+"tut1_try/lab3_a0105408.ml" 79 2175 2191 "tut1_try/lab3_a0105408.ml" 79 2175 2193
+type(
+  string
+)
+ident(
+  def s1 "tut1_try/lab3_a0105408.ml" 79 2175 2194 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 79 2175 2194 "tut1_try/lab3_a0105408.ml" 79 2175 2196
+type(
+  string
+)
+ident(
+  def s2 "tut1_try/lab3_a0105408.ml" 79 2175 2197 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 79 2175 2197 "tut1_try/lab3_a0105408.ml" 79 2175 2210
+type(
+  int
+)
+ident(
+  def penalty_space "tut1_try/lab3_a0105408.ml" 80 2213 2214 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 80 2213 2218 "tut1_try/lab3_a0105408.ml" 80 2213 2226
+type(
+  char -> char -> string
+)
+ident(
+  def get_sign "tut1_try/lab3_a0105408.ml" 84 2309 2310 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 80 2213 2227 "tut1_try/lab3_a0105408.ml" 80 2213 2229
+type(
+  char
+)
+ident(
+  def ac "tut1_try/lab3_a0105408.ml" 80 2213 2230 "tut1_try/lab3_a0105408.ml" 83 2294 2305
+)
+"tut1_try/lab3_a0105408.ml" 80 2213 2230 "tut1_try/lab3_a0105408.ml" 80 2213 2232
+type(
+  char
+)
+ident(
+  def bc "tut1_try/lab3_a0105408.ml" 81 2236 2238 "tut1_try/lab3_a0105408.ml" 83 2294 2305
+)
+"tut1_try/lab3_a0105408.ml" 81 2236 2241 "tut1_try/lab3_a0105408.ml" 81 2236 2243
+type(
+  char
+)
+ident(
+  int_ref ac "tut1_try/lab3_a0105408.ml" 80 2213 2227 "tut1_try/lab3_a0105408.ml" 80 2213 2229
+)
+"tut1_try/lab3_a0105408.ml" 81 2236 2243 "tut1_try/lab3_a0105408.ml" 81 2236 2244
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"tut1_try/lab3_a0105408.ml" 81 2236 2244 "tut1_try/lab3_a0105408.ml" 81 2236 2246
+type(
+  char
+)
+ident(
+  int_ref bc "tut1_try/lab3_a0105408.ml" 80 2213 2230 "tut1_try/lab3_a0105408.ml" 80 2213 2232
+)
+"tut1_try/lab3_a0105408.ml" 81 2236 2241 "tut1_try/lab3_a0105408.ml" 81 2236 2246
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 81 2236 2253 "tut1_try/lab3_a0105408.ml" 81 2236 2256
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2268 "tut1_try/lab3_a0105408.ml" 82 2258 2270
+type(
+  char
+)
+ident(
+  int_ref ac "tut1_try/lab3_a0105408.ml" 80 2213 2227 "tut1_try/lab3_a0105408.ml" 80 2213 2229
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2270 "tut1_try/lab3_a0105408.ml" 82 2258 2271
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2271 "tut1_try/lab3_a0105408.ml" 82 2258 2274
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2268 "tut1_try/lab3_a0105408.ml" 82 2258 2274
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2275 "tut1_try/lab3_a0105408.ml" 82 2258 2277
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2277 "tut1_try/lab3_a0105408.ml" 82 2258 2279
+type(
+  char
+)
+ident(
+  int_ref bc "tut1_try/lab3_a0105408.ml" 80 2213 2230 "tut1_try/lab3_a0105408.ml" 80 2213 2232
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2279 "tut1_try/lab3_a0105408.ml" 82 2258 2280
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2280 "tut1_try/lab3_a0105408.ml" 82 2258 2283
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2277 "tut1_try/lab3_a0105408.ml" 82 2258 2283
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2268 "tut1_try/lab3_a0105408.ml" 82 2258 2283
+type(
+  bool
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2290 "tut1_try/lab3_a0105408.ml" 82 2258 2293
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 83 2294 2302 "tut1_try/lab3_a0105408.ml" 83 2294 2305
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 82 2258 2265 "tut1_try/lab3_a0105408.ml" 83 2294 2305
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 81 2236 2238 "tut1_try/lab3_a0105408.ml" 83 2294 2305
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2315 "tut1_try/lab3_a0105408.ml" 84 2309 2316
+type(
+  int
+)
+ident(
+  def m "tut1_try/lab3_a0105408.ml" 85 2365 2366 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2317 "tut1_try/lab3_a0105408.ml" 84 2309 2318
+type(
+  string
+)
+ident(
+  def a "tut1_try/lab3_a0105408.ml" 85 2365 2366 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2319 "tut1_try/lab3_a0105408.ml" 84 2309 2320
+type(
+  string
+)
+ident(
+  def b "tut1_try/lab3_a0105408.ml" 85 2365 2366 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2314 "tut1_try/lab3_a0105408.ml" 84 2309 2321
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2325 "tut1_try/lab3_a0105408.ml" 84 2309 2340
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  int_ref align_w_penalty "tut1_try/lab3_a0105408.ml" 36 701 705 "tut1_try/lab3_a0105408.ml" 36 701 720
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2341 "tut1_try/lab3_a0105408.ml" 84 2309 2343
+type(
+  string
+)
+ident(
+  int_ref s1 "tut1_try/lab3_a0105408.ml" 79 2175 2191 "tut1_try/lab3_a0105408.ml" 79 2175 2193
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2344 "tut1_try/lab3_a0105408.ml" 84 2309 2346
+type(
+  string
+)
+ident(
+  int_ref s2 "tut1_try/lab3_a0105408.ml" 79 2175 2194 "tut1_try/lab3_a0105408.ml" 79 2175 2196
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2347 "tut1_try/lab3_a0105408.ml" 84 2309 2360
+type(
+  int
+)
+ident(
+  int_ref penalty_space "tut1_try/lab3_a0105408.ml" 79 2175 2197 "tut1_try/lab3_a0105408.ml" 79 2175 2210
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2324 "tut1_try/lab3_a0105408.ml" 84 2309 2361
+type(
+  int * string * string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2366 "tut1_try/lab3_a0105408.ml" 85 2365 2378
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2380 "tut1_try/lab3_a0105408.ml" 85 2365 2381
+type(
+  string
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 84 2309 2317 "tut1_try/lab3_a0105408.ml" 84 2309 2318
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2381 "tut1_try/lab3_a0105408.ml" 85 2365 2382
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2382 "tut1_try/lab3_a0105408.ml" 85 2365 2386
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2386 "tut1_try/lab3_a0105408.ml" 85 2365 2387
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2387 "tut1_try/lab3_a0105408.ml" 85 2365 2388
+type(
+  string
+)
+ident(
+  int_ref b "tut1_try/lab3_a0105408.ml" 84 2309 2319 "tut1_try/lab3_a0105408.ml" 84 2309 2320
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2388 "tut1_try/lab3_a0105408.ml" 85 2365 2389
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2389 "tut1_try/lab3_a0105408.ml" 85 2365 2393
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2387 "tut1_try/lab3_a0105408.ml" 85 2365 2393
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2382 "tut1_try/lab3_a0105408.ml" 85 2365 2393
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2379 "tut1_try/lab3_a0105408.ml" 85 2365 2394
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2366 "tut1_try/lab3_a0105408.ml" 85 2365 2394
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2405 "tut1_try/lab3_a0105408.ml" 86 2396 2406
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2411 "tut1_try/lab3_a0105408.ml" 86 2396 2424
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2425 "tut1_try/lab3_a0105408.ml" 86 2396 2426
+type(
+  string
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 84 2309 2317 "tut1_try/lab3_a0105408.ml" 84 2309 2318
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2411 "tut1_try/lab3_a0105408.ml" 86 2396 2426
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2427 "tut1_try/lab3_a0105408.ml" 86 2396 2428
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2429 "tut1_try/lab3_a0105408.ml" 86 2396 2430
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2410 "tut1_try/lab3_a0105408.ml" 86 2396 2431
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2437 "tut1_try/lab3_a0105408.ml" 87 2435 2449
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2451 "tut1_try/lab3_a0105408.ml" 87 2435 2459
+type(
+  char -> char -> string
+)
+ident(
+  int_ref get_sign "tut1_try/lab3_a0105408.ml" 80 2213 2218 "tut1_try/lab3_a0105408.ml" 80 2213 2226
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2461 "tut1_try/lab3_a0105408.ml" 87 2435 2471
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2472 "tut1_try/lab3_a0105408.ml" 87 2435 2473
+type(
+  string
+)
+ident(
+  int_ref a "tut1_try/lab3_a0105408.ml" 84 2309 2317 "tut1_try/lab3_a0105408.ml" 84 2309 2318
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2474 "tut1_try/lab3_a0105408.ml" 87 2435 2475
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2460 "tut1_try/lab3_a0105408.ml" 87 2435 2476
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2479 "tut1_try/lab3_a0105408.ml" 87 2435 2489
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2490 "tut1_try/lab3_a0105408.ml" 87 2435 2491
+type(
+  string
+)
+ident(
+  int_ref b "tut1_try/lab3_a0105408.ml" 84 2309 2319 "tut1_try/lab3_a0105408.ml" 84 2309 2320
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2492 "tut1_try/lab3_a0105408.ml" 87 2435 2493
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2478 "tut1_try/lab3_a0105408.ml" 87 2435 2494
+type(
+  char
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2450 "tut1_try/lab3_a0105408.ml" 87 2435 2495
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 87 2435 2437 "tut1_try/lab3_a0105408.ml" 87 2435 2495
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2397 "tut1_try/lab3_a0105408.ml" 88 2496 2501
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2504 "tut1_try/lab3_a0105408.ml" 89 2503 2516
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2518 "tut1_try/lab3_a0105408.ml" 89 2503 2530
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2530 "tut1_try/lab3_a0105408.ml" 89 2503 2531
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2532 "tut1_try/lab3_a0105408.ml" 89 2503 2545
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2546 "tut1_try/lab3_a0105408.ml" 89 2503 2547
+type(
+  int
+)
+ident(
+  int_ref m "tut1_try/lab3_a0105408.ml" 84 2309 2315 "tut1_try/lab3_a0105408.ml" 84 2309 2316
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2531 "tut1_try/lab3_a0105408.ml" 89 2503 2548
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2548 "tut1_try/lab3_a0105408.ml" 89 2503 2549
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2549 "tut1_try/lab3_a0105408.ml" 89 2503 2553
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2531 "tut1_try/lab3_a0105408.ml" 89 2503 2553
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2517 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 89 2503 2504 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 86 2396 2397 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 85 2365 2366 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 84 2309 2310 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 80 2213 2214 "tut1_try/lab3_a0105408.ml" 89 2503 2554
+type(
+  unit
+)
+"tut1_try/lab3_a0105408.ml" 92 2559 2559 "tut1_try/lab3_a0105408.ml" 92 2559 2570
+type(
+  string -> string -> int -> unit
+)
+ident(
+  int_ref align_print "tut1_try/lab3_a0105408.ml" 79 2175 2179 "tut1_try/lab3_a0105408.ml" 79 2175 2190
+)
+"tut1_try/lab3_a0105408.ml" 92 2559 2571 "tut1_try/lab3_a0105408.ml" 92 2559 2582
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 92 2559 2583 "tut1_try/lab3_a0105408.ml" 92 2559 2596
+type(
+  string
+)
+"tut1_try/lab3_a0105408.ml" 92 2559 2597 "tut1_try/lab3_a0105408.ml" 92 2559 2601
+type(
+  int
+)
+"tut1_try/lab3_a0105408.ml" 92 2559 2559 "tut1_try/lab3_a0105408.ml" 92 2559 2601
+type(
+  unit
+)

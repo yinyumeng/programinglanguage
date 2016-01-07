@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>tut9</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Ocaml.ocamlbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>ocaml.ocamlnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>External files/arg.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/arg.mli</location>
+		</link>
+		<link>
+			<name>External files/array.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/array.mli</location>
+		</link>
+		<link>
+			<name>External files/buffer.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/buffer.mli</location>
+		</link>
+		<link>
+			<name>External files/char.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/char.mli</location>
+		</link>
+		<link>
+			<name>External files/filename.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/filename.mli</location>
+		</link>
+		<link>
+			<name>External files/hashtbl.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/hashtbl.mli</location>
+		</link>
+		<link>
+			<name>External files/lazy.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/lazy.mli</location>
+		</link>
+		<link>
+			<name>External files/lexing.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/lexing.mli</location>
+		</link>
+		<link>
+			<name>External files/list.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/list.mli</location>
+		</link>
+		<link>
+			<name>External files/num.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/num.mli</location>
+		</link>
+		<link>
+			<name>External files/oo.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/oo.mli</location>
+		</link>
+		<link>
+			<name>External files/printexc.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/printexc.mli</location>
+		</link>
+		<link>
+			<name>External files/printf.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/printf.mli</location>
+		</link>
+		<link>
+			<name>External files/str.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/str.mli</location>
+		</link>
+		<link>
+			<name>External files/string.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/string.mli</location>
+		</link>
+		<link>
+			<name>External files/sys.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/sys.mli</location>
+		</link>
+		<link>
+			<name>External files/unix.mli</name>
+			<type>1</type>
+			<location>/usr/local/lib/ocaml/unix.mli</location>
+		</link>
+	</linkedResources>
+</projectDescription>

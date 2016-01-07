@@ -1,0 +1,844 @@
+"Revise/lab1.ml" 23 493 497 "Revise/lab1.ml" 23 493 501
+type(
+  'a list -> 'a
+)
+ident(
+  def last "Revise/lab1.ml" 32 701 701 "_none_" 1 0 -1
+)
+"Revise/lab1.ml" 23 493 503 "Revise/lab1.ml" 23 493 505
+type(
+  'a list
+)
+ident(
+  def xs "Revise/lab1.ml" 23 493 515 "Revise/lab1.ml" 30 674 697
+)
+"Revise/lab1.ml" 24 522 534 "Revise/lab1.ml" 24 522 537
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  def aux "Revise/lab1.ml" 24 522 526 "Revise/lab1.ml" 30 674 697
+)
+"Revise/lab1.ml" 24 522 538 "Revise/lab1.ml" 24 522 540
+type(
+  'b list
+)
+ident(
+  def xs "Revise/lab1.ml" 24 522 541 "Revise/lab1.ml" 27 591 618
+)
+"Revise/lab1.ml" 24 522 541 "Revise/lab1.ml" 24 522 545
+type(
+  'b
+)
+ident(
+  def prev "Revise/lab1.ml" 25 548 556 "Revise/lab1.ml" 27 591 618
+)
+"Revise/lab1.ml" 25 548 562 "Revise/lab1.ml" 25 548 564
+type(
+  'b list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 24 522 538 "Revise/lab1.ml" 24 522 540
+)
+"Revise/lab1.ml" 26 570 580 "Revise/lab1.ml" 26 570 582
+type(
+  'b list
+)
+"Revise/lab1.ml" 26 570 586 "Revise/lab1.ml" 26 570 590
+type(
+  'b
+)
+ident(
+  int_ref prev "Revise/lab1.ml" 24 522 541 "Revise/lab1.ml" 24 522 545
+)
+"Revise/lab1.ml" 27 591 601 "Revise/lab1.ml" 27 591 602
+type(
+  'b
+)
+ident(
+  def x "Revise/lab1.ml" 27 591 610 "Revise/lab1.ml" 27 591 618
+)
+"Revise/lab1.ml" 27 591 604 "Revise/lab1.ml" 27 591 606
+type(
+  'b list
+)
+ident(
+  def ys "Revise/lab1.ml" 27 591 610 "Revise/lab1.ml" 27 591 618
+)
+"Revise/lab1.ml" 27 591 601 "Revise/lab1.ml" 27 591 606
+type(
+  'b list
+)
+"Revise/lab1.ml" 27 591 610 "Revise/lab1.ml" 27 591 613
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 24 522 534 "Revise/lab1.ml" 24 522 537
+)
+"Revise/lab1.ml" 27 591 614 "Revise/lab1.ml" 27 591 616
+type(
+  'b list
+)
+ident(
+  int_ref ys "Revise/lab1.ml" 27 591 604 "Revise/lab1.ml" 27 591 606
+)
+"Revise/lab1.ml" 27 591 617 "Revise/lab1.ml" 27 591 618
+type(
+  'b
+)
+ident(
+  int_ref x "Revise/lab1.ml" 27 591 601 "Revise/lab1.ml" 27 591 602
+)
+"Revise/lab1.ml" 27 591 610 "Revise/lab1.ml" 27 591 618
+type(
+  'b
+)
+"Revise/lab1.ml" 25 548 556 "Revise/lab1.ml" 27 591 618
+type(
+  'b
+)
+"Revise/lab1.ml" 28 622 632 "Revise/lab1.ml" 28 622 634
+type(
+  'a list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 23 493 503 "Revise/lab1.ml" 23 493 505
+)
+"Revise/lab1.ml" 29 640 646 "Revise/lab1.ml" 29 640 648
+type(
+  'a list
+)
+"Revise/lab1.ml" 29 640 652 "Revise/lab1.ml" 29 640 660
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Revise/lab1.ml" 29 640 661 "Revise/lab1.ml" 29 640 673
+type(
+  string
+)
+"Revise/lab1.ml" 29 640 652 "Revise/lab1.ml" 29 640 673
+type(
+  'a
+)
+"Revise/lab1.ml" 30 674 680 "Revise/lab1.ml" 30 674 681
+type(
+  'a
+)
+ident(
+  def x "Revise/lab1.ml" 30 674 689 "Revise/lab1.ml" 30 674 697
+)
+"Revise/lab1.ml" 30 674 683 "Revise/lab1.ml" 30 674 685
+type(
+  'a list
+)
+ident(
+  def xs "Revise/lab1.ml" 30 674 689 "Revise/lab1.ml" 30 674 697
+)
+"Revise/lab1.ml" 30 674 680 "Revise/lab1.ml" 30 674 685
+type(
+  'a list
+)
+"Revise/lab1.ml" 30 674 689 "Revise/lab1.ml" 30 674 692
+type(
+  'a list -> 'a -> 'a
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 24 522 534 "Revise/lab1.ml" 24 522 537
+)
+"Revise/lab1.ml" 30 674 693 "Revise/lab1.ml" 30 674 695
+type(
+  'a list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 30 674 683 "Revise/lab1.ml" 30 674 685
+)
+"Revise/lab1.ml" 30 674 696 "Revise/lab1.ml" 30 674 697
+type(
+  'a
+)
+ident(
+  int_ref x "Revise/lab1.ml" 30 674 680 "Revise/lab1.ml" 30 674 681
+)
+"Revise/lab1.ml" 30 674 689 "Revise/lab1.ml" 30 674 697
+type(
+  'a
+)
+"Revise/lab1.ml" 28 622 626 "Revise/lab1.ml" 30 674 697
+type(
+  'a
+)
+"Revise/lab1.ml" 24 522 526 "Revise/lab1.ml" 30 674 697
+type(
+  'a
+)
+type(
+  'a
+)
+"Revise/lab1.ml" 32 701 705 "Revise/lab1.ml" 32 701 710
+type(
+  int
+)
+ident(
+  def reult "Revise/lab1.ml" 33 728 728 "_none_" 1 0 -1
+)
+"Revise/lab1.ml" 32 701 713 "Revise/lab1.ml" 32 701 717
+type(
+  int list -> int
+)
+ident(
+  int_ref last "Revise/lab1.ml" 23 493 497 "Revise/lab1.ml" 23 493 501
+)
+"Revise/lab1.ml" 32 701 719 "Revise/lab1.ml" 32 701 720
+type(
+  int
+)
+"Revise/lab1.ml" 32 701 721 "Revise/lab1.ml" 32 701 722
+type(
+  int
+)
+"Revise/lab1.ml" 32 701 723 "Revise/lab1.ml" 32 701 724
+type(
+  int
+)
+"Revise/lab1.ml" 32 701 718 "Revise/lab1.ml" 32 701 725
+type(
+  int list
+)
+"Revise/lab1.ml" 32 701 713 "Revise/lab1.ml" 32 701 725
+type(
+  int
+)
+"Revise/lab1.ml" 33 728 728 "Revise/lab1.ml" 33 728 737
+type(
+  int -> unit
+)
+ident(
+  ext_ref Pervasives.print_int
+)
+"Revise/lab1.ml" 33 728 738 "Revise/lab1.ml" 33 728 743
+type(
+  int
+)
+ident(
+  int_ref reult "Revise/lab1.ml" 32 701 705 "Revise/lab1.ml" 32 701 710
+)
+"Revise/lab1.ml" 33 728 728 "Revise/lab1.ml" 33 728 743
+type(
+  unit
+)
+"Revise/lab1.ml" 42 990 994 "Revise/lab1.ml" 42 990 998
+type(
+  'a list -> 'a option
+)
+ident(
+  def last "Revise/lab1.ml" 59 1447 1447 "_none_" 1 0 -1
+)
+"Revise/lab1.ml" 42 990 1000 "Revise/lab1.ml" 42 990 1002
+type(
+  'a list
+)
+ident(
+  def xs "Revise/lab1.ml" 42 990 1012 "Revise/lab1.ml" 49 1161 1192
+)
+"Revise/lab1.ml" 43 1026 1038 "Revise/lab1.ml" 43 1026 1041
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  def aux "Revise/lab1.ml" 43 1026 1030 "Revise/lab1.ml" 49 1161 1192
+)
+"Revise/lab1.ml" 43 1026 1042 "Revise/lab1.ml" 43 1026 1044
+type(
+  'b list
+)
+ident(
+  def xs "Revise/lab1.ml" 43 1026 1045 "Revise/lab1.ml" 46 1095 1122
+)
+"Revise/lab1.ml" 43 1026 1045 "Revise/lab1.ml" 43 1026 1049
+type(
+  'b
+)
+ident(
+  def prev "Revise/lab1.ml" 44 1052 1060 "Revise/lab1.ml" 46 1095 1122
+)
+"Revise/lab1.ml" 44 1052 1066 "Revise/lab1.ml" 44 1052 1068
+type(
+  'b list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 43 1026 1042 "Revise/lab1.ml" 43 1026 1044
+)
+"Revise/lab1.ml" 45 1074 1084 "Revise/lab1.ml" 45 1074 1086
+type(
+  'b list
+)
+"Revise/lab1.ml" 45 1074 1090 "Revise/lab1.ml" 45 1074 1094
+type(
+  'b
+)
+ident(
+  int_ref prev "Revise/lab1.ml" 43 1026 1045 "Revise/lab1.ml" 43 1026 1049
+)
+"Revise/lab1.ml" 46 1095 1105 "Revise/lab1.ml" 46 1095 1106
+type(
+  'b
+)
+ident(
+  def x "Revise/lab1.ml" 46 1095 1114 "Revise/lab1.ml" 46 1095 1122
+)
+"Revise/lab1.ml" 46 1095 1108 "Revise/lab1.ml" 46 1095 1110
+type(
+  'b list
+)
+ident(
+  def ys "Revise/lab1.ml" 46 1095 1114 "Revise/lab1.ml" 46 1095 1122
+)
+"Revise/lab1.ml" 46 1095 1105 "Revise/lab1.ml" 46 1095 1110
+type(
+  'b list
+)
+"Revise/lab1.ml" 46 1095 1114 "Revise/lab1.ml" 46 1095 1117
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 43 1026 1038 "Revise/lab1.ml" 43 1026 1041
+)
+"Revise/lab1.ml" 46 1095 1118 "Revise/lab1.ml" 46 1095 1120
+type(
+  'b list
+)
+ident(
+  int_ref ys "Revise/lab1.ml" 46 1095 1108 "Revise/lab1.ml" 46 1095 1110
+)
+"Revise/lab1.ml" 46 1095 1121 "Revise/lab1.ml" 46 1095 1122
+type(
+  'b
+)
+ident(
+  int_ref x "Revise/lab1.ml" 46 1095 1105 "Revise/lab1.ml" 46 1095 1106
+)
+"Revise/lab1.ml" 46 1095 1114 "Revise/lab1.ml" 46 1095 1122
+type(
+  'b
+)
+"Revise/lab1.ml" 44 1052 1060 "Revise/lab1.ml" 46 1095 1122
+type(
+  'b
+)
+"Revise/lab1.ml" 47 1126 1136 "Revise/lab1.ml" 47 1126 1138
+type(
+  'a list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 42 990 1000 "Revise/lab1.ml" 42 990 1002
+)
+"Revise/lab1.ml" 48 1144 1150 "Revise/lab1.ml" 48 1144 1152
+type(
+  'a list
+)
+"Revise/lab1.ml" 48 1144 1156 "Revise/lab1.ml" 48 1144 1160
+type(
+  'a option
+)
+"Revise/lab1.ml" 49 1161 1167 "Revise/lab1.ml" 49 1161 1168
+type(
+  'a
+)
+ident(
+  def x "Revise/lab1.ml" 49 1161 1176 "Revise/lab1.ml" 49 1161 1192
+)
+"Revise/lab1.ml" 49 1161 1170 "Revise/lab1.ml" 49 1161 1172
+type(
+  'a list
+)
+ident(
+  def xs "Revise/lab1.ml" 49 1161 1176 "Revise/lab1.ml" 49 1161 1192
+)
+"Revise/lab1.ml" 49 1161 1167 "Revise/lab1.ml" 49 1161 1172
+type(
+  'a list
+)
+"Revise/lab1.ml" 49 1161 1182 "Revise/lab1.ml" 49 1161 1185
+type(
+  'a list -> 'a -> 'a
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 43 1026 1038 "Revise/lab1.ml" 43 1026 1041
+)
+"Revise/lab1.ml" 49 1161 1186 "Revise/lab1.ml" 49 1161 1188
+type(
+  'a list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 49 1161 1170 "Revise/lab1.ml" 49 1161 1172
+)
+"Revise/lab1.ml" 49 1161 1189 "Revise/lab1.ml" 49 1161 1190
+type(
+  'a
+)
+ident(
+  int_ref x "Revise/lab1.ml" 49 1161 1167 "Revise/lab1.ml" 49 1161 1168
+)
+"Revise/lab1.ml" 49 1161 1180 "Revise/lab1.ml" 49 1161 1192
+type(
+  'a
+)
+"Revise/lab1.ml" 49 1161 1176 "Revise/lab1.ml" 49 1161 1192
+type(
+  'a option
+)
+"Revise/lab1.ml" 47 1126 1130 "Revise/lab1.ml" 49 1161 1192
+type(
+  'a option
+)
+"Revise/lab1.ml" 43 1026 1030 "Revise/lab1.ml" 49 1161 1192
+type(
+  'a option
+)
+type(
+  'a option
+)
+"Revise/lab1.ml" 59 1447 1451 "Revise/lab1.ml" 59 1447 1461
+type(
+  'a list -> unit
+)
+ident(
+  def print_list "Revise/lab1.ml" 67 1595 1595 "_none_" 1 0 -1
+)
+"Revise/lab1.ml" 59 1447 1462 "Revise/lab1.ml" 59 1447 1463
+type(
+  'a list
+)
+ident(
+  def l "Revise/lab1.ml" 60 1466 1468 "Revise/lab1.ml" 65 1581 1592
+)
+"Revise/lab1.ml" 60 1466 1476 "Revise/lab1.ml" 60 1466 1479
+type(
+  'b list -> unit
+)
+ident(
+  def aux "Revise/lab1.ml" 60 1466 1468 "Revise/lab1.ml" 65 1581 1592
+)
+"Revise/lab1.ml" 60 1466 1480 "Revise/lab1.ml" 60 1466 1483
+type(
+  'b list
+)
+ident(
+  def acc "Revise/lab1.ml" 61 1486 1490 "Revise/lab1.ml" 64 1539 1580
+)
+"Revise/lab1.ml" 61 1486 1496 "Revise/lab1.ml" 61 1486 1499
+type(
+  'b list
+)
+ident(
+  int_ref acc "Revise/lab1.ml" 60 1466 1480 "Revise/lab1.ml" 60 1466 1483
+)
+"Revise/lab1.ml" 62 1505 1512 "Revise/lab1.ml" 62 1505 1514
+type(
+  'b list
+)
+"Revise/lab1.ml" 62 1505 1518 "Revise/lab1.ml" 62 1505 1520
+type(
+  unit
+)
+"Revise/lab1.ml" 63 1521 1528 "Revise/lab1.ml" 63 1521 1529
+type(
+  'b
+)
+ident(
+  def x "Revise/lab1.ml" 64 1539 1546 "Revise/lab1.ml" 64 1539 1580
+)
+"Revise/lab1.ml" 63 1521 1533 "Revise/lab1.ml" 63 1521 1535
+type(
+  'b list
+)
+ident(
+  def tl "Revise/lab1.ml" 64 1539 1546 "Revise/lab1.ml" 64 1539 1580
+)
+"Revise/lab1.ml" 63 1521 1528 "Revise/lab1.ml" 63 1521 1535
+type(
+  'b list
+)
+"Revise/lab1.ml" 64 1539 1546 "Revise/lab1.ml" 64 1539 1560
+type(
+  out_channel -> (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  ext_ref Printf.fprintf
+)
+"Revise/lab1.ml" 64 1539 1561 "Revise/lab1.ml" 64 1539 1567
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"Revise/lab1.ml" 64 1539 1568 "Revise/lab1.ml" 64 1539 1572
+type(
+  (int -> unit, out_channel, unit) format
+)
+"Revise/lab1.ml" 64 1539 1546 "Revise/lab1.ml" 64 1539 1572
+type(
+  int -> unit
+)
+"Revise/lab1.ml" 64 1539 1574 "Revise/lab1.ml" 64 1539 1577
+type(
+  'b list -> unit
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 60 1466 1476 "Revise/lab1.ml" 60 1466 1479
+)
+"Revise/lab1.ml" 64 1539 1578 "Revise/lab1.ml" 64 1539 1580
+type(
+  'b list
+)
+ident(
+  int_ref tl "Revise/lab1.ml" 63 1521 1533 "Revise/lab1.ml" 63 1521 1535
+)
+"Revise/lab1.ml" 64 1539 1574 "Revise/lab1.ml" 64 1539 1580
+type(
+  unit
+)
+"Revise/lab1.ml" 64 1539 1546 "Revise/lab1.ml" 64 1539 1580
+type(
+  unit
+)
+"Revise/lab1.ml" 61 1486 1490 "Revise/lab1.ml" 64 1539 1580
+type(
+  unit
+)
+"Revise/lab1.ml" 65 1581 1587 "Revise/lab1.ml" 65 1581 1590
+type(
+  'a list -> unit
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 60 1466 1476 "Revise/lab1.ml" 60 1466 1479
+)
+"Revise/lab1.ml" 65 1581 1591 "Revise/lab1.ml" 65 1581 1592
+type(
+  'a list
+)
+ident(
+  int_ref l "Revise/lab1.ml" 59 1447 1462 "Revise/lab1.ml" 59 1447 1463
+)
+"Revise/lab1.ml" 65 1581 1587 "Revise/lab1.ml" 65 1581 1592
+type(
+  unit
+)
+"Revise/lab1.ml" 60 1466 1468 "Revise/lab1.ml" 65 1581 1592
+type(
+  unit
+)
+"Revise/lab1.ml" 67 1595 1599 "Revise/lab1.ml" 67 1595 1607
+type(
+  'a list -> 'a * 'a
+)
+ident(
+  def last_two "Revise/lab1.ml" 78 1887 1887 "_none_" 1 0 -1
+)
+"Revise/lab1.ml" 67 1595 1609 "Revise/lab1.ml" 67 1595 1611
+type(
+  'a list
+)
+ident(
+  def xs "Revise/lab1.ml" 67 1595 1621 "Revise/lab1.ml" 75 1854 1883
+)
+"Revise/lab1.ml" 68 1633 1643 "Revise/lab1.ml" 68 1633 1646
+type(
+  'b list -> 'b -> 'b -> 'b * 'b
+)
+ident(
+  def aux "Revise/lab1.ml" 68 1633 1635 "Revise/lab1.ml" 75 1854 1883
+)
+"Revise/lab1.ml" 68 1633 1647 "Revise/lab1.ml" 68 1633 1649
+type(
+  'b list
+)
+ident(
+  def xs "Revise/lab1.ml" 68 1633 1650 "Revise/lab1.ml" 71 1717 1749
+)
+"Revise/lab1.ml" 68 1633 1650 "Revise/lab1.ml" 68 1633 1655
+type(
+  'b
+)
+ident(
+  def prev1 "Revise/lab1.ml" 68 1633 1656 "Revise/lab1.ml" 71 1717 1749
+)
+"Revise/lab1.ml" 68 1633 1656 "Revise/lab1.ml" 68 1633 1661
+type(
+  'b
+)
+ident(
+  def prev2 "Revise/lab1.ml" 69 1664 1672 "Revise/lab1.ml" 71 1717 1749
+)
+"Revise/lab1.ml" 69 1664 1678 "Revise/lab1.ml" 69 1664 1680
+type(
+  'b list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 68 1633 1647 "Revise/lab1.ml" 68 1633 1649
+)
+"Revise/lab1.ml" 70 1686 1696 "Revise/lab1.ml" 70 1686 1698
+type(
+  'b list
+)
+"Revise/lab1.ml" 70 1686 1703 "Revise/lab1.ml" 70 1686 1708
+type(
+  'b
+)
+ident(
+  int_ref prev1 "Revise/lab1.ml" 68 1633 1650 "Revise/lab1.ml" 68 1633 1655
+)
+"Revise/lab1.ml" 70 1686 1710 "Revise/lab1.ml" 70 1686 1715
+type(
+  'b
+)
+ident(
+  int_ref prev2 "Revise/lab1.ml" 68 1633 1656 "Revise/lab1.ml" 68 1633 1661
+)
+"Revise/lab1.ml" 70 1686 1702 "Revise/lab1.ml" 70 1686 1716
+type(
+  'b * 'b
+)
+"Revise/lab1.ml" 71 1717 1727 "Revise/lab1.ml" 71 1717 1728
+type(
+  'b
+)
+ident(
+  def x "Revise/lab1.ml" 71 1717 1739 "Revise/lab1.ml" 71 1717 1749
+)
+"Revise/lab1.ml" 71 1717 1730 "Revise/lab1.ml" 71 1717 1731
+type(
+  'b
+)
+ident(
+  def y "Revise/lab1.ml" 71 1717 1739 "Revise/lab1.ml" 71 1717 1749
+)
+"Revise/lab1.ml" 71 1717 1733 "Revise/lab1.ml" 71 1717 1735
+type(
+  'b list
+)
+ident(
+  def ys "Revise/lab1.ml" 71 1717 1739 "Revise/lab1.ml" 71 1717 1749
+)
+"Revise/lab1.ml" 71 1717 1730 "Revise/lab1.ml" 71 1717 1735
+type(
+  'b list
+)
+"Revise/lab1.ml" 71 1717 1727 "Revise/lab1.ml" 71 1717 1735
+type(
+  'b list
+)
+"Revise/lab1.ml" 71 1717 1739 "Revise/lab1.ml" 71 1717 1742
+type(
+  'b list -> 'b -> 'b -> 'b * 'b
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 68 1633 1643 "Revise/lab1.ml" 68 1633 1646
+)
+"Revise/lab1.ml" 71 1717 1743 "Revise/lab1.ml" 71 1717 1745
+type(
+  'b list
+)
+ident(
+  int_ref ys "Revise/lab1.ml" 71 1717 1733 "Revise/lab1.ml" 71 1717 1735
+)
+"Revise/lab1.ml" 71 1717 1746 "Revise/lab1.ml" 71 1717 1747
+type(
+  'b
+)
+ident(
+  int_ref x "Revise/lab1.ml" 71 1717 1727 "Revise/lab1.ml" 71 1717 1728
+)
+"Revise/lab1.ml" 71 1717 1748 "Revise/lab1.ml" 71 1717 1749
+type(
+  'b
+)
+ident(
+  int_ref y "Revise/lab1.ml" 71 1717 1730 "Revise/lab1.ml" 71 1717 1731
+)
+"Revise/lab1.ml" 71 1717 1739 "Revise/lab1.ml" 71 1717 1749
+type(
+  'b * 'b
+)
+"Revise/lab1.ml" 69 1664 1672 "Revise/lab1.ml" 71 1717 1749
+type(
+  'b * 'b
+)
+"Revise/lab1.ml" 72 1753 1763 "Revise/lab1.ml" 72 1753 1765
+type(
+  'a list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 67 1595 1609 "Revise/lab1.ml" 67 1595 1611
+)
+"Revise/lab1.ml" 73 1771 1777 "Revise/lab1.ml" 73 1771 1779
+type(
+  'a list
+)
+"Revise/lab1.ml" 73 1771 1783 "Revise/lab1.ml" 73 1771 1791
+type(
+  string -> 'a * 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Revise/lab1.ml" 73 1771 1792 "Revise/lab1.ml" 73 1771 1804
+type(
+  string
+)
+"Revise/lab1.ml" 73 1771 1783 "Revise/lab1.ml" 73 1771 1804
+type(
+  'a * 'a
+)
+"Revise/lab1.ml" 74 1805 1810 "Revise/lab1.ml" 74 1805 1811
+type(
+  'a
+)
+ident(
+  def x "Revise/lab1.ml" 74 1805 1816 "Revise/lab1.ml" 74 1805 1853
+)
+"Revise/lab1.ml" 74 1805 1809 "Revise/lab1.ml" 74 1805 1812
+type(
+  'a list
+)
+"Revise/lab1.ml" 74 1805 1816 "Revise/lab1.ml" 74 1805 1824
+type(
+  string -> 'a * 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Revise/lab1.ml" 74 1805 1825 "Revise/lab1.ml" 74 1805 1853
+type(
+  string
+)
+"Revise/lab1.ml" 74 1805 1816 "Revise/lab1.ml" 74 1805 1853
+type(
+  'a * 'a
+)
+"Revise/lab1.ml" 75 1854 1860 "Revise/lab1.ml" 75 1854 1861
+type(
+  'a
+)
+ident(
+  def x "Revise/lab1.ml" 75 1854 1873 "Revise/lab1.ml" 75 1854 1883
+)
+"Revise/lab1.ml" 75 1854 1863 "Revise/lab1.ml" 75 1854 1864
+type(
+  'a
+)
+ident(
+  def y "Revise/lab1.ml" 75 1854 1873 "Revise/lab1.ml" 75 1854 1883
+)
+"Revise/lab1.ml" 75 1854 1866 "Revise/lab1.ml" 75 1854 1868
+type(
+  'a list
+)
+ident(
+  def xs "Revise/lab1.ml" 75 1854 1873 "Revise/lab1.ml" 75 1854 1883
+)
+"Revise/lab1.ml" 75 1854 1863 "Revise/lab1.ml" 75 1854 1868
+type(
+  'a list
+)
+"Revise/lab1.ml" 75 1854 1860 "Revise/lab1.ml" 75 1854 1868
+type(
+  'a list
+)
+"Revise/lab1.ml" 75 1854 1873 "Revise/lab1.ml" 75 1854 1876
+type(
+  'a list -> 'a -> 'a -> 'a * 'a
+)
+ident(
+  int_ref aux "Revise/lab1.ml" 68 1633 1643 "Revise/lab1.ml" 68 1633 1646
+)
+"Revise/lab1.ml" 75 1854 1877 "Revise/lab1.ml" 75 1854 1879
+type(
+  'a list
+)
+ident(
+  int_ref xs "Revise/lab1.ml" 75 1854 1866 "Revise/lab1.ml" 75 1854 1868
+)
+"Revise/lab1.ml" 75 1854 1880 "Revise/lab1.ml" 75 1854 1881
+type(
+  'a
+)
+ident(
+  int_ref x "Revise/lab1.ml" 75 1854 1860 "Revise/lab1.ml" 75 1854 1861
+)
+"Revise/lab1.ml" 75 1854 1882 "Revise/lab1.ml" 75 1854 1883
+type(
+  'a
+)
+ident(
+  int_ref y "Revise/lab1.ml" 75 1854 1863 "Revise/lab1.ml" 75 1854 1864
+)
+"Revise/lab1.ml" 75 1854 1873 "Revise/lab1.ml" 75 1854 1883
+type(
+  'a * 'a
+)
+"Revise/lab1.ml" 72 1753 1757 "Revise/lab1.ml" 75 1854 1883
+type(
+  'a * 'a
+)
+"Revise/lab1.ml" 68 1633 1635 "Revise/lab1.ml" 75 1854 1883
+type(
+  'a * 'a
+)
+type(
+  'a * 'a
+)
+"Revise/lab1.ml" 78 1887 1891 "Revise/lab1.ml" 78 1887 1898
+type(
+  int * int
+)
+ident(
+  def reult_1 "Revise/lab1.ml" 79 1920 1920 "_none_" 1 0 -1
+)
+"Revise/lab1.ml" 78 1887 1901 "Revise/lab1.ml" 78 1887 1909
+type(
+  int list -> int * int
+)
+ident(
+  int_ref last_two "Revise/lab1.ml" 67 1595 1599 "Revise/lab1.ml" 67 1595 1607
+)
+"Revise/lab1.ml" 78 1887 1911 "Revise/lab1.ml" 78 1887 1912
+type(
+  int
+)
+"Revise/lab1.ml" 78 1887 1913 "Revise/lab1.ml" 78 1887 1914
+type(
+  int
+)
+"Revise/lab1.ml" 78 1887 1915 "Revise/lab1.ml" 78 1887 1916
+type(
+  int
+)
+"Revise/lab1.ml" 78 1887 1910 "Revise/lab1.ml" 78 1887 1917
+type(
+  int list
+)
+"Revise/lab1.ml" 78 1887 1901 "Revise/lab1.ml" 78 1887 1917
+type(
+  int * int
+)
+"Revise/lab1.ml" 79 1920 1920 "Revise/lab1.ml" 79 1920 1930
+type(
+  '_a list -> unit
+)
+ident(
+  int_ref print_list "Revise/lab1.ml" 59 1447 1451 "Revise/lab1.ml" 59 1447 1461
+)
+"Revise/lab1.ml" 79 1920 1931 "Revise/lab1.ml" 79 1920 1938
+type(
+  int * int
+)
+ident(
+  int_ref reult_1 "Revise/lab1.ml" 78 1887 1891 "Revise/lab1.ml" 78 1887 1898
+)

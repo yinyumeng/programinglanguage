@@ -1,0 +1,321 @@
+"tut9/scriptarguments.ml" 2 29 33 "tut9/scriptarguments.ml" 2 29 49
+type(
+  (string * Arg.spec * string) list
+)
+ident(
+  def common_arguments "tut9/scriptarguments.ml" 16 612 615 "_none_" 1 0 -1
+)
+"tut9/scriptarguments.ml" 3 54 57 "tut9/scriptarguments.ml" 3 54 74
+type(
+  string
+)
+"tut9/scriptarguments.ml" 3 54 84 "tut9/scriptarguments.ml" 3 54 105
+type(
+  bool ref
+)
+ident(
+  ext_ref Globals.trace_failure
+)
+"tut9/scriptarguments.ml" 3 54 76 "tut9/scriptarguments.ml" 3 54 105
+type(
+  Arg.spec
+)
+"tut9/scriptarguments.ml" 4 107 110 "tut9/scriptarguments.ml" 4 107 152
+type(
+  string
+)
+"tut9/scriptarguments.ml" 3 54 56 "tut9/scriptarguments.ml" 4 107 153
+type(
+  string * Arg.spec * string
+)
+"tut9/scriptarguments.ml" 5 155 158 "tut9/scriptarguments.ml" 5 155 166
+type(
+  string
+)
+"tut9/scriptarguments.ml" 5 155 184 "tut9/scriptarguments.ml" 5 155 185
+type(
+  string
+)
+ident(
+  def s "tut9/scriptarguments.ml" 6 189 195 "tut9/scriptarguments.ml" 6 189 242
+)
+"tut9/scriptarguments.ml" 6 189 195 "tut9/scriptarguments.ml" 6 189 213
+type(
+  string ref
+)
+ident(
+  ext_ref Debug.z_debug_file
+)
+"tut9/scriptarguments.ml" 6 189 213 "tut9/scriptarguments.ml" 6 189 215
+type(
+  string ref -> string -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"tut9/scriptarguments.ml" 6 189 215 "tut9/scriptarguments.ml" 6 189 216
+type(
+  string
+)
+ident(
+  int_ref s "tut9/scriptarguments.ml" 5 155 184 "tut9/scriptarguments.ml" 5 155 185
+)
+"tut9/scriptarguments.ml" 6 189 195 "tut9/scriptarguments.ml" 6 189 216
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 6 189 218 "tut9/scriptarguments.ml" 6 189 236
+type(
+  bool ref
+)
+ident(
+  ext_ref Debug.z_debug_flag
+)
+"tut9/scriptarguments.ml" 6 189 236 "tut9/scriptarguments.ml" 6 189 238
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"tut9/scriptarguments.ml" 6 189 238 "tut9/scriptarguments.ml" 6 189 242
+type(
+  bool
+)
+"tut9/scriptarguments.ml" 6 189 218 "tut9/scriptarguments.ml" 6 189 242
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 6 189 195 "tut9/scriptarguments.ml" 6 189 242
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 5 155 179 "tut9/scriptarguments.ml" 6 189 243
+type(
+  string -> unit
+)
+"tut9/scriptarguments.ml" 5 155 168 "tut9/scriptarguments.ml" 6 189 243
+type(
+  Arg.spec
+)
+"tut9/scriptarguments.ml" 7 245 248 "tut9/scriptarguments.ml" 7 245 276
+type(
+  string
+)
+"tut9/scriptarguments.ml" 5 155 157 "tut9/scriptarguments.ml" 7 245 277
+type(
+  string * Arg.spec * string
+)
+"tut9/scriptarguments.ml" 8 279 282 "tut9/scriptarguments.ml" 8 279 297
+type(
+  string
+)
+"tut9/scriptarguments.ml" 8 279 315 "tut9/scriptarguments.ml" 8 279 316
+type(
+  string
+)
+ident(
+  def s "tut9/scriptarguments.ml" 9 320 326 "tut9/scriptarguments.ml" 9 320 379
+)
+"tut9/scriptarguments.ml" 9 320 326 "tut9/scriptarguments.ml" 9 320 344
+type(
+  string ref
+)
+ident(
+  ext_ref Debug.z_debug_file
+)
+"tut9/scriptarguments.ml" 9 320 344 "tut9/scriptarguments.ml" 9 320 346
+type(
+  string ref -> string -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"tut9/scriptarguments.ml" 9 320 347 "tut9/scriptarguments.ml" 9 320 350
+type(
+  string
+)
+"tut9/scriptarguments.ml" 9 320 350 "tut9/scriptarguments.ml" 9 320 351
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut9/scriptarguments.ml" 9 320 351 "tut9/scriptarguments.ml" 9 320 352
+type(
+  string
+)
+ident(
+  int_ref s "tut9/scriptarguments.ml" 8 279 315 "tut9/scriptarguments.ml" 8 279 316
+)
+"tut9/scriptarguments.ml" 9 320 346 "tut9/scriptarguments.ml" 9 320 353
+type(
+  string
+)
+"tut9/scriptarguments.ml" 9 320 326 "tut9/scriptarguments.ml" 9 320 353
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 9 320 355 "tut9/scriptarguments.ml" 9 320 373
+type(
+  bool ref
+)
+ident(
+  ext_ref Debug.z_debug_flag
+)
+"tut9/scriptarguments.ml" 9 320 373 "tut9/scriptarguments.ml" 9 320 375
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"tut9/scriptarguments.ml" 9 320 375 "tut9/scriptarguments.ml" 9 320 379
+type(
+  bool
+)
+"tut9/scriptarguments.ml" 9 320 355 "tut9/scriptarguments.ml" 9 320 379
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 9 320 326 "tut9/scriptarguments.ml" 9 320 379
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 8 279 310 "tut9/scriptarguments.ml" 9 320 380
+type(
+  string -> unit
+)
+"tut9/scriptarguments.ml" 8 279 299 "tut9/scriptarguments.ml" 9 320 380
+type(
+  Arg.spec
+)
+"tut9/scriptarguments.ml" 10 382 385 "tut9/scriptarguments.ml" 10 382 433
+type(
+  string
+)
+"tut9/scriptarguments.ml" 8 279 281 "tut9/scriptarguments.ml" 10 382 434
+type(
+  string * Arg.spec * string
+)
+"tut9/scriptarguments.ml" 11 436 439 "tut9/scriptarguments.ml" 11 436 445
+type(
+  string
+)
+"tut9/scriptarguments.ml" 11 436 463 "tut9/scriptarguments.ml" 11 436 464
+type(
+  string
+)
+ident(
+  def s "tut9/scriptarguments.ml" 12 468 474 "tut9/scriptarguments.ml" 12 468 527
+)
+"tut9/scriptarguments.ml" 12 468 474 "tut9/scriptarguments.ml" 12 468 492
+type(
+  string ref
+)
+ident(
+  ext_ref Debug.z_debug_file
+)
+"tut9/scriptarguments.ml" 12 468 492 "tut9/scriptarguments.ml" 12 468 494
+type(
+  string ref -> string -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"tut9/scriptarguments.ml" 12 468 495 "tut9/scriptarguments.ml" 12 468 498
+type(
+  string
+)
+"tut9/scriptarguments.ml" 12 468 498 "tut9/scriptarguments.ml" 12 468 499
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut9/scriptarguments.ml" 12 468 499 "tut9/scriptarguments.ml" 12 468 500
+type(
+  string
+)
+ident(
+  int_ref s "tut9/scriptarguments.ml" 11 436 463 "tut9/scriptarguments.ml" 11 436 464
+)
+"tut9/scriptarguments.ml" 12 468 494 "tut9/scriptarguments.ml" 12 468 501
+type(
+  string
+)
+"tut9/scriptarguments.ml" 12 468 474 "tut9/scriptarguments.ml" 12 468 501
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 12 468 503 "tut9/scriptarguments.ml" 12 468 521
+type(
+  bool ref
+)
+ident(
+  ext_ref Debug.z_debug_flag
+)
+"tut9/scriptarguments.ml" 12 468 521 "tut9/scriptarguments.ml" 12 468 523
+type(
+  bool ref -> bool -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"tut9/scriptarguments.ml" 12 468 523 "tut9/scriptarguments.ml" 12 468 527
+type(
+  bool
+)
+"tut9/scriptarguments.ml" 12 468 503 "tut9/scriptarguments.ml" 12 468 527
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 12 468 474 "tut9/scriptarguments.ml" 12 468 527
+type(
+  unit
+)
+"tut9/scriptarguments.ml" 11 436 458 "tut9/scriptarguments.ml" 12 468 528
+type(
+  string -> unit
+)
+"tut9/scriptarguments.ml" 11 436 447 "tut9/scriptarguments.ml" 12 468 528
+type(
+  Arg.spec
+)
+"tut9/scriptarguments.ml" 13 530 533 "tut9/scriptarguments.ml" 13 530 562
+type(
+  string
+)
+"tut9/scriptarguments.ml" 11 436 438 "tut9/scriptarguments.ml" 13 530 563
+type(
+  string * Arg.spec * string
+)
+"tut9/scriptarguments.ml" 14 565 568 "tut9/scriptarguments.ml" 14 565 572
+type(
+  string
+)
+"tut9/scriptarguments.ml" 14 565 582 "tut9/scriptarguments.ml" 14 565 596
+type(
+  bool ref
+)
+ident(
+  ext_ref Debug.debug_on
+)
+"tut9/scriptarguments.ml" 14 565 574 "tut9/scriptarguments.ml" 14 565 596
+type(
+  Arg.spec
+)
+"tut9/scriptarguments.ml" 15 598 601 "tut9/scriptarguments.ml" 15 598 610
+type(
+  string
+)
+"tut9/scriptarguments.ml" 14 565 567 "tut9/scriptarguments.ml" 15 598 611
+type(
+  string * Arg.spec * string
+)
+"tut9/scriptarguments.ml" 2 29 52 "tut9/scriptarguments.ml" 16 612 615
+type(
+  (string * Arg.spec * string) list
+)

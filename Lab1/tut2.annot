@@ -1,0 +1,940 @@
+"Lab1/tut2.ml" 23 510 518 "Lab1/tut2.ml" 23 510 521
+type(
+  int -> int
+)
+ident(
+  def fib "Lab1/tut2.ml" 23 510 510 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 23 510 522 "Lab1/tut2.ml" 23 510 523
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 24 527 529 "Lab1/tut2.ml" 25 545 573
+)
+"Lab1/tut2.ml" 24 527 532 "Lab1/tut2.ml" 24 527 533
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 23 510 522 "Lab1/tut2.ml" 23 510 523
+)
+"Lab1/tut2.ml" 24 527 533 "Lab1/tut2.ml" 24 527 535
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/tut2.ml" 24 527 535 "Lab1/tut2.ml" 24 527 536
+type(
+  int
+)
+"Lab1/tut2.ml" 24 527 532 "Lab1/tut2.ml" 24 527 536
+type(
+  bool
+)
+"Lab1/tut2.ml" 24 527 542 "Lab1/tut2.ml" 24 527 543
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 553 "Lab1/tut2.ml" 25 545 556
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Lab1/tut2.ml" 23 510 518 "Lab1/tut2.ml" 23 510 521
+)
+"Lab1/tut2.ml" 25 545 557 "Lab1/tut2.ml" 25 545 558
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 23 510 522 "Lab1/tut2.ml" 23 510 523
+)
+"Lab1/tut2.ml" 25 545 558 "Lab1/tut2.ml" 25 545 559
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/tut2.ml" 25 545 559 "Lab1/tut2.ml" 25 545 560
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 556 "Lab1/tut2.ml" 25 545 561
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 552 "Lab1/tut2.ml" 25 545 562
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 562 "Lab1/tut2.ml" 25 545 563
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/tut2.ml" 25 545 564 "Lab1/tut2.ml" 25 545 567
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Lab1/tut2.ml" 23 510 518 "Lab1/tut2.ml" 23 510 521
+)
+"Lab1/tut2.ml" 25 545 568 "Lab1/tut2.ml" 25 545 569
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 23 510 522 "Lab1/tut2.ml" 23 510 523
+)
+"Lab1/tut2.ml" 25 545 569 "Lab1/tut2.ml" 25 545 570
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/tut2.ml" 25 545 570 "Lab1/tut2.ml" 25 545 571
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 567 "Lab1/tut2.ml" 25 545 572
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 563 "Lab1/tut2.ml" 25 545 573
+type(
+  int
+)
+"Lab1/tut2.ml" 25 545 552 "Lab1/tut2.ml" 25 545 573
+type(
+  int
+)
+"Lab1/tut2.ml" 24 527 529 "Lab1/tut2.ml" 25 545 573
+type(
+  int
+)
+"Lab1/tut2.ml" 27 579 583 "Lab1/tut2.ml" 27 579 592
+type(
+  unit -> unit
+)
+ident(
+  def print_fib "Lab1/tut2.ml" 37 862 862 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 27 579 593 "Lab1/tut2.ml" 27 579 595
+type(
+  unit
+)
+"Lab1/tut2.ml" 28 601 609 "Lab1/tut2.ml" 28 601 610
+type(
+  int
+)
+"Lab1/tut2.ml" 28 601 614 "Lab1/tut2.ml" 28 601 616
+type(
+  int
+)
+"Lab1/tut2.ml" 29 621 629 "Lab1/tut2.ml" 29 621 630
+type(
+  unit
+)
+"Lab1/tut2.ml" 29 621 633 "Lab1/tut2.ml" 29 621 646
+type(
+  (int -> int -> unit, out_channel, unit) format -> int -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut2.ml" 29 621 647 "Lab1/tut2.ml" 29 621 664
+type(
+  (int -> int -> unit, out_channel, unit) format
+)
+"Lab1/tut2.ml" 29 621 665 "Lab1/tut2.ml" 29 621 666
+type(
+  int
+)
+"Lab1/tut2.ml" 29 621 668 "Lab1/tut2.ml" 29 621 671
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Lab1/tut2.ml" 23 510 518 "Lab1/tut2.ml" 23 510 521
+)
+"Lab1/tut2.ml" 29 621 672 "Lab1/tut2.ml" 29 621 673
+type(
+  int
+)
+"Lab1/tut2.ml" 29 621 667 "Lab1/tut2.ml" 29 621 674
+type(
+  int
+)
+"Lab1/tut2.ml" 29 621 633 "Lab1/tut2.ml" 29 621 674
+type(
+  unit
+)
+"Lab1/tut2.ml" 30 679 683 "Lab1/tut2.ml" 30 679 688
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"Lab1/tut2.ml" 30 679 688 "Lab1/tut2.ml" 30 679 696
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"Lab1/tut2.ml" 30 679 683 "Lab1/tut2.ml" 30 679 696
+type(
+  unit
+)
+"Lab1/tut2.ml" 29 621 625 "Lab1/tut2.ml" 30 679 696
+type(
+  unit
+)
+"Lab1/tut2.ml" 28 601 603 "Lab1/tut2.ml" 31 698 704
+type(
+  unit
+)
+"Lab1/tut2.ml" 37 862 866 "Lab1/tut2.ml" 37 862 870
+type(
+  int -> int * int * int
+)
+ident(
+  def fib2 "Lab1/tut2.ml" 43 991 991 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 37 862 871 "Lab1/tut2.ml" 37 862 872
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 38 876 878 "Lab1/tut2.ml" 41 972 984
+)
+"Lab1/tut2.ml" 38 876 886 "Lab1/tut2.ml" 38 876 889
+type(
+  int -> int * int * int
+)
+ident(
+  def aux "Lab1/tut2.ml" 38 876 878 "Lab1/tut2.ml" 41 972 984
+)
+"Lab1/tut2.ml" 38 876 890 "Lab1/tut2.ml" 38 876 891
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 39 895 899 "Lab1/tut2.ml" 40 921 970
+)
+"Lab1/tut2.ml" 39 895 902 "Lab1/tut2.ml" 39 895 903
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 38 876 890 "Lab1/tut2.ml" 38 876 891
+)
+"Lab1/tut2.ml" 39 895 903 "Lab1/tut2.ml" 39 895 905
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/tut2.ml" 39 895 905 "Lab1/tut2.ml" 39 895 906
+type(
+  int
+)
+"Lab1/tut2.ml" 39 895 902 "Lab1/tut2.ml" 39 895 906
+type(
+  bool
+)
+"Lab1/tut2.ml" 39 895 913 "Lab1/tut2.ml" 39 895 914
+type(
+  int
+)
+"Lab1/tut2.ml" 39 895 915 "Lab1/tut2.ml" 39 895 916
+type(
+  int
+)
+"Lab1/tut2.ml" 39 895 917 "Lab1/tut2.ml" 39 895 918
+type(
+  int
+)
+"Lab1/tut2.ml" 39 895 912 "Lab1/tut2.ml" 39 895 919
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 40 921 935 "Lab1/tut2.ml" 40 921 938
+type(
+  int
+)
+ident(
+  def cnt "Lab1/tut2.ml" 40 921 957 "Lab1/tut2.ml" 40 921 970
+)
+"Lab1/tut2.ml" 40 921 940 "Lab1/tut2.ml" 40 921 941
+type(
+  int
+)
+ident(
+  def a "Lab1/tut2.ml" 40 921 957 "Lab1/tut2.ml" 40 921 970
+)
+"Lab1/tut2.ml" 40 921 942 "Lab1/tut2.ml" 40 921 943
+type(
+  int
+)
+ident(
+  def b "Lab1/tut2.ml" 40 921 957 "Lab1/tut2.ml" 40 921 970
+)
+"Lab1/tut2.ml" 40 921 934 "Lab1/tut2.ml" 40 921 944
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 40 921 945 "Lab1/tut2.ml" 40 921 948
+type(
+  int -> int * int * int
+)
+ident(
+  int_ref aux "Lab1/tut2.ml" 38 876 886 "Lab1/tut2.ml" 38 876 889
+)
+"Lab1/tut2.ml" 40 921 949 "Lab1/tut2.ml" 40 921 950
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 38 876 890 "Lab1/tut2.ml" 38 876 891
+)
+"Lab1/tut2.ml" 40 921 950 "Lab1/tut2.ml" 40 921 951
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/tut2.ml" 40 921 951 "Lab1/tut2.ml" 40 921 952
+type(
+  int
+)
+"Lab1/tut2.ml" 40 921 948 "Lab1/tut2.ml" 40 921 953
+type(
+  int
+)
+"Lab1/tut2.ml" 40 921 945 "Lab1/tut2.ml" 40 921 953
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 40 921 958 "Lab1/tut2.ml" 40 921 961
+type(
+  int
+)
+ident(
+  int_ref cnt "Lab1/tut2.ml" 40 921 935 "Lab1/tut2.ml" 40 921 938
+)
+"Lab1/tut2.ml" 40 921 961 "Lab1/tut2.ml" 40 921 962
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/tut2.ml" 40 921 962 "Lab1/tut2.ml" 40 921 963
+type(
+  int
+)
+"Lab1/tut2.ml" 40 921 958 "Lab1/tut2.ml" 40 921 963
+type(
+  int
+)
+"Lab1/tut2.ml" 40 921 964 "Lab1/tut2.ml" 40 921 965
+type(
+  int
+)
+ident(
+  int_ref a "Lab1/tut2.ml" 40 921 940 "Lab1/tut2.ml" 40 921 941
+)
+"Lab1/tut2.ml" 40 921 965 "Lab1/tut2.ml" 40 921 966
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/tut2.ml" 40 921 966 "Lab1/tut2.ml" 40 921 967
+type(
+  int
+)
+ident(
+  int_ref b "Lab1/tut2.ml" 40 921 942 "Lab1/tut2.ml" 40 921 943
+)
+"Lab1/tut2.ml" 40 921 964 "Lab1/tut2.ml" 40 921 967
+type(
+  int
+)
+"Lab1/tut2.ml" 40 921 968 "Lab1/tut2.ml" 40 921 969
+type(
+  int
+)
+ident(
+  int_ref a "Lab1/tut2.ml" 40 921 940 "Lab1/tut2.ml" 40 921 941
+)
+"Lab1/tut2.ml" 40 921 957 "Lab1/tut2.ml" 40 921 970
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 40 921 930 "Lab1/tut2.ml" 40 921 970
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 39 895 899 "Lab1/tut2.ml" 40 921 970
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 41 972 978 "Lab1/tut2.ml" 41 972 981
+type(
+  int -> int * int * int
+)
+ident(
+  int_ref aux "Lab1/tut2.ml" 38 876 886 "Lab1/tut2.ml" 38 876 889
+)
+"Lab1/tut2.ml" 41 972 982 "Lab1/tut2.ml" 41 972 983
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 37 862 871 "Lab1/tut2.ml" 37 862 872
+)
+"Lab1/tut2.ml" 41 972 977 "Lab1/tut2.ml" 41 972 984
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 38 876 878 "Lab1/tut2.ml" 41 972 984
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 43 991 995 "Lab1/tut2.ml" 43 991 1005
+type(
+  unit -> unit
+)
+ident(
+  def print_fib2 "Lab1/tut2.ml" 51 1173 1173 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 43 991 1006 "Lab1/tut2.ml" 43 991 1008
+type(
+  unit
+)
+"Lab1/tut2.ml" 44 1012 1020 "Lab1/tut2.ml" 44 1012 1021
+type(
+  int
+)
+"Lab1/tut2.ml" 44 1012 1025 "Lab1/tut2.ml" 44 1012 1027
+type(
+  int
+)
+"Lab1/tut2.ml" 45 1032 1039 "Lab1/tut2.ml" 45 1032 1042
+type(
+  int
+)
+ident(
+  def cnt "Lab1/tut2.ml" 46 1064 1068 "Lab1/tut2.ml" 47 1136 1153
+)
+"Lab1/tut2.ml" 45 1032 1043 "Lab1/tut2.ml" 45 1032 1046
+type(
+  int
+)
+ident(
+  def ans "Lab1/tut2.ml" 46 1064 1068 "Lab1/tut2.ml" 47 1136 1153
+)
+"Lab1/tut2.ml" 45 1032 1048 "Lab1/tut2.ml" 45 1032 1049
+type(
+  int
+)
+"Lab1/tut2.ml" 45 1032 1038 "Lab1/tut2.ml" 45 1032 1050
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 45 1032 1053 "Lab1/tut2.ml" 45 1032 1057
+type(
+  int -> int * int * int
+)
+ident(
+  int_ref fib2 "Lab1/tut2.ml" 37 862 866 "Lab1/tut2.ml" 37 862 870
+)
+"Lab1/tut2.ml" 45 1032 1058 "Lab1/tut2.ml" 45 1032 1059
+type(
+  int
+)
+"Lab1/tut2.ml" 45 1032 1053 "Lab1/tut2.ml" 45 1032 1059
+type(
+  int * int * int
+)
+"Lab1/tut2.ml" 46 1064 1072 "Lab1/tut2.ml" 46 1064 1073
+type(
+  unit
+)
+"Lab1/tut2.ml" 46 1064 1076 "Lab1/tut2.ml" 46 1064 1089
+type(
+  (int -> int -> int -> unit, out_channel, unit) format ->
+  int -> int -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut2.ml" 46 1064 1090 "Lab1/tut2.ml" 46 1064 1121
+type(
+  (int -> int -> int -> unit, out_channel, unit) format
+)
+"Lab1/tut2.ml" 46 1064 1122 "Lab1/tut2.ml" 46 1064 1123
+type(
+  int
+)
+"Lab1/tut2.ml" 46 1064 1124 "Lab1/tut2.ml" 46 1064 1127
+type(
+  int
+)
+ident(
+  int_ref ans "Lab1/tut2.ml" 45 1032 1043 "Lab1/tut2.ml" 45 1032 1046
+)
+"Lab1/tut2.ml" 46 1064 1128 "Lab1/tut2.ml" 46 1064 1131
+type(
+  int
+)
+ident(
+  int_ref cnt "Lab1/tut2.ml" 45 1032 1039 "Lab1/tut2.ml" 45 1032 1042
+)
+"Lab1/tut2.ml" 46 1064 1076 "Lab1/tut2.ml" 46 1064 1131
+type(
+  unit
+)
+"Lab1/tut2.ml" 47 1136 1140 "Lab1/tut2.ml" 47 1136 1145
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"Lab1/tut2.ml" 47 1136 1145 "Lab1/tut2.ml" 47 1136 1153
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"Lab1/tut2.ml" 47 1136 1140 "Lab1/tut2.ml" 47 1136 1153
+type(
+  unit
+)
+"Lab1/tut2.ml" 46 1064 1068 "Lab1/tut2.ml" 47 1136 1153
+type(
+  unit
+)
+"Lab1/tut2.ml" 45 1032 1034 "Lab1/tut2.ml" 47 1136 1153
+type(
+  unit
+)
+"Lab1/tut2.ml" 44 1012 1014 "Lab1/tut2.ml" 48 1155 1161
+type(
+  unit
+)
+"Lab1/tut2.ml" 51 1173 1177 "Lab1/tut2.ml" 51 1173 1181
+type(
+  int -> int
+)
+ident(
+  def fib2 "Lab1/tut2.ml" 57 1292 1292 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 51 1173 1182 "Lab1/tut2.ml" 51 1173 1183
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 52 1187 1189 "Lab1/tut2.ml" 55 1270 1285
+)
+"Lab1/tut2.ml" 52 1187 1197 "Lab1/tut2.ml" 52 1187 1200
+type(
+  int -> int * int
+)
+ident(
+  def aux "Lab1/tut2.ml" 52 1187 1189 "Lab1/tut2.ml" 55 1270 1285
+)
+"Lab1/tut2.ml" 52 1187 1201 "Lab1/tut2.ml" 52 1187 1202
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 53 1206 1210 "Lab1/tut2.ml" 54 1230 1268
+)
+"Lab1/tut2.ml" 53 1206 1213 "Lab1/tut2.ml" 53 1206 1214
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 52 1187 1201 "Lab1/tut2.ml" 52 1187 1202
+)
+"Lab1/tut2.ml" 53 1206 1214 "Lab1/tut2.ml" 53 1206 1216
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/tut2.ml" 53 1206 1216 "Lab1/tut2.ml" 53 1206 1217
+type(
+  int
+)
+"Lab1/tut2.ml" 53 1206 1213 "Lab1/tut2.ml" 53 1206 1217
+type(
+  bool
+)
+"Lab1/tut2.ml" 53 1206 1224 "Lab1/tut2.ml" 53 1206 1225
+type(
+  int
+)
+"Lab1/tut2.ml" 53 1206 1226 "Lab1/tut2.ml" 53 1206 1227
+type(
+  int
+)
+"Lab1/tut2.ml" 53 1206 1223 "Lab1/tut2.ml" 53 1206 1228
+type(
+  int * int
+)
+"Lab1/tut2.ml" 54 1230 1244 "Lab1/tut2.ml" 54 1230 1245
+type(
+  int
+)
+ident(
+  def a "Lab1/tut2.ml" 54 1230 1261 "Lab1/tut2.ml" 54 1230 1268
+)
+"Lab1/tut2.ml" 54 1230 1246 "Lab1/tut2.ml" 54 1230 1247
+type(
+  int
+)
+ident(
+  def b "Lab1/tut2.ml" 54 1230 1261 "Lab1/tut2.ml" 54 1230 1268
+)
+"Lab1/tut2.ml" 54 1230 1243 "Lab1/tut2.ml" 54 1230 1248
+type(
+  int * int
+)
+"Lab1/tut2.ml" 54 1230 1249 "Lab1/tut2.ml" 54 1230 1252
+type(
+  int -> int * int
+)
+ident(
+  int_ref aux "Lab1/tut2.ml" 52 1187 1197 "Lab1/tut2.ml" 52 1187 1200
+)
+"Lab1/tut2.ml" 54 1230 1253 "Lab1/tut2.ml" 54 1230 1254
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 52 1187 1201 "Lab1/tut2.ml" 52 1187 1202
+)
+"Lab1/tut2.ml" 54 1230 1254 "Lab1/tut2.ml" 54 1230 1255
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/tut2.ml" 54 1230 1255 "Lab1/tut2.ml" 54 1230 1256
+type(
+  int
+)
+"Lab1/tut2.ml" 54 1230 1252 "Lab1/tut2.ml" 54 1230 1257
+type(
+  int
+)
+"Lab1/tut2.ml" 54 1230 1249 "Lab1/tut2.ml" 54 1230 1257
+type(
+  int * int
+)
+"Lab1/tut2.ml" 54 1230 1262 "Lab1/tut2.ml" 54 1230 1263
+type(
+  int
+)
+ident(
+  int_ref a "Lab1/tut2.ml" 54 1230 1244 "Lab1/tut2.ml" 54 1230 1245
+)
+"Lab1/tut2.ml" 54 1230 1263 "Lab1/tut2.ml" 54 1230 1264
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/tut2.ml" 54 1230 1264 "Lab1/tut2.ml" 54 1230 1265
+type(
+  int
+)
+ident(
+  int_ref b "Lab1/tut2.ml" 54 1230 1246 "Lab1/tut2.ml" 54 1230 1247
+)
+"Lab1/tut2.ml" 54 1230 1262 "Lab1/tut2.ml" 54 1230 1265
+type(
+  int
+)
+"Lab1/tut2.ml" 54 1230 1266 "Lab1/tut2.ml" 54 1230 1267
+type(
+  int
+)
+ident(
+  int_ref a "Lab1/tut2.ml" 54 1230 1244 "Lab1/tut2.ml" 54 1230 1245
+)
+"Lab1/tut2.ml" 54 1230 1261 "Lab1/tut2.ml" 54 1230 1268
+type(
+  int * int
+)
+"Lab1/tut2.ml" 54 1230 1239 "Lab1/tut2.ml" 54 1230 1268
+type(
+  int * int
+)
+"Lab1/tut2.ml" 53 1206 1210 "Lab1/tut2.ml" 54 1230 1268
+type(
+  int * int
+)
+"Lab1/tut2.ml" 55 1270 1275 "Lab1/tut2.ml" 55 1270 1278
+type(
+  int * int -> int
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"Lab1/tut2.ml" 55 1270 1279 "Lab1/tut2.ml" 55 1270 1282
+type(
+  int -> int * int
+)
+ident(
+  int_ref aux "Lab1/tut2.ml" 52 1187 1197 "Lab1/tut2.ml" 52 1187 1200
+)
+"Lab1/tut2.ml" 55 1270 1283 "Lab1/tut2.ml" 55 1270 1284
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 51 1173 1182 "Lab1/tut2.ml" 51 1173 1183
+)
+"Lab1/tut2.ml" 55 1270 1278 "Lab1/tut2.ml" 55 1270 1285
+type(
+  int * int
+)
+"Lab1/tut2.ml" 55 1270 1275 "Lab1/tut2.ml" 55 1270 1285
+type(
+  int
+)
+"Lab1/tut2.ml" 52 1187 1189 "Lab1/tut2.ml" 55 1270 1285
+type(
+  int
+)
+"Lab1/tut2.ml" 57 1292 1296 "Lab1/tut2.ml" 57 1292 1306
+type(
+  unit -> unit
+)
+ident(
+  def print_fib2 "Lab1/tut2.ml" 91 2043 2043 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 57 1292 1307 "Lab1/tut2.ml" 57 1292 1309
+type(
+  unit
+)
+"Lab1/tut2.ml" 58 1313 1321 "Lab1/tut2.ml" 58 1313 1322
+type(
+  int
+)
+"Lab1/tut2.ml" 58 1313 1326 "Lab1/tut2.ml" 58 1313 1328
+type(
+  int
+)
+"Lab1/tut2.ml" 59 1333 1341 "Lab1/tut2.ml" 59 1333 1342
+type(
+  unit
+)
+"Lab1/tut2.ml" 59 1333 1345 "Lab1/tut2.ml" 59 1333 1358
+type(
+  (int -> int -> unit, out_channel, unit) format -> int -> int -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"Lab1/tut2.ml" 59 1333 1359 "Lab1/tut2.ml" 59 1333 1376
+type(
+  (int -> int -> unit, out_channel, unit) format
+)
+"Lab1/tut2.ml" 59 1333 1377 "Lab1/tut2.ml" 59 1333 1378
+type(
+  int
+)
+"Lab1/tut2.ml" 59 1333 1380 "Lab1/tut2.ml" 59 1333 1384
+type(
+  int -> int
+)
+ident(
+  int_ref fib2 "Lab1/tut2.ml" 51 1173 1177 "Lab1/tut2.ml" 51 1173 1181
+)
+"Lab1/tut2.ml" 59 1333 1385 "Lab1/tut2.ml" 59 1333 1386
+type(
+  int
+)
+"Lab1/tut2.ml" 59 1333 1379 "Lab1/tut2.ml" 59 1333 1387
+type(
+  int
+)
+"Lab1/tut2.ml" 59 1333 1345 "Lab1/tut2.ml" 59 1333 1387
+type(
+  unit
+)
+"Lab1/tut2.ml" 60 1392 1396 "Lab1/tut2.ml" 60 1392 1401
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"Lab1/tut2.ml" 60 1392 1401 "Lab1/tut2.ml" 60 1392 1409
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"Lab1/tut2.ml" 60 1392 1396 "Lab1/tut2.ml" 60 1392 1409
+type(
+  unit
+)
+"Lab1/tut2.ml" 59 1333 1337 "Lab1/tut2.ml" 60 1392 1409
+type(
+  unit
+)
+"Lab1/tut2.ml" 58 1313 1315 "Lab1/tut2.ml" 61 1411 1417
+type(
+  unit
+)
+"Lab1/tut2.ml" 93 2059 2063 "Lab1/tut2.ml" 93 2059 2067
+type(
+  int -> Num.num
+)
+ident(
+  def fib3 "Lab1/tut2.ml" 95 2154 2155 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 93 2059 2069 "Lab1/tut2.ml" 93 2059 2070
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 93 2059 2076 "Lab1/tut2.ml" 94 2089 2152
+)
+"Lab1/tut2.ml" 94 2089 2090 "Lab1/tut2.ml" 94 2089 2098
+type(
+  string -> Num.num
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/tut2.ml" 94 2089 2099 "Lab1/tut2.ml" 94 2089 2152
+type(
+  string
+)
+"Lab1/tut2.ml" 94 2089 2090 "Lab1/tut2.ml" 94 2089 2152
+type(
+  Num.num
+)
+type(
+  Num.num
+)
+"Lab1/tut2.ml" 95 2154 2163 "Lab1/tut2.ml" 95 2154 2166
+type(
+  int -> Num.num * Num.num
+)
+ident(
+  def anx "Lab1/tut2.ml" 95 2154 2155 "_none_" 1 0 -1
+)
+"Lab1/tut2.ml" 95 2154 2167 "Lab1/tut2.ml" 95 2154 2168
+type(
+  int
+)
+ident(
+  def n "Lab1/tut2.ml" 96 2173 2175 "Lab1/tut2.ml" 98 2249 2259
+)
+"Lab1/tut2.ml" 96 2173 2178 "Lab1/tut2.ml" 96 2173 2179
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/tut2.ml" 95 2154 2167 "Lab1/tut2.ml" 95 2154 2168
+)
+"Lab1/tut2.ml" 96 2173 2179 "Lab1/tut2.ml" 96 2173 2181
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/tut2.ml" 96 2173 2181 "Lab1/tut2.ml" 96 2173 2182
+type(
+  int
+)
+"Lab1/tut2.ml" 96 2173 2178 "Lab1/tut2.ml" 96 2173 2182
+type(
+  bool
+)
+"Lab1/tut2.ml" 96 2173 2189 "Lab1/tut2.ml" 96 2173 2199
+type(
+  int -> Num.num
+)
+ident(
+  ext_ref Num.num_of_int
+)
+"Lab1/tut2.ml" 96 2173 2200 "Lab1/tut2.ml" 96 2173 2201
+type(
+  int
+)
+"Lab1/tut2.ml" 96 2173 2189 "Lab1/tut2.ml" 96 2173 2201
+type(
+  Num.num
+)
+"Lab1/tut2.ml" 96 2173 2202 "Lab1/tut2.ml" 96 2173 2212
+type(
+  int -> Num.num
+)
+ident(
+  ext_ref Num.num_of_int
+)
+"Lab1/tut2.ml" 96 2173 2213 "Lab1/tut2.ml" 96 2173 2214
+type(
+  int
+)
+"Lab1/tut2.ml" 96 2173 2202 "Lab1/tut2.ml" 96 2173 2214
+type(
+  Num.num
+)
+"Lab1/tut2.ml" 96 2173 2188 "Lab1/tut2.ml" 96 2173 2216
+type(
+  Num.num * Num.num
+)
+"Lab1/tut2.ml" 97 2218 2230 "Lab1/tut2.ml" 97 2218 2231
+type(
+  '_a
+)
+ident(
+  def a "Lab1/tut2.ml" 98 2249 2254 "Lab1/tut2.ml" 98 2249 2259
+)
+"Lab1/tut2.ml" 97 2218 2232 "Lab1/tut2.ml" 97 2218 2233
+type(
+  '_b
+)
+ident(
+  def b "Lab1/tut2.ml" 98 2249 2254 "Lab1/tut2.ml" 98 2249 2259
+)
+"Lab1/tut2.ml" 97 2218 2229 "Lab1/tut2.ml" 97 2218 2234
+type(
+  '_a * '_b
+)
+"Lab1/tut2.ml" 97 2218 2240 "Lab1/tut2.ml" 97 2218 2242
+type(
+  Num.num -> Num.num -> Num.num
+)
+ident(
+  ext_ref Num.( +/ )
+)

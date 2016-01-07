@@ -1,0 +1,4852 @@
+"TutorialLab/lab3_stub.ml" 4 69 73 "TutorialLab/lab3_stub.ml" 4 69 88
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  def align_w_penalty "TutorialLab/lab3_stub.ml" 30 1096 1096 "_none_" 1 0 -1
+)
+"TutorialLab/lab3_stub.ml" 4 69 89 "TutorialLab/lab3_stub.ml" 4 69 91
+type(
+  string
+)
+ident(
+  def s1 "TutorialLab/lab3_stub.ml" 4 69 92 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 4 69 92 "TutorialLab/lab3_stub.ml" 4 69 94
+type(
+  string
+)
+ident(
+  def s2 "TutorialLab/lab3_stub.ml" 4 69 95 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 4 69 95 "TutorialLab/lab3_stub.ml" 4 69 108
+type(
+  int
+)
+ident(
+  def penalty_space "TutorialLab/lab3_stub.ml" 5 111 113 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 5 111 117 "TutorialLab/lab3_stub.ml" 5 111 119
+type(
+  int
+)
+ident(
+  def n1 "TutorialLab/lab3_stub.ml" 6 142 144 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 5 111 122 "TutorialLab/lab3_stub.ml" 5 111 135
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"TutorialLab/lab3_stub.ml" 5 111 136 "TutorialLab/lab3_stub.ml" 5 111 138
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 4 69 89 "TutorialLab/lab3_stub.ml" 4 69 91
+)
+"TutorialLab/lab3_stub.ml" 5 111 122 "TutorialLab/lab3_stub.ml" 5 111 138
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 6 142 148 "TutorialLab/lab3_stub.ml" 6 142 150
+type(
+  int
+)
+ident(
+  def n2 "TutorialLab/lab3_stub.ml" 7 173 175 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 6 142 153 "TutorialLab/lab3_stub.ml" 6 142 166
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"TutorialLab/lab3_stub.ml" 6 142 167 "TutorialLab/lab3_stub.ml" 6 142 169
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 4 69 92 "TutorialLab/lab3_stub.ml" 4 69 94
+)
+"TutorialLab/lab3_stub.ml" 6 142 153 "TutorialLab/lab3_stub.ml" 6 142 169
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 7 173 179 "TutorialLab/lab3_stub.ml" 7 173 182
+type(
+  'a * 'b * 'c -> 'a * 'b * 'c -> 'a * 'b * 'c
+)
+ident(
+  def max "TutorialLab/lab3_stub.ml" 10 269 271 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 7 173 184 "TutorialLab/lab3_stub.ml" 7 173 186
+type(
+  'a
+)
+ident(
+  def m1 "TutorialLab/lab3_stub.ml" 7 173 196 "TutorialLab/lab3_stub.ml" 9 244 265
+)
+"TutorialLab/lab3_stub.ml" 7 173 187 "TutorialLab/lab3_stub.ml" 7 173 190
+type(
+  'b
+)
+ident(
+  def s11 "TutorialLab/lab3_stub.ml" 7 173 196 "TutorialLab/lab3_stub.ml" 9 244 265
+)
+"TutorialLab/lab3_stub.ml" 7 173 191 "TutorialLab/lab3_stub.ml" 7 173 194
+type(
+  'c
+)
+ident(
+  def s12 "TutorialLab/lab3_stub.ml" 7 173 196 "TutorialLab/lab3_stub.ml" 9 244 265
+)
+"TutorialLab/lab3_stub.ml" 7 173 183 "TutorialLab/lab3_stub.ml" 7 173 195
+type(
+  'a * 'b * 'c
+)
+"TutorialLab/lab3_stub.ml" 7 173 197 "TutorialLab/lab3_stub.ml" 7 173 199
+type(
+  'a
+)
+ident(
+  def m2 "TutorialLab/lab3_stub.ml" 8 213 217 "TutorialLab/lab3_stub.ml" 9 244 265
+)
+"TutorialLab/lab3_stub.ml" 7 173 200 "TutorialLab/lab3_stub.ml" 7 173 203
+type(
+  'b
+)
+ident(
+  def s21 "TutorialLab/lab3_stub.ml" 8 213 217 "TutorialLab/lab3_stub.ml" 9 244 265
+)
+"TutorialLab/lab3_stub.ml" 7 173 204 "TutorialLab/lab3_stub.ml" 7 173 207
+type(
+  'c
+)
+ident(
+  def s22 "TutorialLab/lab3_stub.ml" 8 213 217 "TutorialLab/lab3_stub.ml" 9 244 265
+)
+"TutorialLab/lab3_stub.ml" 7 173 196 "TutorialLab/lab3_stub.ml" 7 173 208
+type(
+  'a * 'b * 'c
+)
+"TutorialLab/lab3_stub.ml" 8 213 220 "TutorialLab/lab3_stub.ml" 8 213 222
+type(
+  'a
+)
+ident(
+  int_ref m1 "TutorialLab/lab3_stub.ml" 7 173 184 "TutorialLab/lab3_stub.ml" 7 173 186
+)
+"TutorialLab/lab3_stub.ml" 8 213 222 "TutorialLab/lab3_stub.ml" 8 213 223
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"TutorialLab/lab3_stub.ml" 8 213 223 "TutorialLab/lab3_stub.ml" 8 213 225
+type(
+  'a
+)
+ident(
+  int_ref m2 "TutorialLab/lab3_stub.ml" 7 173 197 "TutorialLab/lab3_stub.ml" 7 173 199
+)
+"TutorialLab/lab3_stub.ml" 8 213 220 "TutorialLab/lab3_stub.ml" 8 213 225
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 8 213 232 "TutorialLab/lab3_stub.ml" 8 213 234
+type(
+  'a
+)
+ident(
+  int_ref m2 "TutorialLab/lab3_stub.ml" 7 173 197 "TutorialLab/lab3_stub.ml" 7 173 199
+)
+"TutorialLab/lab3_stub.ml" 8 213 235 "TutorialLab/lab3_stub.ml" 8 213 238
+type(
+  'b
+)
+ident(
+  int_ref s21 "TutorialLab/lab3_stub.ml" 7 173 200 "TutorialLab/lab3_stub.ml" 7 173 203
+)
+"TutorialLab/lab3_stub.ml" 8 213 239 "TutorialLab/lab3_stub.ml" 8 213 242
+type(
+  'c
+)
+ident(
+  int_ref s22 "TutorialLab/lab3_stub.ml" 7 173 204 "TutorialLab/lab3_stub.ml" 7 173 207
+)
+"TutorialLab/lab3_stub.ml" 8 213 231 "TutorialLab/lab3_stub.ml" 8 213 243
+type(
+  'a * 'b * 'c
+)
+"TutorialLab/lab3_stub.ml" 9 244 254 "TutorialLab/lab3_stub.ml" 9 244 256
+type(
+  'a
+)
+ident(
+  int_ref m1 "TutorialLab/lab3_stub.ml" 7 173 184 "TutorialLab/lab3_stub.ml" 7 173 186
+)
+"TutorialLab/lab3_stub.ml" 9 244 257 "TutorialLab/lab3_stub.ml" 9 244 260
+type(
+  'b
+)
+ident(
+  int_ref s11 "TutorialLab/lab3_stub.ml" 7 173 187 "TutorialLab/lab3_stub.ml" 7 173 190
+)
+"TutorialLab/lab3_stub.ml" 9 244 261 "TutorialLab/lab3_stub.ml" 9 244 264
+type(
+  'c
+)
+ident(
+  int_ref s12 "TutorialLab/lab3_stub.ml" 7 173 191 "TutorialLab/lab3_stub.ml" 7 173 194
+)
+"TutorialLab/lab3_stub.ml" 9 244 253 "TutorialLab/lab3_stub.ml" 9 244 265
+type(
+  'a * 'b * 'c
+)
+"TutorialLab/lab3_stub.ml" 8 213 217 "TutorialLab/lab3_stub.ml" 9 244 265
+type(
+  'a * 'b * 'c
+)
+"TutorialLab/lab3_stub.ml" 10 269 275 "TutorialLab/lab3_stub.ml" 10 269 280
+type(
+  'd -> 'd -> int
+)
+ident(
+  def score "TutorialLab/lab3_stub.ml" 11 312 314 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 10 269 281 "TutorialLab/lab3_stub.ml" 10 269 282
+type(
+  'd
+)
+ident(
+  def a "TutorialLab/lab3_stub.ml" 10 269 283 "TutorialLab/lab3_stub.ml" 10 269 308
+)
+"TutorialLab/lab3_stub.ml" 10 269 283 "TutorialLab/lab3_stub.ml" 10 269 284
+type(
+  'd
+)
+ident(
+  def b "TutorialLab/lab3_stub.ml" 10 269 287 "TutorialLab/lab3_stub.ml" 10 269 308
+)
+"TutorialLab/lab3_stub.ml" 10 269 290 "TutorialLab/lab3_stub.ml" 10 269 291
+type(
+  'd
+)
+ident(
+  int_ref a "TutorialLab/lab3_stub.ml" 10 269 281 "TutorialLab/lab3_stub.ml" 10 269 282
+)
+"TutorialLab/lab3_stub.ml" 10 269 291 "TutorialLab/lab3_stub.ml" 10 269 292
+type(
+  'd -> 'd -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 10 269 292 "TutorialLab/lab3_stub.ml" 10 269 293
+type(
+  'd
+)
+ident(
+  int_ref b "TutorialLab/lab3_stub.ml" 10 269 283 "TutorialLab/lab3_stub.ml" 10 269 284
+)
+"TutorialLab/lab3_stub.ml" 10 269 290 "TutorialLab/lab3_stub.ml" 10 269 293
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 10 269 299 "TutorialLab/lab3_stub.ml" 10 269 300
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 10 269 306 "TutorialLab/lab3_stub.ml" 10 269 308
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 10 269 287 "TutorialLab/lab3_stub.ml" 10 269 308
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+type(
+  char -> string
+)
+ident(
+  def string_of_char "TutorialLab/lab3_stub.ml" 12 356 358 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 11 312 333 "TutorialLab/lab3_stub.ml" 11 312 334
+type(
+  char
+)
+ident(
+  def c "TutorialLab/lab3_stub.ml" 11 312 337 "TutorialLab/lab3_stub.ml" 11 312 352
+)
+"TutorialLab/lab3_stub.ml" 11 312 337 "TutorialLab/lab3_stub.ml" 11 312 348
+type(
+  int -> char -> string
+)
+ident(
+  ext_ref String.make
+)
+"TutorialLab/lab3_stub.ml" 11 312 349 "TutorialLab/lab3_stub.ml" 11 312 350
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 11 312 351 "TutorialLab/lab3_stub.ml" 11 312 352
+type(
+  char
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 11 312 333 "TutorialLab/lab3_stub.ml" 11 312 334
+)
+"TutorialLab/lab3_stub.ml" 11 312 337 "TutorialLab/lab3_stub.ml" 11 312 352
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  def aux "TutorialLab/lab3_stub.ml" 12 356 358 "TutorialLab/lab3_stub.ml" 26 1064 1084
+)
+"TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+type(
+  int
+)
+ident(
+  def i "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+type(
+  int
+)
+ident(
+  def j "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+type(
+  string
+)
+ident(
+  def sa "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+type(
+  string
+)
+ident(
+  def sb "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+type(
+  int
+)
+ident(
+  def sum "TutorialLab/lab3_stub.ml" 13 385 389 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 13 385 392 "TutorialLab/lab3_stub.ml" 13 385 393
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 13 385 393 "TutorialLab/lab3_stub.ml" 13 385 395
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"TutorialLab/lab3_stub.ml" 13 385 395 "TutorialLab/lab3_stub.ml" 13 385 397
+type(
+  int
+)
+ident(
+  int_ref n1 "TutorialLab/lab3_stub.ml" 5 111 117 "TutorialLab/lab3_stub.ml" 5 111 119
+)
+"TutorialLab/lab3_stub.ml" 13 385 392 "TutorialLab/lab3_stub.ml" 13 385 397
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 14 403 412 "TutorialLab/lab3_stub.ml" 14 403 413
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 14 403 413 "TutorialLab/lab3_stub.ml" 14 403 415
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"TutorialLab/lab3_stub.ml" 14 403 415 "TutorialLab/lab3_stub.ml" 14 403 417
+type(
+  int
+)
+ident(
+  int_ref n2 "TutorialLab/lab3_stub.ml" 6 142 148 "TutorialLab/lab3_stub.ml" 6 142 150
+)
+"TutorialLab/lab3_stub.ml" 14 403 412 "TutorialLab/lab3_stub.ml" 14 403 417
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 15 424 433 "TutorialLab/lab3_stub.ml" 15 424 436
+type(
+  int
+)
+ident(
+  int_ref sum "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+)
+"TutorialLab/lab3_stub.ml" 15 424 437 "TutorialLab/lab3_stub.ml" 15 424 439
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+)
+"TutorialLab/lab3_stub.ml" 15 424 440 "TutorialLab/lab3_stub.ml" 15 424 442
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+)
+"TutorialLab/lab3_stub.ml" 15 424 432 "TutorialLab/lab3_stub.ml" 15 424 443
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 17 494 502 "TutorialLab/lab3_stub.ml" 17 494 505
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+)
+"TutorialLab/lab3_stub.ml" 17 494 506 "TutorialLab/lab3_stub.ml" 17 494 507
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 17 494 509 "TutorialLab/lab3_stub.ml" 17 494 510
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 17 494 510 "TutorialLab/lab3_stub.ml" 17 494 511
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 17 494 511 "TutorialLab/lab3_stub.ml" 17 494 512
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 17 494 508 "TutorialLab/lab3_stub.ml" 17 494 513
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 17 494 515 "TutorialLab/lab3_stub.ml" 17 494 517
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+)
+"TutorialLab/lab3_stub.ml" 17 494 517 "TutorialLab/lab3_stub.ml" 17 494 518
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 17 494 518 "TutorialLab/lab3_stub.ml" 17 494 521
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 17 494 514 "TutorialLab/lab3_stub.ml" 17 494 522
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 17 494 524 "TutorialLab/lab3_stub.ml" 17 494 526
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+)
+"TutorialLab/lab3_stub.ml" 17 494 526 "TutorialLab/lab3_stub.ml" 17 494 527
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 17 494 528 "TutorialLab/lab3_stub.ml" 17 494 542
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+)
+"TutorialLab/lab3_stub.ml" 17 494 544 "TutorialLab/lab3_stub.ml" 17 494 554
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 17 494 555 "TutorialLab/lab3_stub.ml" 17 494 557
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 4 69 92 "TutorialLab/lab3_stub.ml" 4 69 94
+)
+"TutorialLab/lab3_stub.ml" 17 494 558 "TutorialLab/lab3_stub.ml" 17 494 559
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 17 494 543 "TutorialLab/lab3_stub.ml" 17 494 560
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 17 494 527 "TutorialLab/lab3_stub.ml" 17 494 561
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 17 494 523 "TutorialLab/lab3_stub.ml" 17 494 562
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 17 494 564 "TutorialLab/lab3_stub.ml" 17 494 577
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 4 69 95 "TutorialLab/lab3_stub.ml" 4 69 108
+)
+"TutorialLab/lab3_stub.ml" 17 494 578 "TutorialLab/lab3_stub.ml" 17 494 579
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 17 494 580 "TutorialLab/lab3_stub.ml" 17 494 583
+type(
+  int
+)
+ident(
+  int_ref sum "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+)
+"TutorialLab/lab3_stub.ml" 17 494 563 "TutorialLab/lab3_stub.ml" 17 494 584
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 17 494 502 "TutorialLab/lab3_stub.ml" 17 494 584
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 14 403 409 "TutorialLab/lab3_stub.ml" 17 494 584
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 19 596 605 "TutorialLab/lab3_stub.ml" 19 596 606
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 19 596 606 "TutorialLab/lab3_stub.ml" 19 596 608
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"TutorialLab/lab3_stub.ml" 19 596 608 "TutorialLab/lab3_stub.ml" 19 596 610
+type(
+  int
+)
+ident(
+  int_ref n2 "TutorialLab/lab3_stub.ml" 6 142 148 "TutorialLab/lab3_stub.ml" 6 142 150
+)
+"TutorialLab/lab3_stub.ml" 19 596 605 "TutorialLab/lab3_stub.ml" 19 596 610
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 20 617 625 "TutorialLab/lab3_stub.ml" 20 617 628
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+)
+"TutorialLab/lab3_stub.ml" 20 617 630 "TutorialLab/lab3_stub.ml" 20 617 631
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 20 617 631 "TutorialLab/lab3_stub.ml" 20 617 632
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 20 617 632 "TutorialLab/lab3_stub.ml" 20 617 633
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 20 617 629 "TutorialLab/lab3_stub.ml" 20 617 634
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 20 617 635 "TutorialLab/lab3_stub.ml" 20 617 638
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 20 617 640 "TutorialLab/lab3_stub.ml" 20 617 642
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+)
+"TutorialLab/lab3_stub.ml" 20 617 642 "TutorialLab/lab3_stub.ml" 20 617 643
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 20 617 644 "TutorialLab/lab3_stub.ml" 20 617 658
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+)
+"TutorialLab/lab3_stub.ml" 20 617 660 "TutorialLab/lab3_stub.ml" 20 617 670
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 20 617 671 "TutorialLab/lab3_stub.ml" 20 617 673
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 4 69 89 "TutorialLab/lab3_stub.ml" 4 69 91
+)
+"TutorialLab/lab3_stub.ml" 20 617 674 "TutorialLab/lab3_stub.ml" 20 617 675
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 20 617 659 "TutorialLab/lab3_stub.ml" 20 617 676
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 20 617 643 "TutorialLab/lab3_stub.ml" 20 617 677
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 20 617 639 "TutorialLab/lab3_stub.ml" 20 617 678
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 20 617 680 "TutorialLab/lab3_stub.ml" 20 617 682
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+)
+"TutorialLab/lab3_stub.ml" 20 617 682 "TutorialLab/lab3_stub.ml" 20 617 683
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 20 617 683 "TutorialLab/lab3_stub.ml" 20 617 686
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 20 617 679 "TutorialLab/lab3_stub.ml" 20 617 687
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 20 617 689 "TutorialLab/lab3_stub.ml" 20 617 702
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 4 69 95 "TutorialLab/lab3_stub.ml" 4 69 108
+)
+"TutorialLab/lab3_stub.ml" 20 617 703 "TutorialLab/lab3_stub.ml" 20 617 704
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 20 617 705 "TutorialLab/lab3_stub.ml" 20 617 708
+type(
+  int
+)
+ident(
+  int_ref sum "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+)
+"TutorialLab/lab3_stub.ml" 20 617 688 "TutorialLab/lab3_stub.ml" 20 617 709
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 20 617 625 "TutorialLab/lab3_stub.ml" 20 617 709
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 22 723 735 "TutorialLab/lab3_stub.ml" 22 723 737
+type(
+  char
+)
+ident(
+  def c1 "TutorialLab/lab3_stub.ml" 23 759 767 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 22 723 740 "TutorialLab/lab3_stub.ml" 22 723 750
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 22 723 751 "TutorialLab/lab3_stub.ml" 22 723 753
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 4 69 89 "TutorialLab/lab3_stub.ml" 4 69 91
+)
+"TutorialLab/lab3_stub.ml" 22 723 754 "TutorialLab/lab3_stub.ml" 22 723 755
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 22 723 740 "TutorialLab/lab3_stub.ml" 22 723 755
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 23 759 771 "TutorialLab/lab3_stub.ml" 23 759 773
+type(
+  char
+)
+ident(
+  def c2 "TutorialLab/lab3_stub.ml" 24 795 803 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 23 759 776 "TutorialLab/lab3_stub.ml" 23 759 786
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 23 759 787 "TutorialLab/lab3_stub.ml" 23 759 789
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 4 69 92 "TutorialLab/lab3_stub.ml" 4 69 94
+)
+"TutorialLab/lab3_stub.ml" 23 759 790 "TutorialLab/lab3_stub.ml" 23 759 791
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 23 759 776 "TutorialLab/lab3_stub.ml" 23 759 791
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 24 795 807 "TutorialLab/lab3_stub.ml" 24 795 808
+type(
+  int
+)
+ident(
+  def m "TutorialLab/lab3_stub.ml" 25 826 834 "TutorialLab/lab3_stub.ml" 25 826 1063
+)
+"TutorialLab/lab3_stub.ml" 24 795 811 "TutorialLab/lab3_stub.ml" 24 795 816
+type(
+  char -> char -> int
+)
+ident(
+  int_ref score "TutorialLab/lab3_stub.ml" 10 269 275 "TutorialLab/lab3_stub.ml" 10 269 280
+)
+"TutorialLab/lab3_stub.ml" 24 795 817 "TutorialLab/lab3_stub.ml" 24 795 819
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 22 723 735 "TutorialLab/lab3_stub.ml" 22 723 737
+)
+"TutorialLab/lab3_stub.ml" 24 795 820 "TutorialLab/lab3_stub.ml" 24 795 822
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 23 759 771 "TutorialLab/lab3_stub.ml" 23 759 773
+)
+"TutorialLab/lab3_stub.ml" 24 795 811 "TutorialLab/lab3_stub.ml" 24 795 822
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 834 "TutorialLab/lab3_stub.ml" 25 826 837
+type(
+  int * string * string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref max "TutorialLab/lab3_stub.ml" 7 173 179 "TutorialLab/lab3_stub.ml" 7 173 182
+)
+"TutorialLab/lab3_stub.ml" 25 826 839 "TutorialLab/lab3_stub.ml" 25 826 842
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+)
+"TutorialLab/lab3_stub.ml" 25 826 844 "TutorialLab/lab3_stub.ml" 25 826 845
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 25 826 845 "TutorialLab/lab3_stub.ml" 25 826 846
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 846 "TutorialLab/lab3_stub.ml" 25 826 847
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 843 "TutorialLab/lab3_stub.ml" 25 826 848
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 850 "TutorialLab/lab3_stub.ml" 25 826 851
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 25 826 851 "TutorialLab/lab3_stub.ml" 25 826 852
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 852 "TutorialLab/lab3_stub.ml" 25 826 853
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 849 "TutorialLab/lab3_stub.ml" 25 826 854
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 856 "TutorialLab/lab3_stub.ml" 25 826 858
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+)
+"TutorialLab/lab3_stub.ml" 25 826 858 "TutorialLab/lab3_stub.ml" 25 826 859
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 25 826 860 "TutorialLab/lab3_stub.ml" 25 826 874
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+)
+"TutorialLab/lab3_stub.ml" 25 826 875 "TutorialLab/lab3_stub.ml" 25 826 877
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 22 723 735 "TutorialLab/lab3_stub.ml" 22 723 737
+)
+"TutorialLab/lab3_stub.ml" 25 826 859 "TutorialLab/lab3_stub.ml" 25 826 878
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 855 "TutorialLab/lab3_stub.ml" 25 826 879
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 881 "TutorialLab/lab3_stub.ml" 25 826 883
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+)
+"TutorialLab/lab3_stub.ml" 25 826 883 "TutorialLab/lab3_stub.ml" 25 826 884
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 25 826 885 "TutorialLab/lab3_stub.ml" 25 826 899
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+)
+"TutorialLab/lab3_stub.ml" 25 826 900 "TutorialLab/lab3_stub.ml" 25 826 902
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 23 759 771 "TutorialLab/lab3_stub.ml" 23 759 773
+)
+"TutorialLab/lab3_stub.ml" 25 826 884 "TutorialLab/lab3_stub.ml" 25 826 903
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 880 "TutorialLab/lab3_stub.ml" 25 826 904
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 906 "TutorialLab/lab3_stub.ml" 25 826 907
+type(
+  int
+)
+ident(
+  int_ref m "TutorialLab/lab3_stub.ml" 24 795 807 "TutorialLab/lab3_stub.ml" 24 795 808
+)
+"TutorialLab/lab3_stub.ml" 25 826 908 "TutorialLab/lab3_stub.ml" 25 826 909
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 910 "TutorialLab/lab3_stub.ml" 25 826 913
+type(
+  int
+)
+ident(
+  int_ref sum "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+)
+"TutorialLab/lab3_stub.ml" 25 826 905 "TutorialLab/lab3_stub.ml" 25 826 914
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 838 "TutorialLab/lab3_stub.ml" 25 826 915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 25 826 917 "TutorialLab/lab3_stub.ml" 25 826 920
+type(
+  int * string * string -> int * string * string -> int * string * string
+)
+ident(
+  int_ref max "TutorialLab/lab3_stub.ml" 7 173 179 "TutorialLab/lab3_stub.ml" 7 173 182
+)
+"TutorialLab/lab3_stub.ml" 25 826 922 "TutorialLab/lab3_stub.ml" 25 826 925
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+)
+"TutorialLab/lab3_stub.ml" 25 826 927 "TutorialLab/lab3_stub.ml" 25 826 928
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 25 826 928 "TutorialLab/lab3_stub.ml" 25 826 929
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 929 "TutorialLab/lab3_stub.ml" 25 826 930
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 926 "TutorialLab/lab3_stub.ml" 25 826 931
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 932 "TutorialLab/lab3_stub.ml" 25 826 935
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 25 826 937 "TutorialLab/lab3_stub.ml" 25 826 939
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+)
+"TutorialLab/lab3_stub.ml" 25 826 939 "TutorialLab/lab3_stub.ml" 25 826 940
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 25 826 941 "TutorialLab/lab3_stub.ml" 25 826 955
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+)
+"TutorialLab/lab3_stub.ml" 25 826 956 "TutorialLab/lab3_stub.ml" 25 826 958
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 22 723 735 "TutorialLab/lab3_stub.ml" 22 723 737
+)
+"TutorialLab/lab3_stub.ml" 25 826 940 "TutorialLab/lab3_stub.ml" 25 826 959
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 936 "TutorialLab/lab3_stub.ml" 25 826 960
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 962 "TutorialLab/lab3_stub.ml" 25 826 964
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+)
+"TutorialLab/lab3_stub.ml" 25 826 964 "TutorialLab/lab3_stub.ml" 25 826 965
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 25 826 965 "TutorialLab/lab3_stub.ml" 25 826 968
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 961 "TutorialLab/lab3_stub.ml" 25 826 969
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 971 "TutorialLab/lab3_stub.ml" 25 826 984
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 4 69 95 "TutorialLab/lab3_stub.ml" 4 69 108
+)
+"TutorialLab/lab3_stub.ml" 25 826 985 "TutorialLab/lab3_stub.ml" 25 826 986
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 987 "TutorialLab/lab3_stub.ml" 25 826 990
+type(
+  int
+)
+ident(
+  int_ref sum "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+)
+"TutorialLab/lab3_stub.ml" 25 826 970 "TutorialLab/lab3_stub.ml" 25 826 991
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 921 "TutorialLab/lab3_stub.ml" 25 826 992
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 25 826 994 "TutorialLab/lab3_stub.ml" 25 826 997
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+)
+"TutorialLab/lab3_stub.ml" 25 826 998 "TutorialLab/lab3_stub.ml" 25 826 999
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 12 356 370 "TutorialLab/lab3_stub.ml" 12 356 371
+)
+"TutorialLab/lab3_stub.ml" 25 826 1001 "TutorialLab/lab3_stub.ml" 25 826 1002
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 12 356 372 "TutorialLab/lab3_stub.ml" 12 356 373
+)
+"TutorialLab/lab3_stub.ml" 25 826 1002 "TutorialLab/lab3_stub.ml" 25 826 1003
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 1003 "TutorialLab/lab3_stub.ml" 25 826 1004
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 1000 "TutorialLab/lab3_stub.ml" 25 826 1005
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 1007 "TutorialLab/lab3_stub.ml" 25 826 1009
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 12 356 374 "TutorialLab/lab3_stub.ml" 12 356 376
+)
+"TutorialLab/lab3_stub.ml" 25 826 1009 "TutorialLab/lab3_stub.ml" 25 826 1010
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 25 826 1010 "TutorialLab/lab3_stub.ml" 25 826 1013
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 1006 "TutorialLab/lab3_stub.ml" 25 826 1014
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 1016 "TutorialLab/lab3_stub.ml" 25 826 1018
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 12 356 377 "TutorialLab/lab3_stub.ml" 12 356 379
+)
+"TutorialLab/lab3_stub.ml" 25 826 1018 "TutorialLab/lab3_stub.ml" 25 826 1019
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 25 826 1020 "TutorialLab/lab3_stub.ml" 25 826 1034
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 11 312 318 "TutorialLab/lab3_stub.ml" 11 312 332
+)
+"TutorialLab/lab3_stub.ml" 25 826 1035 "TutorialLab/lab3_stub.ml" 25 826 1037
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 23 759 771 "TutorialLab/lab3_stub.ml" 23 759 773
+)
+"TutorialLab/lab3_stub.ml" 25 826 1019 "TutorialLab/lab3_stub.ml" 25 826 1038
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 1015 "TutorialLab/lab3_stub.ml" 25 826 1039
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 25 826 1041 "TutorialLab/lab3_stub.ml" 25 826 1054
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 4 69 95 "TutorialLab/lab3_stub.ml" 4 69 108
+)
+"TutorialLab/lab3_stub.ml" 25 826 1055 "TutorialLab/lab3_stub.ml" 25 826 1056
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 25 826 1057 "TutorialLab/lab3_stub.ml" 25 826 1060
+type(
+  int
+)
+ident(
+  int_ref sum "TutorialLab/lab3_stub.ml" 12 356 380 "TutorialLab/lab3_stub.ml" 12 356 383
+)
+"TutorialLab/lab3_stub.ml" 25 826 1040 "TutorialLab/lab3_stub.ml" 25 826 1061
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 25 826 993 "TutorialLab/lab3_stub.ml" 25 826 1062
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 25 826 916 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 25 826 834 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 24 795 803 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 23 759 767 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 22 723 731 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 19 596 602 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 13 385 389 "TutorialLab/lab3_stub.ml" 25 826 1063
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1069 "TutorialLab/lab3_stub.ml" 26 1064 1072
+type(
+  int -> int -> string -> string -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 12 356 366 "TutorialLab/lab3_stub.ml" 12 356 369
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1073 "TutorialLab/lab3_stub.ml" 26 1064 1074
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1075 "TutorialLab/lab3_stub.ml" 26 1064 1076
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1077 "TutorialLab/lab3_stub.ml" 26 1064 1079
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1080 "TutorialLab/lab3_stub.ml" 26 1064 1082
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1083 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 26 1064 1069 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 12 356 358 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 11 312 314 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 10 269 271 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 7 173 175 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 6 142 144 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 5 111 113 "TutorialLab/lab3_stub.ml" 26 1064 1084
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 30 1096 1100 "TutorialLab/lab3_stub.ml" 30 1096 1105
+type(
+  string -> string -> int * string * string
+)
+ident(
+  def align "TutorialLab/lab3_stub.ml" 37 1274 1274 "_none_" 1 0 -1
+)
+"TutorialLab/lab3_stub.ml" 30 1096 1106 "TutorialLab/lab3_stub.ml" 30 1096 1108
+type(
+  string
+)
+ident(
+  def s1 "TutorialLab/lab3_stub.ml" 30 1096 1109 "TutorialLab/lab3_stub.ml" 32 1136 1165
+)
+"TutorialLab/lab3_stub.ml" 30 1096 1109 "TutorialLab/lab3_stub.ml" 30 1096 1111
+type(
+  string
+)
+ident(
+  def s2 "TutorialLab/lab3_stub.ml" 31 1114 1116 "TutorialLab/lab3_stub.ml" 32 1136 1165
+)
+"TutorialLab/lab3_stub.ml" 31 1114 1120 "TutorialLab/lab3_stub.ml" 31 1114 1127
+type(
+  int
+)
+ident(
+  def penalty "TutorialLab/lab3_stub.ml" 32 1136 1136 "TutorialLab/lab3_stub.ml" 32 1136 1165
+)
+"TutorialLab/lab3_stub.ml" 31 1114 1130 "TutorialLab/lab3_stub.ml" 31 1114 1132
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 32 1136 1136 "TutorialLab/lab3_stub.ml" 32 1136 1151
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  int_ref align_w_penalty "TutorialLab/lab3_stub.ml" 4 69 73 "TutorialLab/lab3_stub.ml" 4 69 88
+)
+"TutorialLab/lab3_stub.ml" 32 1136 1152 "TutorialLab/lab3_stub.ml" 32 1136 1154
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 30 1096 1106 "TutorialLab/lab3_stub.ml" 30 1096 1108
+)
+"TutorialLab/lab3_stub.ml" 32 1136 1155 "TutorialLab/lab3_stub.ml" 32 1136 1157
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 30 1096 1109 "TutorialLab/lab3_stub.ml" 30 1096 1111
+)
+"TutorialLab/lab3_stub.ml" 32 1136 1158 "TutorialLab/lab3_stub.ml" 32 1136 1165
+type(
+  int
+)
+ident(
+  int_ref penalty "TutorialLab/lab3_stub.ml" 31 1114 1120 "TutorialLab/lab3_stub.ml" 31 1114 1127
+)
+"TutorialLab/lab3_stub.ml" 32 1136 1136 "TutorialLab/lab3_stub.ml" 32 1136 1165
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 31 1114 1116 "TutorialLab/lab3_stub.ml" 32 1136 1165
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 37 1274 1278 "TutorialLab/lab3_stub.ml" 37 1274 1289
+type(
+  string -> string -> int -> unit
+)
+ident(
+  def align_print "TutorialLab/lab3_stub.ml" 51 1720 1721 "_none_" 1 0 -1
+)
+"TutorialLab/lab3_stub.ml" 37 1274 1290 "TutorialLab/lab3_stub.ml" 37 1274 1292
+type(
+  string
+)
+ident(
+  def s1 "TutorialLab/lab3_stub.ml" 37 1274 1293 "TutorialLab/lab3_stub.ml" 48 1656 1707
+)
+"TutorialLab/lab3_stub.ml" 37 1274 1293 "TutorialLab/lab3_stub.ml" 37 1274 1295
+type(
+  string
+)
+ident(
+  def s2 "TutorialLab/lab3_stub.ml" 37 1274 1296 "TutorialLab/lab3_stub.ml" 48 1656 1707
+)
+"TutorialLab/lab3_stub.ml" 37 1274 1296 "TutorialLab/lab3_stub.ml" 37 1274 1309
+type(
+  int
+)
+ident(
+  def penalty_space "TutorialLab/lab3_stub.ml" 38 1312 1314 "TutorialLab/lab3_stub.ml" 48 1656 1707
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1319 "TutorialLab/lab3_stub.ml" 38 1312 1320
+type(
+  int
+)
+ident(
+  def m "TutorialLab/lab3_stub.ml" 39 1371 1372 "TutorialLab/lab3_stub.ml" 48 1656 1707
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1322 "TutorialLab/lab3_stub.ml" 38 1312 1324
+type(
+  string
+)
+ident(
+  def sa "TutorialLab/lab3_stub.ml" 39 1371 1372 "TutorialLab/lab3_stub.ml" 48 1656 1707
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1326 "TutorialLab/lab3_stub.ml" 38 1312 1328
+type(
+  string
+)
+ident(
+  def sb "TutorialLab/lab3_stub.ml" 39 1371 1372 "TutorialLab/lab3_stub.ml" 48 1656 1707
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1318 "TutorialLab/lab3_stub.ml" 38 1312 1329
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1332 "TutorialLab/lab3_stub.ml" 38 1312 1347
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  int_ref align_w_penalty "TutorialLab/lab3_stub.ml" 4 69 73 "TutorialLab/lab3_stub.ml" 4 69 88
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1348 "TutorialLab/lab3_stub.ml" 38 1312 1350
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 37 1274 1290 "TutorialLab/lab3_stub.ml" 37 1274 1292
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1351 "TutorialLab/lab3_stub.ml" 38 1312 1353
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 37 1274 1293 "TutorialLab/lab3_stub.ml" 37 1274 1295
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1354 "TutorialLab/lab3_stub.ml" 38 1312 1367
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 37 1274 1296 "TutorialLab/lab3_stub.ml" 37 1274 1309
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1332 "TutorialLab/lab3_stub.ml" 38 1312 1367
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1372 "TutorialLab/lab3_stub.ml" 39 1371 1384
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1387 "TutorialLab/lab3_stub.ml" 39 1371 1389
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 38 1312 1322 "TutorialLab/lab3_stub.ml" 38 1312 1324
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1389 "TutorialLab/lab3_stub.ml" 39 1371 1390
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1390 "TutorialLab/lab3_stub.ml" 39 1371 1394
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1386 "TutorialLab/lab3_stub.ml" 39 1371 1395
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1372 "TutorialLab/lab3_stub.ml" 39 1371 1395
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1398 "TutorialLab/lab3_stub.ml" 40 1397 1410
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1412 "TutorialLab/lab3_stub.ml" 40 1397 1414
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 38 1312 1326 "TutorialLab/lab3_stub.ml" 38 1312 1328
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1414 "TutorialLab/lab3_stub.ml" 40 1397 1415
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1415 "TutorialLab/lab3_stub.ml" 40 1397 1419
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1411 "TutorialLab/lab3_stub.ml" 40 1397 1420
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1398 "TutorialLab/lab3_stub.ml" 40 1397 1420
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1431 "TutorialLab/lab3_stub.ml" 41 1422 1432
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1437 "TutorialLab/lab3_stub.ml" 41 1422 1450
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1451 "TutorialLab/lab3_stub.ml" 41 1422 1453
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 38 1312 1322 "TutorialLab/lab3_stub.ml" 38 1312 1324
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1437 "TutorialLab/lab3_stub.ml" 41 1422 1453
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1454 "TutorialLab/lab3_stub.ml" 41 1422 1455
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1456 "TutorialLab/lab3_stub.ml" 41 1422 1457
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1436 "TutorialLab/lab3_stub.ml" 41 1422 1458
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 42 1462 1467 "TutorialLab/lab3_stub.ml" 42 1462 1469
+type(
+  char
+)
+ident(
+  def c1 "TutorialLab/lab3_stub.ml" 43 1491 1499 "TutorialLab/lab3_stub.ml" 46 1622 1648
+)
+"TutorialLab/lab3_stub.ml" 42 1462 1472 "TutorialLab/lab3_stub.ml" 42 1462 1482
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 42 1462 1483 "TutorialLab/lab3_stub.ml" 42 1462 1485
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 38 1312 1322 "TutorialLab/lab3_stub.ml" 38 1312 1324
+)
+"TutorialLab/lab3_stub.ml" 42 1462 1486 "TutorialLab/lab3_stub.ml" 42 1462 1487
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 42 1462 1472 "TutorialLab/lab3_stub.ml" 42 1462 1487
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 43 1491 1503 "TutorialLab/lab3_stub.ml" 43 1491 1505
+type(
+  char
+)
+ident(
+  def c2 "TutorialLab/lab3_stub.ml" 44 1527 1531 "TutorialLab/lab3_stub.ml" 46 1622 1648
+)
+"TutorialLab/lab3_stub.ml" 43 1491 1508 "TutorialLab/lab3_stub.ml" 43 1491 1518
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 43 1491 1519 "TutorialLab/lab3_stub.ml" 43 1491 1521
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 38 1312 1326 "TutorialLab/lab3_stub.ml" 38 1312 1328
+)
+"TutorialLab/lab3_stub.ml" 43 1491 1522 "TutorialLab/lab3_stub.ml" 43 1491 1523
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 43 1491 1508 "TutorialLab/lab3_stub.ml" 43 1491 1523
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1535 "TutorialLab/lab3_stub.ml" 44 1527 1537
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 42 1462 1467 "TutorialLab/lab3_stub.ml" 42 1462 1469
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1538 "TutorialLab/lab3_stub.ml" 44 1527 1539
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1540 "TutorialLab/lab3_stub.ml" 44 1527 1543
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1535 "TutorialLab/lab3_stub.ml" 44 1527 1543
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1544 "TutorialLab/lab3_stub.ml" 44 1527 1546
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1547 "TutorialLab/lab3_stub.ml" 44 1527 1549
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 43 1491 1503 "TutorialLab/lab3_stub.ml" 43 1491 1505
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1550 "TutorialLab/lab3_stub.ml" 44 1527 1551
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1552 "TutorialLab/lab3_stub.ml" 44 1527 1555
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1547 "TutorialLab/lab3_stub.ml" 44 1527 1555
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1534 "TutorialLab/lab3_stub.ml" 44 1527 1556
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1562 "TutorialLab/lab3_stub.ml" 44 1527 1574
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1575 "TutorialLab/lab3_stub.ml" 44 1527 1578
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1562 "TutorialLab/lab3_stub.ml" 44 1527 1578
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1591 "TutorialLab/lab3_stub.ml" 45 1579 1593
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 42 1462 1467 "TutorialLab/lab3_stub.ml" 42 1462 1469
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1594 "TutorialLab/lab3_stub.ml" 45 1579 1595
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1596 "TutorialLab/lab3_stub.ml" 45 1579 1598
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 43 1491 1503 "TutorialLab/lab3_stub.ml" 43 1491 1505
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1590 "TutorialLab/lab3_stub.ml" 45 1579 1599
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1605 "TutorialLab/lab3_stub.ml" 45 1579 1617
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1618 "TutorialLab/lab3_stub.ml" 45 1579 1621
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1605 "TutorialLab/lab3_stub.ml" 45 1579 1621
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 46 1622 1631 "TutorialLab/lab3_stub.ml" 46 1622 1643
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 46 1622 1644 "TutorialLab/lab3_stub.ml" 46 1622 1647
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 46 1622 1631 "TutorialLab/lab3_stub.ml" 46 1622 1647
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 45 1579 1588 "TutorialLab/lab3_stub.ml" 46 1622 1647
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 44 1527 1531 "TutorialLab/lab3_stub.ml" 46 1622 1648
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 43 1491 1499 "TutorialLab/lab3_stub.ml" 46 1622 1648
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 42 1462 1463 "TutorialLab/lab3_stub.ml" 46 1622 1648
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1423 "TutorialLab/lab3_stub.ml" 47 1649 1654
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1657 "TutorialLab/lab3_stub.ml" 48 1656 1669
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1671 "TutorialLab/lab3_stub.ml" 48 1656 1683
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1683 "TutorialLab/lab3_stub.ml" 48 1656 1684
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1685 "TutorialLab/lab3_stub.ml" 48 1656 1698
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1699 "TutorialLab/lab3_stub.ml" 48 1656 1700
+type(
+  int
+)
+ident(
+  int_ref m "TutorialLab/lab3_stub.ml" 38 1312 1319 "TutorialLab/lab3_stub.ml" 38 1312 1320
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1684 "TutorialLab/lab3_stub.ml" 48 1656 1701
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1701 "TutorialLab/lab3_stub.ml" 48 1656 1702
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1702 "TutorialLab/lab3_stub.ml" 48 1656 1706
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1684 "TutorialLab/lab3_stub.ml" 48 1656 1706
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1670 "TutorialLab/lab3_stub.ml" 48 1656 1707
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 48 1656 1657 "TutorialLab/lab3_stub.ml" 48 1656 1707
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 41 1422 1423 "TutorialLab/lab3_stub.ml" 48 1656 1707
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 40 1397 1398 "TutorialLab/lab3_stub.ml" 48 1656 1707
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 39 1371 1372 "TutorialLab/lab3_stub.ml" 48 1656 1707
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 38 1312 1314 "TutorialLab/lab3_stub.ml" 48 1656 1707
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 53 1748 1807 "TutorialLab/lab3_stub.ml" 53 1748 1810
+type(
+  (int * int * (int * string * string)) list
+)
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 54 1811 1870 "TutorialLab/lab3_stub.ml" 54 1811 1873
+type(
+  (int * int * (int * string * string)) list
+)
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1887 "TutorialLab/lab3_stub.ml" 55 1874 1888
+type(
+  int
+)
+ident(
+  def i "TutorialLab/lab3_stub.ml" 55 1874 1889 "TutorialLab/lab3_stub.ml" 55 1874 1912
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1889 "TutorialLab/lab3_stub.ml" 55 1874 1890
+type(
+  int
+)
+ident(
+  def j "TutorialLab/lab3_stub.ml" 55 1874 1891 "TutorialLab/lab3_stub.ml" 55 1874 1912
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1891 "TutorialLab/lab3_stub.ml" 55 1874 1892
+type(
+  int * string * string
+)
+ident(
+  def x "TutorialLab/lab3_stub.ml" 55 1874 1895 "TutorialLab/lab3_stub.ml" 55 1874 1912
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1902 "TutorialLab/lab3_stub.ml" 55 1874 1903
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 55 1874 1887 "TutorialLab/lab3_stub.ml" 55 1874 1888
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1904 "TutorialLab/lab3_stub.ml" 55 1874 1905
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 55 1874 1889 "TutorialLab/lab3_stub.ml" 55 1874 1890
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1906 "TutorialLab/lab3_stub.ml" 55 1874 1907
+type(
+  int * string * string
+)
+ident(
+  int_ref x "TutorialLab/lab3_stub.ml" 55 1874 1891 "TutorialLab/lab3_stub.ml" 55 1874 1892
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1901 "TutorialLab/lab3_stub.ml" 55 1874 1908
+type(
+  int * int * (int * string * string)
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1910 "TutorialLab/lab3_stub.ml" 55 1874 1912
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1901 "TutorialLab/lab3_stub.ml" 55 1874 1912
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 55 1874 1895 "TutorialLab/lab3_stub.ml" 55 1874 1912
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 56 1913 1927 "TutorialLab/lab3_stub.ml" 56 1913 1928
+type(
+  int
+)
+ident(
+  def i "TutorialLab/lab3_stub.ml" 56 1913 1934 "TutorialLab/lab3_stub.ml" 64 2115 2120
+)
+"TutorialLab/lab3_stub.ml" 56 1913 1935 "TutorialLab/lab3_stub.ml" 56 1913 1936
+type(
+  int
+)
+ident(
+  def j "TutorialLab/lab3_stub.ml" 57 1944 1947 "TutorialLab/lab3_stub.ml" 64 2115 2120
+)
+"TutorialLab/lab3_stub.ml" 57 1944 1953 "TutorialLab/lab3_stub.ml" 57 1944 1955
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 57 1944 1947 "TutorialLab/lab3_stub.ml" 57 1944 1955
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1964 "TutorialLab/lab3_stub.ml" 58 1957 1965
+type(
+  (int * string * string) ref
+)
+ident(
+  def x "TutorialLab/lab3_stub.ml" 59 1988 1991 "TutorialLab/lab3_stub.ml" 64 2115 2120
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1968 "TutorialLab/lab3_stub.ml" 58 1957 1971
+type(
+  int * string * string -> (int * string * string) ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1973 "TutorialLab/lab3_stub.ml" 58 1957 1977
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1978 "TutorialLab/lab3_stub.ml" 58 1957 1980
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1981 "TutorialLab/lab3_stub.ml" 58 1957 1983
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1972 "TutorialLab/lab3_stub.ml" 58 1957 1984
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1968 "TutorialLab/lab3_stub.ml" 58 1957 1984
+type(
+  (int * string * string) ref
+)
+"TutorialLab/lab3_stub.ml" 59 1988 1997 "TutorialLab/lab3_stub.ml" 59 1988 2008
+type(
+  (int * int * (int * string * string)) list -> int
+)
+ident(
+  ext_ref List.length
+)
+"TutorialLab/lab3_stub.ml" 59 1988 2009 "TutorialLab/lab3_stub.ml" 59 1988 2011
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 59 1988 1997 "TutorialLab/lab3_stub.ml" 59 1988 2011
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 59 1988 2012 "TutorialLab/lab3_stub.ml" 59 1988 2013
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"TutorialLab/lab3_stub.ml" 59 1988 2014 "TutorialLab/lab3_stub.ml" 59 1988 2015
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 59 1988 1997 "TutorialLab/lab3_stub.ml" 59 1988 2015
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2027 "TutorialLab/lab3_stub.ml" 60 2019 2028
+type(
+  int
+)
+ident(
+  def a "TutorialLab/lab3_stub.ml" 61 2050 2053 "TutorialLab/lab3_stub.ml" 62 2086 2105
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2029 "TutorialLab/lab3_stub.ml" 60 2019 2030
+type(
+  int
+)
+ident(
+  def b "TutorialLab/lab3_stub.ml" 61 2050 2053 "TutorialLab/lab3_stub.ml" 62 2086 2105
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2031 "TutorialLab/lab3_stub.ml" 60 2019 2032
+type(
+  int * string * string
+)
+ident(
+  def c "TutorialLab/lab3_stub.ml" 61 2050 2053 "TutorialLab/lab3_stub.ml" 62 2086 2105
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2026 "TutorialLab/lab3_stub.ml" 60 2019 2033
+type(
+  int * int * (int * string * string)
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2036 "TutorialLab/lab3_stub.ml" 60 2019 2043
+type(
+  (int * int * (int * string * string)) list ->
+  int * int * (int * string * string)
+)
+ident(
+  ext_ref List.hd
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2044 "TutorialLab/lab3_stub.ml" 60 2019 2046
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2036 "TutorialLab/lab3_stub.ml" 60 2019 2046
+type(
+  int * int * (int * string * string)
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2057 "TutorialLab/lab3_stub.ml" 61 2050 2058
+type(
+  int
+)
+ident(
+  int_ref a "TutorialLab/lab3_stub.ml" 60 2019 2027 "TutorialLab/lab3_stub.ml" 60 2019 2028
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2059 "TutorialLab/lab3_stub.ml" 61 2050 2060
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2061 "TutorialLab/lab3_stub.ml" 61 2050 2062
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 56 1913 1927 "TutorialLab/lab3_stub.ml" 56 1913 1928
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2057 "TutorialLab/lab3_stub.ml" 61 2050 2062
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2063 "TutorialLab/lab3_stub.ml" 61 2050 2065
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2066 "TutorialLab/lab3_stub.ml" 61 2050 2067
+type(
+  int
+)
+ident(
+  int_ref b "TutorialLab/lab3_stub.ml" 60 2019 2029 "TutorialLab/lab3_stub.ml" 60 2019 2030
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2068 "TutorialLab/lab3_stub.ml" 61 2050 2069
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2070 "TutorialLab/lab3_stub.ml" 61 2050 2071
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 56 1913 1935 "TutorialLab/lab3_stub.ml" 56 1913 1936
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2066 "TutorialLab/lab3_stub.ml" 61 2050 2071
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2056 "TutorialLab/lab3_stub.ml" 61 2050 2072
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2078 "TutorialLab/lab3_stub.ml" 61 2050 2079
+type(
+  (int * string * string) ref
+)
+ident(
+  int_ref x "TutorialLab/lab3_stub.ml" 58 1957 1964 "TutorialLab/lab3_stub.ml" 58 1957 1965
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2080 "TutorialLab/lab3_stub.ml" 61 2050 2082
+type(
+  (int * string * string) ref -> int * string * string -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2083 "TutorialLab/lab3_stub.ml" 61 2050 2084
+type(
+  int * string * string
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 60 2019 2031 "TutorialLab/lab3_stub.ml" 60 2019 2032
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2078 "TutorialLab/lab3_stub.ml" 61 2050 2084
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2053 "TutorialLab/lab3_stub.ml" 61 2050 2084
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 62 2086 2095 "TutorialLab/lab3_stub.ml" 62 2086 2102
+type(
+  (int * int * (int * string * string)) list ->
+  (int * int * (int * string * string)) list
+)
+ident(
+  ext_ref List.tl
+)
+"TutorialLab/lab3_stub.ml" 62 2086 2103 "TutorialLab/lab3_stub.ml" 62 2086 2105
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 62 2086 2095 "TutorialLab/lab3_stub.ml" 62 2086 2105
+type(
+  (int * int * (int * string * string)) list
+)
+"TutorialLab/lab3_stub.ml" 62 2086 2089 "TutorialLab/lab3_stub.ml" 62 2086 2105
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 61 2050 2053 "TutorialLab/lab3_stub.ml" 62 2086 2105
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 60 2019 2022 "TutorialLab/lab3_stub.ml" 62 2086 2105
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 59 1988 1991 "TutorialLab/lab3_stub.ml" 63 2106 2113
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 64 2115 2118 "TutorialLab/lab3_stub.ml" 64 2115 2119
+type(
+  (int * string * string) ref -> int * string * string
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"TutorialLab/lab3_stub.ml" 64 2115 2119 "TutorialLab/lab3_stub.ml" 64 2115 2120
+type(
+  (int * string * string) ref
+)
+ident(
+  int_ref x "TutorialLab/lab3_stub.ml" 58 1957 1964 "TutorialLab/lab3_stub.ml" 58 1957 1965
+)
+"TutorialLab/lab3_stub.ml" 64 2115 2118 "TutorialLab/lab3_stub.ml" 64 2115 2120
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 59 1988 1991 "TutorialLab/lab3_stub.ml" 64 2115 2120
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 58 1957 1960 "TutorialLab/lab3_stub.ml" 64 2115 2120
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 57 1944 1947 "TutorialLab/lab3_stub.ml" 64 2115 2120
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 67 2128 2132 "TutorialLab/lab3_stub.ml" 67 2128 2148
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  def align_memostring "TutorialLab/lab3_stub.ml" 113 3936 3936 "_none_" 1 0 -1
+)
+"TutorialLab/lab3_stub.ml" 67 2128 2149 "TutorialLab/lab3_stub.ml" 67 2128 2151
+type(
+  string
+)
+ident(
+  def s1 "TutorialLab/lab3_stub.ml" 67 2128 2152 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 67 2128 2152 "TutorialLab/lab3_stub.ml" 67 2128 2154
+type(
+  string
+)
+ident(
+  def s2 "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+type(
+  int
+)
+ident(
+  def penalty_space "TutorialLab/lab3_stub.ml" 68 2171 2172 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+type(
+  memotable
+)
+ident(
+  def memotable "TutorialLab/lab3_stub.ml" 69 2205 2207 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 68 2171 2188 "TutorialLab/lab3_stub.ml" 68 2171 2201
+type(
+  memotable
+)
+"TutorialLab/lab3_stub.ml" 69 2205 2211 "TutorialLab/lab3_stub.ml" 69 2205 2213
+type(
+  int
+)
+ident(
+  def n1 "TutorialLab/lab3_stub.ml" 70 2236 2238 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 69 2205 2216 "TutorialLab/lab3_stub.ml" 69 2205 2229
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"TutorialLab/lab3_stub.ml" 69 2205 2230 "TutorialLab/lab3_stub.ml" 69 2205 2232
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 67 2128 2149 "TutorialLab/lab3_stub.ml" 67 2128 2151
+)
+"TutorialLab/lab3_stub.ml" 69 2205 2216 "TutorialLab/lab3_stub.ml" 69 2205 2232
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 70 2236 2242 "TutorialLab/lab3_stub.ml" 70 2236 2244
+type(
+  int
+)
+ident(
+  def n2 "TutorialLab/lab3_stub.ml" 71 2267 2269 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 70 2236 2247 "TutorialLab/lab3_stub.ml" 70 2236 2260
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"TutorialLab/lab3_stub.ml" 70 2236 2261 "TutorialLab/lab3_stub.ml" 70 2236 2263
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 67 2128 2152 "TutorialLab/lab3_stub.ml" 67 2128 2154
+)
+"TutorialLab/lab3_stub.ml" 70 2236 2247 "TutorialLab/lab3_stub.ml" 70 2236 2263
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2273 "TutorialLab/lab3_stub.ml" 71 2267 2278
+type(
+  'a -> 'a -> int
+)
+ident(
+  def score "TutorialLab/lab3_stub.ml" 72 2310 2312 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2279 "TutorialLab/lab3_stub.ml" 71 2267 2280
+type(
+  'a
+)
+ident(
+  def a "TutorialLab/lab3_stub.ml" 71 2267 2281 "TutorialLab/lab3_stub.ml" 71 2267 2306
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2281 "TutorialLab/lab3_stub.ml" 71 2267 2282
+type(
+  'a
+)
+ident(
+  def b "TutorialLab/lab3_stub.ml" 71 2267 2285 "TutorialLab/lab3_stub.ml" 71 2267 2306
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2288 "TutorialLab/lab3_stub.ml" 71 2267 2289
+type(
+  'a
+)
+ident(
+  int_ref a "TutorialLab/lab3_stub.ml" 71 2267 2279 "TutorialLab/lab3_stub.ml" 71 2267 2280
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2289 "TutorialLab/lab3_stub.ml" 71 2267 2290
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2290 "TutorialLab/lab3_stub.ml" 71 2267 2291
+type(
+  'a
+)
+ident(
+  int_ref b "TutorialLab/lab3_stub.ml" 71 2267 2281 "TutorialLab/lab3_stub.ml" 71 2267 2282
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2288 "TutorialLab/lab3_stub.ml" 71 2267 2291
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2297 "TutorialLab/lab3_stub.ml" 71 2267 2298
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2304 "TutorialLab/lab3_stub.ml" 71 2267 2306
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2285 "TutorialLab/lab3_stub.ml" 71 2267 2306
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+type(
+  char -> string
+)
+ident(
+  def string_of_char "TutorialLab/lab3_stub.ml" 73 2354 2356 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2331 "TutorialLab/lab3_stub.ml" 72 2310 2332
+type(
+  char
+)
+ident(
+  def c "TutorialLab/lab3_stub.ml" 72 2310 2335 "TutorialLab/lab3_stub.ml" 72 2310 2350
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2335 "TutorialLab/lab3_stub.ml" 72 2310 2346
+type(
+  int -> char -> string
+)
+ident(
+  ext_ref String.make
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2347 "TutorialLab/lab3_stub.ml" 72 2310 2348
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2349 "TutorialLab/lab3_stub.ml" 72 2310 2350
+type(
+  char
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 72 2310 2331 "TutorialLab/lab3_stub.ml" 72 2310 2332
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2335 "TutorialLab/lab3_stub.ml" 72 2310 2350
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+type(
+  int -> int -> int * string * string
+)
+ident(
+  def aux "TutorialLab/lab3_stub.ml" 73 2354 2356 "TutorialLab/lab3_stub.ml" 110 3904 3915
+)
+"TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+type(
+  int
+)
+ident(
+  def i "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 109 3874 3902
+)
+"TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+type(
+  int
+)
+ident(
+  def j "TutorialLab/lab3_stub.ml" 74 2373 2377 "TutorialLab/lab3_stub.ml" 109 3874 3902
+)
+"TutorialLab/lab3_stub.ml" 74 2373 2380 "TutorialLab/lab3_stub.ml" 74 2373 2381
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 74 2373 2381 "TutorialLab/lab3_stub.ml" 74 2373 2383
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"TutorialLab/lab3_stub.ml" 74 2373 2383 "TutorialLab/lab3_stub.ml" 74 2373 2385
+type(
+  int
+)
+ident(
+  int_ref n1 "TutorialLab/lab3_stub.ml" 69 2205 2211 "TutorialLab/lab3_stub.ml" 69 2205 2213
+)
+"TutorialLab/lab3_stub.ml" 74 2373 2380 "TutorialLab/lab3_stub.ml" 74 2373 2385
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 75 2391 2400 "TutorialLab/lab3_stub.ml" 75 2391 2401
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 75 2391 2401 "TutorialLab/lab3_stub.ml" 75 2391 2403
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"TutorialLab/lab3_stub.ml" 75 2391 2403 "TutorialLab/lab3_stub.ml" 75 2391 2405
+type(
+  int
+)
+ident(
+  int_ref n2 "TutorialLab/lab3_stub.ml" 70 2236 2242 "TutorialLab/lab3_stub.ml" 70 2236 2244
+)
+"TutorialLab/lab3_stub.ml" 75 2391 2400 "TutorialLab/lab3_stub.ml" 75 2391 2405
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 77 2459 2466 "TutorialLab/lab3_stub.ml" 77 2459 2472
+type(
+  int * string * string
+)
+ident(
+  def result "TutorialLab/lab3_stub.ml" 78 2488 2491 "TutorialLab/lab3_stub.ml" 78 2488 2525
+)
+"TutorialLab/lab3_stub.ml" 77 2459 2476 "TutorialLab/lab3_stub.ml" 77 2459 2477
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 77 2459 2478 "TutorialLab/lab3_stub.ml" 77 2459 2480
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 77 2459 2481 "TutorialLab/lab3_stub.ml" 77 2459 2483
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 77 2459 2475 "TutorialLab/lab3_stub.ml" 77 2459 2484
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2491 "TutorialLab/lab3_stub.ml" 78 2488 2500
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2491 "TutorialLab/lab3_stub.ml" 78 2488 2506
+type(
+  int -> int -> int * string * string -> unit
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2507 "TutorialLab/lab3_stub.ml" 78 2488 2508
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2509 "TutorialLab/lab3_stub.ml" 78 2488 2510
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2511 "TutorialLab/lab3_stub.ml" 78 2488 2517
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 77 2459 2466 "TutorialLab/lab3_stub.ml" 77 2459 2472
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2491 "TutorialLab/lab3_stub.ml" 78 2488 2517
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2519 "TutorialLab/lab3_stub.ml" 78 2488 2525
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 77 2459 2466 "TutorialLab/lab3_stub.ml" 77 2459 2472
+)
+"TutorialLab/lab3_stub.ml" 78 2488 2491 "TutorialLab/lab3_stub.ml" 78 2488 2525
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 77 2459 2462 "TutorialLab/lab3_stub.ml" 78 2488 2525
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2549 "TutorialLab/lab3_stub.ml" 80 2537 2550
+type(
+  int
+)
+ident(
+  def t "TutorialLab/lab3_stub.ml" 80 2537 2581 "TutorialLab/lab3_stub.ml" 80 2537 2589
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2551 "TutorialLab/lab3_stub.ml" 80 2537 2552
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2553 "TutorialLab/lab3_stub.ml" 80 2537 2554
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2548 "TutorialLab/lab3_stub.ml" 80 2537 2555
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2558 "TutorialLab/lab3_stub.ml" 80 2537 2567
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2558 "TutorialLab/lab3_stub.ml" 80 2537 2573
+type(
+  int -> int -> int * string * string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2574 "TutorialLab/lab3_stub.ml" 80 2537 2575
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2576 "TutorialLab/lab3_stub.ml" 80 2537 2577
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2558 "TutorialLab/lab3_stub.ml" 80 2537 2577
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2581 "TutorialLab/lab3_stub.ml" 80 2537 2582
+type(
+  int
+)
+ident(
+  int_ref t "TutorialLab/lab3_stub.ml" 80 2537 2549 "TutorialLab/lab3_stub.ml" 80 2537 2550
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2583 "TutorialLab/lab3_stub.ml" 80 2537 2584
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2585 "TutorialLab/lab3_stub.ml" 80 2537 2589
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2581 "TutorialLab/lab3_stub.ml" 80 2537 2589
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2544 "TutorialLab/lab3_stub.ml" 80 2537 2589
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2608 "TutorialLab/lab3_stub.ml" 81 2595 2611
+type(
+  int
+)
+ident(
+  def ans "TutorialLab/lab3_stub.ml" 82 2638 2646 "TutorialLab/lab3_stub.ml" 84 2754 2792
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2612 "TutorialLab/lab3_stub.ml" 81 2595 2615
+type(
+  string
+)
+ident(
+  def sba "TutorialLab/lab3_stub.ml" 82 2638 2646 "TutorialLab/lab3_stub.ml" 84 2754 2792
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2616 "TutorialLab/lab3_stub.ml" 81 2595 2619
+type(
+  string
+)
+ident(
+  def sbb "TutorialLab/lab3_stub.ml" 82 2638 2646 "TutorialLab/lab3_stub.ml" 84 2754 2792
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2607 "TutorialLab/lab3_stub.ml" 81 2595 2620
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2623 "TutorialLab/lab3_stub.ml" 81 2595 2626
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2627 "TutorialLab/lab3_stub.ml" 81 2595 2628
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2630 "TutorialLab/lab3_stub.ml" 81 2595 2631
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2631 "TutorialLab/lab3_stub.ml" 81 2595 2632
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2632 "TutorialLab/lab3_stub.ml" 81 2595 2633
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2629 "TutorialLab/lab3_stub.ml" 81 2595 2634
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2623 "TutorialLab/lab3_stub.ml" 81 2595 2634
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 82 2638 2650 "TutorialLab/lab3_stub.ml" 82 2638 2651
+type(
+  int
+)
+ident(
+  def x "TutorialLab/lab3_stub.ml" 83 2677 2681 "TutorialLab/lab3_stub.ml" 84 2754 2792
+)
+"TutorialLab/lab3_stub.ml" 82 2638 2654 "TutorialLab/lab3_stub.ml" 82 2638 2667
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 82 2638 2668 "TutorialLab/lab3_stub.ml" 82 2638 2669
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 82 2638 2670 "TutorialLab/lab3_stub.ml" 82 2638 2673
+type(
+  int
+)
+ident(
+  int_ref ans "TutorialLab/lab3_stub.ml" 81 2595 2608 "TutorialLab/lab3_stub.ml" 81 2595 2611
+)
+"TutorialLab/lab3_stub.ml" 82 2638 2654 "TutorialLab/lab3_stub.ml" 82 2638 2673
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2685 "TutorialLab/lab3_stub.ml" 83 2677 2691
+type(
+  int * string * string
+)
+ident(
+  def result "TutorialLab/lab3_stub.ml" 84 2754 2758 "TutorialLab/lab3_stub.ml" 84 2754 2792
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2695 "TutorialLab/lab3_stub.ml" 83 2677 2696
+type(
+  int
+)
+ident(
+  int_ref x "TutorialLab/lab3_stub.ml" 82 2638 2650 "TutorialLab/lab3_stub.ml" 82 2638 2651
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2699 "TutorialLab/lab3_stub.ml" 83 2677 2702
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2702 "TutorialLab/lab3_stub.ml" 83 2677 2703
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2703 "TutorialLab/lab3_stub.ml" 83 2677 2706
+type(
+  string
+)
+ident(
+  int_ref sba "TutorialLab/lab3_stub.ml" 81 2595 2612 "TutorialLab/lab3_stub.ml" 81 2595 2615
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2698 "TutorialLab/lab3_stub.ml" 83 2677 2707
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2711 "TutorialLab/lab3_stub.ml" 83 2677 2725
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2727 "TutorialLab/lab3_stub.ml" 83 2677 2737
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2738 "TutorialLab/lab3_stub.ml" 83 2677 2740
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 67 2128 2152 "TutorialLab/lab3_stub.ml" 67 2128 2154
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2741 "TutorialLab/lab3_stub.ml" 83 2677 2742
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2726 "TutorialLab/lab3_stub.ml" 83 2677 2743
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2710 "TutorialLab/lab3_stub.ml" 83 2677 2744
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2744 "TutorialLab/lab3_stub.ml" 83 2677 2745
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2745 "TutorialLab/lab3_stub.ml" 83 2677 2748
+type(
+  string
+)
+ident(
+  int_ref sbb "TutorialLab/lab3_stub.ml" 81 2595 2616 "TutorialLab/lab3_stub.ml" 81 2595 2619
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2709 "TutorialLab/lab3_stub.ml" 83 2677 2749
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2694 "TutorialLab/lab3_stub.ml" 83 2677 2750
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2758 "TutorialLab/lab3_stub.ml" 84 2754 2767
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2758 "TutorialLab/lab3_stub.ml" 84 2754 2773
+type(
+  int -> int -> int * string * string -> unit
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2774 "TutorialLab/lab3_stub.ml" 84 2754 2775
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2776 "TutorialLab/lab3_stub.ml" 84 2754 2777
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2778 "TutorialLab/lab3_stub.ml" 84 2754 2784
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 83 2677 2685 "TutorialLab/lab3_stub.ml" 83 2677 2691
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2758 "TutorialLab/lab3_stub.ml" 84 2754 2784
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2786 "TutorialLab/lab3_stub.ml" 84 2754 2792
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 83 2677 2685 "TutorialLab/lab3_stub.ml" 83 2677 2691
+)
+"TutorialLab/lab3_stub.ml" 84 2754 2758 "TutorialLab/lab3_stub.ml" 84 2754 2792
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 83 2677 2681 "TutorialLab/lab3_stub.ml" 84 2754 2792
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 82 2638 2646 "TutorialLab/lab3_stub.ml" 84 2754 2792
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 81 2595 2603 "TutorialLab/lab3_stub.ml" 84 2754 2792
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 85 2793 2802 "TutorialLab/lab3_stub.ml" 85 2793 2811
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 85 2793 2802 "TutorialLab/lab3_stub.ml" 85 2793 2817
+type(
+  int -> int -> int * string * string
+)
+"TutorialLab/lab3_stub.ml" 85 2793 2818 "TutorialLab/lab3_stub.ml" 85 2793 2819
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 85 2793 2820 "TutorialLab/lab3_stub.ml" 85 2793 2821
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 85 2793 2802 "TutorialLab/lab3_stub.ml" 85 2793 2821
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 80 2537 2541 "TutorialLab/lab3_stub.ml" 85 2793 2821
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 75 2391 2397 "TutorialLab/lab3_stub.ml" 85 2793 2821
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 87 2832 2841 "TutorialLab/lab3_stub.ml" 87 2832 2842
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 87 2832 2842 "TutorialLab/lab3_stub.ml" 87 2832 2844
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"TutorialLab/lab3_stub.ml" 87 2832 2844 "TutorialLab/lab3_stub.ml" 87 2832 2846
+type(
+  int
+)
+ident(
+  int_ref n2 "TutorialLab/lab3_stub.ml" 70 2236 2242 "TutorialLab/lab3_stub.ml" 70 2236 2244
+)
+"TutorialLab/lab3_stub.ml" 87 2832 2841 "TutorialLab/lab3_stub.ml" 87 2832 2846
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2865 "TutorialLab/lab3_stub.ml" 88 2853 2866
+type(
+  int
+)
+ident(
+  def t "TutorialLab/lab3_stub.ml" 88 2853 2897 "TutorialLab/lab3_stub.ml" 88 2853 2905
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2867 "TutorialLab/lab3_stub.ml" 88 2853 2868
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2869 "TutorialLab/lab3_stub.ml" 88 2853 2870
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2864 "TutorialLab/lab3_stub.ml" 88 2853 2871
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2874 "TutorialLab/lab3_stub.ml" 88 2853 2883
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2874 "TutorialLab/lab3_stub.ml" 88 2853 2889
+type(
+  int -> int -> int * string * string
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2890 "TutorialLab/lab3_stub.ml" 88 2853 2891
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2892 "TutorialLab/lab3_stub.ml" 88 2853 2893
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2874 "TutorialLab/lab3_stub.ml" 88 2853 2893
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2897 "TutorialLab/lab3_stub.ml" 88 2853 2898
+type(
+  int
+)
+ident(
+  int_ref t "TutorialLab/lab3_stub.ml" 88 2853 2865 "TutorialLab/lab3_stub.ml" 88 2853 2866
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2899 "TutorialLab/lab3_stub.ml" 88 2853 2900
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2901 "TutorialLab/lab3_stub.ml" 88 2853 2905
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2897 "TutorialLab/lab3_stub.ml" 88 2853 2905
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2860 "TutorialLab/lab3_stub.ml" 88 2853 2905
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2924 "TutorialLab/lab3_stub.ml" 89 2911 2927
+type(
+  int
+)
+ident(
+  def ans "TutorialLab/lab3_stub.ml" 90 2956 2964 "TutorialLab/lab3_stub.ml" 92 3076 3114
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2928 "TutorialLab/lab3_stub.ml" 89 2911 2931
+type(
+  string
+)
+ident(
+  def sba "TutorialLab/lab3_stub.ml" 90 2956 2964 "TutorialLab/lab3_stub.ml" 92 3076 3114
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2932 "TutorialLab/lab3_stub.ml" 89 2911 2935
+type(
+  string
+)
+ident(
+  def sbb "TutorialLab/lab3_stub.ml" 90 2956 2964 "TutorialLab/lab3_stub.ml" 92 3076 3114
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2923 "TutorialLab/lab3_stub.ml" 89 2911 2936
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2939 "TutorialLab/lab3_stub.ml" 89 2911 2942
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2944 "TutorialLab/lab3_stub.ml" 89 2911 2945
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2945 "TutorialLab/lab3_stub.ml" 89 2911 2946
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2946 "TutorialLab/lab3_stub.ml" 89 2911 2947
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2943 "TutorialLab/lab3_stub.ml" 89 2911 2948
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2949 "TutorialLab/lab3_stub.ml" 89 2911 2952
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2939 "TutorialLab/lab3_stub.ml" 89 2911 2952
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 90 2956 2968 "TutorialLab/lab3_stub.ml" 90 2956 2969
+type(
+  int
+)
+ident(
+  def x "TutorialLab/lab3_stub.ml" 91 2995 2999 "TutorialLab/lab3_stub.ml" 92 3076 3114
+)
+"TutorialLab/lab3_stub.ml" 90 2956 2972 "TutorialLab/lab3_stub.ml" 90 2956 2985
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 90 2956 2986 "TutorialLab/lab3_stub.ml" 90 2956 2987
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 90 2956 2988 "TutorialLab/lab3_stub.ml" 90 2956 2991
+type(
+  int
+)
+ident(
+  int_ref ans "TutorialLab/lab3_stub.ml" 89 2911 2924 "TutorialLab/lab3_stub.ml" 89 2911 2927
+)
+"TutorialLab/lab3_stub.ml" 90 2956 2972 "TutorialLab/lab3_stub.ml" 90 2956 2991
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3003 "TutorialLab/lab3_stub.ml" 91 2995 3009
+type(
+  int * string * string
+)
+ident(
+  def result "TutorialLab/lab3_stub.ml" 92 3076 3080 "TutorialLab/lab3_stub.ml" 92 3076 3114
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3013 "TutorialLab/lab3_stub.ml" 91 2995 3014
+type(
+  int
+)
+ident(
+  int_ref x "TutorialLab/lab3_stub.ml" 90 2956 2968 "TutorialLab/lab3_stub.ml" 90 2956 2969
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3018 "TutorialLab/lab3_stub.ml" 91 2995 3032
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3034 "TutorialLab/lab3_stub.ml" 91 2995 3044
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3045 "TutorialLab/lab3_stub.ml" 91 2995 3047
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 67 2128 2149 "TutorialLab/lab3_stub.ml" 67 2128 2151
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3048 "TutorialLab/lab3_stub.ml" 91 2995 3049
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3033 "TutorialLab/lab3_stub.ml" 91 2995 3050
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3017 "TutorialLab/lab3_stub.ml" 91 2995 3051
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3051 "TutorialLab/lab3_stub.ml" 91 2995 3052
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3052 "TutorialLab/lab3_stub.ml" 91 2995 3055
+type(
+  string
+)
+ident(
+  int_ref sba "TutorialLab/lab3_stub.ml" 89 2911 2928 "TutorialLab/lab3_stub.ml" 89 2911 2931
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3016 "TutorialLab/lab3_stub.ml" 91 2995 3056
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3059 "TutorialLab/lab3_stub.ml" 91 2995 3062
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3062 "TutorialLab/lab3_stub.ml" 91 2995 3063
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3063 "TutorialLab/lab3_stub.ml" 91 2995 3066
+type(
+  string
+)
+ident(
+  int_ref sbb "TutorialLab/lab3_stub.ml" 89 2911 2932 "TutorialLab/lab3_stub.ml" 89 2911 2935
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3058 "TutorialLab/lab3_stub.ml" 91 2995 3067
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 91 2995 3012 "TutorialLab/lab3_stub.ml" 91 2995 3068
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3080 "TutorialLab/lab3_stub.ml" 92 3076 3089
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3080 "TutorialLab/lab3_stub.ml" 92 3076 3095
+type(
+  int -> int -> int * string * string -> unit
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3096 "TutorialLab/lab3_stub.ml" 92 3076 3097
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3098 "TutorialLab/lab3_stub.ml" 92 3076 3099
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3100 "TutorialLab/lab3_stub.ml" 92 3076 3106
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 91 2995 3003 "TutorialLab/lab3_stub.ml" 91 2995 3009
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3080 "TutorialLab/lab3_stub.ml" 92 3076 3106
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3108 "TutorialLab/lab3_stub.ml" 92 3076 3114
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 91 2995 3003 "TutorialLab/lab3_stub.ml" 91 2995 3009
+)
+"TutorialLab/lab3_stub.ml" 92 3076 3080 "TutorialLab/lab3_stub.ml" 92 3076 3114
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 91 2995 2999 "TutorialLab/lab3_stub.ml" 92 3076 3114
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 90 2956 2964 "TutorialLab/lab3_stub.ml" 92 3076 3114
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 89 2911 2919 "TutorialLab/lab3_stub.ml" 92 3076 3114
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 93 3115 3125 "TutorialLab/lab3_stub.ml" 93 3115 3134
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 93 3115 3125 "TutorialLab/lab3_stub.ml" 93 3115 3140
+type(
+  int -> int -> int * string * string
+)
+"TutorialLab/lab3_stub.ml" 93 3115 3141 "TutorialLab/lab3_stub.ml" 93 3115 3142
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 93 3115 3143 "TutorialLab/lab3_stub.ml" 93 3115 3144
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 93 3115 3125 "TutorialLab/lab3_stub.ml" 93 3115 3144
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 88 2853 2857 "TutorialLab/lab3_stub.ml" 93 3115 3144
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3174 "TutorialLab/lab3_stub.ml" 95 3159 3175
+type(
+  int
+)
+ident(
+  def t "TutorialLab/lab3_stub.ml" 95 3159 3206 "TutorialLab/lab3_stub.ml" 95 3159 3214
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3176 "TutorialLab/lab3_stub.ml" 95 3159 3177
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3178 "TutorialLab/lab3_stub.ml" 95 3159 3179
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3173 "TutorialLab/lab3_stub.ml" 95 3159 3180
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3183 "TutorialLab/lab3_stub.ml" 95 3159 3192
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3183 "TutorialLab/lab3_stub.ml" 95 3159 3198
+type(
+  int -> int -> int * string * string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3199 "TutorialLab/lab3_stub.ml" 95 3159 3200
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3201 "TutorialLab/lab3_stub.ml" 95 3159 3202
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3183 "TutorialLab/lab3_stub.ml" 95 3159 3202
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3206 "TutorialLab/lab3_stub.ml" 95 3159 3207
+type(
+  int
+)
+ident(
+  int_ref t "TutorialLab/lab3_stub.ml" 95 3159 3174 "TutorialLab/lab3_stub.ml" 95 3159 3175
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3208 "TutorialLab/lab3_stub.ml" 95 3159 3209
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3210 "TutorialLab/lab3_stub.ml" 95 3159 3214
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3206 "TutorialLab/lab3_stub.ml" 95 3159 3214
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3169 "TutorialLab/lab3_stub.ml" 95 3159 3214
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 96 3220 3232 "TutorialLab/lab3_stub.ml" 96 3220 3234
+type(
+  char
+)
+ident(
+  def c1 "TutorialLab/lab3_stub.ml" 97 3256 3264 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 96 3220 3237 "TutorialLab/lab3_stub.ml" 96 3220 3247
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 96 3220 3248 "TutorialLab/lab3_stub.ml" 96 3220 3250
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 67 2128 2149 "TutorialLab/lab3_stub.ml" 67 2128 2151
+)
+"TutorialLab/lab3_stub.ml" 96 3220 3251 "TutorialLab/lab3_stub.ml" 96 3220 3252
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 96 3220 3237 "TutorialLab/lab3_stub.ml" 96 3220 3252
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 97 3256 3268 "TutorialLab/lab3_stub.ml" 97 3256 3270
+type(
+  char
+)
+ident(
+  def c2 "TutorialLab/lab3_stub.ml" 98 3292 3300 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 97 3256 3273 "TutorialLab/lab3_stub.ml" 97 3256 3283
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 97 3256 3284 "TutorialLab/lab3_stub.ml" 97 3256 3286
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 67 2128 2152 "TutorialLab/lab3_stub.ml" 67 2128 2154
+)
+"TutorialLab/lab3_stub.ml" 97 3256 3287 "TutorialLab/lab3_stub.ml" 97 3256 3288
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 97 3256 3273 "TutorialLab/lab3_stub.ml" 97 3256 3288
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 98 3292 3304 "TutorialLab/lab3_stub.ml" 98 3292 3305
+type(
+  int
+)
+ident(
+  def m "TutorialLab/lab3_stub.ml" 99 3323 3327 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 98 3292 3308 "TutorialLab/lab3_stub.ml" 98 3292 3313
+type(
+  char -> char -> int
+)
+ident(
+  int_ref score "TutorialLab/lab3_stub.ml" 71 2267 2273 "TutorialLab/lab3_stub.ml" 71 2267 2278
+)
+"TutorialLab/lab3_stub.ml" 98 3292 3314 "TutorialLab/lab3_stub.ml" 98 3292 3316
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 96 3220 3232 "TutorialLab/lab3_stub.ml" 96 3220 3234
+)
+"TutorialLab/lab3_stub.ml" 98 3292 3317 "TutorialLab/lab3_stub.ml" 98 3292 3319
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 97 3256 3268 "TutorialLab/lab3_stub.ml" 97 3256 3270
+)
+"TutorialLab/lab3_stub.ml" 98 3292 3308 "TutorialLab/lab3_stub.ml" 98 3292 3319
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3332 "TutorialLab/lab3_stub.ml" 99 3323 3333
+type(
+  int
+)
+ident(
+  def a "TutorialLab/lab3_stub.ml" 100 3364 3368 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3334 "TutorialLab/lab3_stub.ml" 99 3323 3337
+type(
+  string
+)
+ident(
+  def asa "TutorialLab/lab3_stub.ml" 100 3364 3368 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3338 "TutorialLab/lab3_stub.ml" 99 3323 3341
+type(
+  string
+)
+ident(
+  def asb "TutorialLab/lab3_stub.ml" 100 3364 3368 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3331 "TutorialLab/lab3_stub.ml" 99 3323 3342
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3345 "TutorialLab/lab3_stub.ml" 99 3323 3348
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3350 "TutorialLab/lab3_stub.ml" 99 3323 3351
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3351 "TutorialLab/lab3_stub.ml" 99 3323 3352
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3352 "TutorialLab/lab3_stub.ml" 99 3323 3353
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3349 "TutorialLab/lab3_stub.ml" 99 3323 3354
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3356 "TutorialLab/lab3_stub.ml" 99 3323 3357
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3357 "TutorialLab/lab3_stub.ml" 99 3323 3358
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3358 "TutorialLab/lab3_stub.ml" 99 3323 3359
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3355 "TutorialLab/lab3_stub.ml" 99 3323 3360
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3345 "TutorialLab/lab3_stub.ml" 99 3323 3360
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3373 "TutorialLab/lab3_stub.ml" 100 3364 3374
+type(
+  int
+)
+ident(
+  def b "TutorialLab/lab3_stub.ml" 101 3403 3407 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3375 "TutorialLab/lab3_stub.ml" 100 3364 3378
+type(
+  string
+)
+ident(
+  def bsa "TutorialLab/lab3_stub.ml" 101 3403 3407 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3379 "TutorialLab/lab3_stub.ml" 100 3364 3382
+type(
+  string
+)
+ident(
+  def bsb "TutorialLab/lab3_stub.ml" 101 3403 3407 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3372 "TutorialLab/lab3_stub.ml" 100 3364 3383
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3386 "TutorialLab/lab3_stub.ml" 100 3364 3389
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3391 "TutorialLab/lab3_stub.ml" 100 3364 3392
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3392 "TutorialLab/lab3_stub.ml" 100 3364 3393
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3393 "TutorialLab/lab3_stub.ml" 100 3364 3394
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3390 "TutorialLab/lab3_stub.ml" 100 3364 3395
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3396 "TutorialLab/lab3_stub.ml" 100 3364 3399
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3386 "TutorialLab/lab3_stub.ml" 100 3364 3399
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3412 "TutorialLab/lab3_stub.ml" 101 3403 3413
+type(
+  int
+)
+ident(
+  def c "TutorialLab/lab3_stub.ml" 102 3440 3444 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3414 "TutorialLab/lab3_stub.ml" 101 3403 3417
+type(
+  string
+)
+ident(
+  def csa "TutorialLab/lab3_stub.ml" 102 3440 3444 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3418 "TutorialLab/lab3_stub.ml" 101 3403 3421
+type(
+  string
+)
+ident(
+  def csb "TutorialLab/lab3_stub.ml" 102 3440 3444 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3411 "TutorialLab/lab3_stub.ml" 101 3403 3422
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3425 "TutorialLab/lab3_stub.ml" 101 3403 3428
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3429 "TutorialLab/lab3_stub.ml" 101 3403 3430
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3432 "TutorialLab/lab3_stub.ml" 101 3403 3433
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3433 "TutorialLab/lab3_stub.ml" 101 3403 3434
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3434 "TutorialLab/lab3_stub.ml" 101 3403 3435
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3431 "TutorialLab/lab3_stub.ml" 101 3403 3436
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3425 "TutorialLab/lab3_stub.ml" 101 3403 3436
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 102 3440 3448 "TutorialLab/lab3_stub.ml" 102 3440 3454
+type(
+  int * string * string
+)
+ident(
+  def result "TutorialLab/lab3_stub.ml" 108 3832 3839 "TutorialLab/lab3_stub.ml" 108 3832 3873
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3466 "TutorialLab/lab3_stub.ml" 103 3458 3467
+type(
+  int
+)
+ident(
+  int_ref a "TutorialLab/lab3_stub.ml" 99 3323 3332 "TutorialLab/lab3_stub.ml" 99 3323 3333
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3468 "TutorialLab/lab3_stub.ml" 103 3458 3469
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3470 "TutorialLab/lab3_stub.ml" 103 3458 3471
+type(
+  int
+)
+ident(
+  int_ref m "TutorialLab/lab3_stub.ml" 98 3292 3304 "TutorialLab/lab3_stub.ml" 98 3292 3305
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3466 "TutorialLab/lab3_stub.ml" 103 3458 3471
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3472 "TutorialLab/lab3_stub.ml" 103 3458 3473
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3474 "TutorialLab/lab3_stub.ml" 103 3458 3475
+type(
+  int
+)
+ident(
+  int_ref b "TutorialLab/lab3_stub.ml" 100 3364 3373 "TutorialLab/lab3_stub.ml" 100 3364 3374
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3476 "TutorialLab/lab3_stub.ml" 103 3458 3477
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3478 "TutorialLab/lab3_stub.ml" 103 3458 3491
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3474 "TutorialLab/lab3_stub.ml" 103 3458 3491
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3466 "TutorialLab/lab3_stub.ml" 103 3458 3491
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3505 "TutorialLab/lab3_stub.ml" 104 3497 3506
+type(
+  int
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 101 3403 3412 "TutorialLab/lab3_stub.ml" 101 3403 3413
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3507 "TutorialLab/lab3_stub.ml" 104 3497 3508
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3509 "TutorialLab/lab3_stub.ml" 104 3497 3522
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3505 "TutorialLab/lab3_stub.ml" 104 3497 3522
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3523 "TutorialLab/lab3_stub.ml" 104 3497 3524
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3525 "TutorialLab/lab3_stub.ml" 104 3497 3526
+type(
+  int
+)
+ident(
+  int_ref b "TutorialLab/lab3_stub.ml" 100 3364 3373 "TutorialLab/lab3_stub.ml" 100 3364 3374
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3527 "TutorialLab/lab3_stub.ml" 104 3497 3528
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3529 "TutorialLab/lab3_stub.ml" 104 3497 3542
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3525 "TutorialLab/lab3_stub.ml" 104 3497 3542
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3505 "TutorialLab/lab3_stub.ml" 104 3497 3542
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3549 "TutorialLab/lab3_stub.ml" 104 3497 3550
+type(
+  int
+)
+ident(
+  int_ref b "TutorialLab/lab3_stub.ml" 100 3364 3373 "TutorialLab/lab3_stub.ml" 100 3364 3374
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3551 "TutorialLab/lab3_stub.ml" 104 3497 3552
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3553 "TutorialLab/lab3_stub.ml" 104 3497 3566
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3549 "TutorialLab/lab3_stub.ml" 104 3497 3566
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3569 "TutorialLab/lab3_stub.ml" 104 3497 3583
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3584 "TutorialLab/lab3_stub.ml" 104 3497 3586
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 96 3220 3232 "TutorialLab/lab3_stub.ml" 96 3220 3234
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3568 "TutorialLab/lab3_stub.ml" 104 3497 3587
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3587 "TutorialLab/lab3_stub.ml" 104 3497 3588
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3588 "TutorialLab/lab3_stub.ml" 104 3497 3591
+type(
+  string
+)
+ident(
+  int_ref bsa "TutorialLab/lab3_stub.ml" 100 3364 3375 "TutorialLab/lab3_stub.ml" 100 3364 3378
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3568 "TutorialLab/lab3_stub.ml" 104 3497 3591
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3593 "TutorialLab/lab3_stub.ml" 104 3497 3596
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3596 "TutorialLab/lab3_stub.ml" 104 3497 3597
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3597 "TutorialLab/lab3_stub.ml" 104 3497 3600
+type(
+  string
+)
+ident(
+  int_ref bsb "TutorialLab/lab3_stub.ml" 100 3364 3379 "TutorialLab/lab3_stub.ml" 100 3364 3382
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3593 "TutorialLab/lab3_stub.ml" 104 3497 3600
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3548 "TutorialLab/lab3_stub.ml" 104 3497 3601
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3613 "TutorialLab/lab3_stub.ml" 105 3602 3614
+type(
+  int
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 101 3403 3412 "TutorialLab/lab3_stub.ml" 101 3403 3413
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3615 "TutorialLab/lab3_stub.ml" 105 3602 3616
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3617 "TutorialLab/lab3_stub.ml" 105 3602 3630
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3613 "TutorialLab/lab3_stub.ml" 105 3602 3630
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3632 "TutorialLab/lab3_stub.ml" 105 3602 3635
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3635 "TutorialLab/lab3_stub.ml" 105 3602 3636
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3636 "TutorialLab/lab3_stub.ml" 105 3602 3639
+type(
+  string
+)
+ident(
+  int_ref csa "TutorialLab/lab3_stub.ml" 101 3403 3414 "TutorialLab/lab3_stub.ml" 101 3403 3417
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3632 "TutorialLab/lab3_stub.ml" 105 3602 3639
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3642 "TutorialLab/lab3_stub.ml" 105 3602 3656
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3657 "TutorialLab/lab3_stub.ml" 105 3602 3659
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 97 3256 3268 "TutorialLab/lab3_stub.ml" 97 3256 3270
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3641 "TutorialLab/lab3_stub.ml" 105 3602 3660
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3660 "TutorialLab/lab3_stub.ml" 105 3602 3661
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3661 "TutorialLab/lab3_stub.ml" 105 3602 3664
+type(
+  string
+)
+ident(
+  int_ref csb "TutorialLab/lab3_stub.ml" 101 3403 3418 "TutorialLab/lab3_stub.ml" 101 3403 3421
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3641 "TutorialLab/lab3_stub.ml" 105 3602 3664
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 105 3602 3612 "TutorialLab/lab3_stub.ml" 105 3602 3665
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 104 3497 3502 "TutorialLab/lab3_stub.ml" 105 3602 3665
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3678 "TutorialLab/lab3_stub.ml" 106 3666 3679
+type(
+  int
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 101 3403 3412 "TutorialLab/lab3_stub.ml" 101 3403 3413
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3680 "TutorialLab/lab3_stub.ml" 106 3666 3681
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3682 "TutorialLab/lab3_stub.ml" 106 3666 3695
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3678 "TutorialLab/lab3_stub.ml" 106 3666 3695
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3696 "TutorialLab/lab3_stub.ml" 106 3666 3697
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3698 "TutorialLab/lab3_stub.ml" 106 3666 3699
+type(
+  int
+)
+ident(
+  int_ref a "TutorialLab/lab3_stub.ml" 99 3323 3332 "TutorialLab/lab3_stub.ml" 99 3323 3333
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3700 "TutorialLab/lab3_stub.ml" 106 3666 3701
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3702 "TutorialLab/lab3_stub.ml" 106 3666 3703
+type(
+  int
+)
+ident(
+  int_ref m "TutorialLab/lab3_stub.ml" 98 3292 3304 "TutorialLab/lab3_stub.ml" 98 3292 3305
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3698 "TutorialLab/lab3_stub.ml" 106 3666 3703
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3678 "TutorialLab/lab3_stub.ml" 106 3666 3703
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3710 "TutorialLab/lab3_stub.ml" 106 3666 3711
+type(
+  int
+)
+ident(
+  int_ref a "TutorialLab/lab3_stub.ml" 99 3323 3332 "TutorialLab/lab3_stub.ml" 99 3323 3333
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3712 "TutorialLab/lab3_stub.ml" 106 3666 3713
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3714 "TutorialLab/lab3_stub.ml" 106 3666 3715
+type(
+  int
+)
+ident(
+  int_ref m "TutorialLab/lab3_stub.ml" 98 3292 3304 "TutorialLab/lab3_stub.ml" 98 3292 3305
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3710 "TutorialLab/lab3_stub.ml" 106 3666 3715
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3718 "TutorialLab/lab3_stub.ml" 106 3666 3732
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3733 "TutorialLab/lab3_stub.ml" 106 3666 3735
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 96 3220 3232 "TutorialLab/lab3_stub.ml" 96 3220 3234
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3717 "TutorialLab/lab3_stub.ml" 106 3666 3736
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3736 "TutorialLab/lab3_stub.ml" 106 3666 3737
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3737 "TutorialLab/lab3_stub.ml" 106 3666 3740
+type(
+  string
+)
+ident(
+  int_ref asa "TutorialLab/lab3_stub.ml" 99 3323 3334 "TutorialLab/lab3_stub.ml" 99 3323 3337
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3717 "TutorialLab/lab3_stub.ml" 106 3666 3740
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3743 "TutorialLab/lab3_stub.ml" 106 3666 3757
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3758 "TutorialLab/lab3_stub.ml" 106 3666 3760
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 97 3256 3268 "TutorialLab/lab3_stub.ml" 97 3256 3270
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3742 "TutorialLab/lab3_stub.ml" 106 3666 3761
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3761 "TutorialLab/lab3_stub.ml" 106 3666 3762
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3762 "TutorialLab/lab3_stub.ml" 106 3666 3765
+type(
+  string
+)
+ident(
+  int_ref asb "TutorialLab/lab3_stub.ml" 99 3323 3338 "TutorialLab/lab3_stub.ml" 99 3323 3341
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3742 "TutorialLab/lab3_stub.ml" 106 3666 3765
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3709 "TutorialLab/lab3_stub.ml" 106 3666 3766
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3779 "TutorialLab/lab3_stub.ml" 107 3767 3780
+type(
+  int
+)
+ident(
+  int_ref c "TutorialLab/lab3_stub.ml" 101 3403 3412 "TutorialLab/lab3_stub.ml" 101 3403 3413
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3781 "TutorialLab/lab3_stub.ml" 107 3767 3782
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3783 "TutorialLab/lab3_stub.ml" 107 3767 3796
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 67 2128 2155 "TutorialLab/lab3_stub.ml" 67 2128 2168
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3779 "TutorialLab/lab3_stub.ml" 107 3767 3796
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3798 "TutorialLab/lab3_stub.ml" 107 3767 3801
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3801 "TutorialLab/lab3_stub.ml" 107 3767 3802
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3802 "TutorialLab/lab3_stub.ml" 107 3767 3805
+type(
+  string
+)
+ident(
+  int_ref csa "TutorialLab/lab3_stub.ml" 101 3403 3414 "TutorialLab/lab3_stub.ml" 101 3403 3417
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3798 "TutorialLab/lab3_stub.ml" 107 3767 3805
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3808 "TutorialLab/lab3_stub.ml" 107 3767 3822
+type(
+  char -> string
+)
+ident(
+  int_ref string_of_char "TutorialLab/lab3_stub.ml" 72 2310 2316 "TutorialLab/lab3_stub.ml" 72 2310 2330
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3823 "TutorialLab/lab3_stub.ml" 107 3767 3825
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 97 3256 3268 "TutorialLab/lab3_stub.ml" 97 3256 3270
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3807 "TutorialLab/lab3_stub.ml" 107 3767 3826
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3826 "TutorialLab/lab3_stub.ml" 107 3767 3827
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3827 "TutorialLab/lab3_stub.ml" 107 3767 3830
+type(
+  string
+)
+ident(
+  int_ref csb "TutorialLab/lab3_stub.ml" 101 3403 3418 "TutorialLab/lab3_stub.ml" 101 3403 3421
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3807 "TutorialLab/lab3_stub.ml" 107 3767 3830
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 107 3767 3778 "TutorialLab/lab3_stub.ml" 107 3767 3831
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 106 3666 3675 "TutorialLab/lab3_stub.ml" 107 3767 3831
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 103 3458 3462 "TutorialLab/lab3_stub.ml" 107 3767 3831
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3839 "TutorialLab/lab3_stub.ml" 108 3832 3848
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3839 "TutorialLab/lab3_stub.ml" 108 3832 3854
+type(
+  int -> int -> int * string * string -> unit
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3855 "TutorialLab/lab3_stub.ml" 108 3832 3856
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3857 "TutorialLab/lab3_stub.ml" 108 3832 3858
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3859 "TutorialLab/lab3_stub.ml" 108 3832 3865
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 102 3440 3448 "TutorialLab/lab3_stub.ml" 102 3440 3454
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3839 "TutorialLab/lab3_stub.ml" 108 3832 3865
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3867 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+ident(
+  int_ref result "TutorialLab/lab3_stub.ml" 102 3440 3448 "TutorialLab/lab3_stub.ml" 102 3440 3454
+)
+"TutorialLab/lab3_stub.ml" 108 3832 3839 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 102 3440 3444 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 101 3403 3407 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 100 3364 3368 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 99 3323 3327 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 98 3292 3300 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 97 3256 3264 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 96 3220 3228 "TutorialLab/lab3_stub.ml" 108 3832 3873
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 109 3874 3883 "TutorialLab/lab3_stub.ml" 109 3874 3892
+type(
+  memotable
+)
+ident(
+  int_ref memotable "TutorialLab/lab3_stub.ml" 68 2171 2176 "TutorialLab/lab3_stub.ml" 68 2171 2185
+)
+"TutorialLab/lab3_stub.ml" 109 3874 3883 "TutorialLab/lab3_stub.ml" 109 3874 3898
+type(
+  int -> int -> int * string * string
+)
+"TutorialLab/lab3_stub.ml" 109 3874 3899 "TutorialLab/lab3_stub.ml" 109 3874 3900
+type(
+  int
+)
+ident(
+  int_ref i "TutorialLab/lab3_stub.ml" 73 2354 2368 "TutorialLab/lab3_stub.ml" 73 2354 2369
+)
+"TutorialLab/lab3_stub.ml" 109 3874 3901 "TutorialLab/lab3_stub.ml" 109 3874 3902
+type(
+  int
+)
+ident(
+  int_ref j "TutorialLab/lab3_stub.ml" 73 2354 2370 "TutorialLab/lab3_stub.ml" 73 2354 2371
+)
+"TutorialLab/lab3_stub.ml" 109 3874 3883 "TutorialLab/lab3_stub.ml" 109 3874 3902
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 95 3159 3166 "TutorialLab/lab3_stub.ml" 109 3874 3902
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 87 2832 2838 "TutorialLab/lab3_stub.ml" 109 3874 3902
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 74 2373 2377 "TutorialLab/lab3_stub.ml" 109 3874 3902
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 110 3904 3908 "TutorialLab/lab3_stub.ml" 110 3904 3911
+type(
+  int -> int -> int * string * string
+)
+ident(
+  int_ref aux "TutorialLab/lab3_stub.ml" 73 2354 2364 "TutorialLab/lab3_stub.ml" 73 2354 2367
+)
+"TutorialLab/lab3_stub.ml" 110 3904 3912 "TutorialLab/lab3_stub.ml" 110 3904 3913
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 110 3904 3914 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 110 3904 3908 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 73 2354 2356 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 72 2310 2312 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 71 2267 2269 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 70 2236 2238 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 69 2205 2207 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 68 2171 2172 "TutorialLab/lab3_stub.ml" 110 3904 3915
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 113 3936 3940 "TutorialLab/lab3_stub.ml" 113 3936 3952
+type(
+  string -> string -> int -> unit
+)
+ident(
+  def align_print2 "TutorialLab/lab3_stub.ml" 124 4320 4371 "_none_" 1 0 -1
+)
+"TutorialLab/lab3_stub.ml" 113 3936 3953 "TutorialLab/lab3_stub.ml" 113 3936 3955
+type(
+  string
+)
+ident(
+  def s1 "TutorialLab/lab3_stub.ml" 113 3936 3956 "TutorialLab/lab3_stub.ml" 124 4320 4371
+)
+"TutorialLab/lab3_stub.ml" 113 3936 3956 "TutorialLab/lab3_stub.ml" 113 3936 3958
+type(
+  string
+)
+ident(
+  def s2 "TutorialLab/lab3_stub.ml" 113 3936 3959 "TutorialLab/lab3_stub.ml" 124 4320 4371
+)
+"TutorialLab/lab3_stub.ml" 113 3936 3959 "TutorialLab/lab3_stub.ml" 113 3936 3972
+type(
+  int
+)
+ident(
+  def penalty_space "TutorialLab/lab3_stub.ml" 114 3975 3977 "TutorialLab/lab3_stub.ml" 124 4320 4371
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3982 "TutorialLab/lab3_stub.ml" 114 3975 3983
+type(
+  int
+)
+ident(
+  def m "TutorialLab/lab3_stub.ml" 115 4035 4036 "TutorialLab/lab3_stub.ml" 124 4320 4371
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3985 "TutorialLab/lab3_stub.ml" 114 3975 3987
+type(
+  string
+)
+ident(
+  def sa "TutorialLab/lab3_stub.ml" 115 4035 4036 "TutorialLab/lab3_stub.ml" 124 4320 4371
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3989 "TutorialLab/lab3_stub.ml" 114 3975 3991
+type(
+  string
+)
+ident(
+  def sb "TutorialLab/lab3_stub.ml" 115 4035 4036 "TutorialLab/lab3_stub.ml" 124 4320 4371
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3981 "TutorialLab/lab3_stub.ml" 114 3975 3992
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3995 "TutorialLab/lab3_stub.ml" 114 3975 4011
+type(
+  string -> string -> int -> int * string * string
+)
+ident(
+  int_ref align_memostring "TutorialLab/lab3_stub.ml" 67 2128 2132 "TutorialLab/lab3_stub.ml" 67 2128 2148
+)
+"TutorialLab/lab3_stub.ml" 114 3975 4012 "TutorialLab/lab3_stub.ml" 114 3975 4014
+type(
+  string
+)
+ident(
+  int_ref s1 "TutorialLab/lab3_stub.ml" 113 3936 3953 "TutorialLab/lab3_stub.ml" 113 3936 3955
+)
+"TutorialLab/lab3_stub.ml" 114 3975 4015 "TutorialLab/lab3_stub.ml" 114 3975 4017
+type(
+  string
+)
+ident(
+  int_ref s2 "TutorialLab/lab3_stub.ml" 113 3936 3956 "TutorialLab/lab3_stub.ml" 113 3936 3958
+)
+"TutorialLab/lab3_stub.ml" 114 3975 4018 "TutorialLab/lab3_stub.ml" 114 3975 4031
+type(
+  int
+)
+ident(
+  int_ref penalty_space "TutorialLab/lab3_stub.ml" 113 3936 3959 "TutorialLab/lab3_stub.ml" 113 3936 3972
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3995 "TutorialLab/lab3_stub.ml" 114 3975 4031
+type(
+  int * string * string
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4036 "TutorialLab/lab3_stub.ml" 115 4035 4048
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4051 "TutorialLab/lab3_stub.ml" 115 4035 4053
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 114 3975 3985 "TutorialLab/lab3_stub.ml" 114 3975 3987
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4053 "TutorialLab/lab3_stub.ml" 115 4035 4054
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4054 "TutorialLab/lab3_stub.ml" 115 4035 4058
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4050 "TutorialLab/lab3_stub.ml" 115 4035 4059
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4036 "TutorialLab/lab3_stub.ml" 115 4035 4059
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4062 "TutorialLab/lab3_stub.ml" 116 4061 4074
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4076 "TutorialLab/lab3_stub.ml" 116 4061 4078
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 114 3975 3989 "TutorialLab/lab3_stub.ml" 114 3975 3991
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4078 "TutorialLab/lab3_stub.ml" 116 4061 4079
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4079 "TutorialLab/lab3_stub.ml" 116 4061 4083
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4075 "TutorialLab/lab3_stub.ml" 116 4061 4084
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4062 "TutorialLab/lab3_stub.ml" 116 4061 4084
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4095 "TutorialLab/lab3_stub.ml" 117 4086 4096
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4101 "TutorialLab/lab3_stub.ml" 117 4086 4114
+type(
+  string -> int
+)
+ident(
+  ext_ref String.length
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4115 "TutorialLab/lab3_stub.ml" 117 4086 4117
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 114 3975 3985 "TutorialLab/lab3_stub.ml" 114 3975 3987
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4101 "TutorialLab/lab3_stub.ml" 117 4086 4117
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4118 "TutorialLab/lab3_stub.ml" 117 4086 4119
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4120 "TutorialLab/lab3_stub.ml" 117 4086 4121
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4100 "TutorialLab/lab3_stub.ml" 117 4086 4122
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 118 4126 4131 "TutorialLab/lab3_stub.ml" 118 4126 4133
+type(
+  char
+)
+ident(
+  def c1 "TutorialLab/lab3_stub.ml" 119 4155 4163 "TutorialLab/lab3_stub.ml" 122 4286 4312
+)
+"TutorialLab/lab3_stub.ml" 118 4126 4136 "TutorialLab/lab3_stub.ml" 118 4126 4146
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 118 4126 4147 "TutorialLab/lab3_stub.ml" 118 4126 4149
+type(
+  string
+)
+ident(
+  int_ref sa "TutorialLab/lab3_stub.ml" 114 3975 3985 "TutorialLab/lab3_stub.ml" 114 3975 3987
+)
+"TutorialLab/lab3_stub.ml" 118 4126 4150 "TutorialLab/lab3_stub.ml" 118 4126 4151
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 118 4126 4136 "TutorialLab/lab3_stub.ml" 118 4126 4151
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 119 4155 4167 "TutorialLab/lab3_stub.ml" 119 4155 4169
+type(
+  char
+)
+ident(
+  def c2 "TutorialLab/lab3_stub.ml" 120 4191 4195 "TutorialLab/lab3_stub.ml" 122 4286 4312
+)
+"TutorialLab/lab3_stub.ml" 119 4155 4172 "TutorialLab/lab3_stub.ml" 119 4155 4182
+type(
+  string -> int -> char
+)
+ident(
+  ext_ref String.get
+)
+"TutorialLab/lab3_stub.ml" 119 4155 4183 "TutorialLab/lab3_stub.ml" 119 4155 4185
+type(
+  string
+)
+ident(
+  int_ref sb "TutorialLab/lab3_stub.ml" 114 3975 3989 "TutorialLab/lab3_stub.ml" 114 3975 3991
+)
+"TutorialLab/lab3_stub.ml" 119 4155 4186 "TutorialLab/lab3_stub.ml" 119 4155 4187
+type(
+  int
+)
+"TutorialLab/lab3_stub.ml" 119 4155 4172 "TutorialLab/lab3_stub.ml" 119 4155 4187
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4199 "TutorialLab/lab3_stub.ml" 120 4191 4201
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 118 4126 4131 "TutorialLab/lab3_stub.ml" 118 4126 4133
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4202 "TutorialLab/lab3_stub.ml" 120 4191 4203
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4204 "TutorialLab/lab3_stub.ml" 120 4191 4207
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4199 "TutorialLab/lab3_stub.ml" 120 4191 4207
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4208 "TutorialLab/lab3_stub.ml" 120 4191 4210
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4211 "TutorialLab/lab3_stub.ml" 120 4191 4213
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 119 4155 4167 "TutorialLab/lab3_stub.ml" 119 4155 4169
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4214 "TutorialLab/lab3_stub.ml" 120 4191 4215
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4216 "TutorialLab/lab3_stub.ml" 120 4191 4219
+type(
+  char
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4211 "TutorialLab/lab3_stub.ml" 120 4191 4219
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4198 "TutorialLab/lab3_stub.ml" 120 4191 4220
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4226 "TutorialLab/lab3_stub.ml" 120 4191 4238
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4239 "TutorialLab/lab3_stub.ml" 120 4191 4242
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4226 "TutorialLab/lab3_stub.ml" 120 4191 4242
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4255 "TutorialLab/lab3_stub.ml" 121 4243 4257
+type(
+  char
+)
+ident(
+  int_ref c1 "TutorialLab/lab3_stub.ml" 118 4126 4131 "TutorialLab/lab3_stub.ml" 118 4126 4133
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4258 "TutorialLab/lab3_stub.ml" 121 4243 4259
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4260 "TutorialLab/lab3_stub.ml" 121 4243 4262
+type(
+  char
+)
+ident(
+  int_ref c2 "TutorialLab/lab3_stub.ml" 119 4155 4167 "TutorialLab/lab3_stub.ml" 119 4155 4169
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4254 "TutorialLab/lab3_stub.ml" 121 4243 4263
+type(
+  bool
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4269 "TutorialLab/lab3_stub.ml" 121 4243 4281
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4282 "TutorialLab/lab3_stub.ml" 121 4243 4285
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4269 "TutorialLab/lab3_stub.ml" 121 4243 4285
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 122 4286 4295 "TutorialLab/lab3_stub.ml" 122 4286 4307
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 122 4286 4308 "TutorialLab/lab3_stub.ml" 122 4286 4311
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 122 4286 4295 "TutorialLab/lab3_stub.ml" 122 4286 4311
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 121 4243 4252 "TutorialLab/lab3_stub.ml" 122 4286 4311
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 120 4191 4195 "TutorialLab/lab3_stub.ml" 122 4286 4312
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 119 4155 4163 "TutorialLab/lab3_stub.ml" 122 4286 4312
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 118 4126 4127 "TutorialLab/lab3_stub.ml" 122 4286 4312
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4087 "TutorialLab/lab3_stub.ml" 123 4313 4318
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4321 "TutorialLab/lab3_stub.ml" 124 4320 4333
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4335 "TutorialLab/lab3_stub.ml" 124 4320 4347
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4347 "TutorialLab/lab3_stub.ml" 124 4320 4348
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4349 "TutorialLab/lab3_stub.ml" 124 4320 4362
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4363 "TutorialLab/lab3_stub.ml" 124 4320 4364
+type(
+  int
+)
+ident(
+  int_ref m "TutorialLab/lab3_stub.ml" 114 3975 3982 "TutorialLab/lab3_stub.ml" 114 3975 3983
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4348 "TutorialLab/lab3_stub.ml" 124 4320 4365
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4365 "TutorialLab/lab3_stub.ml" 124 4320 4366
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4366 "TutorialLab/lab3_stub.ml" 124 4320 4370
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4348 "TutorialLab/lab3_stub.ml" 124 4320 4370
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4334 "TutorialLab/lab3_stub.ml" 124 4320 4371
+type(
+  string
+)
+"TutorialLab/lab3_stub.ml" 124 4320 4321 "TutorialLab/lab3_stub.ml" 124 4320 4371
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 117 4086 4087 "TutorialLab/lab3_stub.ml" 124 4320 4371
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 116 4061 4062 "TutorialLab/lab3_stub.ml" 124 4320 4371
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 115 4035 4036 "TutorialLab/lab3_stub.ml" 124 4320 4371
+type(
+  unit
+)
+"TutorialLab/lab3_stub.ml" 114 3975 3977 "TutorialLab/lab3_stub.ml" 124 4320 4371
+type(
+  unit
+)

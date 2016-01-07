@@ -1,0 +1,6526 @@
+"Lab1/lab2.ml" 25 760 764 "Lab1/lab2.ml" 25 760 771
+type(
+  'a list -> 'a list
+)
+ident(
+  def reverse "Lab1/lab2.ml" 49 1391 1391 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 25 760 773 "Lab1/lab2.ml" 25 760 775
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 25 760 785 "Lab1/lab2.ml" 26 798 844
+)
+"Lab1/lab2.ml" 26 798 800 "Lab1/lab2.ml" 26 798 814
+type(
+  ('a list -> 'a -> 'a list) -> 'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref List.fold_left
+)
+"Lab1/lab2.ml" 26 798 820 "Lab1/lab2.ml" 26 798 823
+type(
+  'a list
+)
+ident(
+  def acc "Lab1/lab2.ml" 26 798 824 "Lab1/lab2.ml" 26 798 835
+)
+"Lab1/lab2.ml" 26 798 824 "Lab1/lab2.ml" 26 798 825
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 26 798 829 "Lab1/lab2.ml" 26 798 835
+)
+"Lab1/lab2.ml" 26 798 829 "Lab1/lab2.ml" 26 798 830
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 26 798 824 "Lab1/lab2.ml" 26 798 825
+)
+"Lab1/lab2.ml" 26 798 832 "Lab1/lab2.ml" 26 798 835
+type(
+  'a list
+)
+ident(
+  int_ref acc "Lab1/lab2.ml" 26 798 820 "Lab1/lab2.ml" 26 798 823
+)
+"Lab1/lab2.ml" 26 798 829 "Lab1/lab2.ml" 26 798 835
+type(
+  'a list
+)
+"Lab1/lab2.ml" 26 798 815 "Lab1/lab2.ml" 26 798 836
+type(
+  'a list -> 'a -> 'a list
+)
+"Lab1/lab2.ml" 26 798 837 "Lab1/lab2.ml" 26 798 841
+type(
+  'a list
+)
+"Lab1/lab2.ml" 26 798 842 "Lab1/lab2.ml" 26 798 844
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 25 760 773 "Lab1/lab2.ml" 25 760 775
+)
+"Lab1/lab2.ml" 26 798 800 "Lab1/lab2.ml" 26 798 844
+type(
+  'a list
+)
+type(
+  'a list
+)
+"Lab1/lab2.ml" 49 1391 1395 "Lab1/lab2.ml" 49 1391 1402
+type(
+  'a list -> 'b list -> ('a * 'b) list
+)
+ident(
+  def product "Lab1/lab2.ml" 52 1485 1485 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 49 1391 1403 "Lab1/lab2.ml" 49 1391 1405
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 49 1391 1406 "Lab1/lab2.ml" 50 1413 1480
+)
+"Lab1/lab2.ml" 49 1391 1406 "Lab1/lab2.ml" 49 1391 1408
+type(
+  'b list
+)
+ident(
+  def ys "Lab1/lab2.ml" 50 1413 1415 "Lab1/lab2.ml" 50 1413 1480
+)
+"Lab1/lab2.ml" 50 1413 1415 "Lab1/lab2.ml" 50 1413 1426
+type(
+  ('a * 'b) list list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.concat
+)
+"Lab1/lab2.ml" 50 1413 1428 "Lab1/lab2.ml" 50 1413 1436
+type(
+  ('a -> ('a * 'b) list) -> 'a list -> ('a * 'b) list list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 50 1413 1442 "Lab1/lab2.ml" 50 1413 1443
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 50 1413 1447 "Lab1/lab2.ml" 50 1413 1475
+)
+"Lab1/lab2.ml" 50 1413 1447 "Lab1/lab2.ml" 50 1413 1455
+type(
+  ('b -> 'a * 'b) -> 'b list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 50 1413 1461 "Lab1/lab2.ml" 50 1413 1462
+type(
+  'b
+)
+ident(
+  def y "Lab1/lab2.ml" 50 1413 1466 "Lab1/lab2.ml" 50 1413 1471
+)
+"Lab1/lab2.ml" 50 1413 1467 "Lab1/lab2.ml" 50 1413 1468
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 50 1413 1442 "Lab1/lab2.ml" 50 1413 1443
+)
+"Lab1/lab2.ml" 50 1413 1469 "Lab1/lab2.ml" 50 1413 1470
+type(
+  'b
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 50 1413 1461 "Lab1/lab2.ml" 50 1413 1462
+)
+"Lab1/lab2.ml" 50 1413 1466 "Lab1/lab2.ml" 50 1413 1471
+type(
+  'a * 'b
+)
+"Lab1/lab2.ml" 50 1413 1456 "Lab1/lab2.ml" 50 1413 1472
+type(
+  'b -> 'a * 'b
+)
+"Lab1/lab2.ml" 50 1413 1473 "Lab1/lab2.ml" 50 1413 1475
+type(
+  'b list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 49 1391 1406 "Lab1/lab2.ml" 49 1391 1408
+)
+"Lab1/lab2.ml" 50 1413 1447 "Lab1/lab2.ml" 50 1413 1475
+type(
+  ('a * 'b) list
+)
+"Lab1/lab2.ml" 50 1413 1437 "Lab1/lab2.ml" 50 1413 1476
+type(
+  'a -> ('a * 'b) list
+)
+"Lab1/lab2.ml" 50 1413 1477 "Lab1/lab2.ml" 50 1413 1479
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 49 1391 1403 "Lab1/lab2.ml" 49 1391 1405
+)
+"Lab1/lab2.ml" 50 1413 1427 "Lab1/lab2.ml" 50 1413 1480
+type(
+  ('a * 'b) list list
+)
+"Lab1/lab2.ml" 50 1413 1415 "Lab1/lab2.ml" 50 1413 1480
+type(
+  ('a * 'b) list
+)
+"Lab1/lab2.ml" 52 1485 1489 "Lab1/lab2.ml" 52 1485 1506
+type(
+  'a list -> 'b list -> ('a * 'b) list list
+)
+ident(
+  def product_wo_concat "Lab1/lab2.ml" 55 1573 1573 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 52 1485 1507 "Lab1/lab2.ml" 52 1485 1509
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 52 1485 1510 "Lab1/lab2.ml" 53 1517 1569
+)
+"Lab1/lab2.ml" 52 1485 1510 "Lab1/lab2.ml" 52 1485 1512
+type(
+  'b list
+)
+ident(
+  def ys "Lab1/lab2.ml" 53 1517 1518 "Lab1/lab2.ml" 53 1517 1569
+)
+"Lab1/lab2.ml" 53 1517 1518 "Lab1/lab2.ml" 53 1517 1526
+type(
+  ('a -> ('a * 'b) list) -> 'a list -> ('a * 'b) list list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 53 1517 1532 "Lab1/lab2.ml" 53 1517 1533
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 53 1517 1537 "Lab1/lab2.ml" 53 1517 1565
+)
+"Lab1/lab2.ml" 53 1517 1537 "Lab1/lab2.ml" 53 1517 1545
+type(
+  ('b -> 'a * 'b) -> 'b list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 53 1517 1551 "Lab1/lab2.ml" 53 1517 1552
+type(
+  'b
+)
+ident(
+  def y "Lab1/lab2.ml" 53 1517 1556 "Lab1/lab2.ml" 53 1517 1561
+)
+"Lab1/lab2.ml" 53 1517 1557 "Lab1/lab2.ml" 53 1517 1558
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 53 1517 1532 "Lab1/lab2.ml" 53 1517 1533
+)
+"Lab1/lab2.ml" 53 1517 1559 "Lab1/lab2.ml" 53 1517 1560
+type(
+  'b
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 53 1517 1551 "Lab1/lab2.ml" 53 1517 1552
+)
+"Lab1/lab2.ml" 53 1517 1556 "Lab1/lab2.ml" 53 1517 1561
+type(
+  'a * 'b
+)
+"Lab1/lab2.ml" 53 1517 1546 "Lab1/lab2.ml" 53 1517 1562
+type(
+  'b -> 'a * 'b
+)
+"Lab1/lab2.ml" 53 1517 1563 "Lab1/lab2.ml" 53 1517 1565
+type(
+  'b list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 52 1485 1510 "Lab1/lab2.ml" 52 1485 1512
+)
+"Lab1/lab2.ml" 53 1517 1537 "Lab1/lab2.ml" 53 1517 1565
+type(
+  ('a * 'b) list
+)
+"Lab1/lab2.ml" 53 1517 1527 "Lab1/lab2.ml" 53 1517 1566
+type(
+  'a -> ('a * 'b) list
+)
+"Lab1/lab2.ml" 53 1517 1567 "Lab1/lab2.ml" 53 1517 1569
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 52 1485 1507 "Lab1/lab2.ml" 52 1485 1509
+)
+"Lab1/lab2.ml" 53 1517 1518 "Lab1/lab2.ml" 53 1517 1569
+type(
+  ('a * 'b) list list
+)
+"Lab1/lab2.ml" 55 1573 1577 "Lab1/lab2.ml" 55 1573 1597
+type(
+  'a list -> 'b list -> ('a * 'b) list list
+)
+ident(
+  def product_column_major "Lab1/lab2.ml" 67 1953 1953 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 55 1573 1598 "Lab1/lab2.ml" 55 1573 1600
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 55 1573 1601 "Lab1/lab2.ml" 56 1608 1660
+)
+"Lab1/lab2.ml" 55 1573 1601 "Lab1/lab2.ml" 55 1573 1603
+type(
+  'b list
+)
+ident(
+  def ys "Lab1/lab2.ml" 56 1608 1609 "Lab1/lab2.ml" 56 1608 1660
+)
+"Lab1/lab2.ml" 56 1608 1609 "Lab1/lab2.ml" 56 1608 1617
+type(
+  ('b -> ('a * 'b) list) -> 'b list -> ('a * 'b) list list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 56 1608 1623 "Lab1/lab2.ml" 56 1608 1624
+type(
+  'b
+)
+ident(
+  def y "Lab1/lab2.ml" 56 1608 1628 "Lab1/lab2.ml" 56 1608 1656
+)
+"Lab1/lab2.ml" 56 1608 1628 "Lab1/lab2.ml" 56 1608 1636
+type(
+  ('a -> 'a * 'b) -> 'a list -> ('a * 'b) list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 56 1608 1642 "Lab1/lab2.ml" 56 1608 1643
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 56 1608 1647 "Lab1/lab2.ml" 56 1608 1652
+)
+"Lab1/lab2.ml" 56 1608 1648 "Lab1/lab2.ml" 56 1608 1649
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 56 1608 1642 "Lab1/lab2.ml" 56 1608 1643
+)
+"Lab1/lab2.ml" 56 1608 1650 "Lab1/lab2.ml" 56 1608 1651
+type(
+  'b
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 56 1608 1623 "Lab1/lab2.ml" 56 1608 1624
+)
+"Lab1/lab2.ml" 56 1608 1647 "Lab1/lab2.ml" 56 1608 1652
+type(
+  'a * 'b
+)
+"Lab1/lab2.ml" 56 1608 1637 "Lab1/lab2.ml" 56 1608 1653
+type(
+  'a -> 'a * 'b
+)
+"Lab1/lab2.ml" 56 1608 1654 "Lab1/lab2.ml" 56 1608 1656
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 55 1573 1598 "Lab1/lab2.ml" 55 1573 1600
+)
+"Lab1/lab2.ml" 56 1608 1628 "Lab1/lab2.ml" 56 1608 1656
+type(
+  ('a * 'b) list
+)
+"Lab1/lab2.ml" 56 1608 1618 "Lab1/lab2.ml" 56 1608 1657
+type(
+  'b -> ('a * 'b) list
+)
+"Lab1/lab2.ml" 56 1608 1658 "Lab1/lab2.ml" 56 1608 1660
+type(
+  'b list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 55 1573 1601 "Lab1/lab2.ml" 55 1573 1603
+)
+"Lab1/lab2.ml" 56 1608 1609 "Lab1/lab2.ml" 56 1608 1660
+type(
+  ('a * 'b) list list
+)
+"Lab1/lab2.ml" 67 1953 1957 "Lab1/lab2.ml" 67 1953 1965
+type(
+  'a list -> 'a list -> ('a * 'a) list
+)
+ident(
+  def product2 "Lab1/lab2.ml" 87 2495 2495 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 67 1953 1966 "Lab1/lab2.ml" 67 1953 1968
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 67 1953 1969 "Lab1/lab2.ml" 69 2054 2091
+)
+"Lab1/lab2.ml" 67 1953 1969 "Lab1/lab2.ml" 67 1953 1971
+type(
+  'a list
+)
+ident(
+  def ys "Lab1/lab2.ml" 68 1976 1977 "Lab1/lab2.ml" 69 2054 2091
+)
+"Lab1/lab2.ml" 68 1976 1981 "Lab1/lab2.ml" 68 1976 1984
+type(
+  ('a * 'a) list
+)
+ident(
+  def res "Lab1/lab2.ml" 69 2054 2058 "Lab1/lab2.ml" 69 2054 2091
+)
+"Lab1/lab2.ml" 68 1976 1987 "Lab1/lab2.ml" 68 1976 1998
+type(
+  ('a * 'a) list list -> ('a * 'a) list
+)
+ident(
+  ext_ref List.concat
+)
+"Lab1/lab2.ml" 68 1976 2000 "Lab1/lab2.ml" 68 1976 2008
+type(
+  ('a -> ('a * 'a) list) -> 'a list -> ('a * 'a) list list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 68 1976 2014 "Lab1/lab2.ml" 68 1976 2015
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 68 1976 2019 "Lab1/lab2.ml" 68 1976 2047
+)
+"Lab1/lab2.ml" 68 1976 2019 "Lab1/lab2.ml" 68 1976 2027
+type(
+  ('a -> 'a * 'a) -> 'a list -> ('a * 'a) list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 68 1976 2033 "Lab1/lab2.ml" 68 1976 2034
+type(
+  'a
+)
+ident(
+  def y "Lab1/lab2.ml" 68 1976 2038 "Lab1/lab2.ml" 68 1976 2043
+)
+"Lab1/lab2.ml" 68 1976 2039 "Lab1/lab2.ml" 68 1976 2040
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 68 1976 2014 "Lab1/lab2.ml" 68 1976 2015
+)
+"Lab1/lab2.ml" 68 1976 2041 "Lab1/lab2.ml" 68 1976 2042
+type(
+  'a
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 68 1976 2033 "Lab1/lab2.ml" 68 1976 2034
+)
+"Lab1/lab2.ml" 68 1976 2038 "Lab1/lab2.ml" 68 1976 2043
+type(
+  'a * 'a
+)
+"Lab1/lab2.ml" 68 1976 2028 "Lab1/lab2.ml" 68 1976 2044
+type(
+  'a -> 'a * 'a
+)
+"Lab1/lab2.ml" 68 1976 2045 "Lab1/lab2.ml" 68 1976 2047
+type(
+  'a list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 67 1953 1969 "Lab1/lab2.ml" 67 1953 1971
+)
+"Lab1/lab2.ml" 68 1976 2019 "Lab1/lab2.ml" 68 1976 2047
+type(
+  ('a * 'a) list
+)
+"Lab1/lab2.ml" 68 1976 2009 "Lab1/lab2.ml" 68 1976 2048
+type(
+  'a -> ('a * 'a) list
+)
+"Lab1/lab2.ml" 68 1976 2049 "Lab1/lab2.ml" 68 1976 2051
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 67 1953 1966 "Lab1/lab2.ml" 67 1953 1968
+)
+"Lab1/lab2.ml" 68 1976 1999 "Lab1/lab2.ml" 68 1976 2052
+type(
+  ('a * 'a) list list
+)
+"Lab1/lab2.ml" 68 1976 1987 "Lab1/lab2.ml" 68 1976 2052
+type(
+  ('a * 'a) list
+)
+"Lab1/lab2.ml" 69 2054 2058 "Lab1/lab2.ml" 69 2054 2069
+type(
+  ('a * 'a -> bool) -> ('a * 'a) list -> ('a * 'a) list
+)
+ident(
+  ext_ref List.filter
+)
+"Lab1/lab2.ml" 69 2054 2074 "Lab1/lab2.ml" 69 2054 2075
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 69 2054 2082 "Lab1/lab2.ml" 69 2054 2086
+)
+"Lab1/lab2.ml" 69 2054 2076 "Lab1/lab2.ml" 69 2054 2077
+type(
+  'a
+)
+ident(
+  def y "Lab1/lab2.ml" 69 2054 2082 "Lab1/lab2.ml" 69 2054 2086
+)
+"Lab1/lab2.ml" 69 2054 2073 "Lab1/lab2.ml" 69 2054 2078
+type(
+  'a * 'a
+)
+"Lab1/lab2.ml" 69 2054 2082 "Lab1/lab2.ml" 69 2054 2083
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 69 2054 2074 "Lab1/lab2.ml" 69 2054 2075
+)
+"Lab1/lab2.ml" 69 2054 2083 "Lab1/lab2.ml" 69 2054 2085
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/lab2.ml" 69 2054 2085 "Lab1/lab2.ml" 69 2054 2086
+type(
+  'a
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 69 2054 2076 "Lab1/lab2.ml" 69 2054 2077
+)
+"Lab1/lab2.ml" 69 2054 2082 "Lab1/lab2.ml" 69 2054 2086
+type(
+  bool
+)
+"Lab1/lab2.ml" 69 2054 2069 "Lab1/lab2.ml" 69 2054 2087
+type(
+  'a * 'a -> bool
+)
+"Lab1/lab2.ml" 69 2054 2088 "Lab1/lab2.ml" 69 2054 2091
+type(
+  ('a * 'a) list
+)
+ident(
+  int_ref res "Lab1/lab2.ml" 68 1976 1981 "Lab1/lab2.ml" 68 1976 1984
+)
+"Lab1/lab2.ml" 69 2054 2058 "Lab1/lab2.ml" 69 2054 2091
+type(
+  ('a * 'a) list
+)
+"Lab1/lab2.ml" 68 1976 1977 "Lab1/lab2.ml" 69 2054 2091
+type(
+  ('a * 'a) list
+)
+"Lab1/lab2.ml" 87 2495 2499 "Lab1/lab2.ml" 87 2495 2511
+type(
+  int list -> int list -> int list
+)
+ident(
+  def divisor_prod "Lab1/lab2.ml" 104 3013 3013 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 87 2495 2512 "Lab1/lab2.ml" 87 2495 2514
+type(
+  int list
+)
+ident(
+  def xs "Lab1/lab2.ml" 87 2495 2515 "Lab1/lab2.ml" 88 2522 2617
+)
+"Lab1/lab2.ml" 87 2495 2515 "Lab1/lab2.ml" 87 2495 2517
+type(
+  int list
+)
+ident(
+  def ys "Lab1/lab2.ml" 88 2522 2523 "Lab1/lab2.ml" 88 2522 2617
+)
+"Lab1/lab2.ml" 88 2522 2523 "Lab1/lab2.ml" 88 2522 2534
+type(
+  int list list -> int list
+)
+ident(
+  ext_ref List.concat
+)
+"Lab1/lab2.ml" 88 2522 2536 "Lab1/lab2.ml" 88 2522 2544
+type(
+  (int -> int list) -> int list -> int list list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 88 2522 2550 "Lab1/lab2.ml" 88 2522 2551
+type(
+  int
+)
+ident(
+  def y "Lab1/lab2.ml" 88 2522 2555 "Lab1/lab2.ml" 88 2522 2584
+)
+"Lab1/lab2.ml" 88 2522 2555 "Lab1/lab2.ml" 88 2522 2563
+type(
+  (int -> int) -> int list -> int list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 88 2522 2569 "Lab1/lab2.ml" 88 2522 2570
+type(
+  int
+)
+ident(
+  def x "Lab1/lab2.ml" 88 2522 2574 "Lab1/lab2.ml" 88 2522 2579
+)
+"Lab1/lab2.ml" 88 2522 2575 "Lab1/lab2.ml" 88 2522 2576
+type(
+  int
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 88 2522 2569 "Lab1/lab2.ml" 88 2522 2570
+)
+"Lab1/lab2.ml" 88 2522 2576 "Lab1/lab2.ml" 88 2522 2577
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"Lab1/lab2.ml" 88 2522 2577 "Lab1/lab2.ml" 88 2522 2578
+type(
+  int
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 88 2522 2550 "Lab1/lab2.ml" 88 2522 2551
+)
+"Lab1/lab2.ml" 88 2522 2574 "Lab1/lab2.ml" 88 2522 2579
+type(
+  int
+)
+"Lab1/lab2.ml" 88 2522 2564 "Lab1/lab2.ml" 88 2522 2580
+type(
+  int -> int
+)
+"Lab1/lab2.ml" 88 2522 2582 "Lab1/lab2.ml" 88 2522 2584
+type(
+  int list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 87 2495 2512 "Lab1/lab2.ml" 87 2495 2514
+)
+"Lab1/lab2.ml" 88 2522 2555 "Lab1/lab2.ml" 88 2522 2584
+type(
+  int list
+)
+"Lab1/lab2.ml" 88 2522 2545 "Lab1/lab2.ml" 88 2522 2585
+type(
+  int -> int list
+)
+"Lab1/lab2.ml" 88 2522 2586 "Lab1/lab2.ml" 88 2522 2597
+type(
+  (int -> bool) -> int list -> int list
+)
+ident(
+  ext_ref List.filter
+)
+"Lab1/lab2.ml" 88 2522 2602 "Lab1/lab2.ml" 88 2522 2603
+type(
+  int
+)
+ident(
+  def y "Lab1/lab2.ml" 88 2522 2607 "Lab1/lab2.ml" 88 2522 2611
+)
+"Lab1/lab2.ml" 88 2522 2607 "Lab1/lab2.ml" 88 2522 2608
+type(
+  int
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 88 2522 2602 "Lab1/lab2.ml" 88 2522 2603
+)
+"Lab1/lab2.ml" 88 2522 2608 "Lab1/lab2.ml" 88 2522 2610
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( != )
+)
+"Lab1/lab2.ml" 88 2522 2610 "Lab1/lab2.ml" 88 2522 2611
+type(
+  int
+)
+"Lab1/lab2.ml" 88 2522 2607 "Lab1/lab2.ml" 88 2522 2611
+type(
+  bool
+)
+"Lab1/lab2.ml" 88 2522 2597 "Lab1/lab2.ml" 88 2522 2612
+type(
+  int -> bool
+)
+"Lab1/lab2.ml" 88 2522 2613 "Lab1/lab2.ml" 88 2522 2615
+type(
+  int list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 87 2495 2515 "Lab1/lab2.ml" 87 2495 2517
+)
+"Lab1/lab2.ml" 88 2522 2585 "Lab1/lab2.ml" 88 2522 2616
+type(
+  int list
+)
+"Lab1/lab2.ml" 88 2522 2535 "Lab1/lab2.ml" 88 2522 2617
+type(
+  int list list
+)
+"Lab1/lab2.ml" 88 2522 2523 "Lab1/lab2.ml" 88 2522 2617
+type(
+  int list
+)
+"Lab1/lab2.ml" 104 3013 3017 "Lab1/lab2.ml" 104 3013 3028
+type(
+  int list -> int * int * int
+)
+ident(
+  def count_nums1 "Lab1/lab2.ml" 110 3227 3227 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 104 3013 3030 "Lab1/lab2.ml" 104 3013 3032
+type(
+  int list
+)
+ident(
+  def ys "Lab1/lab2.ml" 104 3013 3043 "Lab1/lab2.ml" 108 3184 3221
+)
+"Lab1/lab2.ml" 105 3066 3067 "Lab1/lab2.ml" 105 3066 3081
+type(
+  (int * int * int -> int -> int * int * int) ->
+  int * int * int -> int list -> int * int * int
+)
+ident(
+  ext_ref List.fold_left
+)
+"Lab1/lab2.ml" 105 3066 3088 "Lab1/lab2.ml" 105 3066 3092
+type(
+  int
+)
+ident(
+  def acc1 "Lab1/lab2.ml" 105 3066 3104 "Lab1/lab2.ml" 108 3184 3209
+)
+"Lab1/lab2.ml" 105 3066 3093 "Lab1/lab2.ml" 105 3066 3097
+type(
+  int
+)
+ident(
+  def acc2 "Lab1/lab2.ml" 105 3066 3104 "Lab1/lab2.ml" 108 3184 3209
+)
+"Lab1/lab2.ml" 105 3066 3098 "Lab1/lab2.ml" 105 3066 3102
+type(
+  int
+)
+ident(
+  def acc3 "Lab1/lab2.ml" 105 3066 3104 "Lab1/lab2.ml" 108 3184 3209
+)
+"Lab1/lab2.ml" 105 3066 3087 "Lab1/lab2.ml" 105 3066 3103
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 105 3066 3104 "Lab1/lab2.ml" 105 3066 3105
+type(
+  int
+)
+ident(
+  def x "Lab1/lab2.ml" 106 3111 3113 "Lab1/lab2.ml" 108 3184 3209
+)
+"Lab1/lab2.ml" 106 3111 3116 "Lab1/lab2.ml" 106 3111 3117
+type(
+  int
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 105 3066 3104 "Lab1/lab2.ml" 105 3066 3105
+)
+"Lab1/lab2.ml" 106 3111 3117 "Lab1/lab2.ml" 106 3111 3118
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Lab1/lab2.ml" 106 3111 3118 "Lab1/lab2.ml" 106 3111 3119
+type(
+  int
+)
+"Lab1/lab2.ml" 106 3111 3116 "Lab1/lab2.ml" 106 3111 3119
+type(
+  bool
+)
+"Lab1/lab2.ml" 106 3111 3126 "Lab1/lab2.ml" 106 3111 3130
+type(
+  int
+)
+ident(
+  int_ref acc1 "Lab1/lab2.ml" 105 3066 3088 "Lab1/lab2.ml" 105 3066 3092
+)
+"Lab1/lab2.ml" 106 3111 3130 "Lab1/lab2.ml" 106 3111 3131
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 106 3111 3131 "Lab1/lab2.ml" 106 3111 3132
+type(
+  int
+)
+"Lab1/lab2.ml" 106 3111 3126 "Lab1/lab2.ml" 106 3111 3132
+type(
+  int
+)
+"Lab1/lab2.ml" 106 3111 3133 "Lab1/lab2.ml" 106 3111 3137
+type(
+  int
+)
+ident(
+  int_ref acc2 "Lab1/lab2.ml" 105 3066 3093 "Lab1/lab2.ml" 105 3066 3097
+)
+"Lab1/lab2.ml" 106 3111 3138 "Lab1/lab2.ml" 106 3111 3142
+type(
+  int
+)
+ident(
+  int_ref acc3 "Lab1/lab2.ml" 105 3066 3098 "Lab1/lab2.ml" 105 3066 3102
+)
+"Lab1/lab2.ml" 106 3111 3125 "Lab1/lab2.ml" 106 3111 3143
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 107 3145 3155 "Lab1/lab2.ml" 107 3145 3156
+type(
+  int
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 105 3066 3104 "Lab1/lab2.ml" 105 3066 3105
+)
+"Lab1/lab2.ml" 107 3145 3156 "Lab1/lab2.ml" 107 3145 3157
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab1/lab2.ml" 107 3145 3157 "Lab1/lab2.ml" 107 3145 3158
+type(
+  int
+)
+"Lab1/lab2.ml" 107 3145 3155 "Lab1/lab2.ml" 107 3145 3158
+type(
+  bool
+)
+"Lab1/lab2.ml" 107 3145 3165 "Lab1/lab2.ml" 107 3145 3169
+type(
+  int
+)
+ident(
+  int_ref acc1 "Lab1/lab2.ml" 105 3066 3088 "Lab1/lab2.ml" 105 3066 3092
+)
+"Lab1/lab2.ml" 107 3145 3170 "Lab1/lab2.ml" 107 3145 3174
+type(
+  int
+)
+ident(
+  int_ref acc2 "Lab1/lab2.ml" 105 3066 3093 "Lab1/lab2.ml" 105 3066 3097
+)
+"Lab1/lab2.ml" 107 3145 3174 "Lab1/lab2.ml" 107 3145 3175
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 107 3145 3175 "Lab1/lab2.ml" 107 3145 3176
+type(
+  int
+)
+"Lab1/lab2.ml" 107 3145 3170 "Lab1/lab2.ml" 107 3145 3176
+type(
+  int
+)
+"Lab1/lab2.ml" 107 3145 3177 "Lab1/lab2.ml" 107 3145 3181
+type(
+  int
+)
+ident(
+  int_ref acc3 "Lab1/lab2.ml" 105 3066 3098 "Lab1/lab2.ml" 105 3066 3102
+)
+"Lab1/lab2.ml" 107 3145 3164 "Lab1/lab2.ml" 107 3145 3182
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 108 3184 3192 "Lab1/lab2.ml" 108 3184 3196
+type(
+  int
+)
+ident(
+  int_ref acc1 "Lab1/lab2.ml" 105 3066 3088 "Lab1/lab2.ml" 105 3066 3092
+)
+"Lab1/lab2.ml" 108 3184 3197 "Lab1/lab2.ml" 108 3184 3201
+type(
+  int
+)
+ident(
+  int_ref acc2 "Lab1/lab2.ml" 105 3066 3093 "Lab1/lab2.ml" 105 3066 3097
+)
+"Lab1/lab2.ml" 108 3184 3202 "Lab1/lab2.ml" 108 3184 3206
+type(
+  int
+)
+ident(
+  int_ref acc3 "Lab1/lab2.ml" 105 3066 3098 "Lab1/lab2.ml" 105 3066 3102
+)
+"Lab1/lab2.ml" 108 3184 3206 "Lab1/lab2.ml" 108 3184 3207
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 108 3184 3207 "Lab1/lab2.ml" 108 3184 3208
+type(
+  int
+)
+"Lab1/lab2.ml" 108 3184 3202 "Lab1/lab2.ml" 108 3184 3208
+type(
+  int
+)
+"Lab1/lab2.ml" 108 3184 3191 "Lab1/lab2.ml" 108 3184 3209
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 107 3145 3152 "Lab1/lab2.ml" 108 3184 3209
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 106 3111 3113 "Lab1/lab2.ml" 108 3184 3209
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 105 3066 3082 "Lab1/lab2.ml" 108 3184 3210
+type(
+  int * int * int -> int -> int * int * int
+)
+"Lab1/lab2.ml" 108 3184 3212 "Lab1/lab2.ml" 108 3184 3213
+type(
+  int
+)
+"Lab1/lab2.ml" 108 3184 3214 "Lab1/lab2.ml" 108 3184 3215
+type(
+  int
+)
+"Lab1/lab2.ml" 108 3184 3216 "Lab1/lab2.ml" 108 3184 3217
+type(
+  int
+)
+"Lab1/lab2.ml" 108 3184 3211 "Lab1/lab2.ml" 108 3184 3218
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 108 3184 3219 "Lab1/lab2.ml" 108 3184 3221
+type(
+  int list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 104 3013 3030 "Lab1/lab2.ml" 104 3013 3032
+)
+"Lab1/lab2.ml" 105 3066 3067 "Lab1/lab2.ml" 108 3184 3221
+type(
+  int * int * int
+)
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 110 3227 3231 "Lab1/lab2.ml" 110 3227 3242
+type(
+  int list -> int * int * int
+)
+ident(
+  def count_nums2 "Lab1/lab2.ml" 129 3704 3704 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 110 3227 3244 "Lab1/lab2.ml" 110 3227 3246
+type(
+  int list
+)
+ident(
+  def ys "Lab1/lab2.ml" 110 3227 3257 "Lab1/lab2.ml" 114 3458 3475
+)
+"Lab1/lab2.ml" 111 3280 3285 "Lab1/lab2.ml" 111 3280 3289
+type(
+  int
+)
+ident(
+  def acc1 "Lab1/lab2.ml" 112 3339 3340 "Lab1/lab2.ml" 114 3458 3475
+)
+"Lab1/lab2.ml" 111 3280 3292 "Lab1/lab2.ml" 111 3280 3303
+type(
+  int list -> int
+)
+ident(
+  ext_ref List.length
+)
+"Lab1/lab2.ml" 111 3280 3305 "Lab1/lab2.ml" 111 3280 3316
+type(
+  (int -> bool) -> int list -> int list
+)
+ident(
+  ext_ref List.filter
+)
+"Lab1/lab2.ml" 111 3280 3321 "Lab1/lab2.ml" 111 3280 3322
+type(
+  int
+)
+ident(
+  def y "Lab1/lab2.ml" 111 3280 3326 "Lab1/lab2.ml" 111 3280 3329
+)
+"Lab1/lab2.ml" 111 3280 3326 "Lab1/lab2.ml" 111 3280 3327
+type(
+  int
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 111 3280 3321 "Lab1/lab2.ml" 111 3280 3322
+)
+"Lab1/lab2.ml" 111 3280 3327 "Lab1/lab2.ml" 111 3280 3328
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Lab1/lab2.ml" 111 3280 3328 "Lab1/lab2.ml" 111 3280 3329
+type(
+  int
+)
+"Lab1/lab2.ml" 111 3280 3326 "Lab1/lab2.ml" 111 3280 3329
+type(
+  bool
+)
+"Lab1/lab2.ml" 111 3280 3316 "Lab1/lab2.ml" 111 3280 3330
+type(
+  int -> bool
+)
+"Lab1/lab2.ml" 111 3280 3331 "Lab1/lab2.ml" 111 3280 3333
+type(
+  int list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 110 3227 3244 "Lab1/lab2.ml" 110 3227 3246
+)
+"Lab1/lab2.ml" 111 3280 3304 "Lab1/lab2.ml" 111 3280 3334
+type(
+  int list
+)
+"Lab1/lab2.ml" 111 3280 3292 "Lab1/lab2.ml" 111 3280 3334
+type(
+  int
+)
+"Lab1/lab2.ml" 112 3339 3344 "Lab1/lab2.ml" 112 3339 3348
+type(
+  int
+)
+ident(
+  def acc2 "Lab1/lab2.ml" 113 3398 3399 "Lab1/lab2.ml" 114 3458 3475
+)
+"Lab1/lab2.ml" 112 3339 3351 "Lab1/lab2.ml" 112 3339 3362
+type(
+  int list -> int
+)
+ident(
+  ext_ref List.length
+)
+"Lab1/lab2.ml" 112 3339 3364 "Lab1/lab2.ml" 112 3339 3375
+type(
+  (int -> bool) -> int list -> int list
+)
+ident(
+  ext_ref List.filter
+)
+"Lab1/lab2.ml" 112 3339 3380 "Lab1/lab2.ml" 112 3339 3381
+type(
+  int
+)
+ident(
+  def y "Lab1/lab2.ml" 112 3339 3385 "Lab1/lab2.ml" 112 3339 3388
+)
+"Lab1/lab2.ml" 112 3339 3385 "Lab1/lab2.ml" 112 3339 3386
+type(
+  int
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 112 3339 3380 "Lab1/lab2.ml" 112 3339 3381
+)
+"Lab1/lab2.ml" 112 3339 3386 "Lab1/lab2.ml" 112 3339 3387
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab1/lab2.ml" 112 3339 3387 "Lab1/lab2.ml" 112 3339 3388
+type(
+  int
+)
+"Lab1/lab2.ml" 112 3339 3385 "Lab1/lab2.ml" 112 3339 3388
+type(
+  bool
+)
+"Lab1/lab2.ml" 112 3339 3375 "Lab1/lab2.ml" 112 3339 3389
+type(
+  int -> bool
+)
+"Lab1/lab2.ml" 112 3339 3390 "Lab1/lab2.ml" 112 3339 3392
+type(
+  int list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 110 3227 3244 "Lab1/lab2.ml" 110 3227 3246
+)
+"Lab1/lab2.ml" 112 3339 3363 "Lab1/lab2.ml" 112 3339 3393
+type(
+  int list
+)
+"Lab1/lab2.ml" 112 3339 3351 "Lab1/lab2.ml" 112 3339 3393
+type(
+  int
+)
+"Lab1/lab2.ml" 113 3398 3403 "Lab1/lab2.ml" 113 3398 3407
+type(
+  int
+)
+ident(
+  def acc3 "Lab1/lab2.ml" 114 3458 3459 "Lab1/lab2.ml" 114 3458 3475
+)
+"Lab1/lab2.ml" 113 3398 3410 "Lab1/lab2.ml" 113 3398 3421
+type(
+  int list -> int
+)
+ident(
+  ext_ref List.length
+)
+"Lab1/lab2.ml" 113 3398 3423 "Lab1/lab2.ml" 113 3398 3434
+type(
+  (int -> bool) -> int list -> int list
+)
+ident(
+  ext_ref List.filter
+)
+"Lab1/lab2.ml" 113 3398 3439 "Lab1/lab2.ml" 113 3398 3440
+type(
+  int
+)
+ident(
+  def y "Lab1/lab2.ml" 113 3398 3444 "Lab1/lab2.ml" 113 3398 3448
+)
+"Lab1/lab2.ml" 113 3398 3444 "Lab1/lab2.ml" 113 3398 3445
+type(
+  int
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 113 3398 3439 "Lab1/lab2.ml" 113 3398 3440
+)
+"Lab1/lab2.ml" 113 3398 3445 "Lab1/lab2.ml" 113 3398 3447
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( == )
+)
+"Lab1/lab2.ml" 113 3398 3447 "Lab1/lab2.ml" 113 3398 3448
+type(
+  int
+)
+"Lab1/lab2.ml" 113 3398 3444 "Lab1/lab2.ml" 113 3398 3448
+type(
+  bool
+)
+"Lab1/lab2.ml" 113 3398 3434 "Lab1/lab2.ml" 113 3398 3449
+type(
+  int -> bool
+)
+"Lab1/lab2.ml" 113 3398 3450 "Lab1/lab2.ml" 113 3398 3452
+type(
+  int list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 110 3227 3244 "Lab1/lab2.ml" 110 3227 3246
+)
+"Lab1/lab2.ml" 113 3398 3422 "Lab1/lab2.ml" 113 3398 3453
+type(
+  int list
+)
+"Lab1/lab2.ml" 113 3398 3410 "Lab1/lab2.ml" 113 3398 3453
+type(
+  int
+)
+"Lab1/lab2.ml" 114 3458 3460 "Lab1/lab2.ml" 114 3458 3464
+type(
+  int
+)
+ident(
+  int_ref acc1 "Lab1/lab2.ml" 111 3280 3285 "Lab1/lab2.ml" 111 3280 3289
+)
+"Lab1/lab2.ml" 114 3458 3465 "Lab1/lab2.ml" 114 3458 3469
+type(
+  int
+)
+ident(
+  int_ref acc2 "Lab1/lab2.ml" 112 3339 3344 "Lab1/lab2.ml" 112 3339 3348
+)
+"Lab1/lab2.ml" 114 3458 3470 "Lab1/lab2.ml" 114 3458 3474
+type(
+  int
+)
+ident(
+  int_ref acc3 "Lab1/lab2.ml" 113 3398 3403 "Lab1/lab2.ml" 113 3398 3407
+)
+"Lab1/lab2.ml" 114 3458 3459 "Lab1/lab2.ml" 114 3458 3475
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 113 3398 3399 "Lab1/lab2.ml" 114 3458 3475
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 112 3339 3340 "Lab1/lab2.ml" 114 3458 3475
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 111 3280 3281 "Lab1/lab2.ml" 114 3458 3475
+type(
+  int * int * int
+)
+type(
+  int * int * int
+)
+"Lab1/lab2.ml" 133 3781 3785 "Lab1/lab2.ml" 133 3781 3787
+type(
+  int tree
+)
+ident(
+  def t1 "Lab1/lab2.ml" 134 3817 3817 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 133 3781 3796 "Lab1/lab2.ml" 133 3781 3797
+type(
+  int
+)
+"Lab1/lab2.ml" 133 3781 3803 "Lab1/lab2.ml" 133 3781 3804
+type(
+  int
+)
+"Lab1/lab2.ml" 133 3781 3798 "Lab1/lab2.ml" 133 3781 3804
+type(
+  int tree
+)
+"Lab1/lab2.ml" 133 3781 3811 "Lab1/lab2.ml" 133 3781 3812
+type(
+  int
+)
+"Lab1/lab2.ml" 133 3781 3806 "Lab1/lab2.ml" 133 3781 3812
+type(
+  int tree
+)
+"Lab1/lab2.ml" 133 3781 3790 "Lab1/lab2.ml" 133 3781 3813
+type(
+  int tree
+)
+"Lab1/lab2.ml" 134 3817 3821 "Lab1/lab2.ml" 134 3817 3823
+type(
+  int tree
+)
+ident(
+  def t2 "Lab1/lab2.ml" 135 3848 3848 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 134 3817 3832 "Lab1/lab2.ml" 134 3817 3833
+type(
+  int
+)
+"Lab1/lab2.ml" 134 3817 3834 "Lab1/lab2.ml" 134 3817 3836
+type(
+  int tree
+)
+ident(
+  int_ref t1 "Lab1/lab2.ml" 133 3781 3785 "Lab1/lab2.ml" 133 3781 3787
+)
+"Lab1/lab2.ml" 134 3817 3842 "Lab1/lab2.ml" 134 3817 3843
+type(
+  int
+)
+"Lab1/lab2.ml" 134 3817 3837 "Lab1/lab2.ml" 134 3817 3843
+type(
+  int tree
+)
+"Lab1/lab2.ml" 134 3817 3826 "Lab1/lab2.ml" 134 3817 3844
+type(
+  int tree
+)
+"Lab1/lab2.ml" 135 3848 3852 "Lab1/lab2.ml" 135 3848 3854
+type(
+  int tree
+)
+ident(
+  def t3 "Lab1/lab2.ml" 138 3901 3901 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 135 3848 3863 "Lab1/lab2.ml" 135 3848 3864
+type(
+  int
+)
+"Lab1/lab2.ml" 135 3848 3865 "Lab1/lab2.ml" 135 3848 3867
+type(
+  int tree
+)
+ident(
+  int_ref t2 "Lab1/lab2.ml" 134 3817 3821 "Lab1/lab2.ml" 134 3817 3823
+)
+"Lab1/lab2.ml" 135 3848 3873 "Lab1/lab2.ml" 135 3848 3874
+type(
+  int
+)
+"Lab1/lab2.ml" 135 3848 3868 "Lab1/lab2.ml" 135 3848 3874
+type(
+  int tree
+)
+"Lab1/lab2.ml" 135 3848 3857 "Lab1/lab2.ml" 135 3848 3875
+type(
+  int tree
+)
+"Lab1/lab2.ml" 138 3901 3909 "Lab1/lab2.ml" 138 3901 3917
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+ident(
+  def map_tree "Lab1/lab2.ml" 138 3901 3901 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 138 3901 3919 "Lab1/lab2.ml" 138 3901 3920
+type(
+  'a -> 'b
+)
+ident(
+  def f "Lab1/lab2.ml" 138 3901 3931 "Lab1/lab2.ml" 141 4000 4066
+)
+"Lab1/lab2.ml" 138 3901 3932 "Lab1/lab2.ml" 138 3901 3933
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 138 3901 3943 "Lab1/lab2.ml" 141 4000 4066
+)
+"Lab1/lab2.ml" 139 3956 3964 "Lab1/lab2.ml" 139 3956 3965
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 138 3901 3932 "Lab1/lab2.ml" 138 3901 3933
+)
+"Lab1/lab2.ml" 140 3972 3983 "Lab1/lab2.ml" 140 3972 3984
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 140 3972 3988 "Lab1/lab2.ml" 140 3972 3998
+)
+"Lab1/lab2.ml" 140 3972 3978 "Lab1/lab2.ml" 140 3972 3984
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 140 3972 3994 "Lab1/lab2.ml" 140 3972 3995
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 138 3901 3919 "Lab1/lab2.ml" 138 3901 3920
+)
+"Lab1/lab2.ml" 140 3972 3996 "Lab1/lab2.ml" 140 3972 3997
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 140 3972 3983 "Lab1/lab2.ml" 140 3972 3984
+)
+"Lab1/lab2.ml" 140 3972 3993 "Lab1/lab2.ml" 140 3972 3998
+type(
+  'b
+)
+"Lab1/lab2.ml" 140 3972 3988 "Lab1/lab2.ml" 140 3972 3998
+type(
+  'b tree
+)
+"Lab1/lab2.ml" 141 4000 4012 "Lab1/lab2.ml" 141 4000 4013
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 141 4000 4024 "Lab1/lab2.ml" 141 4000 4066
+)
+"Lab1/lab2.ml" 141 4000 4014 "Lab1/lab2.ml" 141 4000 4016
+type(
+  'a tree
+)
+ident(
+  def lt "Lab1/lab2.ml" 141 4000 4024 "Lab1/lab2.ml" 141 4000 4066
+)
+"Lab1/lab2.ml" 141 4000 4017 "Lab1/lab2.ml" 141 4000 4019
+type(
+  'a tree
+)
+ident(
+  def rt "Lab1/lab2.ml" 141 4000 4024 "Lab1/lab2.ml" 141 4000 4066
+)
+"Lab1/lab2.ml" 141 4000 4006 "Lab1/lab2.ml" 141 4000 4020
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 141 4000 4030 "Lab1/lab2.ml" 141 4000 4031
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 138 3901 3919 "Lab1/lab2.ml" 138 3901 3920
+)
+"Lab1/lab2.ml" 141 4000 4032 "Lab1/lab2.ml" 141 4000 4033
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 141 4000 4012 "Lab1/lab2.ml" 141 4000 4013
+)
+"Lab1/lab2.ml" 141 4000 4030 "Lab1/lab2.ml" 141 4000 4033
+type(
+  'b
+)
+"Lab1/lab2.ml" 141 4000 4035 "Lab1/lab2.ml" 141 4000 4043
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+ident(
+  int_ref map_tree "Lab1/lab2.ml" 138 3901 3909 "Lab1/lab2.ml" 138 3901 3917
+)
+"Lab1/lab2.ml" 141 4000 4044 "Lab1/lab2.ml" 141 4000 4045
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 138 3901 3919 "Lab1/lab2.ml" 138 3901 3920
+)
+"Lab1/lab2.ml" 141 4000 4046 "Lab1/lab2.ml" 141 4000 4048
+type(
+  'a tree
+)
+ident(
+  int_ref lt "Lab1/lab2.ml" 141 4000 4014 "Lab1/lab2.ml" 141 4000 4016
+)
+"Lab1/lab2.ml" 141 4000 4034 "Lab1/lab2.ml" 141 4000 4049
+type(
+  'b tree
+)
+"Lab1/lab2.ml" 141 4000 4051 "Lab1/lab2.ml" 141 4000 4059
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+ident(
+  int_ref map_tree "Lab1/lab2.ml" 138 3901 3909 "Lab1/lab2.ml" 138 3901 3917
+)
+"Lab1/lab2.ml" 141 4000 4060 "Lab1/lab2.ml" 141 4000 4061
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 138 3901 3919 "Lab1/lab2.ml" 138 3901 3920
+)
+"Lab1/lab2.ml" 141 4000 4062 "Lab1/lab2.ml" 141 4000 4064
+type(
+  'a tree
+)
+ident(
+  int_ref rt "Lab1/lab2.ml" 141 4000 4017 "Lab1/lab2.ml" 141 4000 4019
+)
+"Lab1/lab2.ml" 141 4000 4050 "Lab1/lab2.ml" 141 4000 4065
+type(
+  'b tree
+)
+"Lab1/lab2.ml" 141 4000 4024 "Lab1/lab2.ml" 141 4000 4066
+type(
+  'b tree
+)
+"Lab1/lab2.ml" 139 3956 3958 "Lab1/lab2.ml" 141 4000 4066
+type(
+  'b tree
+)
+type(
+  'b tree
+)
+"Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+type(
+  ('a -> 'b) -> ('a -> 'b -> 'b -> 'b) -> 'a tree -> 'b
+)
+ident(
+  def fold_tree "Lab1/lab2.ml" 161 4521 4521 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 143 4070 4085 "Lab1/lab2.ml" 143 4070 4087
+type(
+  'a -> 'b
+)
+ident(
+  def f1 "Lab1/lab2.ml" 143 4070 4096 "Lab1/lab2.ml" 148 4248 4258
+)
+"Lab1/lab2.ml" 143 4070 4097 "Lab1/lab2.ml" 143 4070 4099
+type(
+  'a -> 'b -> 'b -> 'b
+)
+ident(
+  def f2 "Lab1/lab2.ml" 143 4070 4116 "Lab1/lab2.ml" 148 4248 4258
+)
+"Lab1/lab2.ml" 143 4070 4117 "Lab1/lab2.ml" 143 4070 4118
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 143 4070 4128 "Lab1/lab2.ml" 148 4248 4258
+)
+"Lab1/lab2.ml" 144 4136 4146 "Lab1/lab2.ml" 144 4136 4149
+type(
+  'a tree -> 'b
+)
+ident(
+  def aux "Lab1/lab2.ml" 144 4136 4138 "Lab1/lab2.ml" 148 4248 4258
+)
+"Lab1/lab2.ml" 144 4136 4150 "Lab1/lab2.ml" 144 4136 4151
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 145 4155 4159 "Lab1/lab2.ml" 147 4197 4245
+)
+"Lab1/lab2.ml" 145 4155 4165 "Lab1/lab2.ml" 145 4155 4166
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 144 4136 4150 "Lab1/lab2.ml" 144 4136 4151
+)
+"Lab1/lab2.ml" 146 4173 4186 "Lab1/lab2.ml" 146 4173 4187
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 146 4173 4191 "Lab1/lab2.ml" 146 4173 4195
+)
+"Lab1/lab2.ml" 146 4173 4181 "Lab1/lab2.ml" 146 4173 4187
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 146 4173 4191 "Lab1/lab2.ml" 146 4173 4193
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f1 "Lab1/lab2.ml" 143 4070 4085 "Lab1/lab2.ml" 143 4070 4087
+)
+"Lab1/lab2.ml" 146 4173 4194 "Lab1/lab2.ml" 146 4173 4195
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 146 4173 4186 "Lab1/lab2.ml" 146 4173 4187
+)
+"Lab1/lab2.ml" 146 4173 4191 "Lab1/lab2.ml" 146 4173 4195
+type(
+  'b
+)
+"Lab1/lab2.ml" 147 4197 4211 "Lab1/lab2.ml" 147 4197 4212
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 147 4197 4223 "Lab1/lab2.ml" 147 4197 4245
+)
+"Lab1/lab2.ml" 147 4197 4213 "Lab1/lab2.ml" 147 4197 4215
+type(
+  'a tree
+)
+ident(
+  def lt "Lab1/lab2.ml" 147 4197 4223 "Lab1/lab2.ml" 147 4197 4245
+)
+"Lab1/lab2.ml" 147 4197 4216 "Lab1/lab2.ml" 147 4197 4218
+type(
+  'a tree
+)
+ident(
+  def rt "Lab1/lab2.ml" 147 4197 4223 "Lab1/lab2.ml" 147 4197 4245
+)
+"Lab1/lab2.ml" 147 4197 4205 "Lab1/lab2.ml" 147 4197 4219
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 147 4197 4223 "Lab1/lab2.ml" 147 4197 4225
+type(
+  'a -> 'b -> 'b -> 'b
+)
+ident(
+  int_ref f2 "Lab1/lab2.ml" 143 4070 4097 "Lab1/lab2.ml" 143 4070 4099
+)
+"Lab1/lab2.ml" 147 4197 4226 "Lab1/lab2.ml" 147 4197 4227
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 147 4197 4211 "Lab1/lab2.ml" 147 4197 4212
+)
+"Lab1/lab2.ml" 147 4197 4229 "Lab1/lab2.ml" 147 4197 4232
+type(
+  'a tree -> 'b
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 144 4136 4146 "Lab1/lab2.ml" 144 4136 4149
+)
+"Lab1/lab2.ml" 147 4197 4233 "Lab1/lab2.ml" 147 4197 4235
+type(
+  'a tree
+)
+ident(
+  int_ref lt "Lab1/lab2.ml" 147 4197 4213 "Lab1/lab2.ml" 147 4197 4215
+)
+"Lab1/lab2.ml" 147 4197 4228 "Lab1/lab2.ml" 147 4197 4236
+type(
+  'b
+)
+"Lab1/lab2.ml" 147 4197 4238 "Lab1/lab2.ml" 147 4197 4241
+type(
+  'a tree -> 'b
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 144 4136 4146 "Lab1/lab2.ml" 144 4136 4149
+)
+"Lab1/lab2.ml" 147 4197 4242 "Lab1/lab2.ml" 147 4197 4244
+type(
+  'a tree
+)
+ident(
+  int_ref rt "Lab1/lab2.ml" 147 4197 4216 "Lab1/lab2.ml" 147 4197 4218
+)
+"Lab1/lab2.ml" 147 4197 4237 "Lab1/lab2.ml" 147 4197 4245
+type(
+  'b
+)
+"Lab1/lab2.ml" 147 4197 4223 "Lab1/lab2.ml" 147 4197 4245
+type(
+  'b
+)
+"Lab1/lab2.ml" 145 4155 4159 "Lab1/lab2.ml" 147 4197 4245
+type(
+  'b
+)
+"Lab1/lab2.ml" 148 4248 4253 "Lab1/lab2.ml" 148 4248 4256
+type(
+  'a tree -> 'b
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 144 4136 4146 "Lab1/lab2.ml" 144 4136 4149
+)
+"Lab1/lab2.ml" 148 4248 4257 "Lab1/lab2.ml" 148 4248 4258
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 143 4070 4117 "Lab1/lab2.ml" 143 4070 4118
+)
+"Lab1/lab2.ml" 148 4248 4253 "Lab1/lab2.ml" 148 4248 4258
+type(
+  'b
+)
+"Lab1/lab2.ml" 144 4136 4138 "Lab1/lab2.ml" 148 4248 4258
+type(
+  'b
+)
+type(
+  'b
+)
+"Lab1/lab2.ml" 161 4521 4525 "Lab1/lab2.ml" 161 4521 4530
+type(
+  int tree -> int -> int tree
+)
+ident(
+  def add_n "Lab1/lab2.ml" 179 4981 4981 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 161 4521 4532 "Lab1/lab2.ml" 161 4521 4533
+type(
+  int tree
+)
+ident(
+  def t "Lab1/lab2.ml" 161 4521 4544 "Lab1/lab2.ml" 166 4648 4685
+)
+"Lab1/lab2.ml" 161 4521 4545 "Lab1/lab2.ml" 161 4521 4546
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 161 4521 4552 "Lab1/lab2.ml" 166 4648 4685
+)
+"Lab1/lab2.ml" 162 4567 4576 "Lab1/lab2.ml" 162 4567 4579
+type(
+  int tree -> int -> int tree
+)
+ident(
+  def aux "Lab1/lab2.ml" 162 4567 4568 "Lab1/lab2.ml" 166 4648 4685
+)
+"Lab1/lab2.ml" 162 4567 4580 "Lab1/lab2.ml" 162 4567 4582
+type(
+  int tree
+)
+ident(
+  def t1 "Lab1/lab2.ml" 162 4567 4583 "Lab1/lab2.ml" 166 4648 4674
+)
+"Lab1/lab2.ml" 162 4567 4583 "Lab1/lab2.ml" 162 4567 4584
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 163 4588 4590 "Lab1/lab2.ml" 166 4648 4674
+)
+"Lab1/lab2.ml" 163 4588 4590 "Lab1/lab2.ml" 163 4588 4599
+type(
+  (int -> int tree) ->
+  (int -> int tree -> int tree -> int tree) -> int tree -> int tree
+)
+ident(
+  int_ref fold_tree "Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+)
+"Lab1/lab2.ml" 164 4601 4609 "Lab1/lab2.ml" 164 4601 4610
+type(
+  int
+)
+ident(
+  def a "Lab1/lab2.ml" 164 4601 4615 "Lab1/lab2.ml" 164 4601 4625
+)
+"Lab1/lab2.ml" 164 4601 4621 "Lab1/lab2.ml" 164 4601 4622
+type(
+  int
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 164 4601 4609 "Lab1/lab2.ml" 164 4601 4610
+)
+"Lab1/lab2.ml" 164 4601 4622 "Lab1/lab2.ml" 164 4601 4623
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 164 4601 4623 "Lab1/lab2.ml" 164 4601 4624
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 162 4567 4583 "Lab1/lab2.ml" 162 4567 4584
+)
+"Lab1/lab2.ml" 164 4601 4620 "Lab1/lab2.ml" 164 4601 4625
+type(
+  int
+)
+"Lab1/lab2.ml" 164 4601 4615 "Lab1/lab2.ml" 164 4601 4625
+type(
+  int tree
+)
+"Lab1/lab2.ml" 164 4601 4604 "Lab1/lab2.ml" 164 4601 4626
+type(
+  int -> int tree
+)
+"Lab1/lab2.ml" 165 4628 4636 "Lab1/lab2.ml" 165 4628 4637
+type(
+  int
+)
+ident(
+  def a "Lab1/lab2.ml" 165 4628 4638 "Lab1/lab2.ml" 166 4648 4670
+)
+"Lab1/lab2.ml" 165 4628 4638 "Lab1/lab2.ml" 165 4628 4640
+type(
+  int tree
+)
+ident(
+  def tl "Lab1/lab2.ml" 165 4628 4641 "Lab1/lab2.ml" 166 4648 4670
+)
+"Lab1/lab2.ml" 165 4628 4641 "Lab1/lab2.ml" 165 4628 4643
+type(
+  int tree
+)
+ident(
+  def tr "Lab1/lab2.ml" 166 4648 4652 "Lab1/lab2.ml" 166 4648 4670
+)
+"Lab1/lab2.ml" 166 4648 4657 "Lab1/lab2.ml" 166 4648 4658
+type(
+  int
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 165 4628 4636 "Lab1/lab2.ml" 165 4628 4637
+)
+"Lab1/lab2.ml" 166 4648 4658 "Lab1/lab2.ml" 166 4648 4659
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 166 4648 4659 "Lab1/lab2.ml" 166 4648 4660
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 162 4567 4583 "Lab1/lab2.ml" 162 4567 4584
+)
+"Lab1/lab2.ml" 166 4648 4657 "Lab1/lab2.ml" 166 4648 4660
+type(
+  int
+)
+"Lab1/lab2.ml" 166 4648 4662 "Lab1/lab2.ml" 166 4648 4664
+type(
+  int tree
+)
+ident(
+  int_ref tl "Lab1/lab2.ml" 165 4628 4638 "Lab1/lab2.ml" 165 4628 4640
+)
+"Lab1/lab2.ml" 166 4648 4666 "Lab1/lab2.ml" 166 4648 4668
+type(
+  int tree
+)
+ident(
+  int_ref tr "Lab1/lab2.ml" 165 4628 4641 "Lab1/lab2.ml" 165 4628 4643
+)
+"Lab1/lab2.ml" 166 4648 4652 "Lab1/lab2.ml" 166 4648 4670
+type(
+  int tree
+)
+"Lab1/lab2.ml" 165 4628 4631 "Lab1/lab2.ml" 166 4648 4671
+type(
+  int -> int tree -> int tree -> int tree
+)
+"Lab1/lab2.ml" 166 4648 4672 "Lab1/lab2.ml" 166 4648 4674
+type(
+  int tree
+)
+ident(
+  int_ref t1 "Lab1/lab2.ml" 162 4567 4580 "Lab1/lab2.ml" 162 4567 4582
+)
+"Lab1/lab2.ml" 163 4588 4590 "Lab1/lab2.ml" 166 4648 4674
+type(
+  int tree
+)
+"Lab1/lab2.ml" 166 4648 4678 "Lab1/lab2.ml" 166 4648 4681
+type(
+  int tree -> int -> int tree
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 162 4567 4576 "Lab1/lab2.ml" 162 4567 4579
+)
+"Lab1/lab2.ml" 166 4648 4682 "Lab1/lab2.ml" 166 4648 4683
+type(
+  int tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 161 4521 4532 "Lab1/lab2.ml" 161 4521 4533
+)
+"Lab1/lab2.ml" 166 4648 4684 "Lab1/lab2.ml" 166 4648 4685
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 161 4521 4545 "Lab1/lab2.ml" 161 4521 4546
+)
+"Lab1/lab2.ml" 166 4648 4678 "Lab1/lab2.ml" 166 4648 4685
+type(
+  int tree
+)
+"Lab1/lab2.ml" 162 4567 4568 "Lab1/lab2.ml" 166 4648 4685
+type(
+  int tree
+)
+type(
+  int tree
+)
+"Lab1/lab2.ml" 179 4981 4985 "Lab1/lab2.ml" 179 4981 4995
+type(
+  'a tree -> 'a
+)
+ident(
+  def right_most "Lab1/lab2.ml" 195 5366 5366 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 179 4981 4997 "Lab1/lab2.ml" 179 4981 4998
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 179 4981 5008 "Lab1/lab2.ml" 183 5069 5073
+)
+"Lab1/lab2.ml" 180 5017 5019 "Lab1/lab2.ml" 180 5017 5028
+type(
+  ('a -> 'a) -> ('a -> 'a -> 'a -> 'a) -> 'a tree -> 'a
+)
+ident(
+  int_ref fold_tree "Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+)
+"Lab1/lab2.ml" 181 5030 5038 "Lab1/lab2.ml" 181 5030 5039
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 181 5030 5043 "Lab1/lab2.ml" 181 5030 5044
+)
+"Lab1/lab2.ml" 181 5030 5043 "Lab1/lab2.ml" 181 5030 5044
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 181 5030 5038 "Lab1/lab2.ml" 181 5030 5039
+)
+"Lab1/lab2.ml" 181 5030 5033 "Lab1/lab2.ml" 181 5030 5045
+type(
+  'a -> 'a
+)
+"Lab1/lab2.ml" 182 5046 5054 "Lab1/lab2.ml" 182 5046 5055
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 182 5046 5056 "Lab1/lab2.ml" 182 5046 5067
+)
+"Lab1/lab2.ml" 182 5046 5056 "Lab1/lab2.ml" 182 5046 5058
+type(
+  'a
+)
+ident(
+  def r1 "Lab1/lab2.ml" 182 5046 5059 "Lab1/lab2.ml" 182 5046 5067
+)
+"Lab1/lab2.ml" 182 5046 5059 "Lab1/lab2.ml" 182 5046 5061
+type(
+  'a
+)
+ident(
+  def rr "Lab1/lab2.ml" 182 5046 5065 "Lab1/lab2.ml" 182 5046 5067
+)
+"Lab1/lab2.ml" 182 5046 5065 "Lab1/lab2.ml" 182 5046 5067
+type(
+  'a
+)
+ident(
+  int_ref rr "Lab1/lab2.ml" 182 5046 5059 "Lab1/lab2.ml" 182 5046 5061
+)
+"Lab1/lab2.ml" 182 5046 5049 "Lab1/lab2.ml" 182 5046 5068
+type(
+  'a -> 'a -> 'a -> 'a
+)
+"Lab1/lab2.ml" 183 5069 5072 "Lab1/lab2.ml" 183 5069 5073
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 179 4981 4997 "Lab1/lab2.ml" 179 4981 4998
+)
+"Lab1/lab2.ml" 180 5017 5019 "Lab1/lab2.ml" 183 5069 5073
+type(
+  'a
+)
+type(
+  'a
+)
+"Lab1/lab2.ml" 195 5366 5370 "Lab1/lab2.ml" 195 5366 5381
+type(
+  'a tree -> 'a tree
+)
+ident(
+  def mirror_tree "Lab1/lab2.ml" 202 5486 5486 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 195 5366 5383 "Lab1/lab2.ml" 195 5366 5384
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 196 5399 5401 "Lab1/lab2.ml" 200 5478 5482
+)
+"Lab1/lab2.ml" 196 5399 5401 "Lab1/lab2.ml" 196 5399 5410
+type(
+  ('a -> 'a tree) ->
+  ('a -> 'a tree -> 'a tree -> 'a tree) -> 'a tree -> 'a tree
+)
+ident(
+  int_ref fold_tree "Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+)
+"Lab1/lab2.ml" 197 5412 5420 "Lab1/lab2.ml" 197 5412 5421
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 197 5412 5426 "Lab1/lab2.ml" 197 5412 5434
+)
+"Lab1/lab2.ml" 197 5412 5431 "Lab1/lab2.ml" 197 5412 5434
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 197 5412 5420 "Lab1/lab2.ml" 197 5412 5421
+)
+"Lab1/lab2.ml" 197 5412 5426 "Lab1/lab2.ml" 197 5412 5434
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 197 5412 5415 "Lab1/lab2.ml" 197 5412 5435
+type(
+  'a -> 'a tree
+)
+"Lab1/lab2.ml" 198 5437 5445 "Lab1/lab2.ml" 198 5437 5446
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 198 5437 5447 "Lab1/lab2.ml" 199 5457 5475
+)
+"Lab1/lab2.ml" 198 5437 5447 "Lab1/lab2.ml" 198 5437 5449
+type(
+  'a tree
+)
+ident(
+  def tl "Lab1/lab2.ml" 198 5437 5450 "Lab1/lab2.ml" 199 5457 5475
+)
+"Lab1/lab2.ml" 198 5437 5450 "Lab1/lab2.ml" 198 5437 5452
+type(
+  'a tree
+)
+ident(
+  def tr "Lab1/lab2.ml" 199 5457 5461 "Lab1/lab2.ml" 199 5457 5475
+)
+"Lab1/lab2.ml" 199 5457 5466 "Lab1/lab2.ml" 199 5457 5467
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 198 5437 5445 "Lab1/lab2.ml" 198 5437 5446
+)
+"Lab1/lab2.ml" 199 5457 5469 "Lab1/lab2.ml" 199 5457 5471
+type(
+  'a tree
+)
+ident(
+  int_ref tr "Lab1/lab2.ml" 198 5437 5450 "Lab1/lab2.ml" 198 5437 5452
+)
+"Lab1/lab2.ml" 199 5457 5472 "Lab1/lab2.ml" 199 5457 5474
+type(
+  'a tree
+)
+ident(
+  int_ref tl "Lab1/lab2.ml" 198 5437 5447 "Lab1/lab2.ml" 198 5437 5449
+)
+"Lab1/lab2.ml" 199 5457 5461 "Lab1/lab2.ml" 199 5457 5475
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 198 5437 5440 "Lab1/lab2.ml" 199 5457 5476
+type(
+  'a -> 'a tree -> 'a tree -> 'a tree
+)
+"Lab1/lab2.ml" 200 5478 5481 "Lab1/lab2.ml" 200 5478 5482
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 195 5366 5383 "Lab1/lab2.ml" 195 5366 5384
+)
+"Lab1/lab2.ml" 196 5399 5401 "Lab1/lab2.ml" 200 5478 5482
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 202 5486 5490 "Lab1/lab2.ml" 202 5486 5492
+type(
+  char tree
+)
+ident(
+  def t4 "Lab1/lab2.ml" 217 5965 5965 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 202 5486 5501 "Lab1/lab2.ml" 202 5486 5504
+type(
+  char
+)
+"Lab1/lab2.ml" 202 5486 5510 "Lab1/lab2.ml" 202 5486 5513
+type(
+  char
+)
+"Lab1/lab2.ml" 202 5486 5505 "Lab1/lab2.ml" 202 5486 5513
+type(
+  char tree
+)
+"Lab1/lab2.ml" 202 5486 5520 "Lab1/lab2.ml" 202 5486 5523
+type(
+  char
+)
+"Lab1/lab2.ml" 202 5486 5529 "Lab1/lab2.ml" 202 5486 5532
+type(
+  char
+)
+"Lab1/lab2.ml" 202 5486 5524 "Lab1/lab2.ml" 202 5486 5532
+type(
+  char tree
+)
+"Lab1/lab2.ml" 202 5486 5538 "Lab1/lab2.ml" 202 5486 5541
+type(
+  char
+)
+"Lab1/lab2.ml" 202 5486 5533 "Lab1/lab2.ml" 202 5486 5541
+type(
+  char tree
+)
+"Lab1/lab2.ml" 202 5486 5514 "Lab1/lab2.ml" 202 5486 5542
+type(
+  char tree
+)
+"Lab1/lab2.ml" 202 5486 5495 "Lab1/lab2.ml" 202 5486 5543
+type(
+  char tree
+)
+"Lab1/lab2.ml" 217 5965 5969 "Lab1/lab2.ml" 217 5965 5982
+type(
+  'a tree -> 'a list * ('a list * 'a) tree
+)
+ident(
+  def add_size_temp "Lab1/lab2.ml" 224 6129 6129 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 217 5965 5984 "Lab1/lab2.ml" 217 5965 5985
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 218 5999 6000 "Lab1/lab2.ml" 222 6121 6125
+)
+"Lab1/lab2.ml" 218 5999 6000 "Lab1/lab2.ml" 218 5999 6009
+type(
+  ('a -> 'a list * ('a list * 'a) tree) ->
+  ('a ->
+   'a list * ('a list * 'a) tree ->
+   'a list * ('a list * 'a) tree -> 'a list * ('a list * 'a) tree) ->
+  'a tree -> 'a list * ('a list * 'a) tree
+)
+ident(
+  int_ref fold_tree "Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+)
+"Lab1/lab2.ml" 219 6011 6019 "Lab1/lab2.ml" 219 6011 6020
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 219 6011 6024 "Lab1/lab2.ml" 219 6011 6043
+)
+"Lab1/lab2.ml" 219 6011 6026 "Lab1/lab2.ml" 219 6011 6027
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 219 6011 6019 "Lab1/lab2.ml" 219 6011 6020
+)
+"Lab1/lab2.ml" 219 6011 6025 "Lab1/lab2.ml" 219 6011 6028
+type(
+  'a list
+)
+"Lab1/lab2.ml" 219 6011 6037 "Lab1/lab2.ml" 219 6011 6038
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 219 6011 6019 "Lab1/lab2.ml" 219 6011 6020
+)
+"Lab1/lab2.ml" 219 6011 6036 "Lab1/lab2.ml" 219 6011 6039
+type(
+  'a list
+)
+"Lab1/lab2.ml" 219 6011 6040 "Lab1/lab2.ml" 219 6011 6041
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 219 6011 6019 "Lab1/lab2.ml" 219 6011 6020
+)
+"Lab1/lab2.ml" 219 6011 6035 "Lab1/lab2.ml" 219 6011 6042
+type(
+  'a list * 'a
+)
+"Lab1/lab2.ml" 219 6011 6030 "Lab1/lab2.ml" 219 6011 6042
+type(
+  ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 219 6011 6024 "Lab1/lab2.ml" 219 6011 6043
+type(
+  'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 219 6011 6014 "Lab1/lab2.ml" 219 6011 6044
+type(
+  'a -> 'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 220 6046 6054 "Lab1/lab2.ml" 220 6046 6055
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 220 6046 6056 "Lab1/lab2.ml" 221 6076 6118
+)
+"Lab1/lab2.ml" 220 6046 6057 "Lab1/lab2.ml" 220 6046 6059
+type(
+  'a list
+)
+ident(
+  def ll "Lab1/lab2.ml" 220 6046 6064 "Lab1/lab2.ml" 221 6076 6118
+)
+"Lab1/lab2.ml" 220 6046 6060 "Lab1/lab2.ml" 220 6046 6062
+type(
+  ('a list * 'a) tree
+)
+ident(
+  def tl "Lab1/lab2.ml" 220 6046 6064 "Lab1/lab2.ml" 221 6076 6118
+)
+"Lab1/lab2.ml" 220 6046 6056 "Lab1/lab2.ml" 220 6046 6063
+type(
+  'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 220 6046 6065 "Lab1/lab2.ml" 220 6046 6067
+type(
+  'a list
+)
+ident(
+  def lr "Lab1/lab2.ml" 221 6076 6079 "Lab1/lab2.ml" 221 6076 6118
+)
+"Lab1/lab2.ml" 220 6046 6068 "Lab1/lab2.ml" 220 6046 6070
+type(
+  ('a list * 'a) tree
+)
+ident(
+  def tr "Lab1/lab2.ml" 221 6076 6079 "Lab1/lab2.ml" 221 6076 6118
+)
+"Lab1/lab2.ml" 220 6046 6064 "Lab1/lab2.ml" 220 6046 6071
+type(
+  'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 221 6076 6080 "Lab1/lab2.ml" 221 6076 6082
+type(
+  'a list
+)
+ident(
+  int_ref ll "Lab1/lab2.ml" 220 6046 6057 "Lab1/lab2.ml" 220 6046 6059
+)
+"Lab1/lab2.ml" 221 6076 6082 "Lab1/lab2.ml" 221 6076 6083
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab1/lab2.ml" 221 6076 6084 "Lab1/lab2.ml" 221 6076 6085
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 220 6046 6054 "Lab1/lab2.ml" 220 6046 6055
+)
+"Lab1/lab2.ml" 221 6076 6083 "Lab1/lab2.ml" 221 6076 6086
+type(
+  'a list
+)
+"Lab1/lab2.ml" 221 6076 6086 "Lab1/lab2.ml" 221 6076 6087
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab1/lab2.ml" 221 6076 6087 "Lab1/lab2.ml" 221 6076 6089
+type(
+  'a list
+)
+ident(
+  int_ref lr "Lab1/lab2.ml" 220 6046 6065 "Lab1/lab2.ml" 220 6046 6067
+)
+"Lab1/lab2.ml" 221 6076 6083 "Lab1/lab2.ml" 221 6076 6089
+type(
+  'a list
+)
+"Lab1/lab2.ml" 221 6076 6080 "Lab1/lab2.ml" 221 6076 6089
+type(
+  'a list
+)
+"Lab1/lab2.ml" 221 6076 6097 "Lab1/lab2.ml" 221 6076 6099
+type(
+  'a list
+)
+ident(
+  int_ref ll "Lab1/lab2.ml" 220 6046 6057 "Lab1/lab2.ml" 220 6046 6059
+)
+"Lab1/lab2.ml" 221 6076 6099 "Lab1/lab2.ml" 221 6076 6100
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab1/lab2.ml" 221 6076 6101 "Lab1/lab2.ml" 221 6076 6102
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 220 6046 6054 "Lab1/lab2.ml" 220 6046 6055
+)
+"Lab1/lab2.ml" 221 6076 6100 "Lab1/lab2.ml" 221 6076 6103
+type(
+  'a list
+)
+"Lab1/lab2.ml" 221 6076 6103 "Lab1/lab2.ml" 221 6076 6104
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab1/lab2.ml" 221 6076 6104 "Lab1/lab2.ml" 221 6076 6106
+type(
+  'a list
+)
+ident(
+  int_ref lr "Lab1/lab2.ml" 220 6046 6065 "Lab1/lab2.ml" 220 6046 6067
+)
+"Lab1/lab2.ml" 221 6076 6100 "Lab1/lab2.ml" 221 6076 6106
+type(
+  'a list
+)
+"Lab1/lab2.ml" 221 6076 6097 "Lab1/lab2.ml" 221 6076 6106
+type(
+  'a list
+)
+"Lab1/lab2.ml" 221 6076 6107 "Lab1/lab2.ml" 221 6076 6108
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 220 6046 6054 "Lab1/lab2.ml" 220 6046 6055
+)
+"Lab1/lab2.ml" 221 6076 6096 "Lab1/lab2.ml" 221 6076 6109
+type(
+  'a list * 'a
+)
+"Lab1/lab2.ml" 221 6076 6111 "Lab1/lab2.ml" 221 6076 6113
+type(
+  ('a list * 'a) tree
+)
+ident(
+  int_ref tl "Lab1/lab2.ml" 220 6046 6060 "Lab1/lab2.ml" 220 6046 6062
+)
+"Lab1/lab2.ml" 221 6076 6114 "Lab1/lab2.ml" 221 6076 6116
+type(
+  ('a list * 'a) tree
+)
+ident(
+  int_ref tr "Lab1/lab2.ml" 220 6046 6068 "Lab1/lab2.ml" 220 6046 6070
+)
+"Lab1/lab2.ml" 221 6076 6091 "Lab1/lab2.ml" 221 6076 6117
+type(
+  ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 221 6076 6079 "Lab1/lab2.ml" 221 6076 6118
+type(
+  'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 220 6046 6049 "Lab1/lab2.ml" 221 6076 6119
+type(
+  'a ->
+  'a list * ('a list * 'a) tree ->
+  'a list * ('a list * 'a) tree -> 'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 222 6121 6124 "Lab1/lab2.ml" 222 6121 6125
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 217 5965 5984 "Lab1/lab2.ml" 217 5965 5985
+)
+"Lab1/lab2.ml" 218 5999 6000 "Lab1/lab2.ml" 222 6121 6125
+type(
+  'a list * ('a list * 'a) tree
+)
+"Lab1/lab2.ml" 224 6129 6137 "Lab1/lab2.ml" 224 6129 6145
+type(
+  'a tree -> (int * 'a) tree
+)
+ident(
+  def add_size "Lab1/lab2.ml" 224 6129 6129 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 224 6129 6147 "Lab1/lab2.ml" 224 6129 6148
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 224 6129 6158 "Lab1/lab2.ml" 228 6298 6303
+)
+"Lab1/lab2.ml" 225 6180 6181 "Lab1/lab2.ml" 225 6180 6184
+type(
+  int * (int * 'a) tree -> (int * 'a) tree
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"Lab1/lab2.ml" 225 6180 6186 "Lab1/lab2.ml" 225 6180 6195
+type(
+  ('a -> int * (int * 'a) tree) ->
+  ('a ->
+   int * (int * 'a) tree -> int * (int * 'a) tree -> int * (int * 'a) tree) ->
+  'a tree -> int * (int * 'a) tree
+)
+ident(
+  int_ref fold_tree "Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+)
+"Lab1/lab2.ml" 226 6197 6205 "Lab1/lab2.ml" 226 6197 6206
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 226 6197 6210 "Lab1/lab2.ml" 226 6197 6225
+)
+"Lab1/lab2.ml" 226 6197 6211 "Lab1/lab2.ml" 226 6197 6212
+type(
+  int
+)
+"Lab1/lab2.ml" 226 6197 6220 "Lab1/lab2.ml" 226 6197 6221
+type(
+  int
+)
+"Lab1/lab2.ml" 226 6197 6222 "Lab1/lab2.ml" 226 6197 6223
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 226 6197 6205 "Lab1/lab2.ml" 226 6197 6206
+)
+"Lab1/lab2.ml" 226 6197 6219 "Lab1/lab2.ml" 226 6197 6224
+type(
+  int * 'a
+)
+"Lab1/lab2.ml" 226 6197 6214 "Lab1/lab2.ml" 226 6197 6224
+type(
+  (int * 'a) tree
+)
+"Lab1/lab2.ml" 226 6197 6210 "Lab1/lab2.ml" 226 6197 6225
+type(
+  int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 226 6197 6200 "Lab1/lab2.ml" 226 6197 6226
+type(
+  'a -> int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 227 6228 6236 "Lab1/lab2.ml" 227 6228 6237
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 227 6228 6238 "Lab1/lab2.ml" 227 6228 6295
+)
+"Lab1/lab2.ml" 227 6228 6239 "Lab1/lab2.ml" 227 6228 6241
+type(
+  int
+)
+ident(
+  def ll "Lab1/lab2.ml" 227 6228 6246 "Lab1/lab2.ml" 227 6228 6295
+)
+"Lab1/lab2.ml" 227 6228 6242 "Lab1/lab2.ml" 227 6228 6244
+type(
+  (int * 'a) tree
+)
+ident(
+  def tl "Lab1/lab2.ml" 227 6228 6246 "Lab1/lab2.ml" 227 6228 6295
+)
+"Lab1/lab2.ml" 227 6228 6238 "Lab1/lab2.ml" 227 6228 6245
+type(
+  int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 227 6228 6247 "Lab1/lab2.ml" 227 6228 6249
+type(
+  int
+)
+ident(
+  def lr "Lab1/lab2.ml" 227 6228 6256 "Lab1/lab2.ml" 227 6228 6295
+)
+"Lab1/lab2.ml" 227 6228 6250 "Lab1/lab2.ml" 227 6228 6252
+type(
+  (int * 'a) tree
+)
+ident(
+  def tr "Lab1/lab2.ml" 227 6228 6256 "Lab1/lab2.ml" 227 6228 6295
+)
+"Lab1/lab2.ml" 227 6228 6246 "Lab1/lab2.ml" 227 6228 6253
+type(
+  int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 227 6228 6258 "Lab1/lab2.ml" 227 6228 6260
+type(
+  int
+)
+ident(
+  int_ref ll "Lab1/lab2.ml" 227 6228 6239 "Lab1/lab2.ml" 227 6228 6241
+)
+"Lab1/lab2.ml" 227 6228 6260 "Lab1/lab2.ml" 227 6228 6261
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 227 6228 6261 "Lab1/lab2.ml" 227 6228 6262
+type(
+  int
+)
+"Lab1/lab2.ml" 227 6228 6258 "Lab1/lab2.ml" 227 6228 6262
+type(
+  int
+)
+"Lab1/lab2.ml" 227 6228 6262 "Lab1/lab2.ml" 227 6228 6263
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 227 6228 6263 "Lab1/lab2.ml" 227 6228 6265
+type(
+  int
+)
+ident(
+  int_ref lr "Lab1/lab2.ml" 227 6228 6247 "Lab1/lab2.ml" 227 6228 6249
+)
+"Lab1/lab2.ml" 227 6228 6257 "Lab1/lab2.ml" 227 6228 6266
+type(
+  int
+)
+"Lab1/lab2.ml" 227 6228 6275 "Lab1/lab2.ml" 227 6228 6277
+type(
+  int
+)
+ident(
+  int_ref ll "Lab1/lab2.ml" 227 6228 6239 "Lab1/lab2.ml" 227 6228 6241
+)
+"Lab1/lab2.ml" 227 6228 6277 "Lab1/lab2.ml" 227 6228 6278
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 227 6228 6278 "Lab1/lab2.ml" 227 6228 6279
+type(
+  int
+)
+"Lab1/lab2.ml" 227 6228 6275 "Lab1/lab2.ml" 227 6228 6279
+type(
+  int
+)
+"Lab1/lab2.ml" 227 6228 6279 "Lab1/lab2.ml" 227 6228 6280
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 227 6228 6280 "Lab1/lab2.ml" 227 6228 6282
+type(
+  int
+)
+ident(
+  int_ref lr "Lab1/lab2.ml" 227 6228 6247 "Lab1/lab2.ml" 227 6228 6249
+)
+"Lab1/lab2.ml" 227 6228 6274 "Lab1/lab2.ml" 227 6228 6283
+type(
+  int
+)
+"Lab1/lab2.ml" 227 6228 6284 "Lab1/lab2.ml" 227 6228 6285
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 227 6228 6236 "Lab1/lab2.ml" 227 6228 6237
+)
+"Lab1/lab2.ml" 227 6228 6273 "Lab1/lab2.ml" 227 6228 6286
+type(
+  int * 'a
+)
+"Lab1/lab2.ml" 227 6228 6288 "Lab1/lab2.ml" 227 6228 6290
+type(
+  (int * 'a) tree
+)
+ident(
+  int_ref tl "Lab1/lab2.ml" 227 6228 6242 "Lab1/lab2.ml" 227 6228 6244
+)
+"Lab1/lab2.ml" 227 6228 6291 "Lab1/lab2.ml" 227 6228 6293
+type(
+  (int * 'a) tree
+)
+ident(
+  int_ref tr "Lab1/lab2.ml" 227 6228 6250 "Lab1/lab2.ml" 227 6228 6252
+)
+"Lab1/lab2.ml" 227 6228 6268 "Lab1/lab2.ml" 227 6228 6294
+type(
+  (int * 'a) tree
+)
+"Lab1/lab2.ml" 227 6228 6256 "Lab1/lab2.ml" 227 6228 6295
+type(
+  int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 227 6228 6231 "Lab1/lab2.ml" 227 6228 6296
+type(
+  'a ->
+  int * (int * 'a) tree -> int * (int * 'a) tree -> int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 228 6298 6301 "Lab1/lab2.ml" 228 6298 6302
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 224 6129 6147 "Lab1/lab2.ml" 224 6129 6148
+)
+"Lab1/lab2.ml" 225 6180 6184 "Lab1/lab2.ml" 228 6298 6303
+type(
+  int * (int * 'a) tree
+)
+"Lab1/lab2.ml" 225 6180 6181 "Lab1/lab2.ml" 228 6298 6303
+type(
+  (int * 'a) tree
+)
+type(
+  (int * 'a) tree
+)
+"Lab1/lab2.ml" 247 6814 6818 "Lab1/lab2.ml" 247 6814 6820
+type(
+  int tree
+)
+ident(
+  def t5 "Lab1/lab2.ml" 249 6851 6851 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 247 6814 6828 "Lab1/lab2.ml" 247 6814 6829
+type(
+  int
+)
+"Lab1/lab2.ml" 247 6814 6835 "Lab1/lab2.ml" 247 6814 6836
+type(
+  int
+)
+"Lab1/lab2.ml" 247 6814 6830 "Lab1/lab2.ml" 247 6814 6836
+type(
+  int tree
+)
+"Lab1/lab2.ml" 247 6814 6843 "Lab1/lab2.ml" 247 6814 6844
+type(
+  int
+)
+"Lab1/lab2.ml" 247 6814 6838 "Lab1/lab2.ml" 247 6814 6844
+type(
+  int tree
+)
+"Lab1/lab2.ml" 247 6814 6823 "Lab1/lab2.ml" 247 6814 6845
+type(
+  int tree
+)
+"Lab1/lab2.ml" 249 6851 6855 "Lab1/lab2.ml" 249 6851 6864
+type(
+  'a tree -> bool
+)
+ident(
+  def check_bst "Lab1/lab2.ml" 267 7295 7295 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 249 6851 6865 "Lab1/lab2.ml" 249 6851 6866
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 250 6870 6871 "Lab1/lab2.ml" 254 6977 6982
+)
+"Lab1/lab2.ml" 250 6870 6871 "Lab1/lab2.ml" 250 6870 6874
+type(
+  'a * bool -> bool
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"Lab1/lab2.ml" 250 6870 6875 "Lab1/lab2.ml" 250 6870 6884
+type(
+  ('a -> 'a * bool) ->
+  ('a -> 'a * bool -> 'a * bool -> 'a * bool) -> 'a tree -> 'a * bool
+)
+ident(
+  int_ref fold_tree "Lab1/lab2.ml" 143 4070 4074 "Lab1/lab2.ml" 143 4070 4083
+)
+"Lab1/lab2.ml" 251 6886 6894 "Lab1/lab2.ml" 251 6886 6895
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 251 6886 6899 "Lab1/lab2.ml" 251 6886 6907
+)
+"Lab1/lab2.ml" 251 6886 6900 "Lab1/lab2.ml" 251 6886 6901
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 251 6886 6894 "Lab1/lab2.ml" 251 6886 6895
+)
+"Lab1/lab2.ml" 251 6886 6902 "Lab1/lab2.ml" 251 6886 6906
+type(
+  bool
+)
+"Lab1/lab2.ml" 251 6886 6899 "Lab1/lab2.ml" 251 6886 6907
+type(
+  'a * bool
+)
+"Lab1/lab2.ml" 251 6886 6889 "Lab1/lab2.ml" 251 6886 6908
+type(
+  'a -> 'a * bool
+)
+"Lab1/lab2.ml" 252 6910 6918 "Lab1/lab2.ml" 252 6910 6919
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 252 6910 6920 "Lab1/lab2.ml" 253 6940 6974
+)
+"Lab1/lab2.ml" 252 6910 6921 "Lab1/lab2.ml" 252 6910 6923
+type(
+  'a
+)
+ident(
+  def ll "Lab1/lab2.ml" 252 6910 6928 "Lab1/lab2.ml" 253 6940 6974
+)
+"Lab1/lab2.ml" 252 6910 6924 "Lab1/lab2.ml" 252 6910 6926
+type(
+  bool
+)
+ident(
+  def tl "Lab1/lab2.ml" 252 6910 6928 "Lab1/lab2.ml" 253 6940 6974
+)
+"Lab1/lab2.ml" 252 6910 6920 "Lab1/lab2.ml" 252 6910 6927
+type(
+  'a * bool
+)
+"Lab1/lab2.ml" 252 6910 6929 "Lab1/lab2.ml" 252 6910 6931
+type(
+  'a
+)
+ident(
+  def lr "Lab1/lab2.ml" 253 6940 6943 "Lab1/lab2.ml" 253 6940 6974
+)
+"Lab1/lab2.ml" 252 6910 6932 "Lab1/lab2.ml" 252 6910 6934
+type(
+  bool
+)
+ident(
+  def tr "Lab1/lab2.ml" 253 6940 6943 "Lab1/lab2.ml" 253 6940 6974
+)
+"Lab1/lab2.ml" 252 6910 6928 "Lab1/lab2.ml" 252 6910 6935
+type(
+  'a * bool
+)
+"Lab1/lab2.ml" 253 6940 6944 "Lab1/lab2.ml" 253 6940 6945
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 252 6910 6918 "Lab1/lab2.ml" 252 6910 6919
+)
+"Lab1/lab2.ml" 253 6940 6947 "Lab1/lab2.ml" 253 6940 6949
+type(
+  'a
+)
+ident(
+  int_ref ll "Lab1/lab2.ml" 252 6910 6921 "Lab1/lab2.ml" 252 6910 6923
+)
+"Lab1/lab2.ml" 253 6940 6949 "Lab1/lab2.ml" 253 6940 6950
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab1/lab2.ml" 253 6940 6950 "Lab1/lab2.ml" 253 6940 6951
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 252 6910 6918 "Lab1/lab2.ml" 252 6910 6919
+)
+"Lab1/lab2.ml" 253 6940 6947 "Lab1/lab2.ml" 253 6940 6951
+type(
+  bool
+)
+"Lab1/lab2.ml" 253 6940 6952 "Lab1/lab2.ml" 253 6940 6954
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"Lab1/lab2.ml" 253 6940 6955 "Lab1/lab2.ml" 253 6940 6956
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 252 6910 6918 "Lab1/lab2.ml" 252 6910 6919
+)
+"Lab1/lab2.ml" 253 6940 6956 "Lab1/lab2.ml" 253 6940 6958
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/lab2.ml" 253 6940 6958 "Lab1/lab2.ml" 253 6940 6960
+type(
+  'a
+)
+ident(
+  int_ref lr "Lab1/lab2.ml" 252 6910 6929 "Lab1/lab2.ml" 252 6910 6931
+)
+"Lab1/lab2.ml" 253 6940 6955 "Lab1/lab2.ml" 253 6940 6960
+type(
+  bool
+)
+"Lab1/lab2.ml" 253 6940 6961 "Lab1/lab2.ml" 253 6940 6963
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"Lab1/lab2.ml" 253 6940 6964 "Lab1/lab2.ml" 253 6940 6966
+type(
+  bool
+)
+ident(
+  int_ref tl "Lab1/lab2.ml" 252 6910 6924 "Lab1/lab2.ml" 252 6910 6926
+)
+"Lab1/lab2.ml" 253 6940 6967 "Lab1/lab2.ml" 253 6940 6969
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"Lab1/lab2.ml" 253 6940 6970 "Lab1/lab2.ml" 253 6940 6972
+type(
+  bool
+)
+ident(
+  int_ref tr "Lab1/lab2.ml" 252 6910 6932 "Lab1/lab2.ml" 252 6910 6934
+)
+"Lab1/lab2.ml" 253 6940 6964 "Lab1/lab2.ml" 253 6940 6972
+type(
+  bool
+)
+"Lab1/lab2.ml" 253 6940 6955 "Lab1/lab2.ml" 253 6940 6972
+type(
+  bool
+)
+"Lab1/lab2.ml" 253 6940 6946 "Lab1/lab2.ml" 253 6940 6973
+type(
+  bool
+)
+"Lab1/lab2.ml" 253 6940 6943 "Lab1/lab2.ml" 253 6940 6974
+type(
+  'a * bool
+)
+"Lab1/lab2.ml" 252 6910 6913 "Lab1/lab2.ml" 253 6940 6975
+type(
+  'a -> 'a * bool -> 'a * bool -> 'a * bool
+)
+"Lab1/lab2.ml" 254 6977 6980 "Lab1/lab2.ml" 254 6977 6981
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 249 6851 6865 "Lab1/lab2.ml" 249 6851 6866
+)
+"Lab1/lab2.ml" 250 6870 6874 "Lab1/lab2.ml" 254 6977 6982
+type(
+  'a * bool
+)
+"Lab1/lab2.ml" 250 6870 6871 "Lab1/lab2.ml" 254 6977 6982
+type(
+  bool
+)
+"Lab1/lab2.ml" 267 7295 7299 "Lab1/lab2.ml" 267 7295 7317
+type(
+  ('z -> 'a -> 'z) -> 'z -> 'a tree -> 'z
+)
+ident(
+  def fold_tree_preorder "Lab1/lab2.ml" 285 7768 7768 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 267 7295 7319 "Lab1/lab2.ml" 267 7295 7320
+type(
+  'z -> 'a -> 'z
+)
+ident(
+  def f "Lab1/lab2.ml" 267 7295 7333 "Lab1/lab2.ml" 274 7515 7527
+)
+"Lab1/lab2.ml" 267 7295 7334 "Lab1/lab2.ml" 267 7295 7335
+type(
+  'z
+)
+ident(
+  def z "Lab1/lab2.ml" 267 7295 7340 "Lab1/lab2.ml" 274 7515 7527
+)
+"Lab1/lab2.ml" 267 7295 7341 "Lab1/lab2.ml" 267 7295 7342
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 267 7295 7352 "Lab1/lab2.ml" 274 7515 7527
+)
+"Lab1/lab2.ml" 268 7361 7371 "Lab1/lab2.ml" 268 7361 7374
+type(
+  'z -> 'a tree -> 'z
+)
+ident(
+  def aux "Lab1/lab2.ml" 268 7361 7363 "Lab1/lab2.ml" 274 7515 7527
+)
+"Lab1/lab2.ml" 268 7361 7375 "Lab1/lab2.ml" 268 7361 7376
+type(
+  'z
+)
+ident(
+  def z "Lab1/lab2.ml" 268 7361 7377 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 268 7361 7377 "Lab1/lab2.ml" 268 7361 7378
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 268 7361 7381 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 268 7361 7387 "Lab1/lab2.ml" 268 7361 7388
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 268 7361 7377 "Lab1/lab2.ml" 268 7361 7378
+)
+"Lab1/lab2.ml" 269 7395 7406 "Lab1/lab2.ml" 269 7395 7407
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 269 7395 7411 "Lab1/lab2.ml" 269 7395 7416
+)
+"Lab1/lab2.ml" 269 7395 7401 "Lab1/lab2.ml" 269 7395 7407
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 269 7395 7411 "Lab1/lab2.ml" 269 7395 7412
+type(
+  'z -> 'a -> 'z
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 267 7295 7319 "Lab1/lab2.ml" 267 7295 7320
+)
+"Lab1/lab2.ml" 269 7395 7413 "Lab1/lab2.ml" 269 7395 7414
+type(
+  'z
+)
+ident(
+  int_ref z "Lab1/lab2.ml" 268 7361 7375 "Lab1/lab2.ml" 268 7361 7376
+)
+"Lab1/lab2.ml" 269 7395 7415 "Lab1/lab2.ml" 269 7395 7416
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 269 7395 7406 "Lab1/lab2.ml" 269 7395 7407
+)
+"Lab1/lab2.ml" 269 7395 7411 "Lab1/lab2.ml" 269 7395 7416
+type(
+  'z
+)
+"Lab1/lab2.ml" 270 7418 7430 "Lab1/lab2.ml" 270 7418 7431
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 271 7444 7450 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 270 7418 7432 "Lab1/lab2.ml" 270 7418 7434
+type(
+  'a tree
+)
+ident(
+  def lt "Lab1/lab2.ml" 271 7444 7450 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 270 7418 7435 "Lab1/lab2.ml" 270 7418 7437
+type(
+  'a tree
+)
+ident(
+  def rt "Lab1/lab2.ml" 271 7444 7450 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 270 7418 7424 "Lab1/lab2.ml" 270 7418 7438
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 271 7444 7454 "Lab1/lab2.ml" 271 7444 7456
+type(
+  'z
+)
+ident(
+  def z1 "Lab1/lab2.ml" 272 7469 7475 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 271 7444 7459 "Lab1/lab2.ml" 271 7444 7460
+type(
+  'z -> 'a -> 'z
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 267 7295 7319 "Lab1/lab2.ml" 267 7295 7320
+)
+"Lab1/lab2.ml" 271 7444 7461 "Lab1/lab2.ml" 271 7444 7462
+type(
+  'z
+)
+ident(
+  int_ref z "Lab1/lab2.ml" 268 7361 7375 "Lab1/lab2.ml" 268 7361 7376
+)
+"Lab1/lab2.ml" 271 7444 7463 "Lab1/lab2.ml" 271 7444 7464
+type(
+  'a
+)
+ident(
+  int_ref a "Lab1/lab2.ml" 270 7418 7430 "Lab1/lab2.ml" 270 7418 7431
+)
+"Lab1/lab2.ml" 271 7444 7459 "Lab1/lab2.ml" 271 7444 7464
+type(
+  'z
+)
+"Lab1/lab2.ml" 272 7469 7479 "Lab1/lab2.ml" 272 7469 7481
+type(
+  'z
+)
+ident(
+  def z2 "Lab1/lab2.ml" 273 7498 7504 "Lab1/lab2.ml" 273 7498 7513
+)
+"Lab1/lab2.ml" 272 7469 7484 "Lab1/lab2.ml" 272 7469 7487
+type(
+  'z -> 'a tree -> 'z
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 268 7361 7371 "Lab1/lab2.ml" 268 7361 7374
+)
+"Lab1/lab2.ml" 272 7469 7488 "Lab1/lab2.ml" 272 7469 7490
+type(
+  'z
+)
+ident(
+  int_ref z1 "Lab1/lab2.ml" 271 7444 7454 "Lab1/lab2.ml" 271 7444 7456
+)
+"Lab1/lab2.ml" 272 7469 7491 "Lab1/lab2.ml" 272 7469 7493
+type(
+  'a tree
+)
+ident(
+  int_ref lt "Lab1/lab2.ml" 270 7418 7432 "Lab1/lab2.ml" 270 7418 7434
+)
+"Lab1/lab2.ml" 272 7469 7484 "Lab1/lab2.ml" 272 7469 7493
+type(
+  'z
+)
+"Lab1/lab2.ml" 273 7498 7504 "Lab1/lab2.ml" 273 7498 7507
+type(
+  'z -> 'a tree -> 'z
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 268 7361 7371 "Lab1/lab2.ml" 268 7361 7374
+)
+"Lab1/lab2.ml" 273 7498 7508 "Lab1/lab2.ml" 273 7498 7510
+type(
+  'z
+)
+ident(
+  int_ref z2 "Lab1/lab2.ml" 272 7469 7479 "Lab1/lab2.ml" 272 7469 7481
+)
+"Lab1/lab2.ml" 273 7498 7511 "Lab1/lab2.ml" 273 7498 7513
+type(
+  'a tree
+)
+ident(
+  int_ref rt "Lab1/lab2.ml" 270 7418 7435 "Lab1/lab2.ml" 270 7418 7437
+)
+"Lab1/lab2.ml" 273 7498 7504 "Lab1/lab2.ml" 273 7498 7513
+type(
+  'z
+)
+"Lab1/lab2.ml" 272 7469 7475 "Lab1/lab2.ml" 273 7498 7513
+type(
+  'z
+)
+"Lab1/lab2.ml" 271 7444 7450 "Lab1/lab2.ml" 273 7498 7513
+type(
+  'z
+)
+"Lab1/lab2.ml" 268 7361 7381 "Lab1/lab2.ml" 273 7498 7513
+type(
+  'z
+)
+"Lab1/lab2.ml" 274 7515 7520 "Lab1/lab2.ml" 274 7515 7523
+type(
+  'z -> 'a tree -> 'z
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 268 7361 7371 "Lab1/lab2.ml" 268 7361 7374
+)
+"Lab1/lab2.ml" 274 7515 7524 "Lab1/lab2.ml" 274 7515 7525
+type(
+  'z
+)
+ident(
+  int_ref z "Lab1/lab2.ml" 267 7295 7334 "Lab1/lab2.ml" 267 7295 7335
+)
+"Lab1/lab2.ml" 274 7515 7526 "Lab1/lab2.ml" 274 7515 7527
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 267 7295 7341 "Lab1/lab2.ml" 267 7295 7342
+)
+"Lab1/lab2.ml" 274 7515 7520 "Lab1/lab2.ml" 274 7515 7527
+type(
+  'z
+)
+"Lab1/lab2.ml" 268 7361 7363 "Lab1/lab2.ml" 274 7515 7527
+type(
+  'z
+)
+type(
+  'z
+)
+"Lab1/lab2.ml" 285 7768 7772 "Lab1/lab2.ml" 285 7768 7782
+type(
+  'a tree -> int
+)
+ident(
+  def count_tree "Lab1/lab2.ml" 345 9079 9079 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 285 7768 7784 "Lab1/lab2.ml" 285 7768 7785
+type(
+  'a tree
+)
+ident(
+  def t "Lab1/lab2.ml" 285 7768 7795 "Lab1/lab2.ml" 288 7850 7856
+)
+"Lab1/lab2.ml" 286 7806 7807 "Lab1/lab2.ml" 286 7806 7825
+type(
+  (int -> 'a -> int) -> int -> 'a tree -> int
+)
+ident(
+  int_ref fold_tree_preorder "Lab1/lab2.ml" 267 7295 7299 "Lab1/lab2.ml" 267 7295 7317
+)
+"Lab1/lab2.ml" 287 7827 7834 "Lab1/lab2.ml" 287 7827 7837
+type(
+  int
+)
+ident(
+  def acc "Lab1/lab2.ml" 287 7827 7838 "Lab1/lab2.ml" 287 7827 7847
+)
+"Lab1/lab2.ml" 287 7827 7838 "Lab1/lab2.ml" 287 7827 7839
+type(
+  'a
+)
+ident(
+  def a "Lab1/lab2.ml" 287 7827 7842 "Lab1/lab2.ml" 287 7827 7847
+)
+"Lab1/lab2.ml" 287 7827 7842 "Lab1/lab2.ml" 287 7827 7845
+type(
+  int
+)
+ident(
+  int_ref acc "Lab1/lab2.ml" 287 7827 7834 "Lab1/lab2.ml" 287 7827 7837
+)
+"Lab1/lab2.ml" 287 7827 7845 "Lab1/lab2.ml" 287 7827 7846
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 287 7827 7846 "Lab1/lab2.ml" 287 7827 7847
+type(
+  int
+)
+"Lab1/lab2.ml" 287 7827 7842 "Lab1/lab2.ml" 287 7827 7847
+type(
+  int
+)
+"Lab1/lab2.ml" 287 7827 7829 "Lab1/lab2.ml" 287 7827 7848
+type(
+  int -> 'a -> int
+)
+"Lab1/lab2.ml" 288 7850 7853 "Lab1/lab2.ml" 288 7850 7854
+type(
+  int
+)
+"Lab1/lab2.ml" 288 7850 7855 "Lab1/lab2.ml" 288 7850 7856
+type(
+  'a tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 285 7768 7784 "Lab1/lab2.ml" 285 7768 7785
+)
+"Lab1/lab2.ml" 286 7806 7807 "Lab1/lab2.ml" 288 7850 7856
+type(
+  int
+)
+type(
+  int
+)
+"Lab1/lab2.ml" 345 9079 9083 "Lab1/lab2.ml" 345 9079 9090
+type(
+  ('a -> string) -> 'a tree -> string
+)
+ident(
+  def pr_tree "Lab1/lab2.ml" 357 9415 9415 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 345 9079 9092 "Lab1/lab2.ml" 345 9079 9094
+type(
+  'a -> string
+)
+ident(
+  def pr "Lab1/lab2.ml" 345 9079 9107 "Lab1/lab2.ml" 352 9283 9293
+)
+"Lab1/lab2.ml" 345 9079 9108 "Lab1/lab2.ml" 345 9079 9110
+type(
+  'a tree
+)
+ident(
+  def xs "Lab1/lab2.ml" 345 9079 9120 "Lab1/lab2.ml" 352 9283 9293
+)
+"Lab1/lab2.ml" 346 9131 9142 "Lab1/lab2.ml" 346 9131 9145
+type(
+  'a tree -> string
+)
+ident(
+  def aux "Lab1/lab2.ml" 346 9131 9134 "Lab1/lab2.ml" 352 9283 9293
+)
+"Lab1/lab2.ml" 346 9131 9146 "Lab1/lab2.ml" 346 9131 9148
+type(
+  'a tree
+)
+ident(
+  def xs "Lab1/lab2.ml" 347 9153 9155 "Lab1/lab2.ml" 351 9258 9281
+)
+"Lab1/lab2.ml" 347 9153 9161 "Lab1/lab2.ml" 347 9153 9163
+type(
+  'a tree
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 346 9131 9146 "Lab1/lab2.ml" 346 9131 9148
+)
+"Lab1/lab2.ml" 348 9170 9179 "Lab1/lab2.ml" 348 9170 9180
+type(
+  'a
+)
+ident(
+  def e "Lab1/lab2.ml" 348 9170 9184 "Lab1/lab2.ml" 348 9170 9205
+)
+"Lab1/lab2.ml" 348 9170 9174 "Lab1/lab2.ml" 348 9170 9180
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 348 9170 9184 "Lab1/lab2.ml" 348 9170 9191
+type(
+  string
+)
+"Lab1/lab2.ml" 348 9170 9191 "Lab1/lab2.ml" 348 9170 9192
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 348 9170 9193 "Lab1/lab2.ml" 348 9170 9195
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 345 9079 9092 "Lab1/lab2.ml" 345 9079 9094
+)
+"Lab1/lab2.ml" 348 9170 9196 "Lab1/lab2.ml" 348 9170 9197
+type(
+  'a
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 348 9170 9179 "Lab1/lab2.ml" 348 9170 9180
+)
+"Lab1/lab2.ml" 348 9170 9192 "Lab1/lab2.ml" 348 9170 9198
+type(
+  string
+)
+"Lab1/lab2.ml" 348 9170 9198 "Lab1/lab2.ml" 348 9170 9199
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 348 9170 9199 "Lab1/lab2.ml" 348 9170 9205
+type(
+  string
+)
+"Lab1/lab2.ml" 348 9170 9192 "Lab1/lab2.ml" 348 9170 9205
+type(
+  string
+)
+"Lab1/lab2.ml" 348 9170 9184 "Lab1/lab2.ml" 348 9170 9205
+type(
+  string
+)
+"Lab1/lab2.ml" 349 9207 9217 "Lab1/lab2.ml" 349 9207 9218
+type(
+  'a
+)
+ident(
+  def e "Lab1/lab2.ml" 350 9231 9235 "Lab1/lab2.ml" 351 9258 9281
+)
+"Lab1/lab2.ml" 349 9207 9219 "Lab1/lab2.ml" 349 9207 9221
+type(
+  'a tree
+)
+ident(
+  def lt "Lab1/lab2.ml" 350 9231 9235 "Lab1/lab2.ml" 351 9258 9281
+)
+"Lab1/lab2.ml" 349 9207 9222 "Lab1/lab2.ml" 349 9207 9224
+type(
+  'a tree
+)
+ident(
+  def rt "Lab1/lab2.ml" 350 9231 9235 "Lab1/lab2.ml" 351 9258 9281
+)
+"Lab1/lab2.ml" 349 9207 9211 "Lab1/lab2.ml" 349 9207 9225
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 350 9231 9235 "Lab1/lab2.ml" 350 9231 9242
+type(
+  string
+)
+"Lab1/lab2.ml" 350 9231 9242 "Lab1/lab2.ml" 350 9231 9243
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 350 9231 9244 "Lab1/lab2.ml" 350 9231 9246
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 345 9079 9092 "Lab1/lab2.ml" 345 9079 9094
+)
+"Lab1/lab2.ml" 350 9231 9247 "Lab1/lab2.ml" 350 9231 9248
+type(
+  'a
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 349 9207 9217 "Lab1/lab2.ml" 349 9207 9218
+)
+"Lab1/lab2.ml" 350 9231 9243 "Lab1/lab2.ml" 350 9231 9249
+type(
+  string
+)
+"Lab1/lab2.ml" 350 9231 9249 "Lab1/lab2.ml" 350 9231 9250
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 350 9231 9250 "Lab1/lab2.ml" 350 9231 9256
+type(
+  string
+)
+"Lab1/lab2.ml" 351 9258 9263 "Lab1/lab2.ml" 351 9258 9264
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 351 9258 9265 "Lab1/lab2.ml" 351 9258 9268
+type(
+  'a tree -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 346 9131 9142 "Lab1/lab2.ml" 346 9131 9145
+)
+"Lab1/lab2.ml" 351 9258 9269 "Lab1/lab2.ml" 351 9258 9271
+type(
+  'a tree
+)
+ident(
+  int_ref lt "Lab1/lab2.ml" 349 9207 9219 "Lab1/lab2.ml" 349 9207 9221
+)
+"Lab1/lab2.ml" 351 9258 9264 "Lab1/lab2.ml" 351 9258 9272
+type(
+  string
+)
+"Lab1/lab2.ml" 351 9258 9272 "Lab1/lab2.ml" 351 9258 9273
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 351 9258 9274 "Lab1/lab2.ml" 351 9258 9277
+type(
+  'a tree -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 346 9131 9142 "Lab1/lab2.ml" 346 9131 9145
+)
+"Lab1/lab2.ml" 351 9258 9278 "Lab1/lab2.ml" 351 9258 9280
+type(
+  'a tree
+)
+ident(
+  int_ref rt "Lab1/lab2.ml" 349 9207 9222 "Lab1/lab2.ml" 349 9207 9224
+)
+"Lab1/lab2.ml" 351 9258 9273 "Lab1/lab2.ml" 351 9258 9281
+type(
+  string
+)
+"Lab1/lab2.ml" 351 9258 9264 "Lab1/lab2.ml" 351 9258 9281
+type(
+  string
+)
+"Lab1/lab2.ml" 350 9231 9250 "Lab1/lab2.ml" 351 9258 9281
+type(
+  string
+)
+"Lab1/lab2.ml" 350 9231 9243 "Lab1/lab2.ml" 351 9258 9281
+type(
+  string
+)
+"Lab1/lab2.ml" 350 9231 9235 "Lab1/lab2.ml" 351 9258 9281
+type(
+  string
+)
+"Lab1/lab2.ml" 347 9153 9155 "Lab1/lab2.ml" 351 9258 9281
+type(
+  string
+)
+"Lab1/lab2.ml" 352 9283 9287 "Lab1/lab2.ml" 352 9283 9290
+type(
+  'a tree -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 346 9131 9142 "Lab1/lab2.ml" 346 9131 9145
+)
+"Lab1/lab2.ml" 352 9283 9291 "Lab1/lab2.ml" 352 9283 9293
+type(
+  'a tree
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 345 9079 9108 "Lab1/lab2.ml" 345 9079 9110
+)
+"Lab1/lab2.ml" 352 9283 9287 "Lab1/lab2.ml" 352 9283 9293
+type(
+  string
+)
+"Lab1/lab2.ml" 346 9131 9134 "Lab1/lab2.ml" 352 9283 9293
+type(
+  string
+)
+type(
+  string
+)
+"Lab1/lab2.ml" 357 9415 9419 "Lab1/lab2.ml" 357 9415 9427
+type(
+  ('a -> string) -> 'a tree -> string
+)
+ident(
+  def pr_tree2 "Lab1/lab2.ml" 370 9838 9838 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 357 9415 9429 "Lab1/lab2.ml" 357 9415 9431
+type(
+  'a -> string
+)
+ident(
+  def pr "Lab1/lab2.ml" 357 9415 9444 "Lab1/lab2.ml" 365 9700 9713
+)
+"Lab1/lab2.ml" 357 9415 9445 "Lab1/lab2.ml" 357 9415 9447
+type(
+  'a tree
+)
+ident(
+  def xs "Lab1/lab2.ml" 357 9415 9457 "Lab1/lab2.ml" 365 9700 9713
+)
+"Lab1/lab2.ml" 358 9468 9478 "Lab1/lab2.ml" 358 9468 9481
+type(
+  'a tree -> string -> string
+)
+ident(
+  def aux "Lab1/lab2.ml" 358 9468 9470 "Lab1/lab2.ml" 365 9700 9713
+)
+"Lab1/lab2.ml" 358 9468 9482 "Lab1/lab2.ml" 358 9468 9484
+type(
+  'a tree
+)
+ident(
+  def xs "Lab1/lab2.ml" 358 9468 9485 "Lab1/lab2.ml" 364 9653 9698
+)
+"Lab1/lab2.ml" 358 9468 9485 "Lab1/lab2.ml" 358 9468 9490
+type(
+  string
+)
+ident(
+  def space "Lab1/lab2.ml" 359 9494 9496 "Lab1/lab2.ml" 364 9653 9698
+)
+"Lab1/lab2.ml" 359 9494 9500 "Lab1/lab2.ml" 359 9494 9509
+type(
+  string
+)
+ident(
+  def space_new "Lab1/lab2.ml" 360 9528 9532 "Lab1/lab2.ml" 364 9653 9698
+)
+"Lab1/lab2.ml" 359 9494 9512 "Lab1/lab2.ml" 359 9494 9515
+type(
+  string
+)
+"Lab1/lab2.ml" 359 9494 9516 "Lab1/lab2.ml" 359 9494 9517
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 359 9494 9517 "Lab1/lab2.ml" 359 9494 9522
+type(
+  string
+)
+ident(
+  int_ref space "Lab1/lab2.ml" 358 9468 9485 "Lab1/lab2.ml" 358 9468 9490
+)
+"Lab1/lab2.ml" 359 9494 9512 "Lab1/lab2.ml" 359 9494 9522
+type(
+  string
+)
+"Lab1/lab2.ml" 360 9528 9538 "Lab1/lab2.ml" 360 9528 9540
+type(
+  'a tree
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 358 9468 9482 "Lab1/lab2.ml" 358 9468 9484
+)
+"Lab1/lab2.ml" 361 9547 9558 "Lab1/lab2.ml" 361 9547 9559
+type(
+  'a
+)
+ident(
+  def e "Lab1/lab2.ml" 361 9547 9563 "Lab1/lab2.ml" 361 9547 9590
+)
+"Lab1/lab2.ml" 361 9547 9553 "Lab1/lab2.ml" 361 9547 9559
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 361 9547 9563 "Lab1/lab2.ml" 361 9547 9568
+type(
+  string
+)
+ident(
+  int_ref space "Lab1/lab2.ml" 358 9468 9485 "Lab1/lab2.ml" 358 9468 9490
+)
+"Lab1/lab2.ml" 361 9547 9568 "Lab1/lab2.ml" 361 9547 9569
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 361 9547 9569 "Lab1/lab2.ml" 361 9547 9576
+type(
+  string
+)
+"Lab1/lab2.ml" 361 9547 9576 "Lab1/lab2.ml" 361 9547 9577
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 361 9547 9578 "Lab1/lab2.ml" 361 9547 9580
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 357 9415 9429 "Lab1/lab2.ml" 357 9415 9431
+)
+"Lab1/lab2.ml" 361 9547 9581 "Lab1/lab2.ml" 361 9547 9582
+type(
+  'a
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 361 9547 9558 "Lab1/lab2.ml" 361 9547 9559
+)
+"Lab1/lab2.ml" 361 9547 9577 "Lab1/lab2.ml" 361 9547 9583
+type(
+  string
+)
+"Lab1/lab2.ml" 361 9547 9583 "Lab1/lab2.ml" 361 9547 9584
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 361 9547 9584 "Lab1/lab2.ml" 361 9547 9590
+type(
+  string
+)
+"Lab1/lab2.ml" 361 9547 9577 "Lab1/lab2.ml" 361 9547 9590
+type(
+  string
+)
+"Lab1/lab2.ml" 361 9547 9569 "Lab1/lab2.ml" 361 9547 9590
+type(
+  string
+)
+"Lab1/lab2.ml" 361 9547 9563 "Lab1/lab2.ml" 361 9547 9590
+type(
+  string
+)
+"Lab1/lab2.ml" 362 9592 9604 "Lab1/lab2.ml" 362 9592 9605
+type(
+  'a
+)
+ident(
+  def e "Lab1/lab2.ml" 363 9618 9624 "Lab1/lab2.ml" 364 9653 9698
+)
+"Lab1/lab2.ml" 362 9592 9606 "Lab1/lab2.ml" 362 9592 9608
+type(
+  'a tree
+)
+ident(
+  def lt "Lab1/lab2.ml" 363 9618 9624 "Lab1/lab2.ml" 364 9653 9698
+)
+"Lab1/lab2.ml" 362 9592 9609 "Lab1/lab2.ml" 362 9592 9611
+type(
+  'a tree
+)
+ident(
+  def rt "Lab1/lab2.ml" 363 9618 9624 "Lab1/lab2.ml" 364 9653 9698
+)
+"Lab1/lab2.ml" 362 9592 9598 "Lab1/lab2.ml" 362 9592 9612
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 363 9618 9624 "Lab1/lab2.ml" 363 9618 9629
+type(
+  string
+)
+ident(
+  int_ref space "Lab1/lab2.ml" 358 9468 9485 "Lab1/lab2.ml" 358 9468 9490
+)
+"Lab1/lab2.ml" 363 9618 9629 "Lab1/lab2.ml" 363 9618 9630
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 363 9618 9630 "Lab1/lab2.ml" 363 9618 9637
+type(
+  string
+)
+"Lab1/lab2.ml" 363 9618 9637 "Lab1/lab2.ml" 363 9618 9638
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 363 9618 9639 "Lab1/lab2.ml" 363 9618 9641
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 357 9415 9429 "Lab1/lab2.ml" 357 9415 9431
+)
+"Lab1/lab2.ml" 363 9618 9642 "Lab1/lab2.ml" 363 9618 9643
+type(
+  'a
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 362 9592 9604 "Lab1/lab2.ml" 362 9592 9605
+)
+"Lab1/lab2.ml" 363 9618 9638 "Lab1/lab2.ml" 363 9618 9644
+type(
+  string
+)
+"Lab1/lab2.ml" 363 9618 9644 "Lab1/lab2.ml" 363 9618 9645
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 363 9618 9645 "Lab1/lab2.ml" 363 9618 9651
+type(
+  string
+)
+"Lab1/lab2.ml" 364 9653 9660 "Lab1/lab2.ml" 364 9653 9661
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 364 9653 9662 "Lab1/lab2.ml" 364 9653 9665
+type(
+  'a tree -> string -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 358 9468 9478 "Lab1/lab2.ml" 358 9468 9481
+)
+"Lab1/lab2.ml" 364 9653 9666 "Lab1/lab2.ml" 364 9653 9668
+type(
+  'a tree
+)
+ident(
+  int_ref lt "Lab1/lab2.ml" 362 9592 9606 "Lab1/lab2.ml" 362 9592 9608
+)
+"Lab1/lab2.ml" 364 9653 9669 "Lab1/lab2.ml" 364 9653 9678
+type(
+  string
+)
+ident(
+  int_ref space_new "Lab1/lab2.ml" 359 9494 9500 "Lab1/lab2.ml" 359 9494 9509
+)
+"Lab1/lab2.ml" 364 9653 9661 "Lab1/lab2.ml" 364 9653 9679
+type(
+  string
+)
+"Lab1/lab2.ml" 364 9653 9679 "Lab1/lab2.ml" 364 9653 9680
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 364 9653 9681 "Lab1/lab2.ml" 364 9653 9684
+type(
+  'a tree -> string -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 358 9468 9478 "Lab1/lab2.ml" 358 9468 9481
+)
+"Lab1/lab2.ml" 364 9653 9685 "Lab1/lab2.ml" 364 9653 9687
+type(
+  'a tree
+)
+ident(
+  int_ref rt "Lab1/lab2.ml" 362 9592 9609 "Lab1/lab2.ml" 362 9592 9611
+)
+"Lab1/lab2.ml" 364 9653 9688 "Lab1/lab2.ml" 364 9653 9697
+type(
+  string
+)
+ident(
+  int_ref space_new "Lab1/lab2.ml" 359 9494 9500 "Lab1/lab2.ml" 359 9494 9509
+)
+"Lab1/lab2.ml" 364 9653 9680 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 364 9653 9661 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 363 9618 9645 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 363 9618 9638 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 363 9618 9630 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 363 9618 9624 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 360 9528 9532 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 359 9494 9496 "Lab1/lab2.ml" 364 9653 9698
+type(
+  string
+)
+"Lab1/lab2.ml" 365 9700 9704 "Lab1/lab2.ml" 365 9700 9707
+type(
+  'a tree -> string -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 358 9468 9478 "Lab1/lab2.ml" 358 9468 9481
+)
+"Lab1/lab2.ml" 365 9700 9708 "Lab1/lab2.ml" 365 9700 9710
+type(
+  'a tree
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 357 9415 9445 "Lab1/lab2.ml" 357 9415 9447
+)
+"Lab1/lab2.ml" 365 9700 9711 "Lab1/lab2.ml" 365 9700 9713
+type(
+  string
+)
+"Lab1/lab2.ml" 365 9700 9704 "Lab1/lab2.ml" 365 9700 9713
+type(
+  string
+)
+"Lab1/lab2.ml" 358 9468 9470 "Lab1/lab2.ml" 365 9700 9713
+type(
+  string
+)
+type(
+  string
+)
+"Lab1/lab2.ml" 370 9838 9842 "Lab1/lab2.ml" 370 9838 9855
+type(
+  ('a -> string) -> 'a tree -> string
+)
+ident(
+  def pr_tree_infix "Lab1/lab2.ml" 382 10223 10223 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 370 9838 9857 "Lab1/lab2.ml" 370 9838 9859
+type(
+  'a -> string
+)
+ident(
+  def pr "Lab1/lab2.ml" 370 9838 9872 "Lab1/lab2.ml" 378 10127 10140
+)
+"Lab1/lab2.ml" 370 9838 9873 "Lab1/lab2.ml" 370 9838 9875
+type(
+  'a tree
+)
+ident(
+  def xs "Lab1/lab2.ml" 370 9838 9885 "Lab1/lab2.ml" 378 10127 10140
+)
+"Lab1/lab2.ml" 371 9896 9906 "Lab1/lab2.ml" 371 9896 9909
+type(
+  'a tree -> string -> string
+)
+ident(
+  def aux "Lab1/lab2.ml" 371 9896 9898 "Lab1/lab2.ml" 378 10127 10140
+)
+"Lab1/lab2.ml" 371 9896 9910 "Lab1/lab2.ml" 371 9896 9912
+type(
+  'a tree
+)
+ident(
+  def xs "Lab1/lab2.ml" 371 9896 9913 "Lab1/lab2.ml" 377 10099 10125
+)
+"Lab1/lab2.ml" 371 9896 9913 "Lab1/lab2.ml" 371 9896 9918
+type(
+  string
+)
+ident(
+  def space "Lab1/lab2.ml" 372 9922 9924 "Lab1/lab2.ml" 377 10099 10125
+)
+"Lab1/lab2.ml" 372 9922 9928 "Lab1/lab2.ml" 372 9922 9937
+type(
+  string
+)
+ident(
+  def space_new "Lab1/lab2.ml" 373 9955 9959 "Lab1/lab2.ml" 377 10099 10125
+)
+"Lab1/lab2.ml" 372 9922 9940 "Lab1/lab2.ml" 372 9922 9943
+type(
+  string
+)
+"Lab1/lab2.ml" 372 9922 9943 "Lab1/lab2.ml" 372 9922 9944
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 372 9922 9944 "Lab1/lab2.ml" 372 9922 9949
+type(
+  string
+)
+ident(
+  int_ref space "Lab1/lab2.ml" 371 9896 9913 "Lab1/lab2.ml" 371 9896 9918
+)
+"Lab1/lab2.ml" 372 9922 9940 "Lab1/lab2.ml" 372 9922 9949
+type(
+  string
+)
+"Lab1/lab2.ml" 373 9955 9965 "Lab1/lab2.ml" 373 9955 9967
+type(
+  'a tree
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 371 9896 9910 "Lab1/lab2.ml" 371 9896 9912
+)
+"Lab1/lab2.ml" 374 9974 9985 "Lab1/lab2.ml" 374 9974 9986
+type(
+  'a
+)
+ident(
+  def e "Lab1/lab2.ml" 374 9974 9990 "Lab1/lab2.ml" 374 9974 10017
+)
+"Lab1/lab2.ml" 374 9974 9980 "Lab1/lab2.ml" 374 9974 9986
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 374 9974 9990 "Lab1/lab2.ml" 374 9974 9995
+type(
+  string
+)
+ident(
+  int_ref space "Lab1/lab2.ml" 371 9896 9913 "Lab1/lab2.ml" 371 9896 9918
+)
+"Lab1/lab2.ml" 374 9974 9995 "Lab1/lab2.ml" 374 9974 9996
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 374 9974 9996 "Lab1/lab2.ml" 374 9974 10003
+type(
+  string
+)
+"Lab1/lab2.ml" 374 9974 10003 "Lab1/lab2.ml" 374 9974 10004
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 374 9974 10005 "Lab1/lab2.ml" 374 9974 10007
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 370 9838 9857 "Lab1/lab2.ml" 370 9838 9859
+)
+"Lab1/lab2.ml" 374 9974 10008 "Lab1/lab2.ml" 374 9974 10009
+type(
+  'a
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 374 9974 9985 "Lab1/lab2.ml" 374 9974 9986
+)
+"Lab1/lab2.ml" 374 9974 10004 "Lab1/lab2.ml" 374 9974 10010
+type(
+  string
+)
+"Lab1/lab2.ml" 374 9974 10010 "Lab1/lab2.ml" 374 9974 10011
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 374 9974 10011 "Lab1/lab2.ml" 374 9974 10017
+type(
+  string
+)
+"Lab1/lab2.ml" 374 9974 10004 "Lab1/lab2.ml" 374 9974 10017
+type(
+  string
+)
+"Lab1/lab2.ml" 374 9974 9996 "Lab1/lab2.ml" 374 9974 10017
+type(
+  string
+)
+"Lab1/lab2.ml" 374 9974 9990 "Lab1/lab2.ml" 374 9974 10017
+type(
+  string
+)
+"Lab1/lab2.ml" 375 10019 10031 "Lab1/lab2.ml" 375 10019 10032
+type(
+  'a
+)
+ident(
+  def e "Lab1/lab2.ml" 376 10045 10051 "Lab1/lab2.ml" 377 10099 10125
+)
+"Lab1/lab2.ml" 375 10019 10033 "Lab1/lab2.ml" 375 10019 10035
+type(
+  'a tree
+)
+ident(
+  def lt "Lab1/lab2.ml" 376 10045 10051 "Lab1/lab2.ml" 377 10099 10125
+)
+"Lab1/lab2.ml" 375 10019 10036 "Lab1/lab2.ml" 375 10019 10038
+type(
+  'a tree
+)
+ident(
+  def rt "Lab1/lab2.ml" 376 10045 10051 "Lab1/lab2.ml" 377 10099 10125
+)
+"Lab1/lab2.ml" 375 10019 10025 "Lab1/lab2.ml" 375 10019 10039
+type(
+  'a tree
+)
+"Lab1/lab2.ml" 376 10045 10052 "Lab1/lab2.ml" 376 10045 10055
+type(
+  'a tree -> string -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 371 9896 9906 "Lab1/lab2.ml" 371 9896 9909
+)
+"Lab1/lab2.ml" 376 10045 10056 "Lab1/lab2.ml" 376 10045 10058
+type(
+  'a tree
+)
+ident(
+  int_ref lt "Lab1/lab2.ml" 375 10019 10033 "Lab1/lab2.ml" 375 10019 10035
+)
+"Lab1/lab2.ml" 376 10045 10059 "Lab1/lab2.ml" 376 10045 10068
+type(
+  string
+)
+ident(
+  int_ref space_new "Lab1/lab2.ml" 372 9922 9928 "Lab1/lab2.ml" 372 9922 9937
+)
+"Lab1/lab2.ml" 376 10045 10051 "Lab1/lab2.ml" 376 10045 10069
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10069 "Lab1/lab2.ml" 376 10045 10070
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 376 10045 10070 "Lab1/lab2.ml" 376 10045 10075
+type(
+  string
+)
+ident(
+  int_ref space "Lab1/lab2.ml" 371 9896 9913 "Lab1/lab2.ml" 371 9896 9918
+)
+"Lab1/lab2.ml" 376 10045 10075 "Lab1/lab2.ml" 376 10045 10076
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 376 10045 10076 "Lab1/lab2.ml" 376 10045 10083
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10083 "Lab1/lab2.ml" 376 10045 10084
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 376 10045 10085 "Lab1/lab2.ml" 376 10045 10087
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 370 9838 9857 "Lab1/lab2.ml" 370 9838 9859
+)
+"Lab1/lab2.ml" 376 10045 10088 "Lab1/lab2.ml" 376 10045 10089
+type(
+  'a
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 375 10019 10031 "Lab1/lab2.ml" 375 10019 10032
+)
+"Lab1/lab2.ml" 376 10045 10084 "Lab1/lab2.ml" 376 10045 10090
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10090 "Lab1/lab2.ml" 376 10045 10091
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 376 10045 10091 "Lab1/lab2.ml" 376 10045 10097
+type(
+  string
+)
+"Lab1/lab2.ml" 377 10099 10106 "Lab1/lab2.ml" 377 10099 10107
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 377 10099 10108 "Lab1/lab2.ml" 377 10099 10111
+type(
+  'a tree -> string -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 371 9896 9906 "Lab1/lab2.ml" 371 9896 9909
+)
+"Lab1/lab2.ml" 377 10099 10112 "Lab1/lab2.ml" 377 10099 10114
+type(
+  'a tree
+)
+ident(
+  int_ref rt "Lab1/lab2.ml" 375 10019 10036 "Lab1/lab2.ml" 375 10019 10038
+)
+"Lab1/lab2.ml" 377 10099 10115 "Lab1/lab2.ml" 377 10099 10124
+type(
+  string
+)
+ident(
+  int_ref space_new "Lab1/lab2.ml" 372 9922 9928 "Lab1/lab2.ml" 372 9922 9937
+)
+"Lab1/lab2.ml" 377 10099 10107 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10091 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10084 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10076 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10070 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 376 10045 10051 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 373 9955 9959 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 372 9922 9924 "Lab1/lab2.ml" 377 10099 10125
+type(
+  string
+)
+"Lab1/lab2.ml" 378 10127 10131 "Lab1/lab2.ml" 378 10127 10134
+type(
+  'a tree -> string -> string
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 371 9896 9906 "Lab1/lab2.ml" 371 9896 9909
+)
+"Lab1/lab2.ml" 378 10127 10135 "Lab1/lab2.ml" 378 10127 10137
+type(
+  'a tree
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 370 9838 9873 "Lab1/lab2.ml" 370 9838 9875
+)
+"Lab1/lab2.ml" 378 10127 10138 "Lab1/lab2.ml" 378 10127 10140
+type(
+  string
+)
+"Lab1/lab2.ml" 378 10127 10131 "Lab1/lab2.ml" 378 10127 10140
+type(
+  string
+)
+"Lab1/lab2.ml" 371 9896 9898 "Lab1/lab2.ml" 378 10127 10140
+type(
+  string
+)
+type(
+  string
+)
+"Lab1/lab2.ml" 382 10223 10227 "Lab1/lab2.ml" 382 10223 10231
+type(
+  int tree -> unit
+)
+ident(
+  def test "Lab1/lab2.ml" 389 10380 10380 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 382 10223 10232 "Lab1/lab2.ml" 382 10223 10233
+type(
+  int tree
+)
+ident(
+  def t "Lab1/lab2.ml" 383 10237 10238 "Lab1/lab2.ml" 385 10324 10370
+)
+"Lab1/lab2.ml" 383 10237 10238 "Lab1/lab2.ml" 383 10237 10251
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Lab1/lab2.ml" 383 10237 10253 "Lab1/lab2.ml" 383 10237 10260
+type(
+  (int -> string) -> int tree -> string
+)
+ident(
+  int_ref pr_tree "Lab1/lab2.ml" 345 9079 9083 "Lab1/lab2.ml" 345 9079 9090
+)
+"Lab1/lab2.ml" 383 10237 10261 "Lab1/lab2.ml" 383 10237 10274
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 383 10237 10275 "Lab1/lab2.ml" 383 10237 10276
+type(
+  int tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 382 10223 10232 "Lab1/lab2.ml" 382 10223 10233
+)
+"Lab1/lab2.ml" 383 10237 10252 "Lab1/lab2.ml" 383 10237 10277
+type(
+  string
+)
+"Lab1/lab2.ml" 383 10237 10238 "Lab1/lab2.ml" 383 10237 10277
+type(
+  unit
+)
+"Lab1/lab2.ml" 384 10280 10281 "Lab1/lab2.ml" 384 10280 10294
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Lab1/lab2.ml" 384 10280 10296 "Lab1/lab2.ml" 384 10280 10304
+type(
+  (int -> string) -> int tree -> string
+)
+ident(
+  int_ref pr_tree2 "Lab1/lab2.ml" 357 9415 9419 "Lab1/lab2.ml" 357 9415 9427
+)
+"Lab1/lab2.ml" 384 10280 10305 "Lab1/lab2.ml" 384 10280 10318
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 384 10280 10319 "Lab1/lab2.ml" 384 10280 10320
+type(
+  int tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 382 10223 10232 "Lab1/lab2.ml" 382 10223 10233
+)
+"Lab1/lab2.ml" 384 10280 10295 "Lab1/lab2.ml" 384 10280 10321
+type(
+  string
+)
+"Lab1/lab2.ml" 384 10280 10281 "Lab1/lab2.ml" 384 10280 10321
+type(
+  unit
+)
+"Lab1/lab2.ml" 385 10324 10325 "Lab1/lab2.ml" 385 10324 10338
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Lab1/lab2.ml" 385 10324 10340 "Lab1/lab2.ml" 385 10324 10353
+type(
+  (int -> string) -> int tree -> string
+)
+ident(
+  int_ref pr_tree_infix "Lab1/lab2.ml" 370 9838 9842 "Lab1/lab2.ml" 370 9838 9855
+)
+"Lab1/lab2.ml" 385 10324 10354 "Lab1/lab2.ml" 385 10324 10367
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 385 10324 10368 "Lab1/lab2.ml" 385 10324 10369
+type(
+  int tree
+)
+ident(
+  int_ref t "Lab1/lab2.ml" 382 10223 10232 "Lab1/lab2.ml" 382 10223 10233
+)
+"Lab1/lab2.ml" 385 10324 10339 "Lab1/lab2.ml" 385 10324 10370
+type(
+  string
+)
+"Lab1/lab2.ml" 385 10324 10325 "Lab1/lab2.ml" 385 10324 10370
+type(
+  unit
+)
+"Lab1/lab2.ml" 384 10280 10281 "Lab1/lab2.ml" 385 10324 10370
+type(
+  unit
+)
+"Lab1/lab2.ml" 383 10237 10238 "Lab1/lab2.ml" 385 10324 10370
+type(
+  unit
+)
+"Lab1/lab2.ml" 389 10380 10380 "Lab1/lab2.ml" 389 10380 10384
+type(
+  int tree -> unit
+)
+ident(
+  int_ref test "Lab1/lab2.ml" 382 10223 10227 "Lab1/lab2.ml" 382 10223 10231
+)
+"Lab1/lab2.ml" 389 10380 10385 "Lab1/lab2.ml" 389 10380 10387
+type(
+  int tree
+)
+ident(
+  int_ref t2 "Lab1/lab2.ml" 134 3817 3821 "Lab1/lab2.ml" 134 3817 3823
+)
+"Lab1/lab2.ml" 389 10380 10380 "Lab1/lab2.ml" 389 10380 10387
+type(
+  unit
+)
+"Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+type(
+  'a -> ('a -> 'b) -> 'b
+)
+ident(
+  def |> "Lab1/lab2.ml" 413 11039 11039 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 411 10993 11005 "Lab1/lab2.ml" 411 10993 11006
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 411 10993 11011 "Lab1/lab2.ml" 411 10993 11033
+)
+"Lab1/lab2.ml" 411 10993 11012 "Lab1/lab2.ml" 411 10993 11013
+type(
+  'a -> 'b
+)
+ident(
+  def f "Lab1/lab2.ml" 411 10993 11022 "Lab1/lab2.ml" 411 10993 11033
+)
+"Lab1/lab2.ml" 411 10993 11030 "Lab1/lab2.ml" 411 10993 11031
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 411 10993 11012 "Lab1/lab2.ml" 411 10993 11013
+)
+"Lab1/lab2.ml" 411 10993 11032 "Lab1/lab2.ml" 411 10993 11033
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 411 10993 11005 "Lab1/lab2.ml" 411 10993 11006
+)
+"Lab1/lab2.ml" 411 10993 11030 "Lab1/lab2.ml" 411 10993 11033
+type(
+  'b
+)
+type(
+  'b
+)
+"Lab1/lab2.ml" 413 11039 11043 "Lab1/lab2.ml" 413 11039 11051
+type(
+  ('a -> string) -> 'a list -> string
+)
+ident(
+  def pr_list2 "Lab1/lab2.ml" 418 11180 11180 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 413 11039 11053 "Lab1/lab2.ml" 413 11039 11055
+type(
+  'a -> string
+)
+ident(
+  def pr "Lab1/lab2.ml" 413 11039 11068 "Lab1/lab2.ml" 416 11135 11174
+)
+"Lab1/lab2.ml" 413 11039 11069 "Lab1/lab2.ml" 413 11039 11071
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 413 11039 11081 "Lab1/lab2.ml" 416 11135 11174
+)
+"Lab1/lab2.ml" 414 11091 11095 "Lab1/lab2.ml" 414 11091 11098
+type(
+  string
+)
+"Lab1/lab2.ml" 414 11091 11099 "Lab1/lab2.ml" 414 11091 11100
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 414 11091 11102 "Lab1/lab2.ml" 414 11091 11104
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 413 11039 11069 "Lab1/lab2.ml" 413 11039 11071
+)
+"Lab1/lab2.ml" 415 11107 11118 "Lab1/lab2.ml" 415 11107 11120
+type(
+  'a list -> ('a list -> string list) -> string list
+)
+ident(
+  int_ref |> "Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+)
+"Lab1/lab2.ml" 415 11107 11121 "Lab1/lab2.ml" 415 11107 11129
+type(
+  ('a -> string) -> 'a list -> string list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 415 11107 11130 "Lab1/lab2.ml" 415 11107 11132
+type(
+  'a -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 413 11039 11053 "Lab1/lab2.ml" 413 11039 11055
+)
+"Lab1/lab2.ml" 415 11107 11121 "Lab1/lab2.ml" 415 11107 11132
+type(
+  'a list -> string list
+)
+"Lab1/lab2.ml" 414 11091 11102 "Lab1/lab2.ml" 415 11107 11132
+type(
+  string list
+)
+"Lab1/lab2.ml" 416 11135 11146 "Lab1/lab2.ml" 416 11135 11148
+type(
+  string list -> (string list -> string) -> string
+)
+ident(
+  int_ref |> "Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+)
+"Lab1/lab2.ml" 416 11135 11149 "Lab1/lab2.ml" 416 11135 11162
+type(
+  string -> string list -> string
+)
+ident(
+  ext_ref String.concat
+)
+"Lab1/lab2.ml" 416 11135 11163 "Lab1/lab2.ml" 416 11135 11167
+type(
+  string
+)
+"Lab1/lab2.ml" 416 11135 11149 "Lab1/lab2.ml" 416 11135 11167
+type(
+  string list -> string
+)
+"Lab1/lab2.ml" 414 11091 11101 "Lab1/lab2.ml" 416 11135 11168
+type(
+  string
+)
+"Lab1/lab2.ml" 416 11135 11169 "Lab1/lab2.ml" 416 11135 11170
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 416 11135 11171 "Lab1/lab2.ml" 416 11135 11174
+type(
+  string
+)
+"Lab1/lab2.ml" 414 11091 11101 "Lab1/lab2.ml" 416 11135 11174
+type(
+  string
+)
+"Lab1/lab2.ml" 414 11091 11095 "Lab1/lab2.ml" 416 11135 11174
+type(
+  string
+)
+type(
+  string
+)
+"Lab1/lab2.ml" 418 11180 11184 "Lab1/lab2.ml" 418 11180 11191
+type(
+  'a list -> (int * 'a) list
+)
+ident(
+  def add_num "Lab1/lab2.ml" 425 11341 11341 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 418 11180 11193 "Lab1/lab2.ml" 418 11180 11195
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/lab2.ml" 418 11180 11205 "Lab1/lab2.ml" 423 11322 11335
+)
+"Lab1/lab2.ml" 419 11226 11236 "Lab1/lab2.ml" 419 11226 11239
+type(
+  'b list -> int -> (int * 'b) list
+)
+ident(
+  def aux "Lab1/lab2.ml" 419 11226 11228 "Lab1/lab2.ml" 423 11322 11335
+)
+"Lab1/lab2.ml" 419 11226 11240 "Lab1/lab2.ml" 419 11226 11242
+type(
+  'b list
+)
+ident(
+  def xs "Lab1/lab2.ml" 419 11226 11243 "Lab1/lab2.ml" 422 11284 11320
+)
+"Lab1/lab2.ml" 419 11226 11243 "Lab1/lab2.ml" 419 11226 11244
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 420 11248 11252 "Lab1/lab2.ml" 422 11284 11320
+)
+"Lab1/lab2.ml" 420 11248 11258 "Lab1/lab2.ml" 420 11248 11260
+type(
+  'b list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 419 11226 11240 "Lab1/lab2.ml" 419 11226 11242
+)
+"Lab1/lab2.ml" 421 11268 11274 "Lab1/lab2.ml" 421 11268 11276
+type(
+  'b list
+)
+"Lab1/lab2.ml" 421 11268 11280 "Lab1/lab2.ml" 421 11268 11282
+type(
+  (int * 'b) list
+)
+"Lab1/lab2.ml" 422 11284 11290 "Lab1/lab2.ml" 422 11284 11291
+type(
+  'b
+)
+ident(
+  def x "Lab1/lab2.ml" 422 11284 11299 "Lab1/lab2.ml" 422 11284 11320
+)
+"Lab1/lab2.ml" 422 11284 11293 "Lab1/lab2.ml" 422 11284 11295
+type(
+  'b list
+)
+ident(
+  def xs "Lab1/lab2.ml" 422 11284 11299 "Lab1/lab2.ml" 422 11284 11320
+)
+"Lab1/lab2.ml" 422 11284 11290 "Lab1/lab2.ml" 422 11284 11295
+type(
+  'b list
+)
+"Lab1/lab2.ml" 422 11284 11300 "Lab1/lab2.ml" 422 11284 11301
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 419 11226 11243 "Lab1/lab2.ml" 419 11226 11244
+)
+"Lab1/lab2.ml" 422 11284 11302 "Lab1/lab2.ml" 422 11284 11303
+type(
+  'b
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 422 11284 11290 "Lab1/lab2.ml" 422 11284 11291
+)
+"Lab1/lab2.ml" 422 11284 11299 "Lab1/lab2.ml" 422 11284 11304
+type(
+  int * 'b
+)
+"Lab1/lab2.ml" 422 11284 11307 "Lab1/lab2.ml" 422 11284 11310
+type(
+  'b list -> int -> (int * 'b) list
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 419 11226 11236 "Lab1/lab2.ml" 419 11226 11239
+)
+"Lab1/lab2.ml" 422 11284 11311 "Lab1/lab2.ml" 422 11284 11313
+type(
+  'b list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 422 11284 11293 "Lab1/lab2.ml" 422 11284 11295
+)
+"Lab1/lab2.ml" 422 11284 11315 "Lab1/lab2.ml" 422 11284 11316
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 419 11226 11243 "Lab1/lab2.ml" 419 11226 11244
+)
+"Lab1/lab2.ml" 422 11284 11316 "Lab1/lab2.ml" 422 11284 11317
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 422 11284 11317 "Lab1/lab2.ml" 422 11284 11318
+type(
+  int
+)
+"Lab1/lab2.ml" 422 11284 11314 "Lab1/lab2.ml" 422 11284 11319
+type(
+  int
+)
+"Lab1/lab2.ml" 422 11284 11306 "Lab1/lab2.ml" 422 11284 11320
+type(
+  (int * 'b) list
+)
+"Lab1/lab2.ml" 422 11284 11299 "Lab1/lab2.ml" 422 11284 11320
+type(
+  (int * 'b) list
+)
+"Lab1/lab2.ml" 420 11248 11252 "Lab1/lab2.ml" 422 11284 11320
+type(
+  (int * 'b) list
+)
+"Lab1/lab2.ml" 423 11322 11327 "Lab1/lab2.ml" 423 11322 11330
+type(
+  'a list -> int -> (int * 'a) list
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 419 11226 11236 "Lab1/lab2.ml" 419 11226 11239
+)
+"Lab1/lab2.ml" 423 11322 11331 "Lab1/lab2.ml" 423 11322 11333
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 418 11180 11193 "Lab1/lab2.ml" 418 11180 11195
+)
+"Lab1/lab2.ml" 423 11322 11334 "Lab1/lab2.ml" 423 11322 11335
+type(
+  int
+)
+"Lab1/lab2.ml" 423 11322 11327 "Lab1/lab2.ml" 423 11322 11335
+type(
+  (int * 'a) list
+)
+"Lab1/lab2.ml" 419 11226 11228 "Lab1/lab2.ml" 423 11322 11335
+type(
+  (int * 'a) list
+)
+type(
+  (int * 'a) list
+)
+"Lab1/lab2.ml" 425 11341 11345 "Lab1/lab2.ml" 425 11341 11347
+type(
+  string list
+)
+ident(
+  def ls "Lab1/lab2.ml" 427 11391 11391 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 425 11341 11351 "Lab1/lab2.ml" 425 11341 11357
+type(
+  string
+)
+"Lab1/lab2.ml" 425 11341 11358 "Lab1/lab2.ml" 425 11341 11362
+type(
+  string
+)
+"Lab1/lab2.ml" 425 11341 11363 "Lab1/lab2.ml" 425 11341 11366
+type(
+  string
+)
+"Lab1/lab2.ml" 425 11341 11367 "Lab1/lab2.ml" 425 11341 11377
+type(
+  string
+)
+"Lab1/lab2.ml" 425 11341 11378 "Lab1/lab2.ml" 425 11341 11384
+type(
+  string
+)
+"Lab1/lab2.ml" 425 11341 11350 "Lab1/lab2.ml" 425 11341 11385
+type(
+  string list
+)
+"Lab1/lab2.ml" 427 11391 11395 "Lab1/lab2.ml" 427 11391 11400
+type(
+  'a -> 'a
+)
+ident(
+  def pr_id "Lab1/lab2.ml" 429 11413 11413 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 427 11391 11401 "Lab1/lab2.ml" 427 11391 11402
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 427 11391 11405 "Lab1/lab2.ml" 427 11391 11406
+)
+"Lab1/lab2.ml" 427 11391 11405 "Lab1/lab2.ml" 427 11391 11406
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 427 11391 11401 "Lab1/lab2.ml" 427 11391 11402
+)
+"Lab1/lab2.ml" 429 11413 11417 "Lab1/lab2.ml" 429 11413 11428
+type(
+  string -> (string -> string) -> string list -> string
+)
+ident(
+  def pr_list_num "Lab1/lab2.ml" 441 11792 11792 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 429 11413 11430 "Lab1/lab2.ml" 429 11413 11433
+type(
+  string
+)
+ident(
+  def sep "Lab1/lab2.ml" 429 11413 11442 "Lab1/lab2.ml" 439 11747 11786
+)
+"Lab1/lab2.ml" 429 11413 11443 "Lab1/lab2.ml" 429 11413 11445
+type(
+  string -> string
+)
+ident(
+  def pr "Lab1/lab2.ml" 429 11413 11458 "Lab1/lab2.ml" 439 11747 11786
+)
+"Lab1/lab2.ml" 429 11413 11459 "Lab1/lab2.ml" 429 11413 11461
+type(
+  string list
+)
+ident(
+  def xs "Lab1/lab2.ml" 429 11413 11471 "Lab1/lab2.ml" 439 11747 11786
+)
+"Lab1/lab2.ml" 430 11481 11485 "Lab1/lab2.ml" 430 11481 11488
+type(
+  string
+)
+"Lab1/lab2.ml" 430 11481 11489 "Lab1/lab2.ml" 430 11481 11490
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 430 11481 11492 "Lab1/lab2.ml" 430 11481 11494
+type(
+  string list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 429 11413 11459 "Lab1/lab2.ml" 429 11413 11461
+)
+"Lab1/lab2.ml" 431 11497 11503 "Lab1/lab2.ml" 431 11497 11505
+type(
+  string list -> (string list -> (int * string) list) -> (int * string) list
+)
+ident(
+  int_ref |> "Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+)
+"Lab1/lab2.ml" 431 11497 11506 "Lab1/lab2.ml" 431 11497 11513
+type(
+  string list -> (int * string) list
+)
+ident(
+  int_ref add_num "Lab1/lab2.ml" 418 11180 11184 "Lab1/lab2.ml" 418 11180 11191
+)
+"Lab1/lab2.ml" 430 11481 11492 "Lab1/lab2.ml" 431 11497 11513
+type(
+  (int * string) list
+)
+"Lab1/lab2.ml" 432 11515 11521 "Lab1/lab2.ml" 432 11515 11523
+type(
+  (int * string) list -> ((int * string) list -> string list) -> string list
+)
+ident(
+  int_ref |> "Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+)
+"Lab1/lab2.ml" 432 11515 11529 "Lab1/lab2.ml" 432 11515 11531
+type(
+  (int * string) list
+)
+ident(
+  def ys "Lab1/lab2.ml" 433 11536 11544 "Lab1/lab2.ml" 437 11699 11716
+)
+"Lab1/lab2.ml" 433 11536 11552 "Lab1/lab2.ml" 433 11536 11555
+type(
+  (int * string) list -> string list
+)
+ident(
+  def aux "Lab1/lab2.ml" 433 11536 11544 "Lab1/lab2.ml" 437 11699 11716
+)
+"Lab1/lab2.ml" 433 11536 11556 "Lab1/lab2.ml" 433 11536 11558
+type(
+  (int * string) list
+)
+ident(
+  def ys "Lab1/lab2.ml" 434 11561 11579 "Lab1/lab2.ml" 436 11623 11697
+)
+"Lab1/lab2.ml" 434 11561 11585 "Lab1/lab2.ml" 434 11561 11587
+type(
+  (int * string) list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 433 11536 11556 "Lab1/lab2.ml" 433 11536 11558
+)
+"Lab1/lab2.ml" 435 11594 11614 "Lab1/lab2.ml" 435 11594 11616
+type(
+  (int * string) list
+)
+"Lab1/lab2.ml" 435 11594 11620 "Lab1/lab2.ml" 435 11594 11622
+type(
+  string list
+)
+"Lab1/lab2.ml" 436 11623 11644 "Lab1/lab2.ml" 436 11623 11645
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 436 11623 11657 "Lab1/lab2.ml" 436 11623 11697
+)
+"Lab1/lab2.ml" 436 11623 11646 "Lab1/lab2.ml" 436 11623 11647
+type(
+  string
+)
+ident(
+  def y "Lab1/lab2.ml" 436 11623 11657 "Lab1/lab2.ml" 436 11623 11697
+)
+"Lab1/lab2.ml" 436 11623 11643 "Lab1/lab2.ml" 436 11623 11648
+type(
+  int * string
+)
+"Lab1/lab2.ml" 436 11623 11650 "Lab1/lab2.ml" 436 11623 11653
+type(
+  (int * string) list
+)
+ident(
+  def yys "Lab1/lab2.ml" 436 11623 11657 "Lab1/lab2.ml" 436 11623 11697
+)
+"Lab1/lab2.ml" 436 11623 11643 "Lab1/lab2.ml" 436 11623 11653
+type(
+  (int * string) list
+)
+"Lab1/lab2.ml" 436 11623 11658 "Lab1/lab2.ml" 436 11623 11661
+type(
+  string
+)
+"Lab1/lab2.ml" 436 11623 11661 "Lab1/lab2.ml" 436 11623 11662
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 436 11623 11663 "Lab1/lab2.ml" 436 11623 11676
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 436 11623 11677 "Lab1/lab2.ml" 436 11623 11678
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 436 11623 11644 "Lab1/lab2.ml" 436 11623 11645
+)
+"Lab1/lab2.ml" 436 11623 11662 "Lab1/lab2.ml" 436 11623 11679
+type(
+  string
+)
+"Lab1/lab2.ml" 436 11623 11679 "Lab1/lab2.ml" 436 11623 11680
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 436 11623 11680 "Lab1/lab2.ml" 436 11623 11683
+type(
+  string
+)
+"Lab1/lab2.ml" 436 11623 11683 "Lab1/lab2.ml" 436 11623 11684
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 436 11623 11684 "Lab1/lab2.ml" 436 11623 11685
+type(
+  string
+)
+ident(
+  int_ref y "Lab1/lab2.ml" 436 11623 11646 "Lab1/lab2.ml" 436 11623 11647
+)
+"Lab1/lab2.ml" 436 11623 11680 "Lab1/lab2.ml" 436 11623 11685
+type(
+  string
+)
+"Lab1/lab2.ml" 436 11623 11662 "Lab1/lab2.ml" 436 11623 11685
+type(
+  string
+)
+"Lab1/lab2.ml" 436 11623 11657 "Lab1/lab2.ml" 436 11623 11686
+type(
+  string
+)
+"Lab1/lab2.ml" 436 11623 11689 "Lab1/lab2.ml" 436 11623 11692
+type(
+  (int * string) list -> string list
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 433 11536 11552 "Lab1/lab2.ml" 433 11536 11555
+)
+"Lab1/lab2.ml" 436 11623 11693 "Lab1/lab2.ml" 436 11623 11696
+type(
+  (int * string) list
+)
+ident(
+  int_ref yys "Lab1/lab2.ml" 436 11623 11650 "Lab1/lab2.ml" 436 11623 11653
+)
+"Lab1/lab2.ml" 436 11623 11688 "Lab1/lab2.ml" 436 11623 11697
+type(
+  string list
+)
+"Lab1/lab2.ml" 436 11623 11657 "Lab1/lab2.ml" 436 11623 11697
+type(
+  string list
+)
+"Lab1/lab2.ml" 434 11561 11579 "Lab1/lab2.ml" 436 11623 11697
+type(
+  string list
+)
+"Lab1/lab2.ml" 437 11699 11710 "Lab1/lab2.ml" 437 11699 11713
+type(
+  (int * string) list -> string list
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 433 11536 11552 "Lab1/lab2.ml" 433 11536 11555
+)
+"Lab1/lab2.ml" 437 11699 11714 "Lab1/lab2.ml" 437 11699 11716
+type(
+  (int * string) list
+)
+ident(
+  int_ref ys "Lab1/lab2.ml" 432 11515 11529 "Lab1/lab2.ml" 432 11515 11531
+)
+"Lab1/lab2.ml" 437 11699 11710 "Lab1/lab2.ml" 437 11699 11716
+type(
+  string list
+)
+"Lab1/lab2.ml" 433 11536 11544 "Lab1/lab2.ml" 437 11699 11716
+type(
+  string list
+)
+"Lab1/lab2.ml" 432 11515 11524 "Lab1/lab2.ml" 437 11699 11717
+type(
+  (int * string) list -> string list
+)
+"Lab1/lab2.ml" 430 11481 11492 "Lab1/lab2.ml" 437 11699 11717
+type(
+  string list
+)
+"Lab1/lab2.ml" 438 11719 11730 "Lab1/lab2.ml" 438 11719 11732
+type(
+  string list -> (string list -> string list) -> string list
+)
+ident(
+  int_ref |> "Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+)
+"Lab1/lab2.ml" 438 11719 11733 "Lab1/lab2.ml" 438 11719 11741
+type(
+  (string -> string) -> string list -> string list
+)
+ident(
+  ext_ref List.map
+)
+"Lab1/lab2.ml" 438 11719 11742 "Lab1/lab2.ml" 438 11719 11744
+type(
+  string -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 429 11413 11443 "Lab1/lab2.ml" 429 11413 11445
+)
+"Lab1/lab2.ml" 438 11719 11733 "Lab1/lab2.ml" 438 11719 11744
+type(
+  string list -> string list
+)
+"Lab1/lab2.ml" 430 11481 11492 "Lab1/lab2.ml" 438 11719 11744
+type(
+  string list
+)
+"Lab1/lab2.ml" 439 11747 11758 "Lab1/lab2.ml" 439 11747 11760
+type(
+  string list -> (string list -> string) -> string
+)
+ident(
+  int_ref |> "Lab1/lab2.ml" 411 10993 10997 "Lab1/lab2.ml" 411 10993 11003
+)
+"Lab1/lab2.ml" 439 11747 11761 "Lab1/lab2.ml" 439 11747 11774
+type(
+  string -> string list -> string
+)
+ident(
+  ext_ref String.concat
+)
+"Lab1/lab2.ml" 439 11747 11775 "Lab1/lab2.ml" 439 11747 11779
+type(
+  string
+)
+"Lab1/lab2.ml" 439 11747 11761 "Lab1/lab2.ml" 439 11747 11779
+type(
+  string list -> string
+)
+"Lab1/lab2.ml" 430 11481 11491 "Lab1/lab2.ml" 439 11747 11780
+type(
+  string
+)
+"Lab1/lab2.ml" 439 11747 11781 "Lab1/lab2.ml" 439 11747 11782
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 439 11747 11783 "Lab1/lab2.ml" 439 11747 11786
+type(
+  string
+)
+"Lab1/lab2.ml" 430 11481 11491 "Lab1/lab2.ml" 439 11747 11786
+type(
+  string
+)
+"Lab1/lab2.ml" 430 11481 11485 "Lab1/lab2.ml" 439 11747 11786
+type(
+  string
+)
+type(
+  string
+)
+"Lab1/lab2.ml" 441 11792 11796 "Lab1/lab2.ml" 441 11792 11804
+type(
+  string -> (string -> string) -> string list -> unit
+)
+ident(
+  def test_num "Lab1/lab2.ml" 493 13140 13140 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 441 11792 11805 "Lab1/lab2.ml" 441 11792 11808
+type(
+  string
+)
+ident(
+  def sep "Lab1/lab2.ml" 441 11792 11809 "Lab1/lab2.ml" 443 11854 11871
+)
+"Lab1/lab2.ml" 441 11792 11809 "Lab1/lab2.ml" 441 11792 11811
+type(
+  string -> string
+)
+ident(
+  def pr "Lab1/lab2.ml" 441 11792 11812 "Lab1/lab2.ml" 443 11854 11871
+)
+"Lab1/lab2.ml" 441 11792 11812 "Lab1/lab2.ml" 441 11792 11814
+type(
+  string list
+)
+ident(
+  def xs "Lab1/lab2.ml" 442 11818 11820 "Lab1/lab2.ml" 443 11854 11871
+)
+"Lab1/lab2.ml" 442 11818 11824 "Lab1/lab2.ml" 442 11818 11825
+type(
+  string
+)
+ident(
+  def s "Lab1/lab2.ml" 443 11854 11856 "Lab1/lab2.ml" 443 11854 11871
+)
+"Lab1/lab2.ml" 442 11818 11828 "Lab1/lab2.ml" 442 11818 11839
+type(
+  string -> (string -> string) -> string list -> string
+)
+ident(
+  int_ref pr_list_num "Lab1/lab2.ml" 429 11413 11417 "Lab1/lab2.ml" 429 11413 11428
+)
+"Lab1/lab2.ml" 442 11818 11840 "Lab1/lab2.ml" 442 11818 11843
+type(
+  string
+)
+ident(
+  int_ref sep "Lab1/lab2.ml" 441 11792 11805 "Lab1/lab2.ml" 441 11792 11808
+)
+"Lab1/lab2.ml" 442 11818 11844 "Lab1/lab2.ml" 442 11818 11846
+type(
+  string -> string
+)
+ident(
+  int_ref pr "Lab1/lab2.ml" 441 11792 11809 "Lab1/lab2.ml" 441 11792 11811
+)
+"Lab1/lab2.ml" 442 11818 11847 "Lab1/lab2.ml" 442 11818 11849
+type(
+  string list
+)
+ident(
+  int_ref xs "Lab1/lab2.ml" 441 11792 11812 "Lab1/lab2.ml" 441 11792 11814
+)
+"Lab1/lab2.ml" 442 11818 11828 "Lab1/lab2.ml" 442 11818 11849
+type(
+  string
+)
+"Lab1/lab2.ml" 443 11854 11856 "Lab1/lab2.ml" 443 11854 11869
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Lab1/lab2.ml" 443 11854 11870 "Lab1/lab2.ml" 443 11854 11871
+type(
+  string
+)
+ident(
+  int_ref s "Lab1/lab2.ml" 442 11818 11824 "Lab1/lab2.ml" 442 11818 11825
+)
+"Lab1/lab2.ml" 443 11854 11856 "Lab1/lab2.ml" 443 11854 11871
+type(
+  unit
+)
+"Lab1/lab2.ml" 442 11818 11820 "Lab1/lab2.ml" 443 11854 11871
+type(
+  unit
+)
+"Lab1/lab2.ml" 493 13140 13144 "Lab1/lab2.ml" 493 13140 13151
+type(
+  ('a -> 'v) ->
+  ('v -> 'b -> unit) -> ('v -> exn -> unit) -> ('a -> 'b) -> 'a -> 'b
+)
+ident(
+  def wrapper "Lab1/lab2.ml" 505 13390 13390 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 493 13140 13153 "Lab1/lab2.ml" 493 13140 13156
+type(
+  'a -> 'v
+)
+ident(
+  def pre "Lab1/lab2.ml" 493 13140 13165 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 493 13140 13166 "Lab1/lab2.ml" 493 13140 13170
+type(
+  'v -> 'b -> unit
+)
+ident(
+  def post "Lab1/lab2.ml" 494 13186 13190 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 494 13186 13191 "Lab1/lab2.ml" 494 13186 13199
+type(
+  'v -> exn -> unit
+)
+ident(
+  def post_exc "Lab1/lab2.ml" 495 13218 13222 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 495 13218 13223 "Lab1/lab2.ml" 495 13218 13224
+type(
+  'a -> 'b
+)
+ident(
+  def f "Lab1/lab2.ml" 495 13218 13233 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 495 13218 13234 "Lab1/lab2.ml" 495 13218 13235
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 495 13218 13240 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 496 13248 13254 "Lab1/lab2.ml" 496 13248 13255
+type(
+  'v
+)
+ident(
+  def v "Lab1/lab2.ml" 497 13268 13270 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 496 13248 13258 "Lab1/lab2.ml" 496 13248 13261
+type(
+  'a -> 'v
+)
+ident(
+  int_ref pre "Lab1/lab2.ml" 493 13140 13153 "Lab1/lab2.ml" 493 13140 13156
+)
+"Lab1/lab2.ml" 496 13248 13262 "Lab1/lab2.ml" 496 13248 13263
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 495 13218 13234 "Lab1/lab2.ml" 495 13218 13235
+)
+"Lab1/lab2.ml" 496 13248 13258 "Lab1/lab2.ml" 496 13248 13263
+type(
+  'v
+)
+"Lab1/lab2.ml" 498 13276 13284 "Lab1/lab2.ml" 498 13276 13285
+type(
+  'b
+)
+ident(
+  def r "Lab1/lab2.ml" 499 13296 13300 "Lab1/lab2.ml" 500 13322 13327
+)
+"Lab1/lab2.ml" 498 13276 13288 "Lab1/lab2.ml" 498 13276 13289
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 495 13218 13223 "Lab1/lab2.ml" 495 13218 13224
+)
+"Lab1/lab2.ml" 498 13276 13290 "Lab1/lab2.ml" 498 13276 13291
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 495 13218 13234 "Lab1/lab2.ml" 495 13218 13235
+)
+"Lab1/lab2.ml" 498 13276 13288 "Lab1/lab2.ml" 498 13276 13291
+type(
+  'b
+)
+"Lab1/lab2.ml" 499 13296 13304 "Lab1/lab2.ml" 499 13296 13306
+type(
+  unit
+)
+"Lab1/lab2.ml" 499 13296 13309 "Lab1/lab2.ml" 499 13296 13313
+type(
+  'v -> 'b -> unit
+)
+ident(
+  int_ref post "Lab1/lab2.ml" 493 13140 13166 "Lab1/lab2.ml" 493 13140 13170
+)
+"Lab1/lab2.ml" 499 13296 13314 "Lab1/lab2.ml" 499 13296 13315
+type(
+  'v
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 496 13248 13254 "Lab1/lab2.ml" 496 13248 13255
+)
+"Lab1/lab2.ml" 499 13296 13316 "Lab1/lab2.ml" 499 13296 13317
+type(
+  'b
+)
+ident(
+  int_ref r "Lab1/lab2.ml" 498 13276 13284 "Lab1/lab2.ml" 498 13276 13285
+)
+"Lab1/lab2.ml" 499 13296 13309 "Lab1/lab2.ml" 499 13296 13317
+type(
+  unit
+)
+"Lab1/lab2.ml" 500 13322 13326 "Lab1/lab2.ml" 500 13322 13327
+type(
+  'b
+)
+ident(
+  int_ref r "Lab1/lab2.ml" 498 13276 13284 "Lab1/lab2.ml" 498 13276 13285
+)
+"Lab1/lab2.ml" 499 13296 13300 "Lab1/lab2.ml" 500 13322 13327
+type(
+  'b
+)
+"Lab1/lab2.ml" 498 13276 13280 "Lab1/lab2.ml" 500 13322 13327
+type(
+  'b
+)
+"Lab1/lab2.ml" 501 13329 13336 "Lab1/lab2.ml" 501 13329 13337
+type(
+  exn
+)
+ident(
+  def e "Lab1/lab2.ml" 502 13343 13347 "Lab1/lab2.ml" 503 13373 13384
+)
+"Lab1/lab2.ml" 502 13343 13351 "Lab1/lab2.ml" 502 13343 13353
+type(
+  unit
+)
+"Lab1/lab2.ml" 502 13343 13356 "Lab1/lab2.ml" 502 13343 13364
+type(
+  'v -> exn -> unit
+)
+ident(
+  int_ref post_exc "Lab1/lab2.ml" 494 13186 13191 "Lab1/lab2.ml" 494 13186 13199
+)
+"Lab1/lab2.ml" 502 13343 13365 "Lab1/lab2.ml" 502 13343 13366
+type(
+  'v
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 496 13248 13254 "Lab1/lab2.ml" 496 13248 13255
+)
+"Lab1/lab2.ml" 502 13343 13367 "Lab1/lab2.ml" 502 13343 13368
+type(
+  exn
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 501 13329 13336 "Lab1/lab2.ml" 501 13329 13337
+)
+"Lab1/lab2.ml" 502 13343 13356 "Lab1/lab2.ml" 502 13343 13368
+type(
+  unit
+)
+"Lab1/lab2.ml" 503 13373 13377 "Lab1/lab2.ml" 503 13373 13382
+type(
+  exn -> 'b
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Lab1/lab2.ml" 503 13373 13383 "Lab1/lab2.ml" 503 13373 13384
+type(
+  exn
+)
+ident(
+  int_ref e "Lab1/lab2.ml" 501 13329 13336 "Lab1/lab2.ml" 501 13329 13337
+)
+"Lab1/lab2.ml" 503 13373 13377 "Lab1/lab2.ml" 503 13373 13384
+type(
+  'b
+)
+"Lab1/lab2.ml" 502 13343 13347 "Lab1/lab2.ml" 503 13373 13384
+type(
+  'b
+)
+"Lab1/lab2.ml" 497 13268 13270 "Lab1/lab2.ml" 503 13373 13384
+type(
+  'b
+)
+"Lab1/lab2.ml" 496 13248 13250 "Lab1/lab2.ml" 503 13373 13384
+type(
+  'b
+)
+type(
+  'b
+)
+"Lab1/lab2.ml" 505 13390 13394 "Lab1/lab2.ml" 505 13390 13403
+type(
+  string -> unit
+)
+ident(
+  def out_print "Lab1/lab2.ml" 508 13451 13451 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 505 13390 13404 "Lab1/lab2.ml" 505 13390 13405
+type(
+  string
+)
+ident(
+  def x "Lab1/lab2.ml" 505 13390 13408 "Lab1/lab2.ml" 505 13390 13423
+)
+"Lab1/lab2.ml" 505 13390 13408 "Lab1/lab2.ml" 505 13390 13421
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"Lab1/lab2.ml" 505 13390 13422 "Lab1/lab2.ml" 505 13390 13423
+type(
+  string
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 505 13390 13404 "Lab1/lab2.ml" 505 13390 13405
+)
+"Lab1/lab2.ml" 505 13390 13408 "Lab1/lab2.ml" 505 13390 13423
+type(
+  unit
+)
+"Lab1/lab2.ml" 508 13451 13455 "Lab1/lab2.ml" 508 13451 13461
+type(
+  string -> ('a -> string) -> ('b -> string) -> ('a -> 'b) -> 'a -> 'b
+)
+ident(
+  def tracer "Lab1/lab2.ml" 516 13701 13701 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 508 13451 13462 "Lab1/lab2.ml" 508 13451 13468
+type(
+  string
+)
+ident(
+  def fn_str "Lab1/lab2.ml" 508 13451 13469 "Lab1/lab2.ml" 513 13638 13645
+)
+"Lab1/lab2.ml" 508 13451 13469 "Lab1/lab2.ml" 508 13451 13475
+type(
+  'a -> string
+)
+ident(
+  def pr_arg "Lab1/lab2.ml" 508 13451 13476 "Lab1/lab2.ml" 513 13638 13645
+)
+"Lab1/lab2.ml" 508 13451 13476 "Lab1/lab2.ml" 508 13451 13482
+type(
+  'b -> string
+)
+ident(
+  def pr_res "Lab1/lab2.ml" 508 13451 13483 "Lab1/lab2.ml" 513 13638 13645
+)
+"Lab1/lab2.ml" 508 13451 13483 "Lab1/lab2.ml" 508 13451 13484
+type(
+  'a -> 'b
+)
+ident(
+  def f "Lab1/lab2.ml" 508 13451 13485 "Lab1/lab2.ml" 513 13638 13645
+)
+"Lab1/lab2.ml" 508 13451 13485 "Lab1/lab2.ml" 508 13451 13486
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 509 13490 13492 "Lab1/lab2.ml" 513 13638 13645
+)
+"Lab1/lab2.ml" 509 13490 13492 "Lab1/lab2.ml" 509 13490 13499
+type(
+  ('a -> string) ->
+  (string -> 'b -> unit) -> (string -> exn -> unit) -> ('a -> 'b) -> 'a -> 'b
+)
+ident(
+  int_ref wrapper "Lab1/lab2.ml" 493 13140 13144 "Lab1/lab2.ml" 493 13140 13151
+)
+"Lab1/lab2.ml" 510 13502 13511 "Lab1/lab2.ml" 510 13502 13512
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 510 13502 13516 "Lab1/lab2.ml" 510 13502 13537
+)
+"Lab1/lab2.ml" 510 13502 13516 "Lab1/lab2.ml" 510 13502 13522
+type(
+  string
+)
+ident(
+  int_ref fn_str "Lab1/lab2.ml" 508 13451 13462 "Lab1/lab2.ml" 508 13451 13468
+)
+"Lab1/lab2.ml" 510 13502 13522 "Lab1/lab2.ml" 510 13502 13523
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 510 13502 13523 "Lab1/lab2.ml" 510 13502 13526
+type(
+  string
+)
+"Lab1/lab2.ml" 510 13502 13526 "Lab1/lab2.ml" 510 13502 13527
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 510 13502 13528 "Lab1/lab2.ml" 510 13502 13534
+type(
+  'a -> string
+)
+ident(
+  int_ref pr_arg "Lab1/lab2.ml" 508 13451 13469 "Lab1/lab2.ml" 508 13451 13475
+)
+"Lab1/lab2.ml" 510 13502 13535 "Lab1/lab2.ml" 510 13502 13536
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 510 13502 13511 "Lab1/lab2.ml" 510 13502 13512
+)
+"Lab1/lab2.ml" 510 13502 13527 "Lab1/lab2.ml" 510 13502 13537
+type(
+  string
+)
+"Lab1/lab2.ml" 510 13502 13523 "Lab1/lab2.ml" 510 13502 13537
+type(
+  string
+)
+"Lab1/lab2.ml" 510 13502 13516 "Lab1/lab2.ml" 510 13502 13537
+type(
+  string
+)
+"Lab1/lab2.ml" 510 13502 13506 "Lab1/lab2.ml" 510 13502 13538
+type(
+  'a -> string
+)
+"Lab1/lab2.ml" 511 13540 13549 "Lab1/lab2.ml" 511 13540 13550
+type(
+  string
+)
+ident(
+  def v "Lab1/lab2.ml" 511 13540 13551 "Lab1/lab2.ml" 511 13540 13587
+)
+"Lab1/lab2.ml" 511 13540 13551 "Lab1/lab2.ml" 511 13540 13552
+type(
+  'b
+)
+ident(
+  def r "Lab1/lab2.ml" 511 13540 13556 "Lab1/lab2.ml" 511 13540 13587
+)
+"Lab1/lab2.ml" 511 13540 13556 "Lab1/lab2.ml" 511 13540 13565
+type(
+  string -> unit
+)
+ident(
+  int_ref out_print "Lab1/lab2.ml" 505 13390 13394 "Lab1/lab2.ml" 505 13390 13403
+)
+"Lab1/lab2.ml" 511 13540 13567 "Lab1/lab2.ml" 511 13540 13568
+type(
+  string
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 511 13540 13549 "Lab1/lab2.ml" 511 13540 13550
+)
+"Lab1/lab2.ml" 511 13540 13568 "Lab1/lab2.ml" 511 13540 13569
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 511 13540 13569 "Lab1/lab2.ml" 511 13540 13575
+type(
+  string
+)
+"Lab1/lab2.ml" 511 13540 13575 "Lab1/lab2.ml" 511 13540 13576
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 511 13540 13577 "Lab1/lab2.ml" 511 13540 13583
+type(
+  'b -> string
+)
+ident(
+  int_ref pr_res "Lab1/lab2.ml" 508 13451 13476 "Lab1/lab2.ml" 508 13451 13482
+)
+"Lab1/lab2.ml" 511 13540 13584 "Lab1/lab2.ml" 511 13540 13585
+type(
+  'b
+)
+ident(
+  int_ref r "Lab1/lab2.ml" 511 13540 13551 "Lab1/lab2.ml" 511 13540 13552
+)
+"Lab1/lab2.ml" 511 13540 13576 "Lab1/lab2.ml" 511 13540 13586
+type(
+  string
+)
+"Lab1/lab2.ml" 511 13540 13569 "Lab1/lab2.ml" 511 13540 13586
+type(
+  string
+)
+"Lab1/lab2.ml" 511 13540 13566 "Lab1/lab2.ml" 511 13540 13587
+type(
+  string
+)
+"Lab1/lab2.ml" 511 13540 13556 "Lab1/lab2.ml" 511 13540 13587
+type(
+  unit
+)
+"Lab1/lab2.ml" 511 13540 13544 "Lab1/lab2.ml" 511 13540 13588
+type(
+  string -> 'b -> unit
+)
+"Lab1/lab2.ml" 512 13590 13599 "Lab1/lab2.ml" 512 13590 13600
+type(
+  string
+)
+ident(
+  def v "Lab1/lab2.ml" 512 13590 13601 "Lab1/lab2.ml" 512 13590 13635
+)
+"Lab1/lab2.ml" 512 13590 13601 "Lab1/lab2.ml" 512 13590 13602
+type(
+  exn
+)
+ident(
+  def e "Lab1/lab2.ml" 512 13590 13606 "Lab1/lab2.ml" 512 13590 13635
+)
+"Lab1/lab2.ml" 512 13590 13606 "Lab1/lab2.ml" 512 13590 13615
+type(
+  string -> unit
+)
+ident(
+  int_ref out_print "Lab1/lab2.ml" 505 13390 13394 "Lab1/lab2.ml" 505 13390 13403
+)
+"Lab1/lab2.ml" 512 13590 13617 "Lab1/lab2.ml" 512 13590 13618
+type(
+  string
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 512 13590 13599 "Lab1/lab2.ml" 512 13590 13600
+)
+"Lab1/lab2.ml" 512 13590 13618 "Lab1/lab2.ml" 512 13590 13619
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 512 13590 13619 "Lab1/lab2.ml" 512 13590 13634
+type(
+  string
+)
+"Lab1/lab2.ml" 512 13590 13616 "Lab1/lab2.ml" 512 13590 13635
+type(
+  string
+)
+"Lab1/lab2.ml" 512 13590 13606 "Lab1/lab2.ml" 512 13590 13635
+type(
+  unit
+)
+"Lab1/lab2.ml" 512 13590 13594 "Lab1/lab2.ml" 512 13590 13636
+type(
+  string -> exn -> unit
+)
+"Lab1/lab2.ml" 513 13638 13642 "Lab1/lab2.ml" 513 13638 13643
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 508 13451 13483 "Lab1/lab2.ml" 508 13451 13484
+)
+"Lab1/lab2.ml" 513 13638 13644 "Lab1/lab2.ml" 513 13638 13645
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 508 13451 13485 "Lab1/lab2.ml" 508 13451 13486
+)
+"Lab1/lab2.ml" 509 13490 13492 "Lab1/lab2.ml" 513 13638 13645
+type(
+  'b
+)
+"Lab1/lab2.ml" 516 13701 13709 "Lab1/lab2.ml" 516 13701 13712
+type(
+  int -> int
+)
+ident(
+  def fib "Lab1/lab2.ml" 516 13701 13701 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 516 13701 13713 "Lab1/lab2.ml" 516 13701 13714
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 517 13719 13721 "Lab1/lab2.ml" 518 13737 13764
+)
+"Lab1/lab2.ml" 517 13719 13724 "Lab1/lab2.ml" 517 13719 13725
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 516 13701 13713 "Lab1/lab2.ml" 516 13701 13714
+)
+"Lab1/lab2.ml" 517 13719 13725 "Lab1/lab2.ml" 517 13719 13727
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/lab2.ml" 517 13719 13727 "Lab1/lab2.ml" 517 13719 13728
+type(
+  int
+)
+"Lab1/lab2.ml" 517 13719 13724 "Lab1/lab2.ml" 517 13719 13728
+type(
+  bool
+)
+"Lab1/lab2.ml" 517 13719 13734 "Lab1/lab2.ml" 517 13719 13735
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13744 "Lab1/lab2.ml" 518 13737 13747
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Lab1/lab2.ml" 516 13701 13709 "Lab1/lab2.ml" 516 13701 13712
+)
+"Lab1/lab2.ml" 518 13737 13749 "Lab1/lab2.ml" 518 13737 13750
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 516 13701 13713 "Lab1/lab2.ml" 516 13701 13714
+)
+"Lab1/lab2.ml" 518 13737 13750 "Lab1/lab2.ml" 518 13737 13751
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/lab2.ml" 518 13737 13751 "Lab1/lab2.ml" 518 13737 13752
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13748 "Lab1/lab2.ml" 518 13737 13753
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13744 "Lab1/lab2.ml" 518 13737 13753
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13753 "Lab1/lab2.ml" 518 13737 13754
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 518 13737 13755 "Lab1/lab2.ml" 518 13737 13758
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Lab1/lab2.ml" 516 13701 13709 "Lab1/lab2.ml" 516 13701 13712
+)
+"Lab1/lab2.ml" 518 13737 13759 "Lab1/lab2.ml" 518 13737 13760
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 516 13701 13713 "Lab1/lab2.ml" 516 13701 13714
+)
+"Lab1/lab2.ml" 518 13737 13760 "Lab1/lab2.ml" 518 13737 13761
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/lab2.ml" 518 13737 13761 "Lab1/lab2.ml" 518 13737 13762
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13758 "Lab1/lab2.ml" 518 13737 13763
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13754 "Lab1/lab2.ml" 518 13737 13764
+type(
+  int
+)
+"Lab1/lab2.ml" 518 13737 13744 "Lab1/lab2.ml" 518 13737 13764
+type(
+  int
+)
+"Lab1/lab2.ml" 517 13719 13721 "Lab1/lab2.ml" 518 13737 13764
+type(
+  int
+)
+"Lab1/lab2.ml" 520 13770 13774 "Lab1/lab2.ml" 520 13770 13778
+type(
+  int -> int
+)
+ident(
+  def fib1 "Lab1/lab2.ml" 524 13875 13875 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 520 13770 13779 "Lab1/lab2.ml" 520 13770 13780
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 521 13785 13787 "Lab1/lab2.ml" 521 13785 13833
+)
+"Lab1/lab2.ml" 521 13785 13787 "Lab1/lab2.ml" 521 13785 13793
+type(
+  string -> (int -> string) -> (int -> string) -> (int -> int) -> int -> int
+)
+ident(
+  int_ref tracer "Lab1/lab2.ml" 508 13451 13455 "Lab1/lab2.ml" 508 13451 13461
+)
+"Lab1/lab2.ml" 521 13785 13794 "Lab1/lab2.ml" 521 13785 13799
+type(
+  string
+)
+"Lab1/lab2.ml" 521 13785 13800 "Lab1/lab2.ml" 521 13785 13813
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 521 13785 13814 "Lab1/lab2.ml" 521 13785 13827
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 521 13785 13828 "Lab1/lab2.ml" 521 13785 13831
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Lab1/lab2.ml" 516 13701 13709 "Lab1/lab2.ml" 516 13701 13712
+)
+"Lab1/lab2.ml" 521 13785 13832 "Lab1/lab2.ml" 521 13785 13833
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 520 13770 13779 "Lab1/lab2.ml" 520 13770 13780
+)
+"Lab1/lab2.ml" 521 13785 13787 "Lab1/lab2.ml" 521 13785 13833
+type(
+  int
+)
+"Lab1/lab2.ml" 524 13875 13883 "Lab1/lab2.ml" 524 13875 13887
+type(
+  int -> int
+)
+ident(
+  def fib2 "Lab1/lab2.ml" 524 13875 13875 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 524 13875 13888 "Lab1/lab2.ml" 524 13875 13889
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 525 13894 13896 "Lab1/lab2.ml" 525 13894 13942
+)
+"Lab1/lab2.ml" 525 13894 13896 "Lab1/lab2.ml" 525 13894 13902
+type(
+  string -> (int -> string) -> (int -> string) -> (int -> int) -> int -> int
+)
+ident(
+  int_ref tracer "Lab1/lab2.ml" 508 13451 13455 "Lab1/lab2.ml" 508 13451 13461
+)
+"Lab1/lab2.ml" 525 13894 13903 "Lab1/lab2.ml" 525 13894 13908
+type(
+  string
+)
+"Lab1/lab2.ml" 525 13894 13909 "Lab1/lab2.ml" 525 13894 13922
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 525 13894 13923 "Lab1/lab2.ml" 525 13894 13936
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 525 13894 13937 "Lab1/lab2.ml" 525 13894 13940
+type(
+  int -> int
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 526 13944 13948 "Lab1/lab2.ml" 526 13944 13951
+)
+"Lab1/lab2.ml" 525 13894 13941 "Lab1/lab2.ml" 525 13894 13942
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 524 13875 13888 "Lab1/lab2.ml" 524 13875 13889
+)
+"Lab1/lab2.ml" 525 13894 13896 "Lab1/lab2.ml" 525 13894 13942
+type(
+  int
+)
+"Lab1/lab2.ml" 526 13944 13948 "Lab1/lab2.ml" 526 13944 13951
+type(
+  int -> int
+)
+ident(
+  def aux "Lab1/lab2.ml" 524 13875 13875 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 526 13944 13952 "Lab1/lab2.ml" 526 13944 13953
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 527 13958 13960 "Lab1/lab2.ml" 528 13976 14005
+)
+"Lab1/lab2.ml" 527 13958 13963 "Lab1/lab2.ml" 527 13958 13964
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 526 13944 13952 "Lab1/lab2.ml" 526 13944 13953
+)
+"Lab1/lab2.ml" 527 13958 13964 "Lab1/lab2.ml" 527 13958 13966
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/lab2.ml" 527 13958 13966 "Lab1/lab2.ml" 527 13958 13967
+type(
+  int
+)
+"Lab1/lab2.ml" 527 13958 13963 "Lab1/lab2.ml" 527 13958 13967
+type(
+  bool
+)
+"Lab1/lab2.ml" 527 13958 13973 "Lab1/lab2.ml" 527 13958 13974
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13983 "Lab1/lab2.ml" 528 13976 13987
+type(
+  int -> int
+)
+ident(
+  int_ref fib2 "Lab1/lab2.ml" 524 13875 13883 "Lab1/lab2.ml" 524 13875 13887
+)
+"Lab1/lab2.ml" 528 13976 13989 "Lab1/lab2.ml" 528 13976 13990
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 526 13944 13952 "Lab1/lab2.ml" 526 13944 13953
+)
+"Lab1/lab2.ml" 528 13976 13990 "Lab1/lab2.ml" 528 13976 13991
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/lab2.ml" 528 13976 13991 "Lab1/lab2.ml" 528 13976 13992
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13988 "Lab1/lab2.ml" 528 13976 13993
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13983 "Lab1/lab2.ml" 528 13976 13993
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13993 "Lab1/lab2.ml" 528 13976 13994
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 528 13976 13995 "Lab1/lab2.ml" 528 13976 13999
+type(
+  int -> int
+)
+ident(
+  int_ref fib2 "Lab1/lab2.ml" 524 13875 13883 "Lab1/lab2.ml" 524 13875 13887
+)
+"Lab1/lab2.ml" 528 13976 14000 "Lab1/lab2.ml" 528 13976 14001
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 526 13944 13952 "Lab1/lab2.ml" 526 13944 13953
+)
+"Lab1/lab2.ml" 528 13976 14001 "Lab1/lab2.ml" 528 13976 14002
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/lab2.ml" 528 13976 14002 "Lab1/lab2.ml" 528 13976 14003
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13999 "Lab1/lab2.ml" 528 13976 14004
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13994 "Lab1/lab2.ml" 528 13976 14005
+type(
+  int
+)
+"Lab1/lab2.ml" 528 13976 13983 "Lab1/lab2.ml" 528 13976 14005
+type(
+  int
+)
+"Lab1/lab2.ml" 527 13958 13960 "Lab1/lab2.ml" 528 13976 14005
+type(
+  int
+)
+"Lab1/lab2.ml" 531 14045 14049 "Lab1/lab2.ml" 531 14045 14059
+type(
+  string ->
+  ('a -> bool) -> ('a -> string) -> ('b -> string) -> ('a -> 'b) -> 'a -> 'b
+)
+ident(
+  def trace_test "Lab1/lab2.ml" 541 14507 14507 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 531 14045 14061 "Lab1/lab2.ml" 531 14045 14067
+type(
+  string
+)
+ident(
+  def fn_str "Lab1/lab2.ml" 531 14045 14076 "Lab1/lab2.ml" 538 14394 14399
+)
+"Lab1/lab2.ml" 531 14045 14077 "Lab1/lab2.ml" 531 14045 14084
+type(
+  'a -> bool
+)
+ident(
+  def pr_test "Lab1/lab2.ml" 532 14097 14101 "Lab1/lab2.ml" 538 14394 14399
+)
+"Lab1/lab2.ml" 532 14097 14102 "Lab1/lab2.ml" 532 14097 14108
+type(
+  'a -> string
+)
+ident(
+  def pr_arg "Lab1/lab2.ml" 532 14097 14121 "Lab1/lab2.ml" 538 14394 14399
+)
+"Lab1/lab2.ml" 532 14097 14122 "Lab1/lab2.ml" 532 14097 14128
+type(
+  'b -> string
+)
+ident(
+  def pr_res "Lab1/lab2.ml" 532 14097 14141 "Lab1/lab2.ml" 538 14394 14399
+)
+"Lab1/lab2.ml" 532 14097 14142 "Lab1/lab2.ml" 532 14097 14143
+type(
+  'a -> 'b
+)
+ident(
+  def f "Lab1/lab2.ml" 532 14097 14152 "Lab1/lab2.ml" 538 14394 14399
+)
+"Lab1/lab2.ml" 532 14097 14153 "Lab1/lab2.ml" 532 14097 14154
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 532 14097 14159 "Lab1/lab2.ml" 538 14394 14399
+)
+"Lab1/lab2.ml" 533 14167 14169 "Lab1/lab2.ml" 533 14167 14176
+type(
+  ('a -> string) ->
+  (string -> 'b -> unit) -> (string -> exn -> unit) -> ('a -> 'b) -> 'a -> 'b
+)
+ident(
+  int_ref wrapper "Lab1/lab2.ml" 493 13140 13144 "Lab1/lab2.ml" 493 13140 13151
+)
+"Lab1/lab2.ml" 534 14179 14187 "Lab1/lab2.ml" 534 14179 14188
+type(
+  'a
+)
+ident(
+  def x "Lab1/lab2.ml" 534 14179 14193 "Lab1/lab2.ml" 535 14235 14263
+)
+"Lab1/lab2.ml" 534 14179 14196 "Lab1/lab2.ml" 534 14179 14203
+type(
+  'a -> bool
+)
+ident(
+  int_ref pr_test "Lab1/lab2.ml" 531 14045 14077 "Lab1/lab2.ml" 531 14045 14084
+)
+"Lab1/lab2.ml" 534 14179 14204 "Lab1/lab2.ml" 534 14179 14205
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 534 14179 14187 "Lab1/lab2.ml" 534 14179 14188
+)
+"Lab1/lab2.ml" 534 14179 14195 "Lab1/lab2.ml" 534 14179 14206
+type(
+  bool
+)
+"Lab1/lab2.ml" 534 14179 14212 "Lab1/lab2.ml" 534 14179 14218
+type(
+  string
+)
+ident(
+  int_ref fn_str "Lab1/lab2.ml" 531 14045 14061 "Lab1/lab2.ml" 531 14045 14067
+)
+"Lab1/lab2.ml" 534 14179 14218 "Lab1/lab2.ml" 534 14179 14219
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 534 14179 14219 "Lab1/lab2.ml" 534 14179 14222
+type(
+  string
+)
+"Lab1/lab2.ml" 534 14179 14222 "Lab1/lab2.ml" 534 14179 14223
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 534 14179 14224 "Lab1/lab2.ml" 534 14179 14230
+type(
+  'a -> string
+)
+ident(
+  int_ref pr_arg "Lab1/lab2.ml" 532 14097 14102 "Lab1/lab2.ml" 532 14097 14108
+)
+"Lab1/lab2.ml" 534 14179 14231 "Lab1/lab2.ml" 534 14179 14232
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 534 14179 14187 "Lab1/lab2.ml" 534 14179 14188
+)
+"Lab1/lab2.ml" 534 14179 14223 "Lab1/lab2.ml" 534 14179 14233
+type(
+  string
+)
+"Lab1/lab2.ml" 534 14179 14219 "Lab1/lab2.ml" 534 14179 14233
+type(
+  string
+)
+"Lab1/lab2.ml" 534 14179 14212 "Lab1/lab2.ml" 534 14179 14233
+type(
+  string
+)
+"Lab1/lab2.ml" 535 14235 14248 "Lab1/lab2.ml" 535 14235 14263
+type(
+  string
+)
+"Lab1/lab2.ml" 534 14179 14193 "Lab1/lab2.ml" 535 14235 14263
+type(
+  string
+)
+"Lab1/lab2.ml" 534 14179 14182 "Lab1/lab2.ml" 535 14235 14264
+type(
+  'a -> string
+)
+"Lab1/lab2.ml" 536 14267 14276 "Lab1/lab2.ml" 536 14267 14277
+type(
+  string
+)
+ident(
+  def v "Lab1/lab2.ml" 536 14267 14278 "Lab1/lab2.ml" 536 14267 14343
+)
+"Lab1/lab2.ml" 536 14267 14278 "Lab1/lab2.ml" 536 14267 14279
+type(
+  'b
+)
+ident(
+  def r "Lab1/lab2.ml" 536 14267 14283 "Lab1/lab2.ml" 536 14267 14343
+)
+"Lab1/lab2.ml" 536 14267 14286 "Lab1/lab2.ml" 536 14267 14287
+type(
+  string
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 536 14267 14276 "Lab1/lab2.ml" 536 14267 14277
+)
+"Lab1/lab2.ml" 536 14267 14288 "Lab1/lab2.ml" 536 14267 14290
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( <> )
+)
+"Lab1/lab2.ml" 536 14267 14290 "Lab1/lab2.ml" 536 14267 14305
+type(
+  string
+)
+"Lab1/lab2.ml" 536 14267 14285 "Lab1/lab2.ml" 536 14267 14306
+type(
+  bool
+)
+"Lab1/lab2.ml" 536 14267 14312 "Lab1/lab2.ml" 536 14267 14321
+type(
+  string -> unit
+)
+ident(
+  int_ref out_print "Lab1/lab2.ml" 505 13390 13394 "Lab1/lab2.ml" 505 13390 13403
+)
+"Lab1/lab2.ml" 536 14267 14323 "Lab1/lab2.ml" 536 14267 14324
+type(
+  string
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 536 14267 14276 "Lab1/lab2.ml" 536 14267 14277
+)
+"Lab1/lab2.ml" 536 14267 14324 "Lab1/lab2.ml" 536 14267 14325
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 536 14267 14325 "Lab1/lab2.ml" 536 14267 14331
+type(
+  string
+)
+"Lab1/lab2.ml" 536 14267 14331 "Lab1/lab2.ml" 536 14267 14332
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 536 14267 14333 "Lab1/lab2.ml" 536 14267 14339
+type(
+  'b -> string
+)
+ident(
+  int_ref pr_res "Lab1/lab2.ml" 532 14097 14122 "Lab1/lab2.ml" 532 14097 14128
+)
+"Lab1/lab2.ml" 536 14267 14340 "Lab1/lab2.ml" 536 14267 14341
+type(
+  'b
+)
+ident(
+  int_ref r "Lab1/lab2.ml" 536 14267 14278 "Lab1/lab2.ml" 536 14267 14279
+)
+"Lab1/lab2.ml" 536 14267 14332 "Lab1/lab2.ml" 536 14267 14342
+type(
+  string
+)
+"Lab1/lab2.ml" 536 14267 14325 "Lab1/lab2.ml" 536 14267 14342
+type(
+  string
+)
+"Lab1/lab2.ml" 536 14267 14322 "Lab1/lab2.ml" 536 14267 14343
+type(
+  string
+)
+"Lab1/lab2.ml" 536 14267 14312 "Lab1/lab2.ml" 536 14267 14343
+type(
+  unit
+)
+"Lab1/lab2.ml" 536 14267 14283 "Lab1/lab2.ml" 536 14267 14343
+type(
+  unit
+)
+"Lab1/lab2.ml" 536 14267 14271 "Lab1/lab2.ml" 536 14267 14344
+type(
+  string -> 'b -> unit
+)
+"Lab1/lab2.ml" 537 14346 14355 "Lab1/lab2.ml" 537 14346 14356
+type(
+  string
+)
+ident(
+  def v "Lab1/lab2.ml" 537 14346 14357 "Lab1/lab2.ml" 537 14346 14391
+)
+"Lab1/lab2.ml" 537 14346 14357 "Lab1/lab2.ml" 537 14346 14358
+type(
+  exn
+)
+ident(
+  def e "Lab1/lab2.ml" 537 14346 14362 "Lab1/lab2.ml" 537 14346 14391
+)
+"Lab1/lab2.ml" 537 14346 14362 "Lab1/lab2.ml" 537 14346 14371
+type(
+  string -> unit
+)
+ident(
+  int_ref out_print "Lab1/lab2.ml" 505 13390 13394 "Lab1/lab2.ml" 505 13390 13403
+)
+"Lab1/lab2.ml" 537 14346 14373 "Lab1/lab2.ml" 537 14346 14374
+type(
+  string
+)
+ident(
+  int_ref v "Lab1/lab2.ml" 537 14346 14355 "Lab1/lab2.ml" 537 14346 14356
+)
+"Lab1/lab2.ml" 537 14346 14374 "Lab1/lab2.ml" 537 14346 14375
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"Lab1/lab2.ml" 537 14346 14375 "Lab1/lab2.ml" 537 14346 14390
+type(
+  string
+)
+"Lab1/lab2.ml" 537 14346 14372 "Lab1/lab2.ml" 537 14346 14391
+type(
+  string
+)
+"Lab1/lab2.ml" 537 14346 14362 "Lab1/lab2.ml" 537 14346 14391
+type(
+  unit
+)
+"Lab1/lab2.ml" 537 14346 14350 "Lab1/lab2.ml" 537 14346 14392
+type(
+  string -> exn -> unit
+)
+"Lab1/lab2.ml" 538 14394 14396 "Lab1/lab2.ml" 538 14394 14397
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Lab1/lab2.ml" 532 14097 14142 "Lab1/lab2.ml" 532 14097 14143
+)
+"Lab1/lab2.ml" 538 14394 14398 "Lab1/lab2.ml" 538 14394 14399
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 532 14097 14153 "Lab1/lab2.ml" 532 14097 14154
+)
+"Lab1/lab2.ml" 533 14167 14169 "Lab1/lab2.ml" 538 14394 14399
+type(
+  'b
+)
+type(
+  'b
+)
+"Lab1/lab2.ml" 541 14507 14515 "Lab1/lab2.ml" 541 14507 14519
+type(
+  int -> int
+)
+ident(
+  def fib3 "Lab1/lab2.ml" 541 14507 14507 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 541 14507 14520 "Lab1/lab2.ml" 541 14507 14521
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 542 14526 14528 "Lab1/lab2.ml" 542 14526 14593
+)
+"Lab1/lab2.ml" 542 14526 14528 "Lab1/lab2.ml" 542 14526 14538
+type(
+  string ->
+  (int -> bool) ->
+  (int -> string) -> (int -> string) -> (int -> int) -> int -> int
+)
+ident(
+  int_ref trace_test "Lab1/lab2.ml" 531 14045 14049 "Lab1/lab2.ml" 531 14045 14059
+)
+"Lab1/lab2.ml" 542 14526 14539 "Lab1/lab2.ml" 542 14526 14544
+type(
+  string
+)
+"Lab1/lab2.ml" 542 14526 14550 "Lab1/lab2.ml" 542 14526 14551
+type(
+  int
+)
+ident(
+  def x "Lab1/lab2.ml" 542 14526 14555 "Lab1/lab2.ml" 542 14526 14558
+)
+"Lab1/lab2.ml" 542 14526 14555 "Lab1/lab2.ml" 542 14526 14556
+type(
+  int
+)
+ident(
+  int_ref x "Lab1/lab2.ml" 542 14526 14550 "Lab1/lab2.ml" 542 14526 14551
+)
+"Lab1/lab2.ml" 542 14526 14556 "Lab1/lab2.ml" 542 14526 14557
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"Lab1/lab2.ml" 542 14526 14557 "Lab1/lab2.ml" 542 14526 14558
+type(
+  int
+)
+"Lab1/lab2.ml" 542 14526 14555 "Lab1/lab2.ml" 542 14526 14558
+type(
+  bool
+)
+"Lab1/lab2.ml" 542 14526 14545 "Lab1/lab2.ml" 542 14526 14559
+type(
+  int -> bool
+)
+"Lab1/lab2.ml" 542 14526 14560 "Lab1/lab2.ml" 542 14526 14573
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 542 14526 14574 "Lab1/lab2.ml" 542 14526 14587
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab1/lab2.ml" 542 14526 14588 "Lab1/lab2.ml" 542 14526 14591
+type(
+  int -> int
+)
+ident(
+  int_ref aux "Lab1/lab2.ml" 543 14595 14599 "Lab1/lab2.ml" 543 14595 14602
+)
+"Lab1/lab2.ml" 542 14526 14592 "Lab1/lab2.ml" 542 14526 14593
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 541 14507 14520 "Lab1/lab2.ml" 541 14507 14521
+)
+"Lab1/lab2.ml" 542 14526 14528 "Lab1/lab2.ml" 542 14526 14593
+type(
+  int
+)
+"Lab1/lab2.ml" 543 14595 14599 "Lab1/lab2.ml" 543 14595 14602
+type(
+  int -> int
+)
+ident(
+  def aux "Lab1/lab2.ml" 541 14507 14507 "_none_" 1 0 -1
+)
+"Lab1/lab2.ml" 543 14595 14603 "Lab1/lab2.ml" 543 14595 14604
+type(
+  int
+)
+ident(
+  def n "Lab1/lab2.ml" 544 14609 14611 "Lab1/lab2.ml" 545 14627 14656
+)
+"Lab1/lab2.ml" 544 14609 14614 "Lab1/lab2.ml" 544 14609 14615
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 543 14595 14603 "Lab1/lab2.ml" 543 14595 14604
+)
+"Lab1/lab2.ml" 544 14609 14615 "Lab1/lab2.ml" 544 14609 14617
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/lab2.ml" 544 14609 14617 "Lab1/lab2.ml" 544 14609 14618
+type(
+  int
+)
+"Lab1/lab2.ml" 544 14609 14614 "Lab1/lab2.ml" 544 14609 14618
+type(
+  bool
+)
+"Lab1/lab2.ml" 544 14609 14624 "Lab1/lab2.ml" 544 14609 14625
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14634 "Lab1/lab2.ml" 545 14627 14638
+type(
+  int -> int
+)
+ident(
+  int_ref fib3 "Lab1/lab2.ml" 541 14507 14515 "Lab1/lab2.ml" 541 14507 14519
+)
+"Lab1/lab2.ml" 545 14627 14640 "Lab1/lab2.ml" 545 14627 14641
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 543 14595 14603 "Lab1/lab2.ml" 543 14595 14604
+)
+"Lab1/lab2.ml" 545 14627 14641 "Lab1/lab2.ml" 545 14627 14642
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/lab2.ml" 545 14627 14642 "Lab1/lab2.ml" 545 14627 14643
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14639 "Lab1/lab2.ml" 545 14627 14644
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14634 "Lab1/lab2.ml" 545 14627 14644
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14644 "Lab1/lab2.ml" 545 14627 14645
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Lab1/lab2.ml" 545 14627 14646 "Lab1/lab2.ml" 545 14627 14650
+type(
+  int -> int
+)
+ident(
+  int_ref fib3 "Lab1/lab2.ml" 541 14507 14515 "Lab1/lab2.ml" 541 14507 14519
+)
+"Lab1/lab2.ml" 545 14627 14651 "Lab1/lab2.ml" 545 14627 14652
+type(
+  int
+)
+ident(
+  int_ref n "Lab1/lab2.ml" 543 14595 14603 "Lab1/lab2.ml" 543 14595 14604
+)
+"Lab1/lab2.ml" 545 14627 14652 "Lab1/lab2.ml" 545 14627 14653
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Lab1/lab2.ml" 545 14627 14653 "Lab1/lab2.ml" 545 14627 14654
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14650 "Lab1/lab2.ml" 545 14627 14655
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14645 "Lab1/lab2.ml" 545 14627 14656
+type(
+  int
+)
+"Lab1/lab2.ml" 545 14627 14634 "Lab1/lab2.ml" 545 14627 14656
+type(
+  int
+)
+"Lab1/lab2.ml" 544 14609 14611 "Lab1/lab2.ml" 545 14627 14656
+type(
+  int
+)

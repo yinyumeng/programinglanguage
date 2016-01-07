@@ -1,0 +1,1149 @@
+"tut1_try/tut1.ml" 20 401 407 "tut1_try/tut1.ml" 20 401 408
+type(
+  int
+)
+ident(
+  def x "tut1_try/tut1.ml" 21 416 418 "tut1_try/tut1.ml" 23 450 501
+)
+"tut1_try/tut1.ml" 20 401 411 "tut1_try/tut1.ml" 20 401 412
+type(
+  int
+)
+"tut1_try/tut1.ml" 21 416 422 "tut1_try/tut1.ml" 21 416 423
+type(
+  int
+)
+ident(
+  def y "tut1_try/tut1.ml" 22 431 433 "tut1_try/tut1.ml" 23 450 501
+)
+"tut1_try/tut1.ml" 21 416 426 "tut1_try/tut1.ml" 21 416 427
+type(
+  int
+)
+"tut1_try/tut1.ml" 22 431 437 "tut1_try/tut1.ml" 22 431 438
+type(
+  int
+)
+ident(
+  def x "tut1_try/tut1.ml" 23 450 452 "tut1_try/tut1.ml" 23 450 501
+)
+"tut1_try/tut1.ml" 22 431 441 "tut1_try/tut1.ml" 22 431 442
+type(
+  int
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 20 401 407 "tut1_try/tut1.ml" 20 401 408
+)
+"tut1_try/tut1.ml" 22 431 443 "tut1_try/tut1.ml" 22 431 444
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"tut1_try/tut1.ml" 22 431 445 "tut1_try/tut1.ml" 22 431 446
+type(
+  int
+)
+"tut1_try/tut1.ml" 22 431 441 "tut1_try/tut1.ml" 22 431 446
+type(
+  int
+)
+"tut1_try/tut1.ml" 23 450 452 "tut1_try/tut1.ml" 23 450 465
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"tut1_try/tut1.ml" 23 450 467 "tut1_try/tut1.ml" 23 450 478
+type(
+  string
+)
+"tut1_try/tut1.ml" 23 450 478 "tut1_try/tut1.ml" 23 450 479
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/tut1.ml" 23 450 480 "tut1_try/tut1.ml" 23 450 493
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"tut1_try/tut1.ml" 23 450 495 "tut1_try/tut1.ml" 23 450 496
+type(
+  int
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 22 431 437 "tut1_try/tut1.ml" 22 431 438
+)
+"tut1_try/tut1.ml" 23 450 496 "tut1_try/tut1.ml" 23 450 497
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/tut1.ml" 23 450 497 "tut1_try/tut1.ml" 23 450 498
+type(
+  int
+)
+ident(
+  int_ref y "tut1_try/tut1.ml" 21 416 422 "tut1_try/tut1.ml" 21 416 423
+)
+"tut1_try/tut1.ml" 23 450 494 "tut1_try/tut1.ml" 23 450 499
+type(
+  int
+)
+"tut1_try/tut1.ml" 23 450 479 "tut1_try/tut1.ml" 23 450 500
+type(
+  string
+)
+"tut1_try/tut1.ml" 23 450 466 "tut1_try/tut1.ml" 23 450 501
+type(
+  string
+)
+"tut1_try/tut1.ml" 23 450 452 "tut1_try/tut1.ml" 23 450 501
+type(
+  unit
+)
+"tut1_try/tut1.ml" 22 431 433 "tut1_try/tut1.ml" 23 450 501
+type(
+  unit
+)
+"tut1_try/tut1.ml" 21 416 418 "tut1_try/tut1.ml" 23 450 501
+type(
+  unit
+)
+"tut1_try/tut1.ml" 20 401 403 "tut1_try/tut1.ml" 23 450 501
+type(
+  unit
+)
+"tut1_try/tut1.ml" 35 653 659 "tut1_try/tut1.ml" 35 653 660
+type(
+  int
+)
+ident(
+  def x "tut1_try/tut1.ml" 36 668 670 "tut1_try/tut1.ml" 39 774 823
+)
+"tut1_try/tut1.ml" 35 653 663 "tut1_try/tut1.ml" 35 653 664
+type(
+  int
+)
+"tut1_try/tut1.ml" 36 668 674 "tut1_try/tut1.ml" 36 668 675
+type(
+  int
+)
+ident(
+  def y "tut1_try/tut1.ml" 38 738 739 "tut1_try/tut1.ml" 39 774 823
+)
+"tut1_try/tut1.ml" 36 668 682 "tut1_try/tut1.ml" 36 668 683
+type(
+  int
+)
+ident(
+  def x "tut1_try/tut1.ml" 36 668 695 "tut1_try/tut1.ml" 36 668 696
+)
+"tut1_try/tut1.ml" 36 668 686 "tut1_try/tut1.ml" 36 668 687
+type(
+  int
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 35 653 659 "tut1_try/tut1.ml" 35 653 660
+)
+"tut1_try/tut1.ml" 36 668 688 "tut1_try/tut1.ml" 36 668 689
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"tut1_try/tut1.ml" 36 668 690 "tut1_try/tut1.ml" 36 668 691
+type(
+  int
+)
+"tut1_try/tut1.ml" 36 668 686 "tut1_try/tut1.ml" 36 668 691
+type(
+  int
+)
+"tut1_try/tut1.ml" 36 668 695 "tut1_try/tut1.ml" 36 668 696
+type(
+  int
+)
+"tut1_try/tut1.ml" 36 668 678 "tut1_try/tut1.ml" 36 668 696
+type(
+  int
+)
+"tut1_try/tut1.ml" 38 738 743 "tut1_try/tut1.ml" 38 738 744
+type(
+  int
+)
+ident(
+  def y "tut1_try/tut1.ml" 39 774 776 "tut1_try/tut1.ml" 39 774 823
+)
+"tut1_try/tut1.ml" 38 738 752 "tut1_try/tut1.ml" 38 738 753
+type(
+  int
+)
+ident(
+  def x "tut1_try/tut1.ml" 38 738 765 "tut1_try/tut1.ml" 38 738 770
+)
+"tut1_try/tut1.ml" 38 738 756 "tut1_try/tut1.ml" 38 738 757
+type(
+  int
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 35 653 659 "tut1_try/tut1.ml" 35 653 660
+)
+"tut1_try/tut1.ml" 38 738 758 "tut1_try/tut1.ml" 38 738 759
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"tut1_try/tut1.ml" 38 738 760 "tut1_try/tut1.ml" 38 738 761
+type(
+  int
+)
+"tut1_try/tut1.ml" 38 738 756 "tut1_try/tut1.ml" 38 738 761
+type(
+  int
+)
+"tut1_try/tut1.ml" 38 738 765 "tut1_try/tut1.ml" 38 738 766
+type(
+  int
+)
+"tut1_try/tut1.ml" 38 738 767 "tut1_try/tut1.ml" 38 738 768
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/tut1.ml" 38 738 769 "tut1_try/tut1.ml" 38 738 770
+type(
+  int
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 38 738 752 "tut1_try/tut1.ml" 38 738 753
+)
+"tut1_try/tut1.ml" 38 738 765 "tut1_try/tut1.ml" 38 738 770
+type(
+  int
+)
+"tut1_try/tut1.ml" 38 738 747 "tut1_try/tut1.ml" 38 738 771
+type(
+  int
+)
+"tut1_try/tut1.ml" 39 774 776 "tut1_try/tut1.ml" 39 774 789
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"tut1_try/tut1.ml" 39 774 791 "tut1_try/tut1.ml" 39 774 802
+type(
+  string
+)
+"tut1_try/tut1.ml" 39 774 802 "tut1_try/tut1.ml" 39 774 803
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/tut1.ml" 39 774 804 "tut1_try/tut1.ml" 39 774 817
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"tut1_try/tut1.ml" 39 774 818 "tut1_try/tut1.ml" 39 774 821
+type(
+  int
+)
+ident(
+  int_ref y "tut1_try/tut1.ml" 38 738 743 "tut1_try/tut1.ml" 38 738 744
+)
+"tut1_try/tut1.ml" 39 774 803 "tut1_try/tut1.ml" 39 774 822
+type(
+  string
+)
+"tut1_try/tut1.ml" 39 774 790 "tut1_try/tut1.ml" 39 774 823
+type(
+  string
+)
+"tut1_try/tut1.ml" 39 774 776 "tut1_try/tut1.ml" 39 774 823
+type(
+  unit
+)
+"tut1_try/tut1.ml" 38 738 739 "tut1_try/tut1.ml" 39 774 823
+type(
+  unit
+)
+"tut1_try/tut1.ml" 36 668 670 "tut1_try/tut1.ml" 39 774 823
+type(
+  unit
+)
+"tut1_try/tut1.ml" 35 653 655 "tut1_try/tut1.ml" 39 774 823
+type(
+  unit
+)
+"tut1_try/tut1.ml" 49 970 976 "tut1_try/tut1.ml" 49 970 979
+type(
+  int -> int
+)
+ident(
+  def foo "tut1_try/tut1.ml" 56 1104 1106 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 49 970 980 "tut1_try/tut1.ml" 49 970 981
+type(
+  int
+)
+ident(
+  def x "tut1_try/tut1.ml" 49 970 984 "tut1_try/tut1.ml" 49 970 987
+)
+"tut1_try/tut1.ml" 49 970 984 "tut1_try/tut1.ml" 49 970 985
+type(
+  int
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 49 970 980 "tut1_try/tut1.ml" 49 970 981
+)
+"tut1_try/tut1.ml" 49 970 985 "tut1_try/tut1.ml" 49 970 986
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"tut1_try/tut1.ml" 49 970 986 "tut1_try/tut1.ml" 49 970 987
+type(
+  int
+)
+"tut1_try/tut1.ml" 49 970 984 "tut1_try/tut1.ml" 49 970 987
+type(
+  int
+)
+"tut1_try/tut1.ml" 56 1104 1110 "tut1_try/tut1.ml" 56 1104 1113
+type(
+  'a * 'b -> 'a
+)
+ident(
+  def goo "tut1_try/tut1.ml" 65 1214 1216 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 56 1104 1115 "tut1_try/tut1.ml" 56 1104 1116
+type(
+  'a
+)
+ident(
+  def x "tut1_try/tut1.ml" 56 1104 1122 "tut1_try/tut1.ml" 56 1104 1123
+)
+"tut1_try/tut1.ml" 56 1104 1117 "tut1_try/tut1.ml" 56 1104 1118
+type(
+  'b
+)
+ident(
+  def y "tut1_try/tut1.ml" 56 1104 1122 "tut1_try/tut1.ml" 56 1104 1123
+)
+"tut1_try/tut1.ml" 56 1104 1114 "tut1_try/tut1.ml" 56 1104 1119
+type(
+  'a * 'b
+)
+"tut1_try/tut1.ml" 56 1104 1122 "tut1_try/tut1.ml" 56 1104 1123
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 56 1104 1115 "tut1_try/tut1.ml" 56 1104 1116
+)
+"tut1_try/tut1.ml" 65 1214 1220 "tut1_try/tut1.ml" 65 1214 1223
+type(
+  'a -> 'b -> 'a
+)
+ident(
+  def hoo "tut1_try/tut1.ml" 66 1232 1233 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 65 1214 1224 "tut1_try/tut1.ml" 65 1214 1225
+type(
+  'a
+)
+ident(
+  def x "tut1_try/tut1.ml" 65 1214 1226 "tut1_try/tut1.ml" 65 1214 1231
+)
+"tut1_try/tut1.ml" 65 1214 1226 "tut1_try/tut1.ml" 65 1214 1227
+type(
+  'b
+)
+ident(
+  def y "tut1_try/tut1.ml" 65 1214 1230 "tut1_try/tut1.ml" 65 1214 1231
+)
+"tut1_try/tut1.ml" 65 1214 1230 "tut1_try/tut1.ml" 65 1214 1231
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 65 1214 1224 "tut1_try/tut1.ml" 65 1214 1225
+)
+"tut1_try/tut1.ml" 66 1232 1237 "tut1_try/tut1.ml" 66 1232 1239
+type(
+  int -> string
+)
+ident(
+  def pf "tut1_try/tut1.ml" 67 1256 1258 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 66 1232 1242 "tut1_try/tut1.ml" 66 1232 1245
+type(
+  string -> int -> string
+)
+ident(
+  int_ref hoo "tut1_try/tut1.ml" 65 1214 1220 "tut1_try/tut1.ml" 65 1214 1223
+)
+"tut1_try/tut1.ml" 66 1232 1246 "tut1_try/tut1.ml" 66 1232 1253
+type(
+  string
+)
+"tut1_try/tut1.ml" 66 1232 1242 "tut1_try/tut1.ml" 66 1232 1253
+type(
+  int -> string
+)
+"tut1_try/tut1.ml" 67 1256 1258 "tut1_try/tut1.ml" 67 1256 1260
+type(
+  int -> string
+)
+ident(
+  int_ref pf "tut1_try/tut1.ml" 66 1232 1237 "tut1_try/tut1.ml" 66 1232 1239
+)
+"tut1_try/tut1.ml" 67 1256 1261 "tut1_try/tut1.ml" 67 1256 1262
+type(
+  int
+)
+"tut1_try/tut1.ml" 67 1256 1258 "tut1_try/tut1.ml" 67 1256 1262
+type(
+  string
+)
+"tut1_try/tut1.ml" 88 1691 1702 "tut1_try/tut1.ml" 88 1691 1709
+type(
+  'a list -> 'a
+)
+ident(
+  def maxlist "tut1_try/tut1.ml" 88 1691 1694 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 88 1691 1710 "tut1_try/tut1.ml" 88 1691 1712
+type(
+  'a list
+)
+ident(
+  def xs "tut1_try/tut1.ml" 92 1763 1768 "tut1_try/tut1.ml" 98 1883 1892
+)
+"tut1_try/tut1.ml" 92 1763 1774 "tut1_try/tut1.ml" 92 1763 1776
+type(
+  'a list
+)
+ident(
+  int_ref xs "tut1_try/tut1.ml" 88 1691 1710 "tut1_try/tut1.ml" 88 1691 1712
+)
+"tut1_try/tut1.ml" 93 1782 1786 "tut1_try/tut1.ml" 93 1782 1788
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 93 1782 1792 "tut1_try/tut1.ml" 93 1782 1800
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tut1_try/tut1.ml" 93 1782 1801 "tut1_try/tut1.ml" 93 1782 1813
+type(
+  string
+)
+"tut1_try/tut1.ml" 93 1782 1792 "tut1_try/tut1.ml" 93 1782 1813
+type(
+  'a
+)
+"tut1_try/tut1.ml" 94 1814 1819 "tut1_try/tut1.ml" 94 1814 1820
+type(
+  'a
+)
+ident(
+  def x "tut1_try/tut1.ml" 94 1814 1825 "tut1_try/tut1.ml" 94 1814 1826
+)
+"tut1_try/tut1.ml" 94 1814 1818 "tut1_try/tut1.ml" 94 1814 1821
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 94 1814 1825 "tut1_try/tut1.ml" 94 1814 1826
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 94 1814 1819 "tut1_try/tut1.ml" 94 1814 1820
+)
+"tut1_try/tut1.ml" 95 1827 1831 "tut1_try/tut1.ml" 95 1827 1832
+type(
+  'a
+)
+ident(
+  def x "tut1_try/tut1.ml" 96 1841 1843 "tut1_try/tut1.ml" 98 1883 1892
+)
+"tut1_try/tut1.ml" 95 1827 1834 "tut1_try/tut1.ml" 95 1827 1836
+type(
+  'a list
+)
+ident(
+  def ys "tut1_try/tut1.ml" 96 1841 1843 "tut1_try/tut1.ml" 98 1883 1892
+)
+"tut1_try/tut1.ml" 95 1827 1831 "tut1_try/tut1.ml" 95 1827 1836
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 96 1841 1847 "tut1_try/tut1.ml" 96 1841 1849
+type(
+  'a
+)
+ident(
+  def m2 "tut1_try/tut1.ml" 97 1866 1868 "tut1_try/tut1.ml" 98 1883 1892
+)
+"tut1_try/tut1.ml" 96 1841 1852 "tut1_try/tut1.ml" 96 1841 1859
+type(
+  'a list -> 'a
+)
+ident(
+  int_ref maxlist "tut1_try/tut1.ml" 88 1691 1702 "tut1_try/tut1.ml" 88 1691 1709
+)
+"tut1_try/tut1.ml" 96 1841 1860 "tut1_try/tut1.ml" 96 1841 1862
+type(
+  'a list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 95 1827 1834 "tut1_try/tut1.ml" 95 1827 1836
+)
+"tut1_try/tut1.ml" 96 1841 1852 "tut1_try/tut1.ml" 96 1841 1862
+type(
+  'a
+)
+"tut1_try/tut1.ml" 97 1866 1871 "tut1_try/tut1.ml" 97 1866 1872
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 95 1827 1831 "tut1_try/tut1.ml" 95 1827 1832
+)
+"tut1_try/tut1.ml" 97 1866 1872 "tut1_try/tut1.ml" 97 1866 1873
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"tut1_try/tut1.ml" 97 1866 1873 "tut1_try/tut1.ml" 97 1866 1875
+type(
+  'a
+)
+ident(
+  int_ref m2 "tut1_try/tut1.ml" 96 1841 1847 "tut1_try/tut1.ml" 96 1841 1849
+)
+"tut1_try/tut1.ml" 97 1866 1871 "tut1_try/tut1.ml" 97 1866 1875
+type(
+  bool
+)
+"tut1_try/tut1.ml" 97 1866 1881 "tut1_try/tut1.ml" 97 1866 1882
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 95 1827 1831 "tut1_try/tut1.ml" 95 1827 1832
+)
+"tut1_try/tut1.ml" 98 1883 1890 "tut1_try/tut1.ml" 98 1883 1892
+type(
+  'a
+)
+ident(
+  int_ref m2 "tut1_try/tut1.ml" 96 1841 1847 "tut1_try/tut1.ml" 96 1841 1849
+)
+"tut1_try/tut1.ml" 97 1866 1868 "tut1_try/tut1.ml" 98 1883 1892
+type(
+  'a
+)
+"tut1_try/tut1.ml" 96 1841 1843 "tut1_try/tut1.ml" 98 1883 1892
+type(
+  'a
+)
+"tut1_try/tut1.ml" 92 1763 1768 "tut1_try/tut1.ml" 98 1883 1892
+type(
+  'a
+)
+"tut1_try/tut1.ml" 100 1899 1902 "tut1_try/tut1.ml" 100 1899 1915
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"tut1_try/tut1.ml" 100 1899 1917 "tut1_try/tut1.ml" 100 1899 1946
+type(
+  string
+)
+"tut1_try/tut1.ml" 100 1899 1946 "tut1_try/tut1.ml" 100 1899 1947
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"tut1_try/tut1.ml" 100 1899 1948 "tut1_try/tut1.ml" 100 1899 1961
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"tut1_try/tut1.ml" 100 1899 1963 "tut1_try/tut1.ml" 100 1899 1970
+type(
+  int list -> int
+)
+ident(
+  int_ref maxlist "tut1_try/tut1.ml" 88 1691 1702 "tut1_try/tut1.ml" 88 1691 1709
+)
+"tut1_try/tut1.ml" 100 1899 1972 "tut1_try/tut1.ml" 100 1899 1973
+type(
+  int
+)
+"tut1_try/tut1.ml" 100 1899 1974 "tut1_try/tut1.ml" 100 1899 1976
+type(
+  int
+)
+"tut1_try/tut1.ml" 100 1899 1977 "tut1_try/tut1.ml" 100 1899 1978
+type(
+  int
+)
+"tut1_try/tut1.ml" 100 1899 1971 "tut1_try/tut1.ml" 100 1899 1979
+type(
+  int list
+)
+"tut1_try/tut1.ml" 100 1899 1962 "tut1_try/tut1.ml" 100 1899 1980
+type(
+  int
+)
+"tut1_try/tut1.ml" 100 1899 1947 "tut1_try/tut1.ml" 100 1899 1981
+type(
+  string
+)
+"tut1_try/tut1.ml" 100 1899 1916 "tut1_try/tut1.ml" 100 1899 1982
+type(
+  string
+)
+"tut1_try/tut1.ml" 100 1899 1902 "tut1_try/tut1.ml" 100 1899 1982
+type(
+  unit
+)
+"tut1_try/tut1.ml" 101 1986 1989 "tut1_try/tut1.ml" 101 1986 2002
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"tut1_try/tut1.ml" 101 1986 2003 "tut1_try/tut1.ml" 101 1986 2012
+type(
+  string
+)
+"tut1_try/tut1.ml" 101 1986 1989 "tut1_try/tut1.ml" 101 1986 2012
+type(
+  unit
+)
+"tut1_try/tut1.ml" 115 2400 2406 "tut1_try/tut1.ml" 115 2400 2414
+type(
+  'a list -> 'a
+)
+ident(
+  def maxlist2 "tut1_try/tut1.ml" 142 2958 2958 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 115 2400 2415 "tut1_try/tut1.ml" 115 2400 2417
+type(
+  'a list
+)
+ident(
+  def xs "tut1_try/tut1.ml" 116 2420 2425 "tut1_try/tut1.ml" 125 2628 2648
+)
+"tut1_try/tut1.ml" 116 2420 2433 "tut1_try/tut1.ml" 116 2420 2436
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  def aux "tut1_try/tut1.ml" 116 2420 2425 "tut1_try/tut1.ml" 125 2628 2648
+)
+"tut1_try/tut1.ml" 116 2420 2437 "tut1_try/tut1.ml" 116 2420 2439
+type(
+  'b list
+)
+ident(
+  def xs "tut1_try/tut1.ml" 116 2420 2440 "tut1_try/tut1.ml" 121 2524 2544
+)
+"tut1_try/tut1.ml" 116 2420 2440 "tut1_try/tut1.ml" 116 2420 2445
+type(
+  'b
+)
+ident(
+  def sofar "tut1_try/tut1.ml" 117 2448 2450 "tut1_try/tut1.ml" 121 2524 2544
+)
+"tut1_try/tut1.ml" 117 2448 2456 "tut1_try/tut1.ml" 117 2448 2458
+type(
+  'b list
+)
+ident(
+  int_ref xs "tut1_try/tut1.ml" 116 2420 2437 "tut1_try/tut1.ml" 116 2420 2439
+)
+"tut1_try/tut1.ml" 118 2464 2468 "tut1_try/tut1.ml" 118 2464 2470
+type(
+  'b list
+)
+"tut1_try/tut1.ml" 118 2464 2474 "tut1_try/tut1.ml" 118 2464 2479
+type(
+  'b
+)
+ident(
+  int_ref sofar "tut1_try/tut1.ml" 116 2420 2440 "tut1_try/tut1.ml" 116 2420 2445
+)
+"tut1_try/tut1.ml" 119 2480 2484 "tut1_try/tut1.ml" 119 2480 2485
+type(
+  'b
+)
+ident(
+  def x "tut1_try/tut1.ml" 120 2494 2497 "tut1_try/tut1.ml" 121 2524 2544
+)
+"tut1_try/tut1.ml" 119 2480 2487 "tut1_try/tut1.ml" 119 2480 2489
+type(
+  'b list
+)
+ident(
+  def ys "tut1_try/tut1.ml" 120 2494 2497 "tut1_try/tut1.ml" 121 2524 2544
+)
+"tut1_try/tut1.ml" 119 2480 2484 "tut1_try/tut1.ml" 119 2480 2489
+type(
+  'b list
+)
+"tut1_try/tut1.ml" 120 2494 2500 "tut1_try/tut1.ml" 120 2494 2501
+type(
+  'b
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 119 2480 2484 "tut1_try/tut1.ml" 119 2480 2485
+)
+"tut1_try/tut1.ml" 120 2494 2502 "tut1_try/tut1.ml" 120 2494 2503
+type(
+  'b -> 'b -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"tut1_try/tut1.ml" 120 2494 2504 "tut1_try/tut1.ml" 120 2494 2509
+type(
+  'b
+)
+ident(
+  int_ref sofar "tut1_try/tut1.ml" 116 2420 2440 "tut1_try/tut1.ml" 116 2420 2445
+)
+"tut1_try/tut1.ml" 120 2494 2500 "tut1_try/tut1.ml" 120 2494 2509
+type(
+  bool
+)
+"tut1_try/tut1.ml" 120 2494 2515 "tut1_try/tut1.ml" 120 2494 2518
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "tut1_try/tut1.ml" 116 2420 2433 "tut1_try/tut1.ml" 116 2420 2436
+)
+"tut1_try/tut1.ml" 120 2494 2519 "tut1_try/tut1.ml" 120 2494 2521
+type(
+  'b list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 119 2480 2487 "tut1_try/tut1.ml" 119 2480 2489
+)
+"tut1_try/tut1.ml" 120 2494 2522 "tut1_try/tut1.ml" 120 2494 2523
+type(
+  'b
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 119 2480 2484 "tut1_try/tut1.ml" 119 2480 2485
+)
+"tut1_try/tut1.ml" 120 2494 2515 "tut1_try/tut1.ml" 120 2494 2523
+type(
+  'b
+)
+"tut1_try/tut1.ml" 121 2524 2532 "tut1_try/tut1.ml" 121 2524 2535
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "tut1_try/tut1.ml" 116 2420 2433 "tut1_try/tut1.ml" 116 2420 2436
+)
+"tut1_try/tut1.ml" 121 2524 2536 "tut1_try/tut1.ml" 121 2524 2538
+type(
+  'b list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 119 2480 2487 "tut1_try/tut1.ml" 119 2480 2489
+)
+"tut1_try/tut1.ml" 121 2524 2539 "tut1_try/tut1.ml" 121 2524 2544
+type(
+  'b
+)
+ident(
+  int_ref sofar "tut1_try/tut1.ml" 116 2420 2440 "tut1_try/tut1.ml" 116 2420 2445
+)
+"tut1_try/tut1.ml" 121 2524 2532 "tut1_try/tut1.ml" 121 2524 2544
+type(
+  'b
+)
+"tut1_try/tut1.ml" 120 2494 2497 "tut1_try/tut1.ml" 121 2524 2544
+type(
+  'b
+)
+"tut1_try/tut1.ml" 117 2448 2450 "tut1_try/tut1.ml" 121 2524 2544
+type(
+  'b
+)
+"tut1_try/tut1.ml" 123 2579 2589 "tut1_try/tut1.ml" 123 2579 2591
+type(
+  'a list
+)
+ident(
+  int_ref xs "tut1_try/tut1.ml" 115 2400 2415 "tut1_try/tut1.ml" 115 2400 2417
+)
+"tut1_try/tut1.ml" 124 2597 2600 "tut1_try/tut1.ml" 124 2597 2602
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 124 2597 2606 "tut1_try/tut1.ml" 124 2597 2614
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tut1_try/tut1.ml" 124 2597 2615 "tut1_try/tut1.ml" 124 2597 2627
+type(
+  string
+)
+"tut1_try/tut1.ml" 124 2597 2606 "tut1_try/tut1.ml" 124 2597 2627
+type(
+  'a
+)
+"tut1_try/tut1.ml" 125 2628 2631 "tut1_try/tut1.ml" 125 2628 2632
+type(
+  'a
+)
+ident(
+  def x "tut1_try/tut1.ml" 125 2628 2640 "tut1_try/tut1.ml" 125 2628 2648
+)
+"tut1_try/tut1.ml" 125 2628 2634 "tut1_try/tut1.ml" 125 2628 2636
+type(
+  'a list
+)
+ident(
+  def ys "tut1_try/tut1.ml" 125 2628 2640 "tut1_try/tut1.ml" 125 2628 2648
+)
+"tut1_try/tut1.ml" 125 2628 2631 "tut1_try/tut1.ml" 125 2628 2636
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 125 2628 2640 "tut1_try/tut1.ml" 125 2628 2643
+type(
+  'a list -> 'a -> 'a
+)
+ident(
+  int_ref aux "tut1_try/tut1.ml" 116 2420 2433 "tut1_try/tut1.ml" 116 2420 2436
+)
+"tut1_try/tut1.ml" 125 2628 2644 "tut1_try/tut1.ml" 125 2628 2646
+type(
+  'a list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 125 2628 2634 "tut1_try/tut1.ml" 125 2628 2636
+)
+"tut1_try/tut1.ml" 125 2628 2647 "tut1_try/tut1.ml" 125 2628 2648
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 125 2628 2631 "tut1_try/tut1.ml" 125 2628 2632
+)
+"tut1_try/tut1.ml" 125 2628 2640 "tut1_try/tut1.ml" 125 2628 2648
+type(
+  'a
+)
+"tut1_try/tut1.ml" 123 2579 2583 "tut1_try/tut1.ml" 125 2628 2648
+type(
+  'a
+)
+"tut1_try/tut1.ml" 116 2420 2425 "tut1_try/tut1.ml" 125 2628 2648
+type(
+  'a
+)
+"tut1_try/tut1.ml" 142 2958 2962 "tut1_try/tut1.ml" 142 2958 2970
+type(
+  'a list -> 'a option
+)
+ident(
+  def maxlist2 "tut1_try/tut1.ml" 172 3437 3439 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 142 2958 2971 "tut1_try/tut1.ml" 142 2958 2973
+type(
+  'a list
+)
+ident(
+  def xs "tut1_try/tut1.ml" 143 2976 2980 "tut1_try/tut1.ml" 153 3136 3162
+)
+"tut1_try/tut1.ml" 143 2976 2988 "tut1_try/tut1.ml" 143 2976 2991
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  def aux "tut1_try/tut1.ml" 143 2976 2980 "tut1_try/tut1.ml" 153 3136 3162
+)
+"tut1_try/tut1.ml" 143 2976 2992 "tut1_try/tut1.ml" 143 2976 2994
+type(
+  'b list
+)
+ident(
+  def xs "tut1_try/tut1.ml" 143 2976 2995 "tut1_try/tut1.ml" 149 3081 3101
+)
+"tut1_try/tut1.ml" 143 2976 2995 "tut1_try/tut1.ml" 143 2976 3000
+type(
+  'b
+)
+ident(
+  def sofar "tut1_try/tut1.ml" 145 3005 3007 "tut1_try/tut1.ml" 149 3081 3101
+)
+"tut1_try/tut1.ml" 145 3005 3013 "tut1_try/tut1.ml" 145 3005 3015
+type(
+  'b list
+)
+ident(
+  int_ref xs "tut1_try/tut1.ml" 143 2976 2992 "tut1_try/tut1.ml" 143 2976 2994
+)
+"tut1_try/tut1.ml" 146 3021 3025 "tut1_try/tut1.ml" 146 3021 3027
+type(
+  'b list
+)
+"tut1_try/tut1.ml" 146 3021 3031 "tut1_try/tut1.ml" 146 3021 3036
+type(
+  'b
+)
+ident(
+  int_ref sofar "tut1_try/tut1.ml" 143 2976 2995 "tut1_try/tut1.ml" 143 2976 3000
+)
+"tut1_try/tut1.ml" 147 3037 3041 "tut1_try/tut1.ml" 147 3037 3042
+type(
+  'b
+)
+ident(
+  def x "tut1_try/tut1.ml" 148 3051 3054 "tut1_try/tut1.ml" 149 3081 3101
+)
+"tut1_try/tut1.ml" 147 3037 3044 "tut1_try/tut1.ml" 147 3037 3046
+type(
+  'b list
+)
+ident(
+  def ys "tut1_try/tut1.ml" 148 3051 3054 "tut1_try/tut1.ml" 149 3081 3101
+)
+"tut1_try/tut1.ml" 147 3037 3041 "tut1_try/tut1.ml" 147 3037 3046
+type(
+  'b list
+)
+"tut1_try/tut1.ml" 148 3051 3057 "tut1_try/tut1.ml" 148 3051 3058
+type(
+  'b
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 147 3037 3041 "tut1_try/tut1.ml" 147 3037 3042
+)
+"tut1_try/tut1.ml" 148 3051 3059 "tut1_try/tut1.ml" 148 3051 3060
+type(
+  'b -> 'b -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"tut1_try/tut1.ml" 148 3051 3061 "tut1_try/tut1.ml" 148 3051 3066
+type(
+  'b
+)
+ident(
+  int_ref sofar "tut1_try/tut1.ml" 143 2976 2995 "tut1_try/tut1.ml" 143 2976 3000
+)
+"tut1_try/tut1.ml" 148 3051 3057 "tut1_try/tut1.ml" 148 3051 3066
+type(
+  bool
+)
+"tut1_try/tut1.ml" 148 3051 3072 "tut1_try/tut1.ml" 148 3051 3075
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "tut1_try/tut1.ml" 143 2976 2988 "tut1_try/tut1.ml" 143 2976 2991
+)
+"tut1_try/tut1.ml" 148 3051 3076 "tut1_try/tut1.ml" 148 3051 3078
+type(
+  'b list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 147 3037 3044 "tut1_try/tut1.ml" 147 3037 3046
+)
+"tut1_try/tut1.ml" 148 3051 3079 "tut1_try/tut1.ml" 148 3051 3080
+type(
+  'b
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 147 3037 3041 "tut1_try/tut1.ml" 147 3037 3042
+)
+"tut1_try/tut1.ml" 148 3051 3072 "tut1_try/tut1.ml" 148 3051 3080
+type(
+  'b
+)
+"tut1_try/tut1.ml" 149 3081 3089 "tut1_try/tut1.ml" 149 3081 3092
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "tut1_try/tut1.ml" 143 2976 2988 "tut1_try/tut1.ml" 143 2976 2991
+)
+"tut1_try/tut1.ml" 149 3081 3093 "tut1_try/tut1.ml" 149 3081 3095
+type(
+  'b list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 147 3037 3044 "tut1_try/tut1.ml" 147 3037 3046
+)
+"tut1_try/tut1.ml" 149 3081 3096 "tut1_try/tut1.ml" 149 3081 3101
+type(
+  'b
+)
+ident(
+  int_ref sofar "tut1_try/tut1.ml" 143 2976 2995 "tut1_try/tut1.ml" 143 2976 3000
+)
+"tut1_try/tut1.ml" 149 3081 3089 "tut1_try/tut1.ml" 149 3081 3101
+type(
+  'b
+)
+"tut1_try/tut1.ml" 148 3051 3054 "tut1_try/tut1.ml" 149 3081 3101
+type(
+  'b
+)
+"tut1_try/tut1.ml" 145 3005 3007 "tut1_try/tut1.ml" 149 3081 3101
+type(
+  'b
+)
+"tut1_try/tut1.ml" 151 3104 3114 "tut1_try/tut1.ml" 151 3104 3116
+type(
+  'a list
+)
+ident(
+  int_ref xs "tut1_try/tut1.ml" 142 2958 2971 "tut1_try/tut1.ml" 142 2958 2973
+)
+"tut1_try/tut1.ml" 152 3122 3125 "tut1_try/tut1.ml" 152 3122 3127
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 152 3122 3131 "tut1_try/tut1.ml" 152 3122 3135
+type(
+  'a option
+)
+"tut1_try/tut1.ml" 153 3136 3139 "tut1_try/tut1.ml" 153 3136 3140
+type(
+  'a
+)
+ident(
+  def x "tut1_try/tut1.ml" 153 3136 3147 "tut1_try/tut1.ml" 153 3136 3162
+)
+"tut1_try/tut1.ml" 153 3136 3142 "tut1_try/tut1.ml" 153 3136 3144
+type(
+  'a list
+)
+ident(
+  def ys "tut1_try/tut1.ml" 153 3136 3147 "tut1_try/tut1.ml" 153 3136 3162
+)
+"tut1_try/tut1.ml" 153 3136 3139 "tut1_try/tut1.ml" 153 3136 3144
+type(
+  'a list
+)
+"tut1_try/tut1.ml" 153 3136 3153 "tut1_try/tut1.ml" 153 3136 3156
+type(
+  'a list -> 'a -> 'a
+)
+ident(
+  int_ref aux "tut1_try/tut1.ml" 143 2976 2988 "tut1_try/tut1.ml" 143 2976 2991
+)
+"tut1_try/tut1.ml" 153 3136 3157 "tut1_try/tut1.ml" 153 3136 3159
+type(
+  'a list
+)
+ident(
+  int_ref ys "tut1_try/tut1.ml" 153 3136 3142 "tut1_try/tut1.ml" 153 3136 3144
+)
+"tut1_try/tut1.ml" 153 3136 3160 "tut1_try/tut1.ml" 153 3136 3161
+type(
+  'a
+)
+ident(
+  int_ref x "tut1_try/tut1.ml" 153 3136 3139 "tut1_try/tut1.ml" 153 3136 3140
+)
+"tut1_try/tut1.ml" 153 3136 3151 "tut1_try/tut1.ml" 153 3136 3162
+type(
+  'a
+)
+"tut1_try/tut1.ml" 153 3136 3147 "tut1_try/tut1.ml" 153 3136 3162
+type(
+  'a option
+)
+"tut1_try/tut1.ml" 151 3104 3108 "tut1_try/tut1.ml" 153 3136 3162
+type(
+  'a option
+)
+"tut1_try/tut1.ml" 143 2976 2980 "tut1_try/tut1.ml" 153 3136 3162
+type(
+  'a option
+)
+"tut1_try/tut1.ml" 172 3437 3443 "tut1_try/tut1.ml" 172 3437 3451
+type(
+  int list -> int option
+)
+ident(
+  def maxlist3 "tut1_try/tut1.ml" 173 3481 3511 "_none_" 1 0 -1
+)
+"tut1_try/tut1.ml" 172 3437 3453 "tut1_try/tut1.ml" 172 3437 3455
+type(
+  int list
+)
+ident(
+  def xs "tut1_try/tut1.ml" 172 3437 3466 "tut1_try/tut1.ml" 173 3481 3511
+)
+"tut1_try/tut1.ml" 173 3481 3485 "tut1_try/tut1.ml" 173 3481 3493
+type(
+  string -> int option
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tut1_try/tut1.ml" 173 3481 3494 "tut1_try/tut1.ml" 173 3481 3511
+type(
+  string
+)
+"tut1_try/tut1.ml" 173 3481 3485 "tut1_try/tut1.ml" 173 3481 3511
+type(
+  int option
+)
+type(
+  int option
+)

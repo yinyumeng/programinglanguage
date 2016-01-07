@@ -1,0 +1,621 @@
+"tut9/error.ml" 39 1092 1096 "tut9/error.ml" 39 1092 1112
+type(
+  string -> 'a
+)
+ident(
+  def report_error_msg "tut9/error.ml" 44 1226 1226 "_none_" 1 0 -1
+)
+"tut9/error.ml" 39 1092 1114 "tut9/error.ml" 39 1092 1123
+type(
+  string
+)
+ident(
+  def error_msg "tut9/error.ml" 40 1135 1136 "tut9/error.ml" 42 1204 1224
+)
+"tut9/error.ml" 40 1135 1137 "tut9/error.ml" 40 1135 1150
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 40 1135 1151 "tut9/error.ml" 40 1135 1175
+type(
+  (string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 40 1135 1176 "tut9/error.ml" 40 1135 1185
+type(
+  string
+)
+ident(
+  int_ref error_msg "tut9/error.ml" 39 1092 1114 "tut9/error.ml" 39 1092 1123
+)
+"tut9/error.ml" 40 1135 1136 "tut9/error.ml" 40 1135 1186
+type(
+  unit
+)
+"tut9/error.ml" 41 1188 1190 "tut9/error.ml" 41 1188 1195
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"tut9/error.ml" 41 1188 1196 "tut9/error.ml" 41 1188 1202
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"tut9/error.ml" 41 1188 1190 "tut9/error.ml" 41 1188 1202
+type(
+  unit
+)
+"tut9/error.ml" 42 1204 1206 "tut9/error.ml" 42 1204 1214
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tut9/error.ml" 42 1204 1215 "tut9/error.ml" 42 1204 1224
+type(
+  string
+)
+ident(
+  int_ref error_msg "tut9/error.ml" 39 1092 1114 "tut9/error.ml" 39 1092 1123
+)
+"tut9/error.ml" 42 1204 1206 "tut9/error.ml" 42 1204 1224
+type(
+  'a
+)
+"tut9/error.ml" 41 1188 1190 "tut9/error.ml" 42 1204 1224
+type(
+  'a
+)
+"tut9/error.ml" 40 1135 1136 "tut9/error.ml" 42 1204 1224
+type(
+  'a
+)
+"tut9/error.ml" 44 1226 1230 "tut9/error.ml" 44 1226 1242
+type(
+  error -> 'a
+)
+ident(
+  def report_error "tut9/error.ml" 57 1625 1625 "_none_" 1 0 -1
+)
+"tut9/error.ml" 44 1226 1243 "tut9/error.ml" 44 1226 1244
+type(
+  error
+)
+ident(
+  def e "tut9/error.ml" 45 1247 1249 "tut9/error.ml" 55 1600 1623
+)
+"tut9/error.ml" 45 1247 1253 "tut9/error.ml" 45 1247 1261
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.post_pos
+)
+"tut9/error.ml" 45 1247 1253 "tut9/error.ml" 45 1247 1270
+type(
+  bool
+)
+"tut9/error.ml" 46 1276 1280 "tut9/error.ml" 46 1276 1293
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 46 1276 1294 "tut9/error.ml" 46 1276 1333
+type(
+  (string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 47 1334 1342 "tut9/error.ml" 47 1334 1350
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.post_pos
+)
+"tut9/error.ml" 47 1334 1342 "tut9/error.ml" 47 1334 1360
+type(
+  string
+)
+"tut9/error.ml" 46 1276 1280 "tut9/error.ml" 47 1334 1360
+type(
+  unit
+)
+"tut9/error.ml" 45 1247 1249 "tut9/error.ml" 47 1334 1361
+type(
+  unit
+)
+"tut9/error.ml" 48 1363 1369 "tut9/error.ml" 48 1363 1380
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.proving_loc
+)
+"tut9/error.ml" 48 1363 1369 "tut9/error.ml" 48 1363 1389
+type(
+  bool
+)
+"tut9/error.ml" 49 1395 1399 "tut9/error.ml" 49 1395 1412
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 49 1395 1413 "tut9/error.ml" 49 1395 1444
+type(
+  (string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 50 1445 1453 "tut9/error.ml" 50 1445 1464
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.proving_loc
+)
+"tut9/error.ml" 50 1445 1453 "tut9/error.ml" 50 1445 1474
+type(
+  string
+)
+"tut9/error.ml" 49 1395 1399 "tut9/error.ml" 50 1445 1474
+type(
+  unit
+)
+"tut9/error.ml" 48 1363 1365 "tut9/error.ml" 50 1445 1475
+type(
+  unit
+)
+"tut9/error.ml" 51 1477 1480 "tut9/error.ml" 51 1477 1493
+type(
+  (string -> string -> unit, out_channel, unit) format ->
+  string -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 51 1477 1494 "tut9/error.ml" 51 1477 1527
+type(
+  (string -> string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 52 1529 1536 "tut9/error.ml" 52 1529 1549
+type(
+  Globals.loc -> string
+)
+ident(
+  ext_ref Globals.string_of_loc
+)
+"tut9/error.ml" 52 1529 1550 "tut9/error.ml" 52 1529 1551
+type(
+  error
+)
+ident(
+  int_ref e "tut9/error.ml" 44 1226 1243 "tut9/error.ml" 44 1226 1244
+)
+"tut9/error.ml" 52 1529 1550 "tut9/error.ml" 52 1529 1561
+type(
+  Globals.loc
+)
+"tut9/error.ml" 52 1529 1535 "tut9/error.ml" 52 1529 1562
+type(
+  string
+)
+"tut9/error.ml" 53 1563 1569 "tut9/error.ml" 53 1563 1570
+type(
+  error
+)
+ident(
+  int_ref e "tut9/error.ml" 44 1226 1243 "tut9/error.ml" 44 1226 1244
+)
+"tut9/error.ml" 53 1563 1569 "tut9/error.ml" 53 1563 1581
+type(
+  string
+)
+"tut9/error.ml" 51 1477 1479 "tut9/error.ml" 53 1563 1582
+type(
+  unit
+)
+"tut9/error.ml" 54 1584 1586 "tut9/error.ml" 54 1584 1591
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"tut9/error.ml" 54 1584 1592 "tut9/error.ml" 54 1584 1598
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"tut9/error.ml" 54 1584 1586 "tut9/error.ml" 54 1584 1598
+type(
+  unit
+)
+"tut9/error.ml" 55 1600 1602 "tut9/error.ml" 55 1600 1610
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tut9/error.ml" 55 1600 1611 "tut9/error.ml" 55 1600 1612
+type(
+  error
+)
+ident(
+  int_ref e "tut9/error.ml" 44 1226 1243 "tut9/error.ml" 44 1226 1244
+)
+"tut9/error.ml" 55 1600 1611 "tut9/error.ml" 55 1600 1623
+type(
+  string
+)
+"tut9/error.ml" 55 1600 1602 "tut9/error.ml" 55 1600 1623
+type(
+  'a
+)
+"tut9/error.ml" 54 1584 1586 "tut9/error.ml" 55 1600 1623
+type(
+  'a
+)
+"tut9/error.ml" 51 1477 1479 "tut9/error.ml" 55 1600 1623
+type(
+  'a
+)
+"tut9/error.ml" 48 1363 1365 "tut9/error.ml" 55 1600 1623
+type(
+  'a
+)
+"tut9/error.ml" 45 1247 1249 "tut9/error.ml" 55 1600 1623
+type(
+  'a
+)
+"tut9/error.ml" 57 1625 1629 "tut9/error.ml" 57 1625 1646
+type(
+  unit -> 'a
+)
+ident(
+  def report_no_pattern "tut9/error.ml" 60 1850 1850 "_none_" 1 0 -1
+)
+"tut9/error.ml" 57 1625 1647 "tut9/error.ml" 57 1625 1649
+type(
+  unit
+)
+"tut9/error.ml" 57 1625 1652 "tut9/error.ml" 57 1625 1664
+type(
+  error -> 'a
+)
+ident(
+  int_ref report_error "tut9/error.ml" 44 1226 1230 "tut9/error.ml" 44 1226 1242
+)
+"tut9/error.ml" 57 1625 1676 "tut9/error.ml" 57 1625 1682
+type(
+  Globals.loc
+)
+ident(
+  ext_ref Globals.no_pos
+)
+"tut9/error.ml" 57 1625 1695 "tut9/error.ml" 57 1625 1731
+type(
+  string
+)
+"tut9/error.ml" 57 1625 1665 "tut9/error.ml" 57 1625 1732
+type(
+  error
+)
+"tut9/error.ml" 57 1625 1652 "tut9/error.ml" 57 1625 1732
+type(
+  'a
+)
+"tut9/error.ml" 60 1850 1854 "tut9/error.ml" 60 1850 1867
+type(
+  error -> string -> 'a
+)
+ident(
+  def report_error1 "tut9/error.ml" 71 2182 2182 "_none_" 1 0 -1
+)
+"tut9/error.ml" 60 1850 1868 "tut9/error.ml" 60 1850 1869
+type(
+  error
+)
+ident(
+  def e "tut9/error.ml" 60 1850 1870 "tut9/error.ml" 69 2168 2180
+)
+"tut9/error.ml" 60 1850 1870 "tut9/error.ml" 60 1850 1871
+type(
+  string
+)
+ident(
+  def s "tut9/error.ml" 61 1873 1875 "tut9/error.ml" 69 2168 2180
+)
+"tut9/error.ml" 61 1873 1876 "tut9/error.ml" 61 1873 1889
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 61 1873 1890 "tut9/error.ml" 61 1873 1896
+type(
+  (string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 61 1873 1897 "tut9/error.ml" 61 1873 1898
+type(
+  error
+)
+ident(
+  int_ref e "tut9/error.ml" 60 1850 1868 "tut9/error.ml" 60 1850 1869
+)
+"tut9/error.ml" 61 1873 1897 "tut9/error.ml" 61 1873 1909
+type(
+  string
+)
+"tut9/error.ml" 61 1873 1875 "tut9/error.ml" 61 1873 1910
+type(
+  unit
+)
+"tut9/error.ml" 62 1912 1917 "tut9/error.ml" 62 1912 1925
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.post_pos
+)
+"tut9/error.ml" 62 1912 1917 "tut9/error.ml" 62 1912 1934
+type(
+  bool
+)
+"tut9/error.ml" 63 1940 1947 "tut9/error.ml" 63 1940 1960
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 63 1940 1961 "tut9/error.ml" 63 1940 2000
+type(
+  (string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 64 2001 2012 "tut9/error.ml" 64 2001 2020
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.post_pos
+)
+"tut9/error.ml" 64 2001 2012 "tut9/error.ml" 64 2001 2030
+type(
+  string
+)
+"tut9/error.ml" 63 1940 1947 "tut9/error.ml" 64 2001 2030
+type(
+  unit
+)
+"tut9/error.ml" 62 1912 1913 "tut9/error.ml" 64 2001 2031
+type(
+  unit
+)
+"tut9/error.ml" 65 2033 2038 "tut9/error.ml" 65 2033 2049
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.proving_loc
+)
+"tut9/error.ml" 65 2033 2038 "tut9/error.ml" 65 2033 2058
+type(
+  bool
+)
+"tut9/error.ml" 66 2064 2071 "tut9/error.ml" 66 2064 2084
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 66 2064 2085 "tut9/error.ml" 66 2064 2116
+type(
+  (string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 67 2117 2128 "tut9/error.ml" 67 2117 2139
+type(
+  Globals.prog_loc
+)
+ident(
+  ext_ref Globals.proving_loc
+)
+"tut9/error.ml" 67 2117 2128 "tut9/error.ml" 67 2117 2149
+type(
+  string
+)
+"tut9/error.ml" 66 2064 2071 "tut9/error.ml" 67 2117 2149
+type(
+  unit
+)
+"tut9/error.ml" 65 2033 2034 "tut9/error.ml" 67 2117 2150
+type(
+  unit
+)
+"tut9/error.ml" 68 2152 2154 "tut9/error.ml" 68 2152 2159
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"tut9/error.ml" 68 2152 2160 "tut9/error.ml" 68 2152 2166
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"tut9/error.ml" 68 2152 2154 "tut9/error.ml" 68 2152 2166
+type(
+  unit
+)
+"tut9/error.ml" 69 2168 2170 "tut9/error.ml" 69 2168 2178
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"tut9/error.ml" 69 2168 2179 "tut9/error.ml" 69 2168 2180
+type(
+  string
+)
+ident(
+  int_ref s "tut9/error.ml" 60 1850 1870 "tut9/error.ml" 60 1850 1871
+)
+"tut9/error.ml" 69 2168 2170 "tut9/error.ml" 69 2168 2180
+type(
+  'a
+)
+"tut9/error.ml" 68 2152 2154 "tut9/error.ml" 69 2168 2180
+type(
+  'a
+)
+"tut9/error.ml" 65 2033 2034 "tut9/error.ml" 69 2168 2180
+type(
+  'a
+)
+"tut9/error.ml" 62 1912 1913 "tut9/error.ml" 69 2168 2180
+type(
+  'a
+)
+"tut9/error.ml" 61 1873 1875 "tut9/error.ml" 69 2168 2180
+type(
+  'a
+)
+"tut9/error.ml" 71 2182 2186 "tut9/error.ml" 71 2182 2200
+type(
+  error -> unit
+)
+ident(
+  def report_warning "tut9/error.ml" 86 2639 2639 "_none_" 1 0 -1
+)
+"tut9/error.ml" 71 2182 2201 "tut9/error.ml" 71 2182 2202
+type(
+  error
+)
+ident(
+  def e "tut9/error.ml" 72 2205 2207 "tut9/error.ml" 84 2582 2591
+)
+"tut9/error.ml" 72 2205 2211 "tut9/error.ml" 72 2205 2214
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"tut9/error.ml" 72 2205 2215 "tut9/error.ml" 72 2205 2216
+type(
+  bool ref -> bool
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"tut9/error.ml" 72 2205 2216 "tut9/error.ml" 72 2205 2236
+type(
+  bool ref
+)
+ident(
+  ext_ref Globals.suppress_warning_msg
+)
+"tut9/error.ml" 72 2205 2215 "tut9/error.ml" 72 2205 2236
+type(
+  bool
+)
+"tut9/error.ml" 72 2205 2210 "tut9/error.ml" 72 2205 2237
+type(
+  bool
+)
+"tut9/error.ml" 74 2254 2258 "tut9/error.ml" 74 2254 2271
+type(
+  (string -> string -> unit, out_channel, unit) format ->
+  string -> string -> unit
+)
+ident(
+  ext_ref Printf.printf
+)
+"tut9/error.ml" 74 2254 2272 "tut9/error.ml" 74 2254 2292
+type(
+  (string -> string -> unit, out_channel, unit) format
+)
+"tut9/error.ml" 75 2293 2302 "tut9/error.ml" 75 2293 2315
+type(
+  Globals.loc -> string
+)
+ident(
+  ext_ref Globals.string_of_loc
+)
+"tut9/error.ml" 75 2293 2316 "tut9/error.ml" 75 2293 2317
+type(
+  error
+)
+ident(
+  int_ref e "tut9/error.ml" 71 2182 2201 "tut9/error.ml" 71 2182 2202
+)
+"tut9/error.ml" 75 2293 2316 "tut9/error.ml" 75 2293 2327
+type(
+  Globals.loc
+)
+"tut9/error.ml" 75 2293 2301 "tut9/error.ml" 75 2293 2328
+type(
+  string
+)
+"tut9/error.ml" 76 2329 2341 "tut9/error.ml" 76 2329 2342
+type(
+  error
+)
+ident(
+  int_ref e "tut9/error.ml" 71 2182 2201 "tut9/error.ml" 71 2182 2202
+)
+"tut9/error.ml" 76 2329 2341 "tut9/error.ml" 76 2329 2353
+type(
+  string
+)
+"tut9/error.ml" 74 2254 2258 "tut9/error.ml" 76 2329 2353
+type(
+  unit
+)
+"tut9/error.ml" 79 2453 2461 "tut9/error.ml" 79 2453 2466
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"tut9/error.ml" 79 2453 2467 "tut9/error.ml" 79 2453 2473
+type(
+  out_channel
+)
+ident(
+  ext_ref Pervasives.stdout
+)
+"tut9/error.ml" 79 2453 2461 "tut9/error.ml" 79 2453 2474
+type(
+  unit
+)
+"tut9/error.ml" 73 2244 2248 "tut9/error.ml" 83 2573 2580
+type(
+  unit
+)
+"tut9/error.ml" 84 2582 2589 "tut9/error.ml" 84 2582 2591
+type(
+  unit
+)
+"tut9/error.ml" 72 2205 2207 "tut9/error.ml" 84 2582 2591
+type(
+  unit
+)

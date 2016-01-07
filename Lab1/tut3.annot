@@ -1,0 +1,706 @@
+"Lab1/tut3.ml" 13 270 274 "Lab1/tut3.ml" 13 270 278
+type(
+  'a list -> 'a
+)
+ident(
+  def last "Lab1/tut3.ml" 23 452 452 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 13 270 280 "Lab1/tut3.ml" 13 270 282
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/tut3.ml" 13 270 292 "Lab1/tut3.ml" 20 429 449
+)
+"Lab1/tut3.ml" 14 299 308 "Lab1/tut3.ml" 14 299 311
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  def aux "Lab1/tut3.ml" 14 299 300 "Lab1/tut3.ml" 20 429 449
+)
+"Lab1/tut3.ml" 14 299 312 "Lab1/tut3.ml" 14 299 314
+type(
+  'b list
+)
+ident(
+  def xs "Lab1/tut3.ml" 14 299 315 "Lab1/tut3.ml" 17 353 374
+)
+"Lab1/tut3.ml" 14 299 315 "Lab1/tut3.ml" 14 299 319
+type(
+  'b
+)
+ident(
+  def prev "Lab1/tut3.ml" 15 322 324 "Lab1/tut3.ml" 17 353 374
+)
+"Lab1/tut3.ml" 15 322 330 "Lab1/tut3.ml" 15 322 332
+type(
+  'b list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 14 299 312 "Lab1/tut3.ml" 14 299 314
+)
+"Lab1/tut3.ml" 16 338 342 "Lab1/tut3.ml" 16 338 344
+type(
+  'b list
+)
+"Lab1/tut3.ml" 16 338 348 "Lab1/tut3.ml" 16 338 352
+type(
+  'b
+)
+ident(
+  int_ref prev "Lab1/tut3.ml" 14 299 315 "Lab1/tut3.ml" 14 299 319
+)
+"Lab1/tut3.ml" 17 353 357 "Lab1/tut3.ml" 17 353 358
+type(
+  'b
+)
+ident(
+  def x "Lab1/tut3.ml" 17 353 366 "Lab1/tut3.ml" 17 353 374
+)
+"Lab1/tut3.ml" 17 353 360 "Lab1/tut3.ml" 17 353 362
+type(
+  'b list
+)
+ident(
+  def ys "Lab1/tut3.ml" 17 353 366 "Lab1/tut3.ml" 17 353 374
+)
+"Lab1/tut3.ml" 17 353 357 "Lab1/tut3.ml" 17 353 362
+type(
+  'b list
+)
+"Lab1/tut3.ml" 17 353 366 "Lab1/tut3.ml" 17 353 369
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "Lab1/tut3.ml" 14 299 308 "Lab1/tut3.ml" 14 299 311
+)
+"Lab1/tut3.ml" 17 353 370 "Lab1/tut3.ml" 17 353 372
+type(
+  'b list
+)
+ident(
+  int_ref ys "Lab1/tut3.ml" 17 353 360 "Lab1/tut3.ml" 17 353 362
+)
+"Lab1/tut3.ml" 17 353 373 "Lab1/tut3.ml" 17 353 374
+type(
+  'b
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 17 353 357 "Lab1/tut3.ml" 17 353 358
+)
+"Lab1/tut3.ml" 17 353 366 "Lab1/tut3.ml" 17 353 374
+type(
+  'b
+)
+"Lab1/tut3.ml" 15 322 324 "Lab1/tut3.ml" 17 353 374
+type(
+  'b
+)
+"Lab1/tut3.ml" 18 378 385 "Lab1/tut3.ml" 18 378 387
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 13 270 280 "Lab1/tut3.ml" 13 270 282
+)
+"Lab1/tut3.ml" 19 393 396 "Lab1/tut3.ml" 19 393 398
+type(
+  'a list
+)
+"Lab1/tut3.ml" 19 393 402 "Lab1/tut3.ml" 19 393 410
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/tut3.ml" 19 393 411 "Lab1/tut3.ml" 19 393 428
+type(
+  string
+)
+"Lab1/tut3.ml" 19 393 402 "Lab1/tut3.ml" 19 393 428
+type(
+  'a
+)
+"Lab1/tut3.ml" 20 429 432 "Lab1/tut3.ml" 20 429 433
+type(
+  'a
+)
+ident(
+  def x "Lab1/tut3.ml" 20 429 441 "Lab1/tut3.ml" 20 429 449
+)
+"Lab1/tut3.ml" 20 429 435 "Lab1/tut3.ml" 20 429 437
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/tut3.ml" 20 429 441 "Lab1/tut3.ml" 20 429 449
+)
+"Lab1/tut3.ml" 20 429 432 "Lab1/tut3.ml" 20 429 437
+type(
+  'a list
+)
+"Lab1/tut3.ml" 20 429 441 "Lab1/tut3.ml" 20 429 444
+type(
+  'a list -> 'a -> 'a
+)
+ident(
+  int_ref aux "Lab1/tut3.ml" 14 299 308 "Lab1/tut3.ml" 14 299 311
+)
+"Lab1/tut3.ml" 20 429 445 "Lab1/tut3.ml" 20 429 447
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 20 429 435 "Lab1/tut3.ml" 20 429 437
+)
+"Lab1/tut3.ml" 20 429 448 "Lab1/tut3.ml" 20 429 449
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 20 429 432 "Lab1/tut3.ml" 20 429 433
+)
+"Lab1/tut3.ml" 20 429 441 "Lab1/tut3.ml" 20 429 449
+type(
+  'a
+)
+"Lab1/tut3.ml" 18 378 379 "Lab1/tut3.ml" 20 429 449
+type(
+  'a
+)
+"Lab1/tut3.ml" 14 299 300 "Lab1/tut3.ml" 20 429 449
+type(
+  'a
+)
+type(
+  'a
+)
+"Lab1/tut3.ml" 23 452 456 "Lab1/tut3.ml" 23 452 460
+type(
+  'a list -> 'a
+)
+ident(
+  def last "Lab1/tut3.ml" 32 668 668 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 23 452 462 "Lab1/tut3.ml" 23 452 464
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/tut3.ml" 23 452 474 "Lab1/tut3.ml" 30 611 631
+)
+"Lab1/tut3.ml" 24 481 490 "Lab1/tut3.ml" 24 481 493
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  def aux "Lab1/tut3.ml" 24 481 482 "Lab1/tut3.ml" 30 611 631
+)
+"Lab1/tut3.ml" 24 481 494 "Lab1/tut3.ml" 24 481 496
+type(
+  'b list
+)
+ident(
+  def xs "Lab1/tut3.ml" 24 481 497 "Lab1/tut3.ml" 27 535 556
+)
+"Lab1/tut3.ml" 24 481 497 "Lab1/tut3.ml" 24 481 501
+type(
+  'b
+)
+ident(
+  def prev "Lab1/tut3.ml" 25 504 506 "Lab1/tut3.ml" 27 535 556
+)
+"Lab1/tut3.ml" 25 504 512 "Lab1/tut3.ml" 25 504 514
+type(
+  'b list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 24 481 494 "Lab1/tut3.ml" 24 481 496
+)
+"Lab1/tut3.ml" 26 520 524 "Lab1/tut3.ml" 26 520 526
+type(
+  'b list
+)
+"Lab1/tut3.ml" 26 520 530 "Lab1/tut3.ml" 26 520 534
+type(
+  'b
+)
+ident(
+  int_ref prev "Lab1/tut3.ml" 24 481 497 "Lab1/tut3.ml" 24 481 501
+)
+"Lab1/tut3.ml" 27 535 539 "Lab1/tut3.ml" 27 535 540
+type(
+  'b
+)
+ident(
+  def x "Lab1/tut3.ml" 27 535 548 "Lab1/tut3.ml" 27 535 556
+)
+"Lab1/tut3.ml" 27 535 542 "Lab1/tut3.ml" 27 535 544
+type(
+  'b list
+)
+ident(
+  def ys "Lab1/tut3.ml" 27 535 548 "Lab1/tut3.ml" 27 535 556
+)
+"Lab1/tut3.ml" 27 535 539 "Lab1/tut3.ml" 27 535 544
+type(
+  'b list
+)
+"Lab1/tut3.ml" 27 535 548 "Lab1/tut3.ml" 27 535 551
+type(
+  'b list -> 'b -> 'b
+)
+ident(
+  int_ref aux "Lab1/tut3.ml" 24 481 490 "Lab1/tut3.ml" 24 481 493
+)
+"Lab1/tut3.ml" 27 535 552 "Lab1/tut3.ml" 27 535 554
+type(
+  'b list
+)
+ident(
+  int_ref ys "Lab1/tut3.ml" 27 535 542 "Lab1/tut3.ml" 27 535 544
+)
+"Lab1/tut3.ml" 27 535 555 "Lab1/tut3.ml" 27 535 556
+type(
+  'b
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 27 535 539 "Lab1/tut3.ml" 27 535 540
+)
+"Lab1/tut3.ml" 27 535 548 "Lab1/tut3.ml" 27 535 556
+type(
+  'b
+)
+"Lab1/tut3.ml" 25 504 506 "Lab1/tut3.ml" 27 535 556
+type(
+  'b
+)
+"Lab1/tut3.ml" 28 560 567 "Lab1/tut3.ml" 28 560 569
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 23 452 462 "Lab1/tut3.ml" 23 452 464
+)
+"Lab1/tut3.ml" 29 575 578 "Lab1/tut3.ml" 29 575 580
+type(
+  'a list
+)
+"Lab1/tut3.ml" 29 575 584 "Lab1/tut3.ml" 29 575 592
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/tut3.ml" 29 575 593 "Lab1/tut3.ml" 29 575 610
+type(
+  string
+)
+"Lab1/tut3.ml" 29 575 584 "Lab1/tut3.ml" 29 575 610
+type(
+  'a
+)
+"Lab1/tut3.ml" 30 611 614 "Lab1/tut3.ml" 30 611 615
+type(
+  'a
+)
+ident(
+  def x "Lab1/tut3.ml" 30 611 623 "Lab1/tut3.ml" 30 611 631
+)
+"Lab1/tut3.ml" 30 611 617 "Lab1/tut3.ml" 30 611 619
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/tut3.ml" 30 611 623 "Lab1/tut3.ml" 30 611 631
+)
+"Lab1/tut3.ml" 30 611 614 "Lab1/tut3.ml" 30 611 619
+type(
+  'a list
+)
+"Lab1/tut3.ml" 30 611 623 "Lab1/tut3.ml" 30 611 626
+type(
+  'a list -> 'a -> 'a
+)
+ident(
+  int_ref aux "Lab1/tut3.ml" 24 481 490 "Lab1/tut3.ml" 24 481 493
+)
+"Lab1/tut3.ml" 30 611 627 "Lab1/tut3.ml" 30 611 629
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 30 611 617 "Lab1/tut3.ml" 30 611 619
+)
+"Lab1/tut3.ml" 30 611 630 "Lab1/tut3.ml" 30 611 631
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 30 611 614 "Lab1/tut3.ml" 30 611 615
+)
+"Lab1/tut3.ml" 30 611 623 "Lab1/tut3.ml" 30 611 631
+type(
+  'a
+)
+"Lab1/tut3.ml" 28 560 561 "Lab1/tut3.ml" 30 611 631
+type(
+  'a
+)
+"Lab1/tut3.ml" 24 481 482 "Lab1/tut3.ml" 30 611 631
+type(
+  'a
+)
+type(
+  'a
+)
+"Lab1/tut3.ml" 32 668 672 "Lab1/tut3.ml" 32 668 677
+type(
+  'a list -> 'a
+)
+ident(
+  def last2 "Lab1/tut3.ml" 42 872 872 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 32 668 679 "Lab1/tut3.ml" 32 668 681
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/tut3.ml" 32 668 691 "Lab1/tut3.ml" 33 698 748
+)
+"Lab1/tut3.ml" 33 698 699 "Lab1/tut3.ml" 33 698 707
+type(
+  string -> 'a
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/tut3.ml" 33 698 708 "Lab1/tut3.ml" 33 698 748
+type(
+  string
+)
+"Lab1/tut3.ml" 33 698 699 "Lab1/tut3.ml" 33 698 748
+type(
+  'a
+)
+type(
+  'a
+)
+"Lab1/tut3.ml" 42 872 880 "Lab1/tut3.ml" 42 872 886
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  def insert "Lab1/tut3.ml" 42 872 872 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 42 872 887 "Lab1/tut3.ml" 42 872 888
+type(
+  'a
+)
+ident(
+  def x "Lab1/tut3.ml" 42 872 889 "Lab1/tut3.ml" 47 974 1005
+)
+"Lab1/tut3.ml" 42 872 889 "Lab1/tut3.ml" 42 872 891
+type(
+  'a list
+)
+ident(
+  def ys "Lab1/tut3.ml" 43 894 896 "Lab1/tut3.ml" 47 974 1005
+)
+"Lab1/tut3.ml" 43 894 902 "Lab1/tut3.ml" 43 894 904
+type(
+  'a list
+)
+ident(
+  int_ref ys "Lab1/tut3.ml" 42 872 889 "Lab1/tut3.ml" 42 872 891
+)
+"Lab1/tut3.ml" 44 910 916 "Lab1/tut3.ml" 44 910 918
+type(
+  'a list
+)
+"Lab1/tut3.ml" 44 910 923 "Lab1/tut3.ml" 44 910 924
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 42 872 887 "Lab1/tut3.ml" 42 872 888
+)
+"Lab1/tut3.ml" 44 910 922 "Lab1/tut3.ml" 44 910 925
+type(
+  'a list
+)
+"Lab1/tut3.ml" 45 926 932 "Lab1/tut3.ml" 45 926 933
+type(
+  'a
+)
+ident(
+  def y "Lab1/tut3.ml" 46 942 952 "Lab1/tut3.ml" 47 974 1005
+)
+"Lab1/tut3.ml" 45 926 935 "Lab1/tut3.ml" 45 926 937
+type(
+  'a list
+)
+ident(
+  def ys "Lab1/tut3.ml" 46 942 952 "Lab1/tut3.ml" 47 974 1005
+)
+"Lab1/tut3.ml" 45 926 932 "Lab1/tut3.ml" 45 926 937
+type(
+  'a list
+)
+"Lab1/tut3.ml" 46 942 955 "Lab1/tut3.ml" 46 942 956
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 42 872 887 "Lab1/tut3.ml" 42 872 888
+)
+"Lab1/tut3.ml" 46 942 956 "Lab1/tut3.ml" 46 942 958
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Lab1/tut3.ml" 46 942 958 "Lab1/tut3.ml" 46 942 959
+type(
+  'a
+)
+ident(
+  int_ref y "Lab1/tut3.ml" 45 926 932 "Lab1/tut3.ml" 45 926 933
+)
+"Lab1/tut3.ml" 46 942 955 "Lab1/tut3.ml" 46 942 959
+type(
+  bool
+)
+"Lab1/tut3.ml" 46 942 965 "Lab1/tut3.ml" 46 942 966
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 42 872 887 "Lab1/tut3.ml" 42 872 888
+)
+"Lab1/tut3.ml" 46 942 968 "Lab1/tut3.ml" 46 942 969
+type(
+  'a
+)
+ident(
+  int_ref y "Lab1/tut3.ml" 45 926 932 "Lab1/tut3.ml" 45 926 933
+)
+"Lab1/tut3.ml" 46 942 971 "Lab1/tut3.ml" 46 942 973
+type(
+  'a list
+)
+ident(
+  int_ref ys "Lab1/tut3.ml" 45 926 935 "Lab1/tut3.ml" 45 926 937
+)
+"Lab1/tut3.ml" 46 942 968 "Lab1/tut3.ml" 46 942 973
+type(
+  'a list
+)
+"Lab1/tut3.ml" 46 942 965 "Lab1/tut3.ml" 46 942 973
+type(
+  'a list
+)
+"Lab1/tut3.ml" 47 974 989 "Lab1/tut3.ml" 47 974 990
+type(
+  'a
+)
+ident(
+  int_ref y "Lab1/tut3.ml" 45 926 932 "Lab1/tut3.ml" 45 926 933
+)
+"Lab1/tut3.ml" 47 974 993 "Lab1/tut3.ml" 47 974 999
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref insert "Lab1/tut3.ml" 42 872 880 "Lab1/tut3.ml" 42 872 886
+)
+"Lab1/tut3.ml" 47 974 1000 "Lab1/tut3.ml" 47 974 1001
+type(
+  'a
+)
+ident(
+  int_ref x "Lab1/tut3.ml" 42 872 887 "Lab1/tut3.ml" 42 872 888
+)
+"Lab1/tut3.ml" 47 974 1002 "Lab1/tut3.ml" 47 974 1004
+type(
+  'a list
+)
+ident(
+  int_ref ys "Lab1/tut3.ml" 45 926 935 "Lab1/tut3.ml" 45 926 937
+)
+"Lab1/tut3.ml" 47 974 992 "Lab1/tut3.ml" 47 974 1005
+type(
+  'a list
+)
+"Lab1/tut3.ml" 47 974 989 "Lab1/tut3.ml" 47 974 1005
+type(
+  'a list
+)
+"Lab1/tut3.ml" 46 942 952 "Lab1/tut3.ml" 47 974 1005
+type(
+  'a list
+)
+"Lab1/tut3.ml" 43 894 896 "Lab1/tut3.ml" 47 974 1005
+type(
+  'a list
+)
+"Lab1/tut3.ml" 49 1009 1017 "Lab1/tut3.ml" 49 1009 1021
+type(
+  'a list -> 'a list
+)
+ident(
+  def sort "Lab1/tut3.ml" 49 1009 1009 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 49 1009 1022 "Lab1/tut3.ml" 49 1009 1024
+type(
+  'a list
+)
+ident(
+  def xs "Lab1/tut3.ml" 50 1027 1028 "Lab1/tut3.ml" 52 1054 1084
+)
+"Lab1/tut3.ml" 50 1027 1034 "Lab1/tut3.ml" 50 1027 1036
+type(
+  'a list
+)
+ident(
+  int_ref xs "Lab1/tut3.ml" 49 1009 1022 "Lab1/tut3.ml" 49 1009 1024
+)
+"Lab1/tut3.ml" 51 1042 1045 "Lab1/tut3.ml" 51 1042 1047
+type(
+  'a list
+)
+"Lab1/tut3.ml" 51 1042 1051 "Lab1/tut3.ml" 51 1042 1053
+type(
+  'a list
+)
+"Lab1/tut3.ml" 52 1054 1057 "Lab1/tut3.ml" 52 1054 1058
+type(
+  'a
+)
+ident(
+  def y "Lab1/tut3.ml" 52 1054 1066 "Lab1/tut3.ml" 52 1054 1084
+)
+"Lab1/tut3.ml" 52 1054 1060 "Lab1/tut3.ml" 52 1054 1062
+type(
+  'a list
+)
+ident(
+  def ys "Lab1/tut3.ml" 52 1054 1066 "Lab1/tut3.ml" 52 1054 1084
+)
+"Lab1/tut3.ml" 52 1054 1057 "Lab1/tut3.ml" 52 1054 1062
+type(
+  'a list
+)
+"Lab1/tut3.ml" 52 1054 1066 "Lab1/tut3.ml" 52 1054 1072
+type(
+  'a -> 'a list -> 'a list
+)
+ident(
+  int_ref insert "Lab1/tut3.ml" 42 872 880 "Lab1/tut3.ml" 42 872 886
+)
+"Lab1/tut3.ml" 52 1054 1073 "Lab1/tut3.ml" 52 1054 1074
+type(
+  'a
+)
+ident(
+  int_ref y "Lab1/tut3.ml" 52 1054 1057 "Lab1/tut3.ml" 52 1054 1058
+)
+"Lab1/tut3.ml" 52 1054 1076 "Lab1/tut3.ml" 52 1054 1080
+type(
+  'a list -> 'a list
+)
+ident(
+  int_ref sort "Lab1/tut3.ml" 49 1009 1017 "Lab1/tut3.ml" 49 1009 1021
+)
+"Lab1/tut3.ml" 52 1054 1081 "Lab1/tut3.ml" 52 1054 1083
+type(
+  'a list
+)
+ident(
+  int_ref ys "Lab1/tut3.ml" 52 1054 1060 "Lab1/tut3.ml" 52 1054 1062
+)
+"Lab1/tut3.ml" 52 1054 1075 "Lab1/tut3.ml" 52 1054 1084
+type(
+  'a list
+)
+"Lab1/tut3.ml" 52 1054 1066 "Lab1/tut3.ml" 52 1054 1084
+type(
+  'a list
+)
+"Lab1/tut3.ml" 50 1027 1028 "Lab1/tut3.ml" 52 1054 1084
+type(
+  'a list
+)
+"Lab1/tut3.ml" 55 1124 1128 "Lab1/tut3.ml" 55 1124 1135
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def insert2 "Lab1/tut3.ml" 59 1198 1198 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 55 1124 1136 "Lab1/tut3.ml" 55 1124 1137
+type(
+  'a
+)
+ident(
+  def x "Lab1/tut3.ml" 55 1124 1138 "Lab1/tut3.ml" 57 1145 1196
+)
+"Lab1/tut3.ml" 55 1124 1138 "Lab1/tut3.ml" 55 1124 1140
+type(
+  'b
+)
+ident(
+  def ys "Lab1/tut3.ml" 57 1145 1146 "Lab1/tut3.ml" 57 1145 1196
+)
+"Lab1/tut3.ml" 57 1145 1146 "Lab1/tut3.ml" 57 1145 1154
+type(
+  string -> 'c
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/tut3.ml" 57 1145 1155 "Lab1/tut3.ml" 57 1145 1196
+type(
+  string
+)
+"Lab1/tut3.ml" 57 1145 1146 "Lab1/tut3.ml" 57 1145 1196
+type(
+  'c
+)
+"Lab1/tut3.ml" 59 1198 1202 "Lab1/tut3.ml" 59 1198 1207
+type(
+  '_a -> '_b
+)
+ident(
+  def sort2 "Lab1/tut3.ml" 75 1668 1668 "_none_" 1 0 -1
+)
+"Lab1/tut3.ml" 59 1198 1208 "Lab1/tut3.ml" 59 1198 1210
+type(
+  '_a
+)
+ident(
+  def xs "Lab1/tut3.ml" 60 1213 1214 "Lab1/tut3.ml" 64 1332 1352
+)
+"Lab1/tut3.ml" 60 1213 1214 "Lab1/tut3.ml" 60 1213 1222
+type(
+  string -> '_c -> '_d -> '_e -> '_f
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"Lab1/tut3.ml" 60 1213 1223 "Lab1/tut3.ml" 60 1213 1264
+type(
+  string
+)
+"Lab1/tut3.ml" 63 1296 1302 "Lab1/tut3.ml" 63 1296 1303
+type(
+  '_g -> '_g -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
